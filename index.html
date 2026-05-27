@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>iAccess Energy | Datenraum Rechenzentren BW</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
   <style>
     :root {
       --bg: #f6f8f4;
@@ -408,50 +409,56 @@
     }
 
     .germany-map {
-      position: relative;
       min-height: 660px;
       border: 1px solid var(--line);
       border-radius: var(--radius);
-      background:
-        linear-gradient(180deg, rgba(18, 109, 138, .10), transparent 45%),
-        #f8fbf7;
       overflow: hidden;
+      background: #eef4ee;
     }
 
-    .germany-map svg {
-      position: absolute;
-      inset: 28px;
-      width: calc(100% - 56px);
-      height: calc(100% - 56px);
+    .leaflet-container {
+      font-family: var(--font);
+      color: var(--ink);
     }
 
-    .map-point {
-      position: absolute;
-      width: 14px;
-      height: 14px;
+    .dc-marker {
+      width: 16px;
+      height: 16px;
       border-radius: 999px;
       border: 2px solid #fff;
-      box-shadow: 0 2px 10px rgba(16, 42, 46, .28);
-      transform: translate(-50%, -50%);
+      box-shadow: 0 2px 12px rgba(16, 42, 46, .35);
     }
 
-    .map-point[data-type="Hyperscale"], .legend-dot.hyperscale { background: #b9473f; }
-    .map-point[data-type="Colocation"], .legend-dot.colocation { background: #126d8a; }
-    .map-point[data-type="Edge"], .legend-dot.edge { background: #78a22f; }
-    .map-point[data-type="Enterprise"], .legend-dot.enterprise { background: #f2b705; }
-    .map-point[data-type="Forschung"], .legend-dot.forschung { background: #6f5cc2; }
-    .map-point[data-type="in Prüfung"], .legend-dot.pruefung { background: #79837f; }
+    .dc-marker.hyperscale, .legend-dot.hyperscale { background: #b9473f; }
+    .dc-marker.colocation, .legend-dot.colocation { background: #126d8a; }
+    .dc-marker.edge, .legend-dot.edge { background: #78a22f; }
+    .dc-marker.enterprise, .legend-dot.enterprise { background: #f2b705; }
+    .dc-marker.forschung, .legend-dot.forschung { background: #6f5cc2; }
+    .dc-marker.pruefung, .legend-dot.pruefung { background: #79837f; }
 
-    .map-label {
-      position: absolute;
-      transform: translate(9px, -50%);
-      font-size: 11px;
-      background: rgba(255,255,255,.92);
+    .map-table {
+      display: grid;
+      gap: 8px;
+      margin-top: 14px;
+      max-height: 360px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .map-row {
       border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 3px 7px;
-      white-space: nowrap;
-      color: #33413d;
+      border-radius: var(--radius);
+      background: #fff;
+      padding: 10px;
+      display: grid;
+      gap: 4px;
+      font-size: 13px;
+      text-align: left;
+      min-height: auto;
+    }
+
+    .map-row strong {
+      font-size: 14px;
     }
 
     .legend {
@@ -688,6 +695,7 @@
     </form>
   </dialog>
 
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script>
     const STORAGE_KEY = "iaccess-dc-datenraum-v2";
     const today = new Date().toISOString().slice(0, 10);
@@ -1407,6 +1415,33 @@
     let data = loadData();
     let activeSection = "dashboard";
     let editContext = null;
+    let leafletMap = null;
+    let leafletLayer = null;
+
+    const germanyMapPoints = [
+      { name: "AtlasEdge NB8 Stuttgart", city: "Stuttgart", type: "Colocation", lat: 48.7784, lon: 9.1800, note: "Neue Brücke 8, Stuttgart" },
+      { name: "AtlasEdge / Kyndryl Stuttgart-Vaihingen", city: "Stuttgart-Vaihingen", type: "Colocation", lat: 48.7296, lon: 9.1116, note: "Schockenriedstraße / Gropiusplatz, Vaihingen" },
+      { name: "nLighten Stuttgart STR1", city: "Stuttgart", type: "Edge", lat: 48.7218, lon: 9.1070, note: "Breitwiesenstraße, Stuttgart" },
+      { name: "Stuttgart Zettachring Cluster", city: "Stuttgart", type: "Colocation", lat: 48.7144, lon: 9.1457, note: "Zettachring, Stuttgart" },
+      { name: "AtlasEdge STR001 Böblingen", city: "Böblingen", type: "Colocation", lat: 48.6841, lon: 9.0112, note: "Schickardstraße, Böblingen" },
+      { name: "Telemaxx IPC 3/4", city: "Karlsruhe-Durlach", type: "Colocation", lat: 49.0057, lon: 8.4721, note: "Durlach, Karlsruhe" },
+      { name: "ILK Albert-Nestler Data Center", city: "Karlsruhe-Neureut", type: "Colocation", lat: 49.0512, lon: 8.3831, note: "Neureut, Karlsruhe" },
+      { name: "KIT Scientific Computing Center", city: "Karlsruhe", type: "Forschung", lat: 49.0094, lon: 8.4116, note: "KIT Campus Süd" },
+      { name: "EXA Edge DC Kehl", city: "Kehl", type: "Edge", lat: 48.5725, lon: 7.8166, note: "Hafenstraße, Kehl" },
+      { name: "Reutlingen Data Centers", city: "Reutlingen", type: "Edge", lat: 48.5069, lon: 9.2038, note: "Nepustil / Pronexon, Reutlingen" },
+      { name: "SeeConnect Rechenzentrum Konstanz", city: "Konstanz", type: "Edge", lat: 47.6779, lon: 9.1732, note: "Max-Stromeyer-Straße, Konstanz" },
+      { name: "MHG01 Mannheim", city: "Mannheim", type: "Enterprise", lat: 49.4634, lon: 8.4770, note: "Hans-Thoma-Straße, Mannheim" },
+      { name: "STACKIT Ellhofen DC08", city: "Ellhofen", type: "Enterprise", lat: 49.1467, lon: 9.3212, note: "Schwarz Gruppe / STACKIT" },
+      { name: "Nepustil Tübingen", city: "Tübingen", type: "Edge", lat: 48.5289, lon: 9.0670, note: "Brückenstraße, Tübingen" },
+      { name: "SWU TeleNet Ulm", city: "Ulm", type: "Edge", lat: 48.4011, lon: 9.9876, note: "Stadtwerk-Rechenzentrum Ulm" },
+      { name: "Nextspace Heidelberg", city: "Heidelberg", type: "Colocation", lat: 49.4145, lon: 8.6849, note: "George-Boole-Weg, Heidelberg" },
+      { name: "SAP WDF51", city: "Walldorf", type: "Enterprise", lat: 49.2930, lon: 8.6413, note: "Hasso-Plattner-Ring, Walldorf" },
+      { name: "Frankfurt Data Center Cluster", city: "Frankfurt am Main", type: "Colocation", lat: 50.1109, lon: 8.6821, note: "größter deutscher Colocation-Markt" },
+      { name: "NTT Frankfurt 6 / Nierstein", city: "Nierstein", type: "Hyperscale", lat: 49.8706, lon: 8.3362, note: "geplanter 482-MW-Campus, heise.de" },
+      { name: "Microsoft Azure Rheinisches Revier", city: "Bergheim", type: "Hyperscale", lat: 50.9543, lon: 6.6393, note: "geplanter 520-MW-Cluster, heise.de" },
+      { name: "Schwarz Digits Lübbenau", city: "Lübbenau/Spreewald", type: "Hyperscale", lat: 51.8667, lon: 13.9667, note: "geplantes 200-MW-KI-Rechenzentrum, heise.de" },
+      { name: "Telekom/T-Systems Tucherpark", city: "München", type: "Forschung", lat: 48.1516, lon: 11.5981, note: "KI-Rechenzentrum München, heise.de" }
+    ];
 
     function loadData() {
       const raw = localStorage.getItem(STORAGE_KEY);
@@ -1588,23 +1623,11 @@
     }
 
     function renderGermanyMap() {
-      const points = [
-        { name: "Stuttgart Cluster", city: "Stuttgart", type: "Colocation", x: 54, y: 75, note: "AtlasEdge, nLighten, euNetworks" },
-        { name: "Karlsruhe", city: "Karlsruhe", type: "Colocation", x: 46, y: 75, note: "Telemaxx, ILK, KIT" },
-        { name: "Mannheim / Heidelberg", city: "Rhein-Neckar", type: "Enterprise", x: 49, y: 68, note: "MTI/GLH, Nextspace" },
-        { name: "Ulm", city: "Ulm", type: "Edge", x: 62, y: 80, note: "SWU TeleNet" },
-        { name: "Konstanz", city: "Konstanz", type: "Edge", x: 55, y: 90, note: "SeeConnect" },
-        { name: "Frankfurt", city: "Frankfurt", type: "Colocation", x: 51, y: 58, note: "Großes deutsches RZ-Cluster" },
-        { name: "Nierstein", city: "Nierstein", type: "Hyperscale", x: 49, y: 62, note: "NTT Frankfurt 6, 482 MW" },
-        { name: "Bergheim/NRW", city: "Rheinisches Revier", type: "Hyperscale", x: 37, y: 47, note: "Microsoft Azure, 520 MW" },
-        { name: "Lübbenau", city: "Lübbenau", type: "Hyperscale", x: 75, y: 43, note: "Schwarz Digits, 200 MW" },
-        { name: "München", city: "München", type: "Forschung", x: 63, y: 86, note: "Telekom/T-Systems KI-RZ" }
-      ];
       document.getElementById("germanyMap").innerHTML = `
         <div class="map-layout">
           <div class="card section">
             <h3>Farblegende</h3>
-            <p class="small">Die Karte nutzt bewusst eine abstrahierte Deutschland-Silhouette. Punkte sind Näherungen für die bereits aufgenommenen Standorte und Heise-Projekte; für belastbare GIS-Auswertung später Koordinaten hinterlegen.</p>
+            <p class="small">Interaktive OpenStreetMap-Karte mit Koordinaten auf Stadt-, Adress- oder Projektgebietsebene. Exakte Grundstücksgrenzen sind nur dort belastbar, wo sie öffentlich dokumentiert wurden.</p>
             <div class="legend">
               <span><i class="legend-dot hyperscale"></i>Hyperscale / KI</span>
               <span><i class="legend-dot colocation"></i>Colocation</span>
@@ -1612,18 +1635,65 @@
               <span><i class="legend-dot enterprise"></i>Enterprise</span>
               <span><i class="legend-dot forschung"></i>Forschung / HPC</span>
             </div>
-            <div class="timeline" style="margin-top:14px">
-              ${points.map(p => `<div><strong>${escapeHtml(p.name)}</strong>: ${escapeHtml(p.note)}</div>`).join("")}
+            <div class="map-table">
+              ${germanyMapPoints.map(p => `<button class="map-row" data-map-focus="${escapeHtml(p.name)}"><strong>${escapeHtml(p.name)}</strong><span>${escapeHtml(p.city)} · ${escapeHtml(p.type)}</span><span class="small">${escapeHtml(p.note)}</span></button>`).join("")}
             </div>
           </div>
-          <div class="germany-map" aria-label="Deutschland-Karte mit Rechenzentrumspunkten">
-            <svg viewBox="0 0 420 620" aria-hidden="true">
-              <path d="M207 18 164 38 135 82 88 104 70 155 96 198 76 248 102 286 84 331 119 375 113 421 150 460 164 514 204 594 248 547 288 537 306 492 345 462 332 410 362 371 334 323 358 278 324 236 337 190 294 156 286 105 248 86 236 42Z" fill="#e6efe3" stroke="#9db99a" stroke-width="3"/>
-            </svg>
-            ${points.map(p => `<span class="map-point" data-type="${escapeHtml(p.type)}" style="left:${p.x}%;top:${p.y}%" title="${escapeHtml(p.name + " - " + p.note)}"></span><span class="map-label" style="left:${p.x}%;top:${p.y}%">${escapeHtml(p.name)}</span>`).join("")}
-          </div>
+          <div id="germanyLeafletMap" class="germany-map" aria-label="Interaktive Deutschlandkarte mit Rechenzentrumspunkten"></div>
         </div>
       `;
+      if (activeSection === "germanyMap") {
+        window.setTimeout(initGermanyLeafletMap, 0);
+      }
+    }
+
+    function initGermanyLeafletMap() {
+      const mapEl = document.getElementById("germanyLeafletMap");
+      if (!mapEl || typeof L === "undefined") {
+        if (mapEl) {
+          mapEl.innerHTML = `<div style="height:100%;display:grid;place-items:center;padding:24px;text-align:center;color:#5e6b66">Kartenbibliothek konnte nicht geladen werden. Bitte Internetverbindung prüfen.</div>`;
+        }
+        return;
+      }
+      if (leafletMap) {
+        leafletMap.remove();
+      }
+      leafletMap = L.map(mapEl, {
+        scrollWheelZoom: true,
+        zoomControl: true
+      }).setView([50.55, 9.85], 6);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        maxZoom: 18,
+        attribution: "&copy; OpenStreetMap-Mitwirkende"
+      }).addTo(leafletMap);
+      leafletLayer = L.featureGroup().addTo(leafletMap);
+      germanyMapPoints.forEach(point => {
+        const marker = L.marker([point.lat, point.lon], {
+          icon: L.divIcon({
+            className: "",
+            html: `<span class="dc-marker ${markerClass(point.type)}"></span>`,
+            iconSize: [16, 16],
+            iconAnchor: [8, 8]
+          }),
+          title: point.name
+        }).bindPopup(`<strong>${escapeHtml(point.name)}</strong><br>${escapeHtml(point.city)}<br><span>${escapeHtml(point.type)}</span><br>${escapeHtml(point.note)}`);
+        marker.addTo(leafletLayer);
+        point.marker = marker;
+      });
+      leafletMap.fitBounds(leafletLayer.getBounds().pad(0.12));
+      document.querySelectorAll("[data-map-focus]").forEach(button => {
+        button.addEventListener("click", () => {
+          const point = germanyMapPoints.find(p => p.name === button.dataset.mapFocus);
+          if (point?.marker) {
+            leafletMap.setView([point.lat, point.lon], 11);
+            point.marker.openPopup();
+          }
+        });
+      });
+    }
+
+    function markerClass(type) {
+      return String(type || "pruefung").toLowerCase().replace("ü", "ue").replace(/\s+/g, "-");
     }
 
     function renderCollection(key, addLabel, columns) {
