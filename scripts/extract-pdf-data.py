@@ -13,6 +13,11 @@ PDF_DIR.mkdir(exist_ok=True)
 
 PDFS = [
     {
+        "municipality": "Ahrensfelde",
+        "title": "Planzeichnung B-Plan Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/NTY5MzdiYjJmM2Q2MmM3YzF0T1E4TFpNZG9mRUd2SFk1L05KUnZLZ1hUKzlNang2amJKNGVIUEgvYTdIZGpldkxIVWpNZ1FqMWczcVd0cE1vWTF1WDJCS1c4dkl3eU1mOW5NMmVOYytucks4ZUU3WGMraUxMbGVGTS9EaDAwc09EWDRoMW1ReFpjNGR5SW44dlRMWU1CakNCYjNrdU5FM2cwNHFFVzBBNkY3Qit3RXdzbjY2UkVPYmRBbz0",
+    },
+    {
         "municipality": "Wustermark",
         "title": "Begründung Bebauungsplan W 49 Rechenzentrum 1 Wustermark Nordwest",
         "url": "https://www.wustermark.de/PDF/W_49_Rechenzentrum_1_Wustermark_Nordwest_Begr%C3%BCndung.PDF?Ext=PDF&ObjID=583&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1743673153",
@@ -31,6 +36,46 @@ PDFS = [
         "municipality": "Ahrensfelde",
         "title": "Begründung Bebauungsplan Rechenzentrum Eiche",
         "url": "https://www.ahrensfelde.de/downloads/datei/NDEyYTJlMTI2ZjI3MWM5NlM4UnNyMXlZNUtSSDFkVjVYQkZOQzZRM2tVQ1drTm1GRENaSVp5Q01FVzFZRFh3bDkvMS9hemtqY1Jib2pYaWU1ZkFFTFFuZDdSczBPeW1KVjV3eGRSUGxZNEdOQWhWSi9YMUsyN2Y1TUlwcFlmTk9wTEtoZ2ZTbFFud0RJb0U2LzB3bU1FZXVCU3pUOGE2RWZ3T1hnVk1QMXlia0wvbjgrZDJUZVpKWGlFWT0",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Umweltbericht B-Plan Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/MjkzOGFjZjVkNzQzZWYxZmRvTzZlbkZ3cFNuT1loeG5udXVHQXgrUzIrQ285VVhEaGpnM0ZSYzZBcWtiNWdLKzhQaUwrcE05dVZ0cEdRSSsvSFZUd1dEbUU0NFUwVjYxUzJhK3hTOE4xdDRGOWw3V3hIaTVCLzBGbmh3RnFMTG9Wc1I4Uit2WUk4WWhxbXkwcllxRW9RdzF6Vy9TTGxUWlF3cjB0QT09",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Artenschutzpotentialanalyse Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/MTBmODhkMzIyNTAyNzEzM3E1WE1odnpBWXU4VjVWWTZVK1ZhSWN0UjdrclRDVnQ5Z0c0RDVBY2dLTjhQNE4ra3hxQ1BOZFlNZmtoVUZxaFZ3TDNyUllzTFJhbGhxeVE4emlHNmtnVEtDTDNJT3Rud2NIdHJEcWdMazJ5OUxIVFhhQ2l3Z3UrRld6b0ZUMWlKWlIxMkRXbTQ1c2R3bWFVQlhabU1GQT09",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Regenwasserkonzept Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/YTViMjQyZjdhNzg3ZDFjZVp3Z2UxM3hLcURNRnEyd2Vkb0M5VjgrUkI4aGExN2F0MjF1ZlgzVUFpSHJhczdvMGsxTy82MU1yRTdPVVRWSm1ZVnA2QjRHaVplSUJxL0padnZKdHFsTENYVjEwait6VjJHOWZOMktGamJnd3pVRTY0eHRMNmRweVJqRU5iWk1R",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Verkehrsuntersuchung Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/OTE3ZmMyMGVlYzk1NzM5M3NGT25YVy9EeURtOXVvU1NOU1AwWndqR1k0SU43VFRNRk0vUE14OTRrR3Y2bUFSVWs4RTRwdVpEVWY4b2VDemlZOEpHVE80c0hJZzFGdm1Dem5vT0JBSTVpSVhnSFNoYlJkckt0Y0hKVGM5SEdtSUlrMmVKUms3dXBKeUVCcnRBOFAwb04wWS8wWU50Z2dXVzVYV2JtdnlRdk55VGw4YlcwYUhDNVg2TnVLZz0",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Schalltechnische Untersuchung Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/ZGE1MDg3NGVlMWZiZTg0MFdaVWJpTC9JTFl4Z0lHWGRDQjF5MGlNWmJwLzZFdVY3NEFxRWZRNXg1blR2OE9BeXVVeE5PMHJ5WWw3Yjh3dFd5VmlkNUlhV1c5aW5aVXVaREpqNHd5WXh0SWI3S0FTWjN2em9oRlAvdE94Zy94R2pLSUg2QkpMek9sTE11cmxsN3h2aEdJZGI0aHRycGZmd2FCc1plOXB3b243b2RNRHJhU1M2dGRvMk1UWT0",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Geotechnischer Bericht Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/MDljMGI4ZDNjODdkZjdlZUtzRnIvRENZRW56MmVyTjZLUVdPTWdLdmtmRXlVM2ZQZFBGY3NZelhzdVdSaGVkSzVjRVFyVmltVENLSmN6ei9WZG16ZjMyYUs4d2RCaEthWHB6QUl5WnFzbWZsdm9yd0VtdjRkdlZZTGxGY0YwSUxaczJIMUEydVRmcU9LWEQ5R1N3Qk9RcHA5S3NDaEo0WjcyT1NJUT09",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Altlastengutachten Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/NzZlMjBhOTQ3ZTMzY2YwMm9YVFZsMmFKMXQwT3Q3NUpKWERaYzA1dGhlNjBkNVREaUZGTk9peXAySjVmNVhBKzREMUlvTUhQNWd4eWMxS0lJeUxmcmlBWkdmblRSSnYrOXNqbW1MajNhOHFNeWhXMUFpdkFSUEpQdHZMVlJkYWVLcnoydXY3dVhhdGxORUQxUTZXQTgyNUMrcXhuaVNoY1JldmVwZz09",
+    },
+    {
+        "municipality": "Ahrensfelde",
+        "title": "Abwärmenutzung Rechenzentrum Eiche",
+        "url": "https://www.ahrensfelde.de/downloads/datei/ODAwOTY2MDFiY2VhNmQ4OHpoTS9ZSTQxQUxvakJtTmxEN1dkVURPdHZwRHQ2Vmh4NXo3blZXLzF4YlNROHRydVQrMFlhUTBFNWpLWmM0R0hhWU01R09DdmZ2MlN4RTRxdkFRNXlKbnR3RWx6MkVDelRrVmNHMjZZd1YyT2kvSTJ0ZEx6djJ6c3U2NE9WWVVub3NDYWV6SCtDKzcrSENRNSs5WStNZz09",
     },
     {
         "municipality": "Babenhausen",
