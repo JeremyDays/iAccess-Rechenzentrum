@@ -413,7 +413,7 @@
       border: 1px solid var(--line);
       border-radius: var(--radius);
       overflow: hidden;
-      background: #eef4ee;
+      background: #f7faf4;
       box-shadow: 0 18px 46px rgba(26, 55, 49, .18);
     }
 
@@ -1421,6 +1421,32 @@
       "in Prüfung": "#79837f"
     };
 
+    const germanyOutline = [
+      [54.85, 8.55], [54.72, 9.15], [54.92, 9.95], [54.78, 10.85], [54.47, 11.25],
+      [54.55, 12.25], [54.18, 12.95], [54.55, 13.55], [54.25, 14.20], [53.72, 14.35],
+      [53.18, 14.25], [52.65, 14.62], [52.15, 14.72], [51.72, 14.95], [51.28, 14.78],
+      [50.82, 14.90], [50.58, 14.35], [50.28, 13.70], [50.02, 12.95], [49.62, 12.55],
+      [49.38, 12.10], [49.02, 12.48], [48.78, 13.35], [48.58, 13.78], [48.26, 13.42],
+      [47.72, 12.88], [47.55, 12.08], [47.52, 11.10], [47.62, 10.15], [47.57, 9.55],
+      [47.68, 8.78], [47.58, 7.68], [47.88, 7.52], [48.38, 7.76], [48.96, 7.58],
+      [49.30, 6.73], [49.52, 6.36], [49.92, 6.17], [50.28, 6.02], [50.78, 6.12],
+      [51.06, 6.08], [51.46, 6.38], [51.86, 6.72], [52.22, 7.02], [52.72, 7.08],
+      [53.18, 7.20], [53.58, 7.66], [53.88, 8.22], [54.30, 8.08], [54.85, 8.55]
+    ];
+
+    const germanRegions = [
+      [[47.65, 7.55], [48.25, 8.20], [48.65, 9.25], [48.48, 10.15], [47.82, 9.78], [47.58, 8.75]],
+      [[48.75, 9.92], [49.10, 11.02], [49.35, 12.20], [48.72, 13.22], [47.75, 12.58], [47.62, 10.18]],
+      [[49.35, 6.55], [49.78, 7.50], [49.92, 8.58], [49.35, 9.05], [49.02, 8.12]],
+      [[50.02, 6.12], [50.98, 6.30], [51.82, 7.20], [51.45, 8.55], [50.65, 8.55], [50.05, 7.55]],
+      [[51.55, 6.55], [52.02, 7.85], [52.35, 9.75], [51.62, 10.10], [51.02, 8.70], [51.10, 7.05]],
+      [[52.05, 7.05], [53.05, 7.35], [53.72, 8.80], [53.32, 10.15], [52.38, 9.92]],
+      [[53.72, 8.55], [54.75, 8.75], [54.78, 10.90], [54.18, 11.25], [53.58, 10.20]],
+      [[52.25, 10.15], [53.28, 10.10], [53.82, 11.62], [53.42, 13.28], [52.58, 13.05], [52.10, 11.35]],
+      [[51.45, 10.02], [52.08, 11.48], [52.58, 13.10], [51.72, 14.78], [51.08, 13.65], [50.80, 11.88]],
+      [[50.18, 9.45], [50.95, 10.12], [51.08, 11.70], [50.28, 12.28], [49.75, 11.35], [49.62, 10.12]]
+    ];
+
     const germanyMapPoints = [
       { name: "AtlasEdge NB8 Stuttgart", city: "Stuttgart", type: "Colocation", lat: 48.7784, lon: 9.1800, note: "Neue Brücke 8, Stuttgart" },
       { name: "AtlasEdge / Kyndryl Stuttgart-Vaihingen", city: "Stuttgart-Vaihingen", type: "Colocation", lat: 48.7296, lon: 9.1116, note: "Schockenriedstraße / Gropiusplatz, Vaihingen" },
@@ -1630,7 +1656,7 @@
         <div class="map-layout">
           <div class="card section">
             <h3>Farblegende</h3>
-            <p class="small">Interaktive OpenStreetMap-Karte mit Koordinaten auf Stadt-, Adress- oder Projektgebietsebene. Exakte Grundstücksgrenzen sind nur dort belastbar, wo sie öffentlich dokumentiert wurden.</p>
+            <p class="small">Interaktive Deutschlandkarte mit Koordinaten auf Stadt-, Adress- oder Projektgebietsebene. Exakte Grundstücksgrenzen sind nur dort belastbar, wo sie öffentlich dokumentiert wurden.</p>
             <div class="legend">
               <span><i class="legend-dot hyperscale"></i>Hyperscale / KI</span>
               <span><i class="legend-dot colocation"></i>Colocation</span>
@@ -1666,11 +1692,28 @@
         zoomControl: true,
         maxBounds: germanyBounds,
         maxBoundsViscosity: .9,
-        minZoom: 6
+        minZoom: 6,
+        attributionControl: false
       }).setView([50.55, 9.85], 6);
-      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-        maxZoom: 18,
-        attribution: "&copy; OpenStreetMap-Mitwirkende"
+      L.rectangle(germanyBounds, {
+        color: "transparent",
+        fillColor: "#f7faf4",
+        fillOpacity: 1,
+        interactive: false
+      }).addTo(leafletMap);
+      L.polygon(germanRegions, {
+        color: "#cddbc7",
+        weight: 1,
+        fillColor: "#eef5ea",
+        fillOpacity: .38,
+        interactive: false
+      }).addTo(leafletMap);
+      L.polygon(germanyOutline, {
+        color: "#7f9d79",
+        weight: 2,
+        fillColor: "#e3eedf",
+        fillOpacity: .78,
+        interactive: false
       }).addTo(leafletMap);
       leafletLayer = L.featureGroup().addTo(leafletMap);
       germanyMapPoints.forEach(point => {
