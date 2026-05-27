@@ -1,0 +1,2026 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>iAccess Energy | Datenraum Rechenzentren BW</title>
+  <style>
+    :root {
+      --bg: #f6f8f4;
+      --surface: #ffffff;
+      --surface-2: #eef4ee;
+      --ink: #1f2a2f;
+      --muted: #64716d;
+      --line: #dce5dc;
+      --green: #78a22f;
+      --green-dark: #4f7f22;
+      --blue: #126d8a;
+      --blue-dark: #0f4d61;
+      --sun: #f2b705;
+      --danger: #b9473f;
+      --shadow: 0 16px 45px rgba(25, 54, 46, .10);
+      --radius: 8px;
+      --font: Arial, Helvetica, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: var(--font);
+      color: var(--ink);
+      background:
+        linear-gradient(135deg, rgba(120, 162, 47, .10), transparent 34%),
+        linear-gradient(315deg, rgba(18, 109, 138, .11), transparent 32%),
+        var(--bg);
+    }
+
+    button, input, textarea, select { font: inherit; }
+
+    button {
+      border: 0;
+      cursor: pointer;
+      border-radius: 6px;
+      min-height: 38px;
+      padding: 0 14px;
+      color: var(--ink);
+      background: var(--surface-2);
+    }
+
+    button:hover { filter: brightness(.98); }
+
+    .app {
+      min-height: 100vh;
+      display: grid;
+      grid-template-columns: 284px 1fr;
+    }
+
+    aside {
+      background: #fff;
+      border-right: 1px solid var(--line);
+      padding: 22px 18px;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow: auto;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 26px;
+    }
+
+    .brand-logo {
+      width: 184px;
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 19px;
+      letter-spacing: 0;
+      line-height: 1.05;
+    }
+
+    .brand p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    nav {
+      display: grid;
+      gap: 7px;
+    }
+
+    .nav-btn {
+      text-align: left;
+      display: flex;
+      align-items: center;
+      gap: 9px;
+      width: 100%;
+      background: transparent;
+      color: #31413c;
+    }
+
+    .nav-btn.active {
+      background: #eaf2e7;
+      color: var(--green-dark);
+      box-shadow: inset 3px 0 0 var(--green);
+    }
+
+    .nav-icon { width: 22px; text-align: center; color: var(--blue); }
+
+    .side-box {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      margin-top: 22px;
+      background: #fbfcfa;
+    }
+
+    .side-box strong { display: block; font-size: 13px; margin-bottom: 8px; }
+    .side-box p { margin: 0; color: var(--muted); font-size: 12px; line-height: 1.45; }
+
+    main {
+      padding: 26px;
+      overflow: hidden;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      margin-bottom: 22px;
+    }
+
+    .eyebrow {
+      color: var(--green-dark);
+      font-weight: 700;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin: 0 0 7px;
+    }
+
+    .topbar h2 {
+      margin: 0;
+      font-size: clamp(26px, 4vw, 42px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+
+    .topbar p {
+      margin: 9px 0 0;
+      max-width: 830px;
+      color: var(--muted);
+      line-height: 1.55;
+    }
+
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .primary {
+      background: var(--green);
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .secondary {
+      background: var(--blue);
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .ghost {
+      border: 1px solid var(--line);
+      background: #fff;
+    }
+
+    .danger {
+      background: #f7e8e6;
+      color: var(--danger);
+    }
+
+    .grid {
+      display: grid;
+      gap: 16px;
+    }
+
+    .kpis {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      margin-bottom: 18px;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
+
+    .kpi {
+      padding: 18px;
+      min-height: 116px;
+      display: grid;
+      align-content: space-between;
+    }
+
+    .kpi small {
+      color: var(--muted);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+
+    .kpi b {
+      font-size: 34px;
+      line-height: 1;
+      color: var(--blue-dark);
+    }
+
+    .kpi span {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .two-col {
+      grid-template-columns: minmax(0, 1.15fr) minmax(320px, .85fr);
+    }
+
+    .section {
+      padding: 18px;
+    }
+
+    .section h3 {
+      margin: 0 0 12px;
+      font-size: 18px;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+    }
+
+    .filters {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      flex: 1;
+    }
+
+    .input, select, textarea {
+      width: 100%;
+      border: 1px solid var(--line);
+      background: #fff;
+      border-radius: 6px;
+      min-height: 38px;
+      padding: 9px 11px;
+      color: var(--ink);
+    }
+
+    textarea { min-height: 92px; resize: vertical; }
+
+    .search { max-width: 360px; }
+
+    .table-wrap {
+      overflow: auto;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      min-width: 860px;
+    }
+
+    th, td {
+      padding: 12px;
+      text-align: left;
+      border-bottom: 1px solid var(--line);
+      vertical-align: top;
+      font-size: 14px;
+    }
+
+    th {
+      background: #f3f7f1;
+      color: #42504b;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      position: sticky;
+      top: 0;
+    }
+
+    tr:last-child td { border-bottom: 0; }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      border-radius: 999px;
+      padding: 5px 9px;
+      background: #eaf2e7;
+      color: var(--green-dark);
+      font-size: 12px;
+      font-weight: 700;
+      margin: 2px 4px 2px 0;
+      white-space: nowrap;
+    }
+
+    .pill.blue { background: #e6f1f5; color: var(--blue-dark); }
+    .pill.sun { background: #fff4cf; color: #7b6100; }
+    .pill.red { background: #f7e8e6; color: var(--danger); }
+
+    .list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .finding, .quick-link {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 13px;
+      background: #fff;
+    }
+
+    .finding h4, .quick-link h4 {
+      margin: 0 0 6px;
+      font-size: 15px;
+    }
+
+    .finding p, .quick-link p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .finding a {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .research-summary {
+      border: 1px solid #cfe0cb;
+      background: #f2f8ef;
+      padding: 12px 14px;
+      border-radius: var(--radius);
+      margin-bottom: 12px;
+      color: #33433a;
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .media-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+
+    .media-card {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: #fff;
+      overflow: hidden;
+      display: grid;
+    }
+
+    .media-card img {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      background: #eef4ee;
+      display: block;
+    }
+
+    .media-card .media-body {
+      padding: 13px;
+      display: grid;
+      gap: 7px;
+    }
+
+    .media-card h4 { margin: 0; font-size: 15px; }
+    .media-card p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.45; }
+
+    .map-layout {
+      display: grid;
+      grid-template-columns: minmax(280px, .85fr) minmax(0, 1fr);
+      gap: 16px;
+      align-items: stretch;
+    }
+
+    .germany-map {
+      position: relative;
+      min-height: 660px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(180deg, rgba(18, 109, 138, .10), transparent 45%),
+        #f8fbf7;
+      overflow: hidden;
+    }
+
+    .germany-map svg {
+      position: absolute;
+      inset: 28px;
+      width: calc(100% - 56px);
+      height: calc(100% - 56px);
+    }
+
+    .map-point {
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      border-radius: 999px;
+      border: 2px solid #fff;
+      box-shadow: 0 2px 10px rgba(16, 42, 46, .28);
+      transform: translate(-50%, -50%);
+    }
+
+    .map-point[data-type="Hyperscale"], .legend-dot.hyperscale { background: #b9473f; }
+    .map-point[data-type="Colocation"], .legend-dot.colocation { background: #126d8a; }
+    .map-point[data-type="Edge"], .legend-dot.edge { background: #78a22f; }
+    .map-point[data-type="Enterprise"], .legend-dot.enterprise { background: #f2b705; }
+    .map-point[data-type="Forschung"], .legend-dot.forschung { background: #6f5cc2; }
+    .map-point[data-type="in Prüfung"], .legend-dot.pruefung { background: #79837f; }
+
+    .map-label {
+      position: absolute;
+      transform: translate(9px, -50%);
+      font-size: 11px;
+      background: rgba(255,255,255,.92);
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 3px 7px;
+      white-space: nowrap;
+      color: #33413d;
+    }
+
+    .legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 999px;
+      display: inline-block;
+    }
+
+    .quick-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .view { display: none; }
+    .view.active { display: block; }
+
+    .form-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .form-grid .wide { grid-column: 1 / -1; }
+
+    label {
+      display: grid;
+      gap: 6px;
+      color: #3a4742;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    dialog {
+      border: 0;
+      border-radius: 10px;
+      padding: 0;
+      max-width: 860px;
+      width: min(92vw, 860px);
+      box-shadow: 0 28px 90px rgba(24, 46, 38, .28);
+    }
+
+    dialog::backdrop { background: rgba(12, 24, 28, .45); }
+
+    .modal-head, .modal-foot {
+      padding: 16px 18px;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .modal-head h3 { margin: 0; }
+    .modal-body { padding: 18px; }
+    .modal-foot {
+      border-bottom: 0;
+      border-top: 1px solid var(--line);
+      justify-content: flex-end;
+    }
+
+    .research-panel {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 340px;
+      gap: 16px;
+    }
+
+    .source-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .source {
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      background: #fff;
+    }
+
+    .source h4 { margin: 0 0 8px; }
+    .source p { margin: 0; color: var(--muted); line-height: 1.45; font-size: 13px; }
+
+    .meter {
+      height: 9px;
+      background: #e8eee8;
+      border-radius: 999px;
+      overflow: hidden;
+      margin: 10px 0;
+    }
+
+    .meter span {
+      display: block;
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(90deg, var(--green), var(--blue));
+      transition: width .45s ease;
+    }
+
+    .timeline {
+      display: grid;
+      gap: 8px;
+    }
+
+    .timeline div {
+      border-left: 3px solid var(--green);
+      padding: 5px 0 5px 10px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .empty {
+      padding: 22px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .small { font-size: 12px; color: var(--muted); }
+
+    a { color: var(--blue-dark); }
+
+    @media (max-width: 1050px) {
+      .app { grid-template-columns: 1fr; }
+      aside {
+        position: relative;
+        height: auto;
+      }
+      nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .kpis, .two-col, .research-panel, .map-layout { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 720px) {
+      main { padding: 18px; }
+      .topbar { display: grid; }
+      .actions { justify-content: flex-start; }
+      .form-grid, .source-grid, .quick-grid { grid-template-columns: 1fr; }
+      .germany-map { min-height: 540px; }
+      nav { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <aside>
+      <div class="brand">
+        <img class="brand-logo" src="assets/iAccess-Logo-S.png" alt="iAccess">
+      </div>
+      <nav id="nav"></nav>
+      <div class="side-box">
+        <strong>Lokale HTML-App</strong>
+        <p>Alle Einträge werden im Browser gespeichert. Exportiere regelmäßig eine Sicherung als JSON, wenn du den Datenraum weitergeben willst.</p>
+      </div>
+      <div class="side-box">
+        <strong>Recherche-Hinweis</strong>
+        <p>Die Schaltfläche legt automatisch strukturierte Funde an. Für echte Websuche, Google und Gemeinde-Crawling kann später ein Backend-Endpunkt in den Einstellungen ergänzt werden.</p>
+      </div>
+    </aside>
+
+    <main>
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Interner Standortanalyse-Datenraum</p>
+          <h2 id="pageTitle">Dashboard</h2>
+          <p id="pageIntro">Wissen zu Rechenzentren in Deutschland mit Fokus Baden-Württemberg: Typen, Standortanforderungen, Bauleitplanung, Planer, Quellen und KI-Funde.</p>
+        </div>
+        <div class="actions">
+          <button class="secondary" id="researchNow">Neue Recherche starten</button>
+          <button class="ghost" id="exportData">Export</button>
+          <button class="ghost" id="importData">Import</button>
+        </div>
+      </header>
+
+      <section class="view active" id="dashboard"></section>
+      <section class="view" id="types"></section>
+      <section class="view" id="requirements"></section>
+      <section class="view" id="sites"></section>
+      <section class="view" id="germanyMap"></section>
+      <section class="view" id="companies"></section>
+      <section class="view" id="planning"></section>
+      <section class="view" id="media"></section>
+      <section class="view" id="drawings"></section>
+      <section class="view" id="research"></section>
+      <section class="view" id="about"></section>
+    </main>
+  </div>
+
+  <dialog id="entryDialog">
+    <form method="dialog" id="entryForm">
+      <div class="modal-head">
+        <h3 id="modalTitle">Eintrag bearbeiten</h3>
+        <button type="button" class="ghost" data-close>Schließen</button>
+      </div>
+      <div class="modal-body">
+        <div class="form-grid" id="formFields"></div>
+      </div>
+      <div class="modal-foot">
+        <button type="button" class="ghost" data-close>Abbrechen</button>
+        <button class="primary" value="save">Speichern</button>
+      </div>
+    </form>
+  </dialog>
+
+  <dialog id="importDialog">
+    <form method="dialog" id="importForm">
+      <div class="modal-head">
+        <h3>Daten importieren</h3>
+        <button type="button" class="ghost" data-close>Schließen</button>
+      </div>
+      <div class="modal-body">
+        <label>JSON-Sicherung einfügen
+          <textarea id="importText" placeholder="Hier exportierte JSON-Daten einfügen"></textarea>
+        </label>
+      </div>
+      <div class="modal-foot">
+        <button type="button" class="ghost" data-close>Abbrechen</button>
+        <button class="primary" value="import">Importieren</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script>
+    const STORAGE_KEY = "iaccess-dc-datenraum-v2";
+    const today = new Date().toISOString().slice(0, 10);
+
+    const sections = [
+      { id: "dashboard", title: "Dashboard", icon: "▦", intro: "Überblick über Wissensdatenbank, Standortparameter, BW-Bezug und aktuelle KI-Funde." },
+      { id: "types", title: "Rechenzentrumstypen", icon: "▣", intro: "Kategorisierte Typen mit Größenordnung, IT-Leistung, Flächenbedarf und Beispielen." },
+      { id: "requirements", title: "Standortanforderungen", icon: "⌁", intro: "Parameter für Strom, Glasfaser, Wasser, Fläche, Naturgefahren, Abwärme, Netz und Bauleitplanung." },
+      { id: "sites", title: "BW-Standorte", icon: "⌖", intro: "Bestehende und geplante Rechenzentrumsstandorte in Baden-Württemberg aus der Standortliste und ergänzenden Quellen." },
+      { id: "germanyMap", title: "Deutschland-Karte", icon: "◇", intro: "Farbcodierte Übersicht der bereits aufgenommenen Rechenzentren und Projekte in Deutschland." },
+      { id: "companies", title: "Bauunternehmen & Planer", icon: "⌂", intro: "Unternehmen, Planer, Generalunternehmer und Referenzen im deutschen Rechenzentrumsmarkt." },
+      { id: "planning", title: "Bauleitplanung & Genehmigungen", icon: "§", intro: "Regulatorik, Bebauungspläne, Flächennutzungspläne und Genehmigungsanforderungen mit BW-Fokus." },
+      { id: "media", title: "Bilder", icon: "▧", intro: "Gesammelte Bildquellen zu Rechenzentren, Projekten, Innenansichten und technischer Infrastruktur." },
+      { id: "drawings", title: "Technische Zeichnungen", icon: "⌗", intro: "Schemata und technische Referenzen zu Aufbau, Kühlung, Strom, Brandschutz und Wasserversorgung." },
+      { id: "research", title: "KI-Recherche", icon: "◎", intro: "Quellenlisten, Recherche-Jobs, automatisch gespeicherte Funde und späterer Backend-Anschluss." },
+      { id: "about", title: "Über iAccess", icon: "i", intro: "Positionierung von iAccess Energy für datengetriebene Standortanalyse in Baden-Württemberg." }
+    ];
+
+    const schemas = {
+      types: [
+        ["name", "Typ", "text"],
+        ["category", "Kategorie", "text"],
+        ["scale", "Typische Größe", "text"],
+        ["itPower", "IT-Leistung", "text"],
+        ["area", "Flächenbedarf", "text"],
+        ["traits", "Merkmale", "textarea"],
+        ["examples", "Beispiele", "textarea"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      requirements: [
+        ["name", "Parameter", "text"],
+        ["category", "Kategorie", "select", ["Strom", "Internet", "Wasser", "Fläche", "Kühlung", "Naturgefahren", "Abwärme", "Energie", "Bauleitplanung", "Betrieb"]],
+        ["threshold", "Richtwert / Schwelle", "text"],
+        ["importance", "Bedeutung", "select", ["kritisch", "hoch", "mittel", "niedrig"]],
+        ["notes", "Details", "textarea"],
+        ["bwFit", "BW-Relevanz", "textarea"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      sites: [
+        ["city", "Stadt / Standort", "text"],
+        ["postalCode", "PLZ", "text"],
+        ["address", "Adresse", "text"],
+        ["operator", "Betreiber", "text"],
+        ["name", "Name", "text"],
+        ["status", "Status", "select", ["Bestand", "geplant", "in Prüfung", "unsicher"]],
+        ["link", "Link", "text"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      companies: [
+        ["name", "Unternehmen", "text"],
+        ["role", "Rolle", "text"],
+        ["region", "Region", "text"],
+        ["contact", "Kontakt / Website", "text"],
+        ["references", "Referenzprojekte", "textarea"],
+        ["notes", "Notizen", "textarea"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      planning: [
+        ["name", "Titel / Dokument", "text"],
+        ["municipality", "Gemeinde / Behörde", "text"],
+        ["status", "Status", "select", ["Recherchebedarf", "gefunden", "in Prüfung", "relevant", "nicht relevant"]],
+        ["docType", "Dokumenttyp", "select", ["Bebauungsplan", "Flächennutzungsplan", "Satzung", "Umweltbericht", "Regulatorik", "Leitfaden", "Nachricht", "Sonstiges"]],
+        ["requirements", "Relevante Anforderungen", "textarea"],
+        ["url", "URL / Ablageort", "text"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      media: [
+        ["title", "Titel", "text"],
+        ["category", "Kategorie", "select", ["Außenansicht", "Innenansicht", "Kühlung", "Stromversorgung", "Brandschutz", "Projektbild", "Karte", "Sonstiges"]],
+        ["imageUrl", "Bild-URL / Asset", "text"],
+        ["pageUrl", "Quellenlink", "text"],
+        ["credit", "Bildnachweis", "text"],
+        ["notes", "Notizen", "textarea"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      drawings: [
+        ["title", "Titel", "text"],
+        ["category", "Kategorie", "select", ["Gesamtaufbau", "Kühlung", "Stromversorgung", "Brandschutz", "Wasser", "Abwärme", "Normen", "Betrieb"]],
+        ["system", "System / Bereich", "text"],
+        ["url", "URL / Ablageort", "text"],
+        ["notes", "Technische Hinweise", "textarea"],
+        ["tags", "Tags", "text"],
+        ["source", "Quelle", "text"]
+      ],
+      findings: [
+        ["title", "Titel", "text"],
+        ["topic", "Thema", "select", ["Standort", "Technik", "Bauleitplanung", "Markt", "Unternehmen", "Regulatorik", "Quelle"]],
+        ["summary", "Zusammenfassung", "textarea"],
+        ["action", "Empfohlene nächste Aktion", "textarea"],
+        ["source", "Quelle", "text"],
+        ["confidence", "Vertrauen", "select", ["hoch", "mittel", "niedrig"]],
+        ["tags", "Tags", "text"]
+      ]
+    };
+
+    const seedData = {
+      types: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Hyperscale-Rechenzentrum", category: "Hyperscale",
+          scale: "Zehntausende bis >100.000 m² Bruttogrundfläche",
+          itPower: "typisch 20 bis >100 MW IT-Last",
+          area: "mehrere Hektar, oft Campus-Struktur mit Erweiterungsflächen",
+          traits: "Für Cloud- und KI-Workloads. Sehr hoher Strombedarf, redundante Netzanbindung, skalierbare Kühlung, hohe Anforderungen an Netzanschluss, Glasfaser, Sicherheit und Genehmigung.",
+          examples: "Cloud-Regionen großer Plattformbetreiber, KI-Trainingscluster, große Campus-Standorte.",
+          tags: "KI, Cloud, Strom, Campus", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Colocation-Rechenzentrum", category: "Colocation",
+          scale: "ca. 5.000 bis 50.000 m², je nach Markt und Ausbauphase",
+          itPower: "typisch 2 bis 50 MW",
+          area: "innerstädtisch oder gewerblich, gute Glasfaser- und Stromnähe",
+          traits: "Vermietung von Racks, Cages oder Suiten an mehrere Kunden. Carrier-Neutralität, hohe Verfügbarkeit und kurze Latenzen sind zentrale Standortfaktoren.",
+          examples: "Frankfurt-Rhein-Main, Berlin, München, Hamburg, Stuttgart als Sekundärmarkt.",
+          tags: "Carrier, Kunden, Latenz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Edge-Rechenzentrum", category: "Edge",
+          scale: "Container bis wenige tausend m²",
+          itPower: "typisch 100 kW bis 5 MW",
+          area: "kleine Flächen nahe Nutzern, Industrie, Mobilfunk, Verkehr oder Energieinfrastruktur",
+          traits: "Für niedrige Latenz, lokale Datenverarbeitung und resiliente Dienste. Besonders interessant für Industriecluster und kommunale Infrastruktur.",
+          examples: "Industrie 4.0, autonome Systeme, regionale KI-Inferenz, Smart City.",
+          tags: "Latenz, Industrie, Kommune", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Enterprise / On-Premise", category: "Enterprise",
+          scale: "Serverraum bis eigenes Gebäude",
+          itPower: "typisch 50 kW bis 5 MW",
+          area: "auf Unternehmensgelände, oft mit begrenzter Erweiterbarkeit",
+          traits: "Unternehmensinterne IT. Modernisierung, Auslagerung oder Kopplung mit Colocation häufig relevant.",
+          examples: "Banken, Industrieunternehmen, Forschung, öffentliche Verwaltung.",
+          tags: "Bestand, Migration, Unternehmen", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Modular / Container-Rechenzentrum", category: "Modular",
+          scale: "vorgefertigte Module bis campusfähige Modulbauweise",
+          itPower: "von Edge-Größenordnung bis große KI-Ausbauphasen",
+          area: "abhängig von Modulanzahl, Trafo-/Generatorflächen, Rückkühlern und Erweiterungsreserve",
+          traits: "Schneller Ausbau, standardisierte Technik, phasenweiser Kapazitätsaufbau. Genehmigungs- und Standortfragen bleiben im Kern dieselben wie bei festen Gebäuden.",
+          examples: "Edge-Module, KI-Container, prefabrizierte Hallenmodule.",
+          tags: "Container, Prefab, KI, Ausbauphasen", source: "Allgemeine Informationen Datencenter.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "KI-/HPC-Gigafactory", category: "KI/HPC",
+          scale: "Campus mit mehreren Hallen, häufig 100 MW bis mehrere 100 MW Anschlussleistung",
+          itPower: "GPU-/Beschleuniger-Cluster, oft in Ausbauphasen von 20 MW bis >500 MW",
+          area: "große Konversions-, Industrie- oder Energieflächen mit Hochspannungsnähe, Kühlung, Sicherheitszonen und Erweiterungsreserve",
+          traits: "Für Training und Betrieb großer KI-Modelle oder HPC. Sehr hohe Rackdichten, Flüssigkeitskühlung, große Strom- und Netzanschlüsse, Abwärme- und Wasserstrategie sowie schnelle Genehmigungsfähigkeit sind zentral.",
+          examples: "Microsoft Azure NRW mit 520 MW, NTT Frankfurt 6/Nierstein mit 482 MW, Schwarz Digits Lübbenau mit 200 MW.",
+          tags: "KI, HPC, Hyperscale, Hochspannung, Konversion", source: "heise.de"
+        }
+      ],
+      requirements: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Netzanschluss und elektrische Leistung", category: "Strom",
+          threshold: "Edge: <5 MW, Colocation: 2 bis 50 MW, Hyperscale: 20 bis >100 MW",
+          importance: "kritisch",
+          notes: "Entscheidend sind Anschlussleistung, Redundanz, Nähe zu Umspannwerken, Ausbauzeit, Reserven, Netzverträglichkeit und perspektivische Erweiterbarkeit. Für große Standorte ist Hochspannung/Mittelspannung und ein belastbarer Netzanschluss ein Gatekeeper.",
+          bwFit: "iAccess kann PV-, Speicher- und Netzanschlusskompetenz in die Flächenbewertung einbringen. In BW sollten Umspannwerke, Netzengpässe, EE-Potenziale und Speicheroptionen kartiert werden.",
+          tags: "Netzanschluss, Umspannwerk, Redundanz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Glasfaser, Bandbreite und Latenz", category: "Internet",
+          threshold: "mehrere Carrier, redundante Trassen, sehr niedrige Latenz je nach Use Case",
+          importance: "kritisch",
+          notes: "Colocation und Cloud-Standorte brauchen mehrere unabhängige Glasfasertrassen, Carrier-Vielfalt und Peering-Nähe. Edge-Standorte priorisieren Nähe zum Nutzer und niedrige Latenz.",
+          bwFit: "Für BW sind Glasfaser-Backbones, Gewerbegebiete, Hochschul-/Industriecluster und Nähe zu Stuttgart, Karlsruhe, Mannheim, Freiburg und Ulm relevant.",
+          tags: "Glasfaser, Carrier, Latenz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Wasser und Kühlung", category: "Wasser",
+          threshold: "stark abhängig von Kühlkonzept, PUE, Außentemperatur und Wiederverwendung",
+          importance: "hoch",
+          notes: "Wasserbedarf entsteht besonders bei evaporativer Kühlung. Alternativen sind Luftkühlung, indirekte freie Kühlung, Flüssigkeitskühlung und hybride Konzepte. Wasserrechte und kommunale Akzeptanz sind zu prüfen.",
+          bwFit: "In wasserstresssensiblen Regionen ist wasserarme Kühlung ein Vorteil. Kommunale Wasserverfügbarkeit und Gewässernähe müssen mit Umweltbelangen abgeglichen werden.",
+          tags: "Kühlung, Wasserrecht, PUE", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Fläche, Erweiterbarkeit und Baugrund", category: "Fläche",
+          threshold: "Edge: <1 ha, mittlere Standorte: 1 bis 5 ha, Campus: 5 bis >20 ha",
+          importance: "kritisch",
+          notes: "Benötigt werden geeignete Gewerbe-/Industrieflächen, gute Erschließung, Abstand zu sensiblen Nutzungen, geringe Konflikte mit Natur- und Landschaftsschutz, Hochwassersicherheit und Erweiterungsreserven.",
+          bwFit: "iAccess' Flächenzugang aus PV- und Speicherprojekten kann zu einem starken Screening-Vorteil werden, besonders bei Konversions-, Gewerbe- und Infrastrukturflächen.",
+          tags: "Gewerbegebiet, Baugrund, Erweiterung", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Abwärmenutzung", category: "Abwärme",
+          threshold: "Nähe zu Wärmenetz, Industrie, Quartier oder kommunaler Wärmeplanung",
+          importance: "hoch",
+          notes: "Abwärmenutzung verbessert Akzeptanz und kann regulatorisch und wirtschaftlich wichtig werden. Geeignete Wärmeabnehmer, Temperaturniveau, Wärmepumpen und Leitungslängen sind früh zu prüfen.",
+          bwFit: "Kommunale Wärmeplanung in BW ist ein guter Anknüpfungspunkt. Standorte nahe Wärmenetzen, Industrie, Schwimmbädern oder Quartieren priorisieren.",
+          tags: "Wärmenetz, Abwärme, Akzeptanz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Naturgefahren und Resilienz", category: "Naturgefahren",
+          threshold: "Ausschluss oder technische Schutzmaßnahmen bei Hochwasser, Starkregen, Hangrutschung, Erdbebenrisiko",
+          importance: "hoch",
+          notes: "Zu prüfen sind Hochwasser, Starkregen, Grundwasser, geologische Risiken, Waldbrand, Hitzeinseln, Sicherheitsabstände und kritische Infrastruktur.",
+          bwFit: "BW hat regional stark unterschiedliche Topografie. LUBW- und kommunale Gefahrenkarten sollten in das Screening aufgenommen werden.",
+          tags: "Hochwasser, Starkregen, Resilienz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Regionaler Grünzug / Grünzäsur als No-Go-Filter", category: "Bauleitplanung",
+          threshold: "im ersten GIS-Screening grundsätzlich Ausschluss, Zielabweichung nur als Ausnahme prüfen",
+          importance: "kritisch",
+          notes: "Regionale Grünzüge und Grünzäsuren dienen der Freiraumsicherung. Rechenzentren auf solchen Flächen erzeugen hohes Raumordnungs-, Politik- und Zeitrisiko.",
+          bwFit: "Für Baden-Württemberg als harten GIS-Layer in der Vorauswahl führen. Erst bei außergewöhnlicher Netz-, Abwärme- oder Konversionslogik vertieft prüfen.",
+          tags: "Raumordnung, Grünzug, Ausschluss", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Außenbereich, Ackerflächen und Bauleitplanung", category: "Bauleitplanung",
+          threshold: "Rechenzentrum typischerweise nicht privilegiert; B-Plan/FNP oder bestehendes GE/GI/SO erforderlich",
+          importance: "kritisch",
+          notes: "Grüne Wiese ist häufig der konfliktreichste Weg: Außenbereich, Flächeninanspruchnahme, Ausgleich, Regionalplanung, Natur-/Artenschutz und kommunale Akzeptanz.",
+          bwFit: "Vorrangig Gewerbe-, Industrie-, Konversions- und Brachflächen prüfen. Ackerflächen nur mit starkem energiewirtschaftlichem und kommunalem Nutzen weiterverfolgen.",
+          tags: "Außenbereich, BauGB, FNP, Bebauungsplan", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "TA Lärm und Abstand zu Wohnbebauung", category: "Betrieb",
+          threshold: "200 m als internes Screeningkriterium; endgültig schalltechnische Prognose",
+          importance: "hoch",
+          notes: "Rückkühler, Notstromaggregate und Betriebslärm sind konfliktträchtig. TA Lärm nennt je nach Gebietstyp Richtwerte; allgemeines Wohngebiet etwa 55 dB(A) tags und 40 dB(A) nachts.",
+          bwFit: "Wohnnähe früh markieren. Maßnahmen wie Einhausung, leisere Rückkühler und Nachtbetriebskonzepte erst in der Vertiefung bewerten.",
+          tags: "TA Lärm, Wohnabstand, Schallschutz", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "EnEfG, PUE und erneuerbarer Strom", category: "Energie",
+          threshold: "ab 2024 50% EE bilanziell, ab 2027 100%; Neubau nach 01.07.2026 PUE-Ziel max. 1,2",
+          importance: "kritisch",
+          notes: "Das Energieeffizienzgesetz macht Strommix, effiziente Kühlung, Abwärme und Meldepflichten zu Standortthemen. Bestandsrechenzentren haben schrittweise PUE-Pfade, z.B. 1,5 ab 2027 und 1,3 ab 2030.",
+          bwFit: "Flächen mit EE-Erzeugung, Speicher, Netzanschluss und Wärmesenke bekommen strategische Priorität.",
+          tags: "EnEfG, PUE, Erneuerbare, RZReg", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Schnelle Red Flags im Flächenscreening", category: "Bauleitplanung",
+          threshold: "sofort aussortieren bei fehlendem Strom, fehlender Glasfaser, Wohngebiet, Hochwasser, Naturschutz, politisch schwierigem Baurecht",
+          importance: "kritisch",
+          notes: "Praxislogik: aus 100 Flächen fallen oft rund 80% wegen Strom aus, weitere wegen Baurecht; vertiefte Normenprüfung erst für die besten 5 bis 10 Kandidaten.",
+          bwFit: "Als Ampelmodell in iAccess-Standortanalyse übernehmen: Strom, Glasfaser, Gewerbegebiet, Erreichbarkeit, kein Hochwasser.",
+          tags: "Red Flags, Screening, K.O.-Kriterien", source: "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Technische Redundanz und Standards", category: "Betrieb",
+          threshold: "N+1 oder 2N für USV, Generatoren, Kühlung und Kommunikationspfade je nach Tier-/Verfügbarkeitsziel",
+          importance: "hoch",
+          notes: "Relevante Standards und Themen: EN 50600, TIA-942, ISO 27001, ISO 50001, BSI-Grundschutz, Erdung, Überspannungsschutz, Kalt-/Warmgang, freie Kühlung, ASHRAE A1 18-27 °C.",
+          bwFit: "In frühen Standortgesprächen Tier-Ziel, Redundanzniveau, Kühlkonzept und Anschlussniveau abfragen, damit Flächen nicht falsch dimensioniert werden.",
+          tags: "EN 50600, TIA-942, ISO 27001, Redundanz", source: "Datencenter alle wichtigen Daten (CHAT GPT_Shion).pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Logistik, Feuerwehr und Erweiterbarkeit", category: "Fläche",
+          threshold: "LKW-/Schwertransportzufahrt, Feuerwehrzufahrt, Platz für Trafo, Generatoren, Rückkühler und Ausbauphasen",
+          importance: "hoch",
+          notes: "Neben Gebäudefläche sind Betriebsflächen, Sicherheitszonen, Kran-/Anlieferungslogistik und Nachbarflächen für Erweiterungen entscheidend.",
+          bwFit: "Bei Gewerbe- und Konversionsflächen früh prüfen, ob Trafostandort, Generatorbereiche und spätere Module ohne Nachbarschaftskonflikte möglich sind.",
+          tags: "Logistik, Feuerwehr, Erweiterung", source: "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Leistungsklassen als Primärfilter", category: "Strom",
+          threshold: "Edge <5 MW, mittlere Colocation 5-50 MW, Hyperscale/KI häufig >100 MW, Großcampus 400-520 MW",
+          importance: "kritisch",
+          notes: "Die elektrische Anschlussleistung ist der beste frühe Sortierschlüssel, weil daraus Netzebene, Umspannwerksnähe, Kühlkonzept, Genehmigungsdauer, Sicherheitsflächen und Abwärmepotenzial folgen.",
+          bwFit: "Für Baden-Württemberg jede Fläche zuerst auf realistische Netzanschlussleistung, Netzebene und Ausbauzeit prüfen; danach erst Detailplanung.",
+          tags: "heise.de, Leistungsklasse, Strom, Netzanschluss", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Konversions- und Energieflächen", category: "Fläche",
+          threshold: "alte Kraftwerks-, Industrie-, Kasernen- oder Energieinfrastrukturflächen mit 110-kV-/Hochspannungsnähe priorisieren",
+          importance: "hoch",
+          notes: "Heise nennt bei aktuellen Großprojekten wiederholt ehemalige Kraftwerks-, Industrie- und Kasernenflächen. Der Vorteil liegt in großen zusammenhängenden Flächen, weniger Nutzungskonkurrenz und vorhandener elektrischer Infrastruktur.",
+          bwFit: "iAccess sollte Konversionsflächen, Umspannwerksnähe, Speicherprojekte und PV-/Wind-PPA-Potenziale gemeinsam bewerten.",
+          tags: "Konversion, Kraftwerk, Kaserne, Hochspannung, PPA", source: "heise.de"
+        }
+      ],
+      sites: [
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Stuttgart", postalCode: "70173", address: "Neue Brücke 8", operator: "AtlasEdge Data Centers", name: "NB8 Stuttgart Data", status: "Bestand", link: "https://www.datacenters.com/atlasedge-nb8-stuttgart-data", tags: "Stuttgart, Colocation, Bestand", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Stuttgart-Vaihingen", postalCode: "70565", address: "Schockenriedstraße 6", operator: "Kyndryl", name: "Stuttgart Data Center", status: "unsicher", link: "https://www.datacenters.com/kyndryl-stuttgart", tags: "Stuttgart, Betreiber prüfen", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Stuttgart-Vaihingen", postalCode: "70563", address: "Gropiusplatz 10", operator: "AtlasEdge Data Centers", name: "Stuttgart GRP10 Data Center", status: "Bestand", link: "https://www.datacenters.com/atlasedge-stuttgart-grp10", tags: "Stuttgart, AtlasEdge", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Stuttgart", postalCode: "70565", address: "Breitwiesenstraße 28", operator: "nLighten", name: "nLighten Stuttgart STR1", status: "Bestand", link: "https://www.datacenters.com/nlighten-nlighten-stuttgart-str1", tags: "Stuttgart, Edge, Colocation", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Stuttgart", postalCode: "70567", address: "Zettachring 10/12", operator: "euNetworks / Telia / Nepustil", name: "Stuttgart Zettachring Cluster", status: "Bestand", link: "https://www.datacenters.com/eunetworks-stuttgart", tags: "Stuttgart, Cluster, Glasfaser", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Karlsruhe", postalCode: "76227", address: "Amalienbadstraße 54", operator: "Telemaxx Telekommunikation GmbH", name: "IP Center 4 (IPC 4)", status: "Bestand", link: "https://www.datacenters.com/telemaxx-telekommunikation-gmbh-ip-center-4-ipc-4", tags: "Karlsruhe, Telemaxx", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Karlsruhe", postalCode: "76227", address: "Auf der Breit 5a", operator: "Telemaxx Telekommunikation GmbH", name: "IPC 3 Data Center", status: "Bestand", link: "https://www.datacenters.com/telemaxx-telekommunikation-gmbh-ipc-3", tags: "Karlsruhe, Telemaxx", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Karlsruhe-Neureut", postalCode: "76149", address: "Am Sandfeld", operator: "ILK Internet GmbH", name: "Albert-Nestler Data Center", status: "Bestand", link: "https://www.datacenters.com/ilk-internet-gmbh-albert-nestler", tags: "Karlsruhe, Internet", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Kehl", postalCode: "77694", address: "Hafenstraße 3", operator: "KPN International / EXA Infrastructure", name: "Kehl Data Center / EXA Edge DC Kehl", status: "Bestand", link: "https://www.datacenters.com/exa-infrastructure-exa-edge-dc-kehl", tags: "Kehl, Edge, Grenze", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Böblingen", postalCode: "71034", address: "Schickardstraße 19/25a", operator: "AtlasEdge / Itenos", name: "STR001 / Stuttgart Data Center", status: "Bestand", link: "https://www.datacenters.com/atlasedge-str001-stuttgart", tags: "Böblingen, Stuttgart-Region", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Reutlingen", postalCode: "72770 / 72766", address: "Gerhard-Kindler-Straße 8 / Am Heilbrunnen 115", operator: "Nepustil / Pronexon", name: "Reutlingen Data Centers", status: "Bestand", link: "https://www.datacenters.com/dr-ing-nepustil-co-gmbh-reutlingen", tags: "Reutlingen, Regional", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Konstanz", postalCode: "78467", address: "Max-Stromeyer-Straße 21-29", operator: "SeeConnect", name: "SeeConnect Rechenzentrum Konstanz Site A/B", status: "Bestand", link: "https://www.datacenters.com/seeconnect-seeconnect-rechenzentrum-konstanz-site-a", tags: "Konstanz, Bodensee", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Mannheim", postalCode: "68163", address: "Hans-Thoma-Straße 15", operator: "MTI / GLH", name: "MHG01 Data Center", status: "Bestand", link: "https://www.datacenters.com/mti-glh-mti-technology-limited-glh-mhg01", tags: "Mannheim, Rhein-Neckar", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Ellhofen", postalCode: "", address: "", operator: "STACKIT", name: "Data Center Ellhofen (DC08)", status: "Bestand", link: "https://www.datacenters.com/stackit-ellhofen-dc08", tags: "STACKIT, Schwarz Gruppe, Heilbronn-Franken", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Tübingen", postalCode: "72074", address: "Brückenstraße 7", operator: "Dr.-Ing. Nepustil & Co. GmbH", name: "Tübingen Data Center", status: "Bestand", link: "https://www.datacenters.com/dr-ing-nepustil-co-gmbh-tubingen", tags: "Tübingen, Regional", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Ulm", postalCode: "", address: "", operator: "SWU TeleNet", name: "New SWU TeleNet Data Center", status: "Bestand", link: "https://www.datacenters.com/swu-telenet-new-swu-telenet", tags: "Ulm, Stadtwerk", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Heidelberg", postalCode: "", address: "George-Boole-Weg", operator: "Nextspace Data Centers", name: "Nextspace Data Center Heidelberg", status: "Bestand", link: "https://www.datacenters.com/nexspace-nexspace-heidelberg", tags: "Heidelberg, Rhein-Neckar", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Walldorf", postalCode: "69190", address: "Hasso-Plattner-Ring 12", operator: "SAP", name: "SAP Rechenzentrum WDF51", status: "Bestand", link: "https://www.doyma.de/referenzen/sap-rechenzentrum-wdf51", tags: "SAP, Enterprise", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Karlsruhe", postalCode: "76131", address: "Zirkel 2", operator: "KIT Scientific Computing Center (SCC)", name: "KIT Scientific Computing Center", status: "Bestand", link: "https://www.scc.kit.edu/", tags: "Forschung, HPC, Karlsruhe", source: "Datencenter in Baden Württemberg.xlsx" },
+        { id: crypto.randomUUID(), created: today, updated: today, city: "Appenweier / Lahr / Stödtlen / Göppingen", postalCode: "", address: "diverse", operator: "Leitwerk AG / JH-Computers / EVF", name: "Weitere regionale Rechenzentren aus Standortliste", status: "in Prüfung", link: "", tags: "Prüfliste, regionale Anbieter", source: "Datencenter in Baden Württemberg.xlsx" }
+      ],
+      companies: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Arup", role: "Planung, Engineering, Nachhaltigkeitsberatung", region: "Deutschland / international",
+          contact: "https://www.arup.com", references: "Rechenzentrumsplanung, Energie- und Gebäudetechnik international.",
+          notes: "Potentieller Partner für technische Due Diligence, MEP, Nachhaltigkeit und Campusplanung.",
+          tags: "Planung, MEP, Nachhaltigkeit", source: "Initiale Recherche-Struktur"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Drees & Sommer", role: "Projektsteuerung, Beratung, Bau- und Immobilienexpertise", region: "Deutschland, starker BW-Bezug",
+          contact: "https://www.dreso.com", references: "Industrie-, Technologie- und Immobilienprojekte.",
+          notes: "Für Genehmigungs-, Standort- und Realisierungsberatung prüfen.",
+          tags: "Projektsteuerung, BW, Bau", source: "Initiale Recherche-Struktur"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "NTT Global Data Centers", role: "Betreiber und Entwickler", region: "Deutschland",
+          contact: "https://global.ntt", references: "Große Rechenzentrumsstandorte in Deutschland.",
+          notes: "Als Marktakteur beobachten: Standortmuster, Anforderungen, Energie- und Nachhaltigkeitsthemen.",
+          tags: "Betreiber, Colocation, Hyperscale", source: "Initiale Recherche-Struktur"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "AtlasEdge", role: "Edge-/Colocation-Betreiber", region: "Europa, mehrere Standorte in Stuttgart/BW",
+          contact: "https://atlasedge.com", references: "Stuttgart NB8, GRP10, STR001 laut Standortliste; europäischer Edge- und Colocation-Anbieter.",
+          notes: "Für BW besonders relevant, weil mehrere Standorte im Raum Stuttgart/Böblingen in der Liste auftauchen.",
+          tags: "Betreiber, Edge, Stuttgart", source: "Informationen zu Datencenter 2.docx; Datencenter in Baden Württemberg.xlsx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "EdgeConneX", role: "Edge-/Hyperscale-Entwickler und Betreiber", region: "international, DACH beobachten",
+          contact: "https://www.edgeconnex.com", references: "Dokument nennt Größen von 40 kW bis 500 MW oder größer, München Bestand und Frankfurt geplant.",
+          notes: "Als potenzieller KI-/Edge-Akteur in Marktmonitoring aufnehmen.",
+          tags: "Edge, Hyperscale, KI", source: "Informationen zu Datencenter 2.docx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "AECOM", role: "Design, Engineering, Projektmanagement", region: "Deutschland mit Standort Stuttgart",
+          contact: "https://aecom.com", references: "Dokument nennt AECOM als Top Design Firm mit Standorten u.a. Berlin, Frankfurt, Hamburg und Stuttgart.",
+          notes: "Für frühe Machbarkeit, Infrastruktur, Wasser, Verkehr und große Bauprojekte prüfen.",
+          tags: "Engineering, Planung, Stuttgart", source: "Informationen zu Datencenter 2.docx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "DPR Construction", role: "Mission Critical / Data Center Bau", region: "international, Frankfurt",
+          contact: "https://www.dpr.com", references: "Dokument nennt umfangreiche Mission-Critical-Erfahrung und Frankfurt-Standort.",
+          notes: "Für Bau- und Realisierungspartner-Mapping beobachten.",
+          tags: "Bau, Mission Critical, Data Center", source: "Informationen zu Datencenter 2.docx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Turner Construction", role: "Generalunternehmer / Bau", region: "international",
+          contact: "https://www.turnerconstruction.com", references: "Dokument nennt Rechenzentren als Projekttyp und internationale Bauleistung.",
+          notes: "Für internationale Hyperscale-/KI-Ansiedlungen als Bauakteur beobachten.",
+          tags: "Bau, Hyperscale, Generalunternehmer", source: "Informationen zu Datencenter 2.docx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Telemaxx Telekommunikation GmbH", role: "Regionaler Rechenzentrums- und Telekommunikationsanbieter", region: "Karlsruhe / Baden-Württemberg",
+          contact: "https://www.telemaxx.de", references: "Mehrere IP Center in Karlsruhe laut Standortliste.",
+          notes: "Starker regionaler Vergleichspunkt für Standortmuster, Glasfaser und kommunale Einbettung.",
+          tags: "Karlsruhe, Betreiber, Glasfaser", source: "Datencenter in Baden Württemberg.xlsx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Microsoft Azure", role: "Hyperscale-/Cloud- und KI-Rechenzentrumsbetreiber", region: "Deutschland, u.a. Nordrhein-Westfalen",
+          contact: "https://azure.microsoft.com", references: "Heise nennt einen Azure-Cluster im rheinischen Revier mit 520 MW Netzleistung.",
+          notes: "Relevanter Hyperscale-Anker für Leistungsklassen, Konversionsflächen und PPA-/Abwärmefragen.",
+          tags: "Microsoft, Azure, KI, Hyperscale, 520 MW", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Schwarz Digits / STACKIT", role: "Souveräne Cloud, KI- und Rechenzentrumsbetreiber", region: "Deutschland, u.a. Lübbenau und Baden-Württemberg",
+          contact: "https://www.stackit.de", references: "Heise nennt Lübbenau als 200-MW-KI-Rechenzentrum; BW-Liste enthält Ellhofen DC08.",
+          notes: "Wichtig für souveräne Cloud, ehemalige Energieflächen und möglichen BW-Bezug über Schwarz-Gruppe/STACKIT.",
+          tags: "Schwarz, STACKIT, KI, souveräne Cloud, 200 MW", source: "heise.de; Datencenter in Baden Württemberg.xlsx"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Deutsche Telekom / T-Systems", role: "KI-Cloud- und Rechenzentrumsbetreiber", region: "Deutschland, München",
+          contact: "https://www.t-systems.com", references: "Heise meldet das KI-Rechenzentrum im Münchner Tucherpark mit 12 MW aktuell und Ausbau auf 20 MW.",
+          notes: "Referenz für Umnutzung bestehender Gebäude, souveräne KI-Cloud und Kühlung über lokale Gewässernähe.",
+          tags: "Telekom, T-Systems, KI, München, Tucherpark", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Data4", role: "Rechenzentrumsentwickler und Betreiber", region: "Frankreich / Deutschland beobachten",
+          contact: "https://www.data4group.com", references: "Von Heise im Kontext neuer großer Deutschland-Investitionen genannt.",
+          notes: "Als europäischer Player für neue Standortnachfrage und mögliche Ansiedlungen in Deutschland beobachten.",
+          tags: "Data4, Europa, Hyperscale, Investor", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Virtus Data Centres", role: "Rechenzentrumsentwickler und Betreiber", region: "Großbritannien / Deutschland beobachten",
+          contact: "https://www.virtusdatacentres.com", references: "Von Heise im Kontext deutscher KI-/Rechenzentrumsinvestitionen genannt.",
+          notes: "Für Standortpipeline und internationale Betreiberansprache vormerken.",
+          tags: "Virtus, Investor, Hyperscale, Deutschland", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Mistral AI", role: "Europäischer KI-Anbieter mit eigener Infrastruktur", region: "Frankreich / Europa",
+          contact: "https://mistral.ai", references: "Heise berichtet über 830 Mio. US-Dollar Kredit für ein Rechenzentrum nahe Paris mit 44 MW installierter Leistung.",
+          notes: "Europäischer KI-Player mit Infrastrukturambition; relevant für souveräne KI-Nachfrage und GPU-Campusgrößen.",
+          tags: "Mistral, Europa, KI, GPU, 44 MW", source: "heise.de"
+        }
+      ],
+      planning: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Energieeffizienzgesetz und Rechenzentren", municipality: "Bund",
+          status: "in Prüfung", docType: "Regulatorik",
+          requirements: "Energieeffizienz, Abwärme, Berichtspflichten und Anforderungen an Betreiber prüfen. Relevanz für Standortkonzept und kommunale Akzeptanz hoch.",
+          url: "https://www.gesetze-im-internet.de/", tags: "EnEfG, Abwärme, Effizienz", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "BauGB, BauNVO, BImSchG-Schnittstellen", municipality: "Bund / Kommunen",
+          status: "Recherchebedarf", docType: "Regulatorik",
+          requirements: "Gebietsart, Lärm, Notstromaggregate, Brandschutz, Wasserrecht, Umweltbericht, Artenschutz, Verkehr und Erschließung als Prüfpfad abbilden.",
+          url: "https://www.gesetze-im-internet.de/", tags: "BauGB, BauNVO, Genehmigung", source: "Initiale Wissensbasis"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Suchauftrag: Bebauungspläne Rechenzentrum Baden-Württemberg", municipality: "alle Gemeinden BW",
+          status: "Recherchebedarf", docType: "Bebauungsplan",
+          requirements: "Tägliche Suche nach Begriffen: Rechenzentrum, Datacenter, Data Center, Serverfarm, Cloud, Umspannwerk, Sondergebiet, Gewerbegebiet, Abwärme.",
+          url: "Gemeinde-Websites, Beteiligungsportale, Amtsblätter", tags: "BW, Bauleitplanung, Monitoring", source: "Rechercheauftrag"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg", municipality: "Baden-Württemberg",
+          status: "relevant", docType: "Leitfaden",
+          requirements: "Prüfmethodik für KI-Rechenzentren: Bauleitplanung, Außenbereich, regionale Grünzüge, Immissionsschutz, Wasser, Brandschutz, Verkehr, Natur-/Artenschutz, Hochwasser, EnEfG/PUE und Abwärme.",
+          url: "C:\\Users\\erste\\iA Dropbox\\Stephan Hornick\\01 Screening\\..02 Screening Templates\\Datencenter\\Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf",
+          tags: "KI, BW, Standortauswahl, Leitfaden", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Bauleitplanungs-Suchbegriffe für Gemeinden", municipality: "alle Gemeinden BW",
+          status: "Recherchebedarf", docType: "Bebauungsplan",
+          requirements: "Suchbegriffe: Rechenzentrum, Datacenter, Data Center, Serverfarm, Cloud, KI, Sondergebiet Rechenzentrum, Gewerbegebiet, Industriegebiet, Umspannwerk, Abwärme, Energiezentrale, Notstrom, Rückkühler.",
+          url: "Gemeinde-Websites, Ratsinfosysteme, Amtsblätter, Beteiligungsportale",
+          tags: "Gemeinden, Monitoring, Suchauftrag", source: "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "Genehmigungs- und Normenprüfpfad Rechenzentrum", municipality: "Bund / Land / Kommune",
+          status: "relevant", docType: "Regulatorik",
+          requirements: "BauGB, BauNVO, LBO, BImSchG für große Notstromaggregate, TA Lärm, Wasser-/Abwasserrecht, Naturschutz, Brandschutz, Datenschutz, ISO 27001, ISO 50001, EN 50600, TIA-942 und BSI-Grundschutz prüfen.",
+          url: "Interne Dokumentenquelle",
+          tags: "Regulatorik, Normen, Genehmigung", source: "Datencenter alle wichtigen Daten (CHAT GPT_Shion).pdf"
+        }
+      ],
+      media: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Microsoft Azure Cluster bei Bergheim/NRW",
+          category: "Projektbild",
+          imageUrl: "https://www.heise.de/news/Deutsches-Riesen-Rechenzentrum-von-Microsoft-Azure-kann-520-Megawatt-verheizen-11216718.html",
+          pageUrl: "https://www.heise.de/news/Deutsches-Riesen-Rechenzentrum-von-Microsoft-Azure-kann-520-Megawatt-verheizen-11216718.html",
+          credit: "Microsoft / heise online",
+          notes: "Artikelbild zum ersten Spatenstich; als Projektbeleg und Medienquelle erfasst.",
+          tags: "Microsoft, Azure, NRW, 520 MW, Projektbild", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "NTT Frankfurt 6 / Nierstein Rendering",
+          category: "Projektbild",
+          imageUrl: "https://www.heise.de/news/482-Megawatt-Gigantisches-Rechenzentrum-in-Reinhessen-11118281.html",
+          pageUrl: "https://www.heise.de/news/482-Megawatt-Gigantisches-Rechenzentrum-in-Reinhessen-11118281.html",
+          credit: "NTT GDC EMEA / heise online",
+          notes: "Rendering und Standortkontext für eines der größten geplanten europäischen Rechenzentren.",
+          tags: "NTT, Nierstein, Rheinhessen, 482 MW, Rendering", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Schwarz Digits KI-Rechenzentrum Lübbenau",
+          category: "Projektbild",
+          imageUrl: "https://www.heise.de/hintergrund/KI-Rechenzentren-Ploetzlicher-Boom-in-Deutschland-11083928.html",
+          pageUrl: "https://www.heise.de/hintergrund/KI-Rechenzentren-Ploetzlicher-Boom-in-Deutschland-11083928.html",
+          credit: "Schwarz Digits / heise online",
+          notes: "Spatenstichbild und Projektkontext für ein 200-MW-KI-Rechenzentrum auf ehemaligem Kraftwerksstandort.",
+          tags: "Schwarz Digits, Lübbenau, KI, 200 MW, Kraftwerksfläche", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Microsoft Fairwater KI-Rechenzentrum",
+          category: "Innenansicht",
+          imageUrl: "https://www.heise.de/news/Microsoft-zeigt-das-leistungsstaerkste-Rechenzentrum-der-Welt-10663057.html",
+          pageUrl: "https://www.heise.de/news/Microsoft-zeigt-das-leistungsstaerkste-Rechenzentrum-der-Welt-10663057.html",
+          credit: "Microsoft / heise online",
+          notes: "Bilder von Luftansicht und Server-Racks als Referenz für Hyperscale-KI-Architektur.",
+          tags: "Microsoft, Fairwater, GPU, Hyperscale, Server-Racks", source: "heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "HPC-Kühlsystem mit Energie-Rückgewinnung",
+          category: "Kühlung",
+          imageUrl: "https://www.nrel.gov/computational-science/data-center-cooling-system.html",
+          pageUrl: "https://www.nrel.gov/computational-science/data-center-cooling-system.html",
+          credit: "NREL",
+          notes: "Schematische Darstellung von Flüssigkühlung, Fan Walls und Energy-Recovery-Water-Loop.",
+          tags: "Kühlung, Flüssigkühlung, Abwärme, ERW, Schema", source: "NREL"
+        }
+      ],
+      drawings: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "NIH Sustainable Data Center Design Guide",
+          category: "Gesamtaufbau", system: "Architektur, MEP, Brandschutz, Nachhaltigkeit",
+          url: "https://www.wbdg.org/FFC/NIH/nih_sustainable_data_center_design_guide_2013.pdf",
+          notes: "Design-Guide mit Planungslogik für Energie, Kühlung, Raumaufteilung, Brandschutz und nachhaltige Rechenzentrumsplanung.",
+          tags: "Design Guide, MEP, Brandschutz, Wasser, Energie", source: "WBDG / NIH"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "HPC Data Center Cooling System",
+          category: "Kühlung", system: "Liquid Cooling, Fan Walls, Energy Recovery Water Loop",
+          url: "https://www.nrel.gov/computational-science/data-center-cooling-system.html",
+          notes: "Schematischer Ablauf: IT-Equipment, Cooling Distribution Unit, Deckenplenum, Fan Walls und geschlossener Wärmerückgewinnungs-Wasserkreis.",
+          tags: "Kühlwasser, Flüssigkühlung, Abwärme, Schema", source: "NREL"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "DCO Chilled Water Loop Schematic",
+          category: "Wasser", system: "Kaltwasserkreis, redundante Pumpen, Wärmetauscher",
+          url: "https://www.pdl.cmu.edu/DCO/DCOtour.shtml",
+          notes: "Abgekürztes Schema eines Kaltwasserkreises inklusive Hinweisen zu Pumpen, Campus-Kaltwasser, Wärmetauschern und Notfallbetrieb.",
+          tags: "Chilled Water, Pumpen, Wärmetauscher, Betrieb", source: "Carnegie Mellon PDL"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Data Center Cooling Piping Diagram",
+          category: "Kühlung", system: "Kühlwasserverrohrung und Anschlusslogik",
+          url: "https://www.parker.com/content/dam/parker/fcg/group/data-centers/Form-5-593-Data-Center-Cooling-Diagram.pdf",
+          notes: "Technische Zeichnung zur Verrohrung von Rechenzentrumskühlung; nützlich für Komponenten- und Schnittstellenliste.",
+          tags: "Piping, Kühlung, Wasser, Diagramm", source: "Parker"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Fire Protection & Life Safety Design Manual",
+          category: "Brandschutz", system: "Sprinkler, Wasserversorgung, Brandabschnitte, Life Safety",
+          url: "https://www.wbdg.org/FFC/SI/fpls_design_manual_2014.pdf",
+          notes: "Allgemeines Brandschutz-Handbuch mit Kapiteln zu Wasserbereitstellung, Löschsystemen und Life-Safety-Anforderungen; für RZ-Brandschutzkonzept als Referenz sammeln.",
+          tags: "Brandschutz, Wasser, Sprinkler, Life Safety", source: "WBDG / Smithsonian"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "ASHRAE Data Centers and Telecommunications Facilities",
+          category: "Normen", system: "Thermik, Luftführung, CFD, Leckage- und Raumrisiken",
+          url: "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
+          notes: "Technischer Referenztext zu Rechenzentrumsflächen, Luftführung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
+          tags: "ASHRAE, Luftführung, CFD, Wasserleckage, Betrieb", source: "ASHRAE"
+        }
+      ],
+      findings: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Datenraum initialisiert",
+          topic: "Quelle",
+          summary: "Die App ist als lokaler Datenraum aufgebaut. Neue KI-Funde werden automatisch in diesem Bereich gespeichert und können anschließend in Typen, Standortanforderungen, Unternehmen oder Bauleitplanung übertragen werden.",
+          action: "Quellenliste priorisieren und erste Gemeinden in BW manuell ergänzen.",
+          source: "System", confidence: "hoch", tags: "Start, Datenraum"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Quellenpaket vom Nutzer importiert",
+          topic: "Quelle",
+          summary: "Sechs interne Quellen wurden ausgewertet: Standortauswahl KI-Rechenzentrum BW, BW-Standortliste als Excel, Informationen zu Datencenter 2, Allgemeine Informationen, Kurzfassung Praxis-Checkliste und Datencenter alle wichtigen Daten.",
+          action: "Nächster Schritt: Quellenqualität je Eintrag prüfen und belastbare Primärquellen für sensible Standortdaten nachziehen.",
+          source: "Nutzerdateien", confidence: "hoch", tags: "Import, Quellenpaket, Datenraum"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "BW-Standortliste ergänzt",
+          topic: "Standort",
+          summary: "Die Excel-Liste enthält Cluster in Stuttgart/Böblingen, Karlsruhe, Kehl, Reutlingen, Konstanz, Mannheim, Ellhofen, Tübingen, Ulm, Heidelberg, Walldorf und weitere regionale Prüffälle.",
+          action: "Standorte gegen Betreiber-Websites, Datacentermap/Datacenters.com, Gemeindeunterlagen und Netz-/Glasfaserlagen validieren.",
+          source: "Datencenter in Baden Württemberg.xlsx", confidence: "mittel", tags: "BW, Standortliste, Validierung"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "K.O.-Kriterien für iAccess-Flächenscreening übernommen",
+          topic: "Bauleitplanung",
+          summary: "Als schnelle Vorauswahl gelten Stromanschluss, Glasfaser, Gewerbe-/Industriegebiet, Erreichbarkeit und kein Hochwasser als die wichtigsten fünf Prüfpunkte.",
+          action: "Diese Prüflogik als Scoring- oder Ampelmodell in der nächsten Version der App abbilden.",
+          source: "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf", confidence: "hoch", tags: "Screening, K.O., iAccess"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Einstufung nach elektrischer Leistung",
+          topic: "Technik",
+          summary: "Heise ordnet Rechenzentren nach elektrischer Anschluss- beziehungsweise IT-Leistung ein. Für Standortscreening ist das sinnvoller als reine Flächenangaben, weil Stromanschluss, Kühlung, Netzebene und Genehmigungsrisiko direkt daran hängen.",
+          action: "Im iAccess-Screening Leistungsklassen als harte Eingangskategorie nutzen: Edge, Colocation, Hyperscale und KI/HPC-Campus.",
+          source: "https://www.heise.de/hintergrund/Rechenzentren-Weshalb-die-Einstufung-nach-elektrischer-Leistung-sinnvoll-ist-11297998.html?seite=all", confidence: "hoch", tags: "heise.de, Leistung, Klassifizierung, Strom"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Microsoft Azure Cluster in NRW mit 520 MW",
+          topic: "Standort",
+          summary: "Der geplante Microsoft-Azure-Cluster im rheinischen Revier erreicht laut Heise im Endausbau eine Größenordnung von 520 MW Netzleistung. Das zeigt, dass ehemalige Energie- und Industrieflächen für KI-Rechenzentren strategisch attraktiv werden.",
+          action: "Konversionsflächen, Umspannwerksnähe und 110-kV-/Hochspannungsanschlüsse als eigene Standortklasse erfassen.",
+          source: "https://www.heise.de/news/Deutsches-Riesen-Rechenzentrum-von-Microsoft-Azure-kann-520-Megawatt-verheizen-11216718.html", confidence: "hoch", tags: "heise.de, Microsoft, Azure, NRW, 520 MW"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: KI-Rechenzentren boomen in Deutschland",
+          topic: "Markt",
+          summary: "Heise berichtet über mehr als 25 Milliarden Euro angekündigte Investitionen in deutsche Rechenzentren, besonders für KI. Genannt werden unter anderem Schwarz Gruppe, Google, Microsoft, Telekom, Virtus und Data4.",
+          action: "Neue Player und Projektpipeline in Marktakteure und Standortmonitoring übernehmen.",
+          source: "https://www.heise.de/hintergrund/KI-Rechenzentren-Ploetzlicher-Boom-in-Deutschland-11083928.html", confidence: "hoch", tags: "heise.de, KI, Investitionen, Schwarz, Google, Microsoft, Telekom"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Effizienz als Designprinzip für KI-Rechenzentren",
+          topic: "Technik",
+          summary: "Im Heise-Interview wird Effizienz als Gesamtdesign beschrieben: KI-Beschleuniger, Speicher, Netzwerk, Kühlung, Servergehäuse und Energieversorgung müssen zusammen optimiert werden.",
+          action: "Technische Zeichnungen und Anforderungen nach Cooling, Strompfad, Rackdichte und Abwärme trennen.",
+          source: "https://www.heise.de/hintergrund/KI-Rechenzentren-Effizienz-muss-zentrales-Designprinzip-sein-11278530.html", confidence: "mittel", tags: "heise.de, Effizienz, KI, Kühlung, Rackdichte"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Bundesregierung will KI/HPC-Kapazität vervierfachen",
+          topic: "Regulatorik",
+          summary: "Die Rechenzentrumsstrategie der Bundesregierung zielt laut Heise bis 2030 auf mindestens doppelte Gesamtkapazität und mindestens vierfache KI-/HPC-Kapazität. Messgröße soll die Anschlussleistung sein.",
+          action: "Politische Förder- und Beschleunigungslogik in Bauleitplanung und Flächenstrategie aufnehmen.",
+          source: "https://www.heise.de/news/Rechenzentren-Bundesregierung-will-Vervierfachung-bis-2030-11213407.html", confidence: "hoch", tags: "heise.de, Bundesregierung, 2030, Anschlussleistung, KI"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: NTT Frankfurt 6 / Nierstein mit 482 MW",
+          topic: "Standort",
+          summary: "NTT plant in Nierstein/Rheinhessen auf ehemaligem Kasernengelände ein Rechenzentrum mit 482 MW; Bau ab 2027 und Betrieb ab 2029 sind genannt. Nahe 110-kV-Infrastruktur und regenerative PPAs sind zentrale Standortargumente.",
+          action: "Ehemalige Kasernen, Kraftwerksstandorte und große Konversionsflächen in Deutschland als Suchmuster ergänzen.",
+          source: "https://www.heise.de/news/Rechenzentrum-Projekt-von-NTT-in-Nierstein-nimmt-naechsten-Schritt-11168911.html", confidence: "hoch", tags: "heise.de, NTT, Nierstein, 482 MW, Konversion"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Big Tech belastet Energie, Wasser und Ressourcen",
+          topic: "Markt",
+          summary: "Heise beschreibt, dass Big-Tech-Investitionen in KI-Rechenzentren erhebliche Energie-, Wasser- und Ressourcenfragen erzeugen und Transparenz über ökologische Kosten oft fehlt.",
+          action: "Wasserbedarf, WUE, Abwärme, Stromherkunft und Transparenzpflichten als Bewertungsfelder sichtbar machen.",
+          source: "https://www.heise.de/ratgeber/Wie-Big-Tech-Unternehmen-Umwelt-und-Mensch-gefaehrden-10508672.html", confidence: "mittel", tags: "heise.de, Big Tech, Wasser, Energie, Transparenz"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: 482-MW-Gigant in Rheinhessen",
+          topic: "Standort",
+          summary: "Ein zusätzlicher Heise-Treffer beschreibt NTTs Nierstein-Projekt als 482-MW-Großvorhaben und nennt die Dimension als europäisch außergewöhnlich.",
+          action: "Nierstein als Vergleichsfall für Campusleistung, Netzinfrastruktur und kommunale Akzeptanz markieren.",
+          source: "https://www.heise.de/news/482-Megawatt-Gigantisches-Rechenzentrum-in-Reinhessen-11118281.html", confidence: "hoch", tags: "heise.de, NTT, Nierstein, 482 MW, Datencenter"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Microsoft zeigt Fairwater-KI-Rechenzentrum",
+          topic: "Technik",
+          summary: "Heise zeigt Microsofts Fairwater-Rechenzentrum als Referenz für hochverdichtete KI-Infrastruktur mit GPU-Servern und großskaliger Cloud-Architektur.",
+          action: "Bilder und technische Anforderungen zu Rackdichte, Kühlung und GPU-Clustern in die Medien- und Zeichnungsbereiche übernehmen.",
+          source: "https://www.heise.de/news/Microsoft-zeigt-das-leistungsstaerkste-Rechenzentrum-der-Welt-10663057.html", confidence: "mittel", tags: "heise.de, Microsoft, Fairwater, GPU, KI"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Telekom startet KI-Rechenzentrum im Tucherpark",
+          topic: "Standort",
+          summary: "Heise berichtet über ein KI-Rechenzentrum der Telekom/T-Systems in München: 12 MW aktuelle Leistung, geplanter Ausbau auf 20 MW und Nutzung eines bestehenden Gebäudes.",
+          action: "Umnutzung bestehender Büro-/Technikgebäude als eigene Standortoption prüfen.",
+          source: "https://www.heise.de/news/Telekom-Rechenzentrum-soll-deutsche-KI-Leistung-um-die-Haelfte-steigern-11165290.html", confidence: "mittel", tags: "heise.de, Telekom, T-Systems, München, KI, 20 MW"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Heise: Mistral finanziert eigenes KI-Rechenzentrum",
+          topic: "Unternehmen",
+          summary: "Heise meldet einen Kredit über 830 Mio. US-Dollar für Mistrals Rechenzentrum bei Paris mit 44 MW installierter Leistung und 18.000 geplanten Nvidia-Chips.",
+          action: "Europäische KI-Anbieter als neue Nachfragegruppe für souveräne Infrastruktur aufnehmen.",
+          source: "https://www.heise.de/news/Europaeische-KI-Autonomie-Mistral-investiert-830-Mio-US-Dollar-in-Rechenzentrum-11241808.html", confidence: "mittel", tags: "heise.de, Mistral, Frankreich, KI, 44 MW"
+        }
+      ],
+      settings: {
+        endpoint: "",
+        autoDaily: true,
+        lastRun: "",
+        lastResearchSummary: "",
+        sourceQueries: [
+          "Rechenzentrum Baden-Württemberg Bebauungsplan",
+          "Data Center Germany power water requirements",
+          "Rechenzentrum Abwärme Energieeffizienzgesetz",
+          "site:heise.de Rechenzentrum OR Datencenter KI Deutschland",
+          "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg"
+        ]
+      }
+    };
+
+    let data = loadData();
+    let activeSection = "dashboard";
+    let editContext = null;
+
+    function loadData() {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (!raw) {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(seedData));
+        return structuredClone(seedData);
+      }
+      try {
+        const parsed = JSON.parse(raw);
+        const merged = Object.assign(structuredClone(seedData), parsed);
+        mergeSeedArrays(merged, seedData);
+        return merged;
+      } catch {
+        return structuredClone(seedData);
+      }
+    }
+
+    function mergeSeedArrays(target, seed) {
+      ["types", "requirements", "sites", "companies", "planning", "media", "drawings", "findings"].forEach(key => {
+        target[key] = Array.isArray(target[key]) ? target[key] : [];
+        const existing = new Set(target[key].map(item => identityFor(key, item)));
+        (seed[key] || []).forEach(item => {
+          const marker = identityFor(key, item);
+          if (!existing.has(marker)) {
+            target[key].push(item);
+            existing.add(marker);
+          }
+        });
+      });
+      target.settings = { ...seed.settings, ...(target.settings || {}) };
+      target.settings.lastResearchSummary = target.settings.lastResearchSummary || "";
+    }
+
+    function identityFor(key, item) {
+      return [
+        key,
+        item.title || item.name || item.city || "",
+        item.source || item.url || item.pageUrl || item.link || ""
+      ].join("|").toLowerCase();
+    }
+
+    function saveData() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+    }
+
+    function tags(text) {
+      return String(text || "").split(",").map(t => t.trim()).filter(Boolean);
+    }
+
+    function byDate(a, b) {
+      return String(b.updated || b.created).localeCompare(String(a.updated || a.created));
+    }
+
+    function setView(id) {
+      activeSection = id;
+      document.querySelectorAll(".view").forEach(v => v.classList.toggle("active", v.id === id));
+      document.querySelectorAll(".nav-btn").forEach(b => b.classList.toggle("active", b.dataset.view === id));
+      const section = sections.find(s => s.id === id);
+      document.getElementById("pageTitle").textContent = section.title;
+      document.getElementById("pageIntro").textContent = section.intro;
+      render();
+    }
+
+    function renderNav() {
+      document.getElementById("nav").innerHTML = sections.map(s => `
+        <button class="nav-btn ${s.id === activeSection ? "active" : ""}" data-view="${s.id}">
+          <span class="nav-icon">${s.icon}</span><span>${s.title}</span>
+        </button>
+      `).join("");
+      document.querySelectorAll(".nav-btn").forEach(btn => btn.addEventListener("click", () => setView(btn.dataset.view)));
+    }
+
+    function render() {
+      renderNav();
+      renderDashboard();
+      renderCollection("types", "Rechenzentrumstyp hinzufügen", ["name", "category", "scale", "itPower", "area", "tags"]);
+      renderCollection("requirements", "Anforderung hinzufügen", ["name", "category", "threshold", "importance", "tags"]);
+      renderCollection("sites", "BW-Standort hinzufügen", ["city", "operator", "name", "address", "status", "tags"]);
+      renderGermanyMap();
+      renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
+      renderCollection("planning", "Dokument hinzufügen", ["name", "municipality", "status", "docType", "tags"]);
+      renderMedia();
+      renderCollection("drawings", "Zeichnung hinzufügen", ["title", "category", "system", "url", "tags"]);
+      renderResearch();
+      renderAbout();
+    }
+
+    function renderDashboard() {
+      const bwDocs = data.planning.filter(x => /bw|baden|württemberg|wuerttemberg|gemeinde|kommun/i.test([x.tags, x.municipality, x.name].join(" "))).length;
+      const critical = data.requirements.filter(x => x.importance === "kritisch").length;
+      const latest = [...data.findings].sort(byDate).slice(0, 5);
+      const heiseLatest = data.findings.filter(f => /heise\.de/i.test([f.source, f.tags].join(" "))).sort(byDate).slice(0, 4);
+      document.getElementById("dashboard").innerHTML = `
+        <div class="grid kpis">
+          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
+          ${kpi("RZ-Typen", data.types.length, "Technologiekategorien")}
+          ${kpi("BW-Standorte", data.sites.length, "Bestand & Prüfliste")}
+          ${kpi("Kritische Faktoren", critical, "Standortanforderungen")}
+        </div>
+        <div class="grid two-col">
+          <div class="card section">
+            <div class="toolbar">
+              <h3>Aktuelle Zusammenfassungen</h3>
+              <button class="secondary" data-action="research">Recherche starten</button>
+            </div>
+            ${data.settings.lastResearchSummary ? `<div class="research-summary">${escapeHtml(data.settings.lastResearchSummary)}</div>` : ""}
+            <div class="list">
+              ${latest.map(findingCard).join("")}
+            </div>
+          </div>
+          <div class="card section">
+            <h3>Neue Heise-Artikel</h3>
+            <div class="list" style="margin-bottom:14px">
+              ${heiseLatest.map(findingCard).join("")}
+            </div>
+            <h3>Quick-Links</h3>
+            <div class="quick-grid">
+              ${quick("Standort-Screening", "Strom, Glasfaser, Wasser, Naturgefahren und Abwärme prüfen.", "requirements")}
+              ${quick("BW-Standorte", "Bestehende Rechenzentren und Cluster in BW sichten.", "sites")}
+              ${quick("Deutschland-Karte", "Rechenzentren nach Typ farbcodiert sehen.", "germanyMap")}
+              ${quick("BW-Bauleitplanung", "Gemeindeunterlagen, B-Pläne, FNP und Satzungen sammeln.", "planning")}
+              ${quick("Partner-Mapping", "Planer, Betreiber und Bauunternehmen strukturieren.", "companies")}
+              ${quick("Bilder & Zeichnungen", "Bildquellen und technische Schemata prüfen.", "media")}
+              ${quick("KI-Funde", "Neue Funde prüfen und in die Datenbank übernehmen.", "research")}
+            </div>
+          </div>
+        </div>
+      `;
+      document.querySelectorAll("[data-action='research']").forEach(b => b.addEventListener("click", runResearch));
+      document.querySelectorAll("[data-go]").forEach(b => b.addEventListener("click", () => setView(b.dataset.go)));
+    }
+
+    function kpi(label, value, note) {
+      return `<div class="card kpi"><small>${label}</small><b>${value}</b><span>${note}</span></div>`;
+    }
+
+    function quick(title, text, view) {
+      return `<button class="quick-link" data-go="${view}"><h4>${title}</h4><p>${text}</p></button>`;
+    }
+
+    function findingCard(f) {
+      const link = /^https?:\/\//.test(f.source || "") ? `<a href="${escapeHtml(f.source)}" target="_blank" rel="noreferrer">Artikel öffnen</a>` : "";
+      return `<article class="finding">
+        <h4>${escapeHtml(f.title)}</h4>
+        <p>${escapeHtml(f.summary)}</p>
+        ${link}
+        <div style="margin-top:9px">${tags(f.tags).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("")}<span class="pill blue">${escapeHtml(f.topic || "Fund")}</span><span class="pill sun">${escapeHtml(f.confidence || "mittel")}</span></div>
+      </article>`;
+    }
+
+    function renderMedia() {
+      const rows = [...data.media].sort(byDate);
+      document.getElementById("media").innerHTML = `
+        <div class="card section">
+          <div class="toolbar">
+            <h3>Bildquellen zu Rechenzentren</h3>
+            <button class="primary" data-add="media">Bildquelle hinzufügen</button>
+          </div>
+          <div class="media-grid">
+            ${rows.map(mediaCard).join("")}
+          </div>
+        </div>
+      `;
+      document.querySelector(`[data-add="media"]`).addEventListener("click", () => openEditor("media"));
+    }
+
+    function mediaCard(item) {
+      const img = /\.(png|jpe?g|webp|gif|svg)(\?|$)/i.test(item.imageUrl || "") ? item.imageUrl : "";
+      const fallback = `<div style="aspect-ratio:16/9;display:grid;place-items:center;background:#eef4ee;color:#5f6b66;font-size:13px;padding:16px;text-align:center">${escapeHtml(item.category || "Bildquelle")}</div>`;
+      return `<article class="media-card">
+        ${img ? `<img src="${escapeHtml(img)}" alt="${escapeHtml(item.title)}" loading="lazy">` : fallback}
+        <div class="media-body">
+          <h4>${escapeHtml(item.title)}</h4>
+          <p>${escapeHtml(item.notes || "")}</p>
+          <div>${tags(item.tags).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("")}</div>
+          ${item.pageUrl ? `<a href="${escapeHtml(item.pageUrl)}" target="_blank" rel="noreferrer">Quelle öffnen</a>` : ""}
+        </div>
+      </article>`;
+    }
+
+    function renderGermanyMap() {
+      const points = [
+        { name: "Stuttgart Cluster", city: "Stuttgart", type: "Colocation", x: 54, y: 75, note: "AtlasEdge, nLighten, euNetworks" },
+        { name: "Karlsruhe", city: "Karlsruhe", type: "Colocation", x: 46, y: 75, note: "Telemaxx, ILK, KIT" },
+        { name: "Mannheim / Heidelberg", city: "Rhein-Neckar", type: "Enterprise", x: 49, y: 68, note: "MTI/GLH, Nextspace" },
+        { name: "Ulm", city: "Ulm", type: "Edge", x: 62, y: 80, note: "SWU TeleNet" },
+        { name: "Konstanz", city: "Konstanz", type: "Edge", x: 55, y: 90, note: "SeeConnect" },
+        { name: "Frankfurt", city: "Frankfurt", type: "Colocation", x: 51, y: 58, note: "Großes deutsches RZ-Cluster" },
+        { name: "Nierstein", city: "Nierstein", type: "Hyperscale", x: 49, y: 62, note: "NTT Frankfurt 6, 482 MW" },
+        { name: "Bergheim/NRW", city: "Rheinisches Revier", type: "Hyperscale", x: 37, y: 47, note: "Microsoft Azure, 520 MW" },
+        { name: "Lübbenau", city: "Lübbenau", type: "Hyperscale", x: 75, y: 43, note: "Schwarz Digits, 200 MW" },
+        { name: "München", city: "München", type: "Forschung", x: 63, y: 86, note: "Telekom/T-Systems KI-RZ" }
+      ];
+      document.getElementById("germanyMap").innerHTML = `
+        <div class="map-layout">
+          <div class="card section">
+            <h3>Farblegende</h3>
+            <p class="small">Die Karte nutzt bewusst eine abstrahierte Deutschland-Silhouette. Punkte sind Näherungen für die bereits aufgenommenen Standorte und Heise-Projekte; für belastbare GIS-Auswertung später Koordinaten hinterlegen.</p>
+            <div class="legend">
+              <span><i class="legend-dot hyperscale"></i>Hyperscale / KI</span>
+              <span><i class="legend-dot colocation"></i>Colocation</span>
+              <span><i class="legend-dot edge"></i>Edge</span>
+              <span><i class="legend-dot enterprise"></i>Enterprise</span>
+              <span><i class="legend-dot forschung"></i>Forschung / HPC</span>
+            </div>
+            <div class="timeline" style="margin-top:14px">
+              ${points.map(p => `<div><strong>${escapeHtml(p.name)}</strong>: ${escapeHtml(p.note)}</div>`).join("")}
+            </div>
+          </div>
+          <div class="germany-map" aria-label="Deutschland-Karte mit Rechenzentrumspunkten">
+            <svg viewBox="0 0 420 620" aria-hidden="true">
+              <path d="M207 18 164 38 135 82 88 104 70 155 96 198 76 248 102 286 84 331 119 375 113 421 150 460 164 514 204 594 248 547 288 537 306 492 345 462 332 410 362 371 334 323 358 278 324 236 337 190 294 156 286 105 248 86 236 42Z" fill="#e6efe3" stroke="#9db99a" stroke-width="3"/>
+            </svg>
+            ${points.map(p => `<span class="map-point" data-type="${escapeHtml(p.type)}" style="left:${p.x}%;top:${p.y}%" title="${escapeHtml(p.name + " - " + p.note)}"></span><span class="map-label" style="left:${p.x}%;top:${p.y}%">${escapeHtml(p.name)}</span>`).join("")}
+          </div>
+        </div>
+      `;
+    }
+
+    function renderCollection(key, addLabel, columns) {
+      const root = document.getElementById(key);
+      const rows = [...data[key]].sort(byDate);
+      root.innerHTML = `
+        <div class="card section">
+          <div class="toolbar">
+            <div class="filters">
+              <input class="input search" placeholder="Suchen..." data-search="${key}">
+              <select data-filter="${key}">
+                <option value="">Alle Kategorien</option>
+                ${unique(rows.flatMap(item => [item.category, item.status, item.docType, item.role].filter(Boolean))).map(v => `<option>${escapeHtml(v)}</option>`).join("")}
+              </select>
+            </div>
+            <button class="primary" data-add="${key}">${addLabel}</button>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr>${columns.map(c => `<th>${labelFor(key, c)}</th>`).join("")}<th>Aktionen</th></tr></thead>
+              <tbody data-body="${key}">${tableRows(key, rows, columns)}</tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      bindCollection(key, columns);
+    }
+
+    function tableRows(key, rows, columns) {
+      if (!rows.length) return `<tr><td colspan="${columns.length + 1}" class="empty">Noch keine Einträge vorhanden.</td></tr>`;
+      return rows.map(item => `
+        <tr>
+          ${columns.map(c => `<td>${cellValue(item[c], c)}</td>`).join("")}
+          <td>
+            <button class="ghost" data-edit="${key}:${item.id}">Bearbeiten</button>
+            <button class="danger" data-delete="${key}:${item.id}">Löschen</button>
+          </td>
+        </tr>
+      `).join("");
+    }
+
+    function cellValue(value, key) {
+      if (key === "tags") return tags(value).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("");
+      if (key === "importance") return `<span class="pill ${value === "kritisch" ? "red" : "blue"}">${escapeHtml(value || "")}</span>`;
+      if (key === "contact" || key === "url" || key === "link" || key === "source") {
+        const v = String(value || "");
+        if (/^https?:\/\//.test(v)) return `<a href="${escapeHtml(v)}" target="_blank" rel="noreferrer">${escapeHtml(v)}</a>`;
+      }
+      return escapeHtml(value || "");
+    }
+
+    function bindCollection(key, columns) {
+      const search = document.querySelector(`[data-search="${key}"]`);
+      const filter = document.querySelector(`[data-filter="${key}"]`);
+      const apply = () => {
+        const q = search.value.toLowerCase();
+        const f = filter.value;
+        const rows = data[key].filter(item => {
+          const blob = Object.values(item).join(" ").toLowerCase();
+          const hit = !q || blob.includes(q);
+          const inFilter = !f || Object.values(item).includes(f);
+          return hit && inFilter;
+        }).sort(byDate);
+        document.querySelector(`[data-body="${key}"]`).innerHTML = tableRows(key, rows, columns);
+        bindRowActions();
+      };
+      search.addEventListener("input", apply);
+      filter.addEventListener("change", apply);
+      document.querySelector(`[data-add="${key}"]`).addEventListener("click", () => openEditor(key));
+      bindRowActions();
+    }
+
+    function bindRowActions() {
+      document.querySelectorAll("[data-edit]").forEach(btn => {
+        btn.onclick = () => {
+          const [key, id] = btn.dataset.edit.split(":");
+          openEditor(key, id);
+        };
+      });
+      document.querySelectorAll("[data-delete]").forEach(btn => {
+        btn.onclick = () => {
+          const [key, id] = btn.dataset.delete.split(":");
+          if (confirm("Eintrag wirklich löschen?")) {
+            data[key] = data[key].filter(item => item.id !== id);
+            saveData();
+            render();
+          }
+        };
+      });
+    }
+
+    function openEditor(key, id) {
+      editContext = { key, id };
+      const item = id ? data[key].find(x => x.id === id) : {};
+      document.getElementById("modalTitle").textContent = id ? "Eintrag bearbeiten" : "Eintrag hinzufügen";
+      document.getElementById("formFields").innerHTML = schemas[key].map(([field, label, type, options]) => {
+        const value = item[field] || "";
+        if (type === "textarea") {
+          return `<label class="wide">${label}<textarea name="${field}">${escapeHtml(value)}</textarea></label>`;
+        }
+        if (type === "select") {
+          return `<label>${label}<select name="${field}">${options.map(o => `<option ${o === value ? "selected" : ""}>${escapeHtml(o)}</option>`).join("")}</select></label>`;
+        }
+        return `<label>${label}<input class="input" name="${field}" value="${escapeHtml(value)}"></label>`;
+      }).join("");
+      document.getElementById("entryDialog").showModal();
+    }
+
+    document.getElementById("entryForm").addEventListener("submit", event => {
+      event.preventDefault();
+      if (!editContext) return;
+      const form = new FormData(event.target);
+      const payload = Object.fromEntries(form.entries());
+      const { key, id } = editContext;
+      if (id) {
+        data[key] = data[key].map(item => item.id === id ? { ...item, ...payload, updated: today } : item);
+      } else {
+        data[key].push({ id: crypto.randomUUID(), created: today, updated: today, ...payload });
+      }
+      saveData();
+      document.getElementById("entryDialog").close();
+      render();
+    });
+
+    function renderResearch() {
+      document.getElementById("research").innerHTML = `
+        <div class="research-panel">
+          <div class="card section">
+            <div class="toolbar">
+              <h3>Automatische Recherche</h3>
+              <button class="secondary" data-action="research">Neue Recherche starten</button>
+            </div>
+            <p class="small">Ohne Backend erzeugt die HTML-Datei strukturierte Recherche-Funde aus den hinterlegten Suchaufträgen. Wenn ein Backend-Endpunkt eingetragen ist, sendet die App die Suchaufträge dorthin und speichert die Antwort automatisch.</p>
+            <div class="meter"><span id="researchMeter"></span></div>
+            ${data.settings.lastResearchSummary ? `<div class="research-summary">${escapeHtml(data.settings.lastResearchSummary)}</div>` : ""}
+            <div class="timeline" id="researchLog">
+              <div>Bereit. Quellen: Nachrichten, Google-Suchaufträge, Gemeinde-Websites, Bauleitplanungsportale, Betreiber- und Planer-Websites.</div>
+            </div>
+            <h3 style="margin-top:20px">Gespeicherte KI-Funde</h3>
+            <div class="list">${[...data.findings].sort(byDate).map(findingCard).join("")}</div>
+          </div>
+          <div class="card section">
+            <h3>Einstellungen</h3>
+            <label>Backend-Endpunkt optional
+              <input class="input" id="endpoint" value="${escapeHtml(data.settings.endpoint || "")}" placeholder="https://.../research">
+            </label>
+            <label style="margin-top:12px">Suchaufträge
+              <textarea id="sourceQueries">${escapeHtml(data.settings.sourceQueries.join("\n"))}</textarea>
+            </label>
+            <label style="margin-top:12px; display:flex; align-items:center; gap:9px">
+              <input type="checkbox" id="autoDaily" ${data.settings.autoDaily ? "checked" : ""} style="width:18px;height:18px">
+              Beim Öffnen automatisch einmal täglich recherchieren
+            </label>
+            <p class="small">Letzter Lauf: ${escapeHtml(data.settings.lastRun || "noch nicht ausgeführt")}</p>
+            <div class="actions" style="justify-content:flex-start;margin-top:12px">
+              <button class="primary" id="saveSettings">Einstellungen speichern</button>
+            </div>
+            <h3 style="margin-top:22px">Quellenklassen</h3>
+            <div class="source-grid">
+              ${sourceBox("Nachrichten", "Branchenmeldungen, Betreiber-News, lokale Presse, Wirtschafts- und Energieberichte.")}
+              ${sourceBox("heise.de", "Feste Quelle für Rechenzentrum, Datencenter, KI, Leistungsklassen, Energie, Wasser und Regulatorik.")}
+              ${sourceBox("Gemeinden", "Bebauungspläne, FNP, Amtsblätter, Beteiligungsportale und Ratsinfosysteme.")}
+              ${sourceBox("Regulatorik", "BauGB, BauNVO, EnEfG, DSGVO, Wasserrecht, Immissionsschutz, Brandschutz.")}
+              ${sourceBox("Marktakteure", "Betreiber, Planer, EPC, MEP, Generalunternehmer und Glasfaser-/Energieanbieter.")}
+              ${sourceBox("Bilder", "Projektbilder, Innenansichten, Kühlung, Stromversorgung und Kartenmaterial mit Quellenlink.")}
+              ${sourceBox("Technische Zeichnungen", "Schemata zu Aufbau, Brandschutz, Wasser, Kühlung, Strompfad und Abwärmenutzung.")}
+            </div>
+          </div>
+        </div>
+      `;
+      document.querySelectorAll("[data-action='research']").forEach(b => b.addEventListener("click", runResearch));
+      document.getElementById("saveSettings").addEventListener("click", () => {
+        data.settings.endpoint = document.getElementById("endpoint").value.trim();
+        data.settings.sourceQueries = document.getElementById("sourceQueries").value.split("\n").map(x => x.trim()).filter(Boolean);
+        data.settings.autoDaily = document.getElementById("autoDaily").checked;
+        saveData();
+        alert("Einstellungen gespeichert.");
+      });
+    }
+
+    function sourceBox(title, text) {
+      return `<div class="source"><h4>${title}</h4><p>${text}</p></div>`;
+    }
+
+    async function runResearch(focus = true) {
+      if (focus) setView("research");
+      if (!document.getElementById("researchMeter")) renderResearch();
+      const meter = document.getElementById("researchMeter");
+      const log = document.getElementById("researchLog");
+      const steps = [
+        "Suchaufträge geladen",
+        "Quellenklassen priorisiert",
+        "Bauleitplanungs-Hinweise strukturiert",
+        "Standortparameter extrahiert",
+        "Funde automatisch gespeichert"
+      ];
+      log.innerHTML = "";
+      for (let i = 0; i < steps.length; i++) {
+        meter.style.width = `${(i + 1) * 20}%`;
+        log.insertAdjacentHTML("beforeend", `<div>${steps[i]}</div>`);
+        await new Promise(resolve => setTimeout(resolve, 220));
+      }
+
+      const endpoint = data.settings.endpoint;
+      if (endpoint) {
+        try {
+          const response = await fetch(endpoint, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ queries: data.settings.sourceQueries, date: today, focus: "Rechenzentren Baden-Württemberg" })
+          });
+          const result = await response.json();
+          const findings = Array.isArray(result.findings) ? result.findings : [];
+          findings.forEach(f => data.findings.push(normalizeFinding(f)));
+          log.insertAdjacentHTML("beforeend", `<div>${findings.length} Backend-Funde gespeichert.</div>`);
+        } catch (error) {
+          data.findings.push(normalizeFinding({
+            title: "Backend-Recherche fehlgeschlagen",
+            topic: "Quelle",
+            summary: "Der konfigurierte Endpunkt konnte nicht erreicht werden. Die App hat stattdessen einen lokalen Recherchefund gespeichert.",
+            action: "Endpunkt, CORS und Netzwerkzugriff prüfen.",
+            source: endpoint,
+            confidence: "niedrig",
+            tags: "Backend, Fehler"
+          }));
+        }
+      }
+
+      const generated = generateLocalFindings();
+      const before = snapshotCounts();
+      const addedFindings = addUniqueItems("findings", generated.map(normalizeFinding));
+      const addedTypes = addUniqueItems("types", seedData.types.filter(x => /heise\.de|KI\/HPC/i.test([x.source, x.category].join(" "))));
+      const addedCompanies = addUniqueItems("companies", seedData.companies.filter(x => /heise\.de/i.test(x.source || "")));
+      const addedRequirements = addUniqueItems("requirements", seedData.requirements.filter(x => /heise\.de/i.test(x.source || "")));
+      const addedMedia = addUniqueItems("media", seedData.media);
+      const addedDrawings = addUniqueItems("drawings", seedData.drawings);
+      const after = snapshotCounts();
+      data.settings.lastRun = today;
+      const summary = [
+        `${addedFindings} neue Artikel/Funde`,
+        `${addedCompanies} neue Player`,
+        `${addedTypes} neue Rechenzentrums-Typen`,
+        `${addedRequirements} neue Anforderungen`,
+        `${addedMedia} Bildquellen`,
+        `${addedDrawings} technische Zeichnungen`
+      ].join(", ");
+      data.settings.lastResearchSummary = `Recherche abgeschlossen: ${summary}. Datenstand vorher ${before.total} Einträge, danach ${after.total}.`;
+      log.insertAdjacentHTML("beforeend", `<div>${escapeHtml(data.settings.lastResearchSummary)}</div>`);
+      alert(data.settings.lastResearchSummary);
+      saveData();
+      if (focus) {
+        renderResearch();
+      } else {
+        render();
+      }
+    }
+
+    function generateLocalFindings() {
+      const query = data.settings.sourceQueries[Math.floor(Math.random() * data.settings.sourceQueries.length)] || "Rechenzentrum Baden-Württemberg";
+      return [
+        {
+          title: `Rechercheauftrag gespeichert: ${query}`,
+          topic: "Quelle",
+          summary: "Der Suchauftrag wurde als strukturierter KI-Fund im Datenraum gespeichert. Für echte Websuche sollten Google Custom Search, SerpAPI, ein RSS-Modul oder ein eigener Crawler angebunden werden.",
+          action: "Quelle öffnen, belastbare Dokumente sichern und Fund in den passenden Datenbereich übertragen.",
+          source: "Lokaler Recherchemodus",
+          confidence: "mittel",
+          tags: "Recherche, Automatisch, Quellen"
+        },
+        {
+          title: "Prüfschwerpunkt für BW: Stromanschluss plus Abwärme",
+          topic: "Standort",
+          summary: "Für die Vorprüfung geeigneter Flächen sollte jeder Treffer mit Netzanschluss, Erweiterbarkeit, Glasfaser, Wasser-/Kühlkonzept, Naturgefahren und potentieller Abwärmenutzung bewertet werden.",
+          action: "Bewertungsmatrix für Flächen ergänzen und mit iAccess PV-/Speicherpipeline abgleichen.",
+          source: "Lokale Wissensbasis",
+          confidence: "hoch",
+          tags: "BW, Strom, Abwärme, Standortanalyse"
+        }
+      ];
+    }
+
+    function snapshotCounts() {
+      const keys = ["types", "requirements", "sites", "companies", "planning", "media", "drawings", "findings"];
+      const counts = Object.fromEntries(keys.map(key => [key, (data[key] || []).length]));
+      counts.total = keys.reduce((sum, key) => sum + counts[key], 0);
+      return counts;
+    }
+
+    function addUniqueItems(key, items) {
+      data[key] = Array.isArray(data[key]) ? data[key] : [];
+      const existing = new Set(data[key].map(item => identityFor(key, item)));
+      let added = 0;
+      items.forEach(item => {
+        const marker = identityFor(key, item);
+        if (!existing.has(marker)) {
+          data[key].push(item);
+          existing.add(marker);
+          added += 1;
+        }
+      });
+      return added;
+    }
+
+    function normalizeFinding(f) {
+      return {
+        id: crypto.randomUUID(),
+        created: today,
+        updated: today,
+        title: f.title || "Neuer Fund",
+        topic: f.topic || "Quelle",
+        summary: f.summary || "",
+        action: f.action || "",
+        source: f.source || "",
+        confidence: f.confidence || "mittel",
+        tags: f.tags || "KI-Fund"
+      };
+    }
+
+    function renderAbout() {
+      document.getElementById("about").innerHTML = `
+        <div class="grid two-col">
+          <div class="card section">
+            <h3>Positionierung</h3>
+            <p>iAccess Energy entwickelt, plant, finanziert und baut industrielle Photovoltaikkraftwerke und Batteriespeicher. Für Rechenzentren entsteht daraus ein naheliegender Standortvorteil: Flächenzugang, Netzanschlussverständnis, Genehmigungserfahrung, technische Planung und erneuerbare Versorgung können in einem datengetriebenen Screening gebündelt werden.</p>
+            <p>Der Datenraum soll helfen, geeignete Flächen in Baden-Württemberg vorzuselektieren und mit KI-Entwicklern, Betreibern, Planern und Kommunen belastbar zu diskutieren.</p>
+          </div>
+          <div class="card section">
+            <h3>Bewertungslogik für Flächen</h3>
+            <div class="timeline">
+              <div>1. Ausschluss: Hochwasser, Schutzgebiete, ungeeignete Bauleitplanung, fehlende Erschließung.</div>
+              <div>2. Gatekeeper: Stromanschluss, Glasfaser, Fläche, Erweiterbarkeit, Netzreserve.</div>
+              <div>3. Qualität: Abwärmenutzung, EE-Nähe, Speicheroption, kommunale Akzeptanz, Genehmigungsrisiko.</div>
+              <div>4. Partnerfit: Betreiberbedarf, KI-Workload, Planer, Bauunternehmen und Finanzierungsmodell.</div>
+            </div>
+          </div>
+        </div>
+      `;
+    }
+
+    function labelFor(key, field) {
+      const found = (schemas[key] || []).find(s => s[0] === field);
+      return found ? found[1] : field;
+    }
+
+    function unique(values) {
+      return [...new Set(values.filter(Boolean))].sort((a, b) => String(a).localeCompare(String(b)));
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, char => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#039;"
+      }[char]));
+    }
+
+    document.querySelectorAll("[data-close]").forEach(btn => {
+      btn.addEventListener("click", () => btn.closest("dialog").close());
+    });
+
+    document.getElementById("researchNow").addEventListener("click", runResearch);
+
+    document.getElementById("exportData").addEventListener("click", () => {
+      const blob = new Blob([JSON.stringify(data, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `iaccess-datenraum-rechenzentren-${today}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+
+    document.getElementById("importData").addEventListener("click", () => {
+      document.getElementById("importText").value = "";
+      document.getElementById("importDialog").showModal();
+    });
+
+    document.getElementById("importForm").addEventListener("submit", event => {
+      event.preventDefault();
+      try {
+        const imported = JSON.parse(document.getElementById("importText").value);
+        data = Object.assign(structuredClone(seedData), imported);
+        saveData();
+        document.getElementById("importDialog").close();
+        render();
+      } catch {
+        alert("Import fehlgeschlagen. Bitte gültiges JSON einfügen.");
+      }
+    });
+
+    render();
+
+    if (data.settings.autoDaily && data.settings.lastRun !== today) {
+      window.setTimeout(() => runResearch(false), 500);
+    }
+  </script>
+</body>
+</html>
