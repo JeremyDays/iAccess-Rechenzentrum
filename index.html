@@ -414,6 +414,7 @@
       border-radius: var(--radius);
       overflow: hidden;
       background: #eef4ee;
+      box-shadow: 0 18px 46px rgba(26, 55, 49, .18);
     }
 
     .leaflet-container {
@@ -421,20 +422,12 @@
       color: var(--ink);
     }
 
-    .dc-marker {
-      width: 16px;
-      height: 16px;
-      border-radius: 999px;
-      border: 2px solid #fff;
-      box-shadow: 0 2px 12px rgba(16, 42, 46, .35);
-    }
-
-    .dc-marker.hyperscale, .legend-dot.hyperscale { background: #b9473f; }
-    .dc-marker.colocation, .legend-dot.colocation { background: #126d8a; }
-    .dc-marker.edge, .legend-dot.edge { background: #78a22f; }
-    .dc-marker.enterprise, .legend-dot.enterprise { background: #f2b705; }
-    .dc-marker.forschung, .legend-dot.forschung { background: #6f5cc2; }
-    .dc-marker.pruefung, .legend-dot.pruefung { background: #79837f; }
+    .legend-dot.hyperscale { background: #b9473f; }
+    .legend-dot.colocation { background: #126d8a; }
+    .legend-dot.edge { background: #78a22f; }
+    .legend-dot.enterprise { background: #f2b705; }
+    .legend-dot.forschung { background: #6f5cc2; }
+    .legend-dot.pruefung { background: #79837f; }
 
     .map-table {
       display: grid;
@@ -1418,6 +1411,16 @@
     let leafletMap = null;
     let leafletLayer = null;
 
+    const germanyBounds = [[47.15, 5.55], [55.25, 15.35]];
+    const markerColors = {
+      Hyperscale: "#b9473f",
+      Colocation: "#126d8a",
+      Edge: "#78a22f",
+      Enterprise: "#f2b705",
+      Forschung: "#6f5cc2",
+      "in Prüfung": "#79837f"
+    };
+
     const germanyMapPoints = [
       { name: "AtlasEdge NB8 Stuttgart", city: "Stuttgart", type: "Colocation", lat: 48.7784, lon: 9.1800, note: "Neue Brücke 8, Stuttgart" },
       { name: "AtlasEdge / Kyndryl Stuttgart-Vaihingen", city: "Stuttgart-Vaihingen", type: "Colocation", lat: 48.7296, lon: 9.1116, note: "Schockenriedstraße / Gropiusplatz, Vaihingen" },
@@ -1660,7 +1663,10 @@
       }
       leafletMap = L.map(mapEl, {
         scrollWheelZoom: true,
-        zoomControl: true
+        zoomControl: true,
+        maxBounds: germanyBounds,
+        maxBoundsViscosity: .9,
+        minZoom: 6
       }).setView([50.55, 9.85], 6);
       L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 18,
@@ -1668,32 +1674,28 @@
       }).addTo(leafletMap);
       leafletLayer = L.featureGroup().addTo(leafletMap);
       germanyMapPoints.forEach(point => {
-        const marker = L.marker([point.lat, point.lon], {
-          icon: L.divIcon({
-            className: "",
-            html: `<span class="dc-marker ${markerClass(point.type)}"></span>`,
-            iconSize: [16, 16],
-            iconAnchor: [8, 8]
-          }),
-          title: point.name
+        const marker = L.circleMarker([point.lat, point.lon], {
+          radius: point.type === "Hyperscale" ? 9 : 7,
+          color: "#ffffff",
+          weight: 2,
+          fillColor: markerColors[point.type] || markerColors["in Prüfung"],
+          fillOpacity: .95,
+          opacity: 1
         }).bindPopup(`<strong>${escapeHtml(point.name)}</strong><br>${escapeHtml(point.city)}<br><span>${escapeHtml(point.type)}</span><br>${escapeHtml(point.note)}`);
+        marker.bindTooltip(point.name, { direction: "top", offset: [0, -8], opacity: .9 });
         marker.addTo(leafletLayer);
         point.marker = marker;
       });
-      leafletMap.fitBounds(leafletLayer.getBounds().pad(0.12));
+      leafletMap.fitBounds(germanyBounds, { padding: [12, 12] });
       document.querySelectorAll("[data-map-focus]").forEach(button => {
         button.addEventListener("click", () => {
           const point = germanyMapPoints.find(p => p.name === button.dataset.mapFocus);
           if (point?.marker) {
-            leafletMap.setView([point.lat, point.lon], 11);
+            leafletMap.setView([point.lat, point.lon], 10);
             point.marker.openPopup();
           }
         });
       });
-    }
-
-    function markerClass(type) {
-      return String(type || "pruefung").toLowerCase().replace("ü", "ue").replace(/\s+/g, "-");
     }
 
     function renderCollection(key, addLabel, columns) {
