@@ -1656,7 +1656,7 @@
         <div class="map-layout">
           <div class="card section">
             <h3>Farblegende</h3>
-            <p class="small">Interaktive Deutschlandkarte mit Koordinaten auf Stadt-, Adress- oder Projektgebietsebene. Exakte Grundstücksgrenzen sind nur dort belastbar, wo sie öffentlich dokumentiert wurden.</p>
+            <p class="small">Interaktive Deutschlandkarte mit Stadtbeschriftungen und Bundeslandgrenzen auf Basis von BKG/GeoBasis-DE TopPlusOpen. Exakte Grundstücksgrenzen sind nur dort belastbar, wo sie öffentlich dokumentiert wurden.</p>
             <div class="legend">
               <span><i class="legend-dot hyperscale"></i>Hyperscale / KI</span>
               <span><i class="legend-dot colocation"></i>Colocation</span>
@@ -1693,26 +1693,33 @@
         maxBounds: germanyBounds,
         maxBoundsViscosity: .9,
         minZoom: 6,
-        attributionControl: false
+        attributionControl: true
       }).setView([50.55, 9.85], 6);
-      L.rectangle(germanyBounds, {
-        color: "transparent",
-        fillColor: "#f7faf4",
-        fillOpacity: 1,
-        interactive: false
+      L.tileLayer("https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web/default/WEBMERCATOR/{z}/{y}/{x}.png", {
+        maxZoom: 18,
+        attribution: "&copy; GeoBasis-DE / BKG (2026), TopPlusOpen"
       }).addTo(leafletMap);
-      L.polygon(germanRegions, {
-        color: "#cddbc7",
-        weight: 1,
-        fillColor: "#eef5ea",
-        fillOpacity: .38,
+      L.polygon([
+        [[56.2, 4.4], [56.2, 16.6], [46.2, 16.6], [46.2, 4.4], [56.2, 4.4]],
+        germanyOutline
+      ], {
+        color: "transparent",
+        fillColor: "#ffffff",
+        fillOpacity: .72,
+        fillRule: "evenodd",
         interactive: false
       }).addTo(leafletMap);
       L.polygon(germanyOutline, {
-        color: "#7f9d79",
+        color: "#5d7a94",
         weight: 2,
-        fillColor: "#e3eedf",
-        fillOpacity: .78,
+        fillColor: "transparent",
+        fillOpacity: 0,
+        interactive: false
+      }).addTo(leafletMap);
+      L.polyline(germanRegions, {
+        color: "#6d7f95",
+        weight: 1,
+        opacity: .65,
         interactive: false
       }).addTo(leafletMap);
       leafletLayer = L.featureGroup().addTo(leafletMap);
