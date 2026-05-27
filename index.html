@@ -670,6 +670,7 @@
       <section class="view" id="companies"></section>
       <section class="view" id="planning"></section>
       <section class="view" id="zoningPlans"></section>
+      <section class="view" id="pdfExtracts"></section>
       <section class="view" id="media"></section>
       <section class="view" id="drawings"></section>
       <section class="view" id="research"></section>
@@ -726,6 +727,7 @@
       { id: "companies", title: "Bauunternehmen & Planer", icon: "⌂", intro: "Unternehmen, Planer, Generalunternehmer und Referenzen im deutschen Rechenzentrumsmarkt." },
       { id: "planning", title: "Bauleitplanung & Genehmigungen", icon: "§", intro: "Regulatorik, Bebauungspläne, Flächennutzungspläne und Genehmigungsanforderungen mit BW-Fokus." },
       { id: "zoningPlans", title: "Bebauungspläne RZ", icon: "▤", intro: "Kommunale Bebauungspläne, FNP-Änderungen und Beteiligungsunterlagen mit Bezug zu Rechenzentren und Datacentern." },
+      { id: "pdfExtracts", title: "PDF-Daten RZ", icon: "▥", intro: "Ausgelesene PDF-Inhalte aus Bebauungsplänen, Begründungen, Umweltberichten, Gutachten und Bescheiden zu Rechenzentren." },
       { id: "media", title: "Bilder", icon: "▧", intro: "Gesammelte Bildquellen zu Rechenzentren, Projekten, Innenansichten und technischer Infrastruktur." },
       { id: "drawings", title: "Technische Zeichnungen", icon: "⌗", intro: "Schemata und technische Referenzen zu Aufbau, Kühlung, Strom, Brandschutz und Wasserversorgung." },
       { id: "research", title: "KI-Recherche", icon: "◎", intro: "Quellenlisten, Recherche-Jobs, automatisch gespeicherte Funde und späterer Backend-Anschluss." },
@@ -794,6 +796,19 @@
         ["documents", "Dokumente / Links", "textarea"],
         ["notes", "Relevante Inhalte", "textarea"],
         ["source", "Quelle", "text"],
+        ["tags", "Tags", "text"]
+      ],
+      pdfExtracts: [
+        ["municipality", "Gemeinde", "text"],
+        ["dataCenter", "Rechenzentrum / Projekt", "text"],
+        ["documentTitle", "PDF / Dokument", "text"],
+        ["documentType", "Dokumenttyp", "select", ["Begründung", "Umweltbericht", "Zusammenfassende Erklärung", "Abwärme-Vorstudie", "Kurzerläuterung", "Bescheid", "Gutachten", "Sonstiges"]],
+        ["pages", "Seiten", "text"],
+        ["keyFacts", "Kernaussagen", "textarea"],
+        ["technicalFacts", "Technische Daten", "textarea"],
+        ["planningFacts", "Planungs-/Genehmigungsdaten", "textarea"],
+        ["sourceUrl", "PDF-Link", "text"],
+        ["localFile", "Lokale Ablage", "text"],
         ["tags", "Tags", "text"]
       ],
       media: [
@@ -1292,6 +1307,116 @@
           source: "Projektseite RZZR", tags: "Rackwitz, Sachsen, Rechenzentrum, Beteiligung prüfen"
         }
       ],
+      pdfExtracts: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Wustermark", dataCenter: "Rechenzentrum 1 Wustermark Nordwest / Virtus",
+          documentTitle: "Begründung Bebauungsplan Nr. W 49 „Rechenzentrum 1 Wustermark Nordwest“",
+          documentType: "Begründung", pages: "110",
+          keyFacts: "Satzungsfassung November 2024. Ziel ist Planungsrecht für ein Rechenzentrum als sonstiges Sondergebiet mit Zweckbestimmung Rechenzentrum. Lagegunst durch Nähe Berlin, gute Erschließung, Nähe zum Umspannwerk und Vorprägung durch Gewerbegebiet Zeestow/Brieselang.",
+          technicalFacts: "Jedes Modul erhält Notstromversorgung aus Batteriesystemen und Notstromdieselgeneratoren. Generatoren nach Konzept als Container-Lösung außerhalb der Module. Campus benötigt umlaufende Straße, Feuerwehrangriff von allen Seiten sowie Aufstellflächen für Kräne; hoher Versiegelungsgrad. Niederschlagswasser soll auf dem Grundstück versickern.",
+          planningFacts: "Regelverfahren mit Umweltprüfung; Berücksichtigung von TA Lärm, Schall, Niederschlagswasser, Abwärmenutzung und Ausgleichs-/Ersatzmaßnahmen.",
+          sourceUrl: "https://www.wustermark.de/PDF/W_49_Rechenzentrum_1_Wustermark_Nordwest_Begr%C3%BCndung.PDF?Ext=PDF&ObjID=583&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1743673153",
+          localFile: "pdfs/wustermark-begründung-bebauungsplan-w-49-rechenzentrum-1-wustermark-nordwest.pdf",
+          tags: "PDF-ausgelesen, Wustermark, Sondergebiet, Notstrom, Feuerwehr, Niederschlagswasser"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Wustermark", dataCenter: "Rechenzentrum 1 Wustermark Nordwest / Virtus",
+          documentTitle: "Zusammenfassende Erklärung zum Bebauungsplan Nr. W 49",
+          documentType: "Zusammenfassende Erklärung", pages: "4",
+          keyFacts: "Der Bebauungsplan tritt mit Bekanntmachung in Kraft. Gemeindevertretung beschloss am 28.02.2023 die Aufstellung im Regelverfahren mit Umweltprüfung.",
+          technicalFacts: "Planungsziel: sonstiges Sondergebiet nach § 11 BauNVO mit Zweckbestimmung Rechenzentrum einschließlich ergänzender Anlagen der Stromerzeugung bzw. Stromlieferung und Sicherheitsanlagen. Nähe zum Umspannwerk ist ein wesentliches Standortargument.",
+          planningFacts: "Umweltbelange, Öffentlichkeit und Behördenbeteiligung wurden zusammenfassend dokumentiert. Niederschlagswasser soll auf dem Grundstück versickern; Abwässer werden erfasst und aufbereitet.",
+          sourceUrl: "https://www.wustermark.de/PDF/W_49_Rechenzentrum_Wustermark_Nordwest_zusammenfassende_Erkl%C3%A4rung.PDF?Ext=PDF&ObjID=1057&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1779361011",
+          localFile: "pdfs/wustermark-zusammenfassende-erklärung-bebauungsplan-w-49.pdf",
+          tags: "PDF-ausgelesen, Wustermark, Satzung, Umweltbelange, Umspannwerk"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Wustermark", dataCenter: "Rechenzentrum 1 Wustermark Nordwest / Virtus",
+          documentTitle: "Vorstudie zur Nutzung der Abwärme des Rechenzentrums Wustermark",
+          documentType: "Abwärme-Vorstudie", pages: "151",
+          keyFacts: "Die CDW GmbH plant als Projektentwickler die Errichtung des Rechenzentrums. Mit geplanter Fertigstellung 2030 soll eine elektrische Anschlussleistung von 300 MW zur Verfügung stehen; ein Großteil der Energie fällt als Abwärme an.",
+          technicalFacts: "Abwärmepotenzial wird für Wärmenetz- und Großabnehmeroptionen untersucht. Betrieb soll mit Strom aus erneuerbaren Energieträgern erfolgen. Offene Diskussionspunkte betreffen u.a. Notstromgeneratoren, Nutzungsdauer und Beteiligung am Wärmenetz.",
+          planningFacts: "Vorstudie dient als Grundlage für kommunale Wärme-/Abwärmestrategie und öffentliche Diskussion zum Bebauungsplan W 49.",
+          sourceUrl: "https://www.wustermark.de/PDF/Vorstudie_zur_Nutzung_der_Abw%C3%A4rme_des_Rechenzentrums_Wustermark.PDF?Ext=PDF&ObjID=945&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1771580975",
+          localFile: "pdfs/wustermark-vorstudie-zur-nutzung-der-abwärme-des-rechenzentrums-wustermark.pdf",
+          tags: "PDF-ausgelesen, Wustermark, Abwärme, 300 MW, Wärmenetz, Erneuerbare"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Babenhausen", dataCenter: "Babenhausen Data Center / Aschaffenburger Straße 50-58",
+          documentTitle: "Begründung Bebauungsplan „Aschaffenburger Straße 50 - 58“",
+          documentType: "Begründung", pages: "36",
+          keyFacts: "Bebauungsplan für ein konkretes Bauvorhaben: Bau eines Rechenzentrums auf ehemaligem/umgenutztem Gewerbestandort. Plan enthält Lageplan Rechenzentrum und Sondergebietsfestsetzungen.",
+          technicalFacts: "Brandschutztechnische Ausgestaltung wird im Bauantragsverfahren festgelegt. Im Sondergebiet wird eine Löschwasserzisterne als Löschwasserreserve errichtet. Niederschlagswasser, insbesondere Dachflächenwasser, soll über Muldenrigolen vor Ort versickern. Notstromgeneratoren liegen rückwärtig; im nordöstlichen Bereich ist eine geschlossene Stromübergabe-/Umspannanlage geplant.",
+          planningFacts: "Schalltechnische Untersuchungen zur Emissionskontingentierung; Artenschutz- und Ausgleichsmaßnahmen u.a. Zauneidechsenhabitat.",
+          sourceUrl: "https://www.babenhausen.de/bauen-planen-und-umwelt/bebauungsplaene/bestandskraeftige-bebauungsplaene/google-aschaffenburger-strasse/20210819-bp-begruendung-sb-pb90082-p.pdf?cid=bkz",
+          localFile: "pdfs/babenhausen-begründung-bebauungsplan-aschaffenburger-straße-50-58.pdf",
+          tags: "PDF-ausgelesen, Babenhausen, Brandschutz, Löschwasserzisterne, Niederschlagswasser, Generator"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Brieselang", dataCenter: "Rechenzentrum GVZ Brieselang",
+          documentTitle: "Umweltbericht zum Bebauungsplan Nr. 117 „Rechenzentrum“",
+          documentType: "Umweltbericht", pages: "73",
+          keyFacts: "Das Plangebiet umfasst ca. 10,8 ha im Güterverkehrszentrum Brieselang. Die Gemeinde schafft planungsrechtliche Voraussetzungen für ein Sondergebiet Rechenzentrum SO-RZ.",
+          technicalFacts: "Zulässig sind Rechen-/Datenzentrum und erforderliche Nebenanlagen wie Umspannwerk, Generatoren für elektrische Notfallversorgung sowie Büronutzung für Betrieb/Steuerung. Niederschlagswasser soll als Brauchwasser genutzt oder vor Ort versickert werden; Untergrund wird als durchlässig und versickerungsfähig eingestuft.",
+          planningFacts: "Umweltbericht mit Schutzgütern, Schallgutachten, Biotopen und Grundwasserbewertung. Westlicher Flächenstreifen bleibt von Bebauung frei.",
+          sourceUrl: "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+          localFile: "pdfs/brieselang-uvpg-vorprüfung-bebauungsplan-nr-117-rechenzentrum.pdf",
+          tags: "PDF-ausgelesen, Brieselang, 10,8 ha, SO-RZ, Umspannwerk, Generatoren, Niederschlagswasser"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Ankum", dataCenter: "Rechenzentrum am Lordsee",
+          documentTitle: "Kurzerläuterung Bebauungsplan Nr. 66 „Sondergebiet Rechenzentrum am Lordsee“",
+          documentType: "Kurzerläuterung", pages: "4",
+          keyFacts: "Vorentwurf vom 24.07.2024 zur frühzeitigen Öffentlichkeits- und Behördenbeteiligung. Bebauungsplan Nr. 66 Sondergebiet Rechenzentrum am Lordsee mit paralleler 94. Änderung des FNP der Samtgemeinde Bersenbrück.",
+          technicalFacts: "Fachbeiträge werden im weiteren Verfahren ergänzt; bereits genannt sind Artenschutz, Schallbericht zu Bestands-/Nachbarbetrieb und künftig Schallschutz, Verkehr, Entwässerung und Geruch soweit erforderlich.",
+          planningFacts: "Frühzeitige Beteiligung nach §§ 3/4 Abs. 1 BauGB zur Festlegung von Umfang und Detaillierungsgrad der Umweltprüfung.",
+          sourceUrl: "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
+          localFile: "pdfs/ankum-kurzerläuterung-bebauungsplan-nr-66-sondergebiet-rechenzentrum-am-lordsee.pdf",
+          tags: "PDF-ausgelesen, Ankum, Vorentwurf, FNP-Änderung, Schallschutz"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Werneuchen", dataCenter: "Rechenzentrum Seefeld",
+          documentTitle: "Begründung mit Umweltbericht Bebauungsplan „Rechenzentrum Seefeld“",
+          documentType: "Begründung", pages: "82",
+          keyFacts: "Entwurf Stand Mai 2025. Paralleländerung des FNP: statt Sondergebiet Photovoltaik soll Sondergebiet Rechenzentrum dargestellt werden.",
+          technicalFacts: "Stromversorgung über geplantes Umspannwerk von e.dis/50Hertz und ein weiteres Umspannwerk im Plangebiet. Kühlung soll ohne externe Trinkwasserzufuhr durch Luftkühlung und Flüssigkeitskühlung in geschlossenen Kreisläufen erfolgen. Jedes Modul erhält Notstrom aus Batteriespeichern und Diesel-Notstromgeneratoren. Löschwasserversorgung wird im Baugenehmigungsverfahren mit Brandschutzdienststelle festgelegt; bei großen Gebäudekomplexen sind Feuerwehrzufahrten und Bewegungsflächen erforderlich.",
+          planningFacts: "Niederschlagswasser: geotechnischer Bericht sieht Versickerung über Anlagen nach DWA A 138 wegen geringer Wasserdurchlässigkeit kritisch; weitere Entsorgungsmaßnahmen möglich. Schalltechnische Untersuchung berücksichtigt Wohnbebauung nördlich der B 158.",
+          sourceUrl: "https://www.werneuchen-barnim.de/downloads/datei/MDA5NzkzOGYyNzAwMDJkMnlmK0x3MktFNnN2aytCWnRqNSticXVHR1NtRUY3TXBUcDlwNFlhWEs4cDNOcjFJOW1xUFNndjFDTlR6a3NxdGdYRTlxQURhYWI0NUdQeTRublBLT09mTjQ1MkxIZ25NaHVkNlJ0VnRta2RSc2d4UWp6OWNadEM2RDJLTHFvUitTeVhNbG1GcTAwc3BsVGN6MWowSEVyNi9XVFFyR3c5NXozNGg0WlF6dzJycz0",
+          localFile: "pdfs/werneuchen-bebauungsplan-rechenzentrum-seefeld-pdf.pdf",
+          tags: "PDF-ausgelesen, Werneuchen, Umspannwerk, 50Hertz, Kühlung, Wasser, Brandschutz, Schall"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Ahrensfelde", dataCenter: "Rechenzentrum Eiche",
+          documentTitle: "Begründung Bebauungsplan „Rechenzentrum Eiche“",
+          documentType: "Begründung", pages: "nicht ausgelesen",
+          keyFacts: "PDF wurde heruntergeladen, ist aber AES-verschlüsselt; für Volltextauslesung wird die Python-Bibliothek cryptography benötigt. Bekannte Gemeindedaten bleiben hinterlegt: Sondergebiet Rechenzentrum, ca. 9,6 ha, Beteiligungsportal mit Begründung, Umweltbericht, Regenwasserkonzept, Schall, Geotechnik, Verkehr und Abwärme.",
+          technicalFacts: "Aus Gemeindeseite/Downloadliste: Regenwasserkonzept, schalltechnische Untersuchung, geotechnischer Bericht und Abwärmepotentialanalyse vorhanden; Volltextauslesung nach Crypto-Erweiterung nachziehen.",
+          planningFacts: "Frühzeitige Beteiligung über DiPlanung; Datenqualitätsstatus: PDF technisch vorhanden, Textauslesung offen.",
+          sourceUrl: "https://www.ahrensfelde.de/regional/bauleitplanung/bebauungsplan-rechenzentrum-eiche-900000063-30601.html?plantyp=900000063&titel=Bebauungsplan+%22Rechenzentrum+Eiche%22",
+          localFile: "pdfs/ahrensfelde-begründung-bebauungsplan-rechenzentrum-eiche.pdf",
+          tags: "PDF-Download, Auslesung-offen, Ahrensfelde, AES, cryptography erforderlich"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Heusenstamm", dataCenter: "EdgeConneX Campus Heusenstamm",
+          documentTitle: "RP Darmstadt Bescheid EdgeConneX Rechenzentrum Heusenstamm",
+          documentType: "Bescheid", pages: "nicht ausgelesen",
+          keyFacts: "PDF-Link ist bekannt, der direkte Python-Download scheiterte wegen Zertifikatskette. Aus kommunalen Angaben/RP-Kontext: zwei Rechenzentren EdgeConneX, Sondergebiet Rechenzentrum Nord/Süd, städtebaulicher Vertrag mit Erschließung, Artenschutz, Niederschlagswasser, Abwärmenutzung, erneuerbarer Energie und Begrünung.",
+          technicalFacts: "Zu prüfen nach erfolgreichem Download: immissionsschutzrechtliche Auflagen, Notstrom, Kühlung, Wasser/Niederschlagswasser, Abwärme und Nebenbestimmungen.",
+          planningFacts: "Datenqualitätsstatus: PDF-Auslesung offen; Download mit Zertifikats-Workaround oder manuellem Abruf nachziehen.",
+          sourceUrl: "https://rp-darmstadt.hessen.de/sites/rp-darmstadt.hessen.de/files/2026-04/besch_ie-rl-rz_heusenstamm_edgeconnex_2026_02_16.pdf",
+          localFile: "",
+          tags: "PDF-Auslesung-offen, Heusenstamm, EdgeConneX, Bescheid, Zertifikat"
+        }
+      ],
       media: [
         {
           id: crypto.randomUUID(), created: today, updated: today,
@@ -1619,7 +1744,7 @@
     }
 
     function mergeSeedArrays(target, seed) {
-      ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "media", "drawings", "findings"].forEach(key => {
+      ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "findings"].forEach(key => {
         target[key] = Array.isArray(target[key]) ? target[key] : [];
         const existing = new Set(target[key].map(item => identityFor(key, item)));
         (seed[key] || []).forEach(item => {
@@ -1684,6 +1809,7 @@
       renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
       renderCollection("planning", "Dokument hinzufügen", ["name", "municipality", "status", "docType", "tags"]);
       renderCollection("zoningPlans", "Bebauungsplan hinzufügen", ["municipality", "state", "planName", "status", "dataCenter", "tags"]);
+      renderCollection("pdfExtracts", "PDF-Datensatz hinzufügen", ["municipality", "dataCenter", "documentTitle", "documentType", "pages", "tags"]);
       renderMedia();
       renderCollection("drawings", "Zeichnung hinzufügen", ["title", "category", "system", "url", "tags"]);
       renderResearch();
@@ -1697,7 +1823,7 @@
       const heiseLatest = data.findings.filter(f => /heise\.de/i.test([f.source, f.tags].join(" "))).sort(byDate).slice(0, 4);
       document.getElementById("dashboard").innerHTML = `
         <div class="grid kpis">
-          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.zoningPlans.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
+          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.zoningPlans.length + data.pdfExtracts.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
           ${kpi("RZ-Typen", data.types.length, "Technologiekategorien")}
           ${kpi("BW-Standorte", data.sites.length, "Bestand & Prüfliste")}
           ${kpi("Kritische Faktoren", critical, "Standortanforderungen")}
@@ -1725,6 +1851,7 @@
               ${quick("Deutschland-Karte", "Rechenzentren nach Typ farbcodiert sehen.", "germanyMap")}
               ${quick("BW-Bauleitplanung", "Gemeindeunterlagen, B-Pläne, FNP und Satzungen sammeln.", "planning")}
               ${quick("Bebauungspläne RZ", "Kommunale RZ-B-Pläne und Beteiligungslinks prüfen.", "zoningPlans")}
+              ${quick("PDF-Daten RZ", "Ausgelesene PDF-Fakten zu Technik und Planung sehen.", "pdfExtracts")}
               ${quick("Partner-Mapping", "Planer, Betreiber und Bauunternehmen strukturieren.", "companies")}
               ${quick("Bilder & Zeichnungen", "Bildquellen und technische Schemata prüfen.", "media")}
               ${quick("KI-Funde", "Neue Funde prüfen und in die Datenbank übernehmen.", "research")}
@@ -2221,6 +2348,7 @@
       const addedCompanies = addUniqueItems("companies", seedData.companies.filter(x => /heise\.de/i.test(x.source || "")));
       const addedRequirements = addUniqueItems("requirements", seedData.requirements.filter(x => /heise\.de/i.test(x.source || "")));
       const addedZoning = addUniqueItems("zoningPlans", seedData.zoningPlans);
+      const addedPdfExtracts = addUniqueItems("pdfExtracts", seedData.pdfExtracts);
       const addedMedia = addUniqueItems("media", seedData.media);
       const addedDrawings = addUniqueItems("drawings", seedData.drawings);
       const after = snapshotCounts();
@@ -2231,6 +2359,7 @@
         `${addedTypes} neue Rechenzentrums-Typen`,
         `${addedRequirements} neue Anforderungen`,
         `${addedZoning} Bebauungspläne`,
+        `${addedPdfExtracts} PDF-Datensätze`,
         `${addedMedia} Bildquellen`,
         `${addedDrawings} technische Zeichnungen`
       ].join(", ");
@@ -2270,7 +2399,7 @@
     }
 
     function snapshotCounts() {
-      const keys = ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "media", "drawings", "findings"];
+      const keys = ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "findings"];
       const counts = Object.fromEntries(keys.map(key => [key, (data[key] || []).length]));
       counts.total = keys.reduce((sum, key) => sum + counts[key], 0);
       return counts;
