@@ -669,6 +669,7 @@
       <section class="view" id="dataCenterDetail"></section>
       <section class="view" id="companies"></section>
       <section class="view" id="planning"></section>
+      <section class="view" id="zoningPlans"></section>
       <section class="view" id="media"></section>
       <section class="view" id="drawings"></section>
       <section class="view" id="research"></section>
@@ -724,6 +725,7 @@
       { id: "dataCenterDetail", title: "Datencenter-Detail", icon: "⌕", intro: "Gesammelte Informationen zum ausgewählten Rechenzentrum.", hidden: true },
       { id: "companies", title: "Bauunternehmen & Planer", icon: "⌂", intro: "Unternehmen, Planer, Generalunternehmer und Referenzen im deutschen Rechenzentrumsmarkt." },
       { id: "planning", title: "Bauleitplanung & Genehmigungen", icon: "§", intro: "Regulatorik, Bebauungspläne, Flächennutzungspläne und Genehmigungsanforderungen mit BW-Fokus." },
+      { id: "zoningPlans", title: "Bebauungspläne RZ", icon: "▤", intro: "Kommunale Bebauungspläne, FNP-Änderungen und Beteiligungsunterlagen mit Bezug zu Rechenzentren und Datacentern." },
       { id: "media", title: "Bilder", icon: "▧", intro: "Gesammelte Bildquellen zu Rechenzentren, Projekten, Innenansichten und technischer Infrastruktur." },
       { id: "drawings", title: "Technische Zeichnungen", icon: "⌗", intro: "Schemata und technische Referenzen zu Aufbau, Kühlung, Strom, Brandschutz und Wasserversorgung." },
       { id: "research", title: "KI-Recherche", icon: "◎", intro: "Quellenlisten, Recherche-Jobs, automatisch gespeicherte Funde und späterer Backend-Anschluss." },
@@ -782,6 +784,17 @@
         ["url", "URL / Ablageort", "text"],
         ["tags", "Tags", "text"],
         ["source", "Quelle", "text"]
+      ],
+      zoningPlans: [
+        ["municipality", "Gemeinde", "text"],
+        ["state", "Bundesland", "text"],
+        ["planName", "Bebauungsplan / Verfahren", "text"],
+        ["status", "Status", "select", ["Aufstellungsbeschluss", "Frühzeitige Beteiligung", "Entwurf/Beteiligung", "Satzung/rechtskräftig", "in Prüfung", "eingestellt"]],
+        ["dataCenter", "Rechenzentrum / Projekt", "text"],
+        ["documents", "Dokumente / Links", "textarea"],
+        ["notes", "Relevante Inhalte", "textarea"],
+        ["source", "Quelle", "text"],
+        ["tags", "Tags", "text"]
       ],
       media: [
         ["title", "Titel", "text"],
@@ -1189,6 +1202,96 @@
           tags: "Regulatorik, Normen, Genehmigung", source: "Datencenter alle wichtigen Daten (CHAT GPT_Shion).pdf"
         }
       ],
+      zoningPlans: [
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Ahrensfelde", state: "Brandenburg", planName: "Bebauungsplan \"Rechenzentrum Eiche\"",
+          status: "Frühzeitige Beteiligung", dataCenter: "Rechenzentrum Eiche",
+          documents: "Gemeindeseite: https://www.ahrensfelde.de/regional/bauleitplanung/bebauungsplan-rechenzentrum-eiche-900000063-30601.html?plantyp=900000063&titel=Bebauungsplan+%22Rechenzentrum+Eiche%22\nBeteiligungsportal: https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail\nDownloadsammlung: https://rechenzentrum-eiche.de/download",
+          notes: "Planungsziel: bauplanungsrechtliche Voraussetzung für ein Rechenzentrum östlich der Ortslage Eiche; Sondergebiet Rechenzentrum, ca. 9,6 ha; Unterlagen u.a. Planzeichnung, Begründung, Umweltbericht, Regenwasserkonzept, Verkehr, Schall, Geotechnik, Abwärme.",
+          source: "Gemeinde Ahrensfelde / DiPlanung", tags: "Rechenzentrum, Sondergebiet, FNP, Brandenburg, gefunden"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Wustermark", state: "Brandenburg", planName: "Bebauungsplan W 49 \"Rechenzentrum 1 Wustermark Nordwest\"",
+          status: "Satzung/rechtskräftig", dataCenter: "Rechenzentrum Wustermark Nordwest / Virtus",
+          documents: "Bauleitplanung: https://www.wustermark.de/Gemeindeentwicklung-Wohnen/Gemeindeentwicklung/Bauleitplanung/\nBegründung PDF: https://www.wustermark.de/PDF/W_49_Rechenzentrum_1_Wustermark_Nordwest_Begr%C3%BCndung.PDF?Ext=PDF&ObjID=583&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1743673153\nZusammenfassende Erklärung: https://www.wustermark.de/PDF/W_49_Rechenzentrum_Wustermark_Nordwest_zusammenfassende_Erkl%C3%A4rung.PDF?Ext=PDF&ObjID=1057&ObjLa=1&ObjSvrID=3847&WTR=1&_ts=1779361011",
+          notes: "Sondergebiet Rechenzentrum; Nähe Umspannwerk, Abwärme-Vorstudie, stufenweise Entwicklung mit bis zu ca. 300 MWel laut kommunaler Abwärmeunterlage.",
+          source: "Gemeinde Wustermark", tags: "Rechenzentrum, Virtus, Abwärme, Brandenburg, Satzung"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Brieselang", state: "Brandenburg", planName: "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+          status: "Satzung/rechtskräftig", dataCenter: "Rechenzentrum GVZ Brieselang",
+          documents: "Gemeindemeldung Satzungsbeschluss: https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html\nUnterlagenbeispiel: https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+          notes: "Satzungsbeschluss am 29.02.2024; Sondergebiet Rechenzentrum im GVZ Brieselang, zugleich Änderung des räumlichen Teil-Flächennutzungsplans Bredow.",
+          source: "Gemeinde Brieselang", tags: "Rechenzentrum, GVZ, Brandenburg, Satzung"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Neckarwestheim", state: "Baden-Württemberg", planName: "Bebauungsplan \"Rechenzentrum\"",
+          status: "Frühzeitige Beteiligung", dataCenter: "Rechenzentrum Neckarwestheim",
+          documents: "Bekanntmachungen: https://www.neckarwestheim.de/rathaus-service/bekanntmachungen\nNussbaum-Auszug: https://www.nussbaum.de/entdecken/news/oeffentliche-bekanntmachung-3354964",
+          notes: "Gemeinderat beschloss am 25.03.2026 Aufstellung und Vorentwurf; Beteiligung nach § 3 Abs. 1 BauGB vom 30.03.2026 bis 08.05.2026. Separat wurde ein vorhabenbezogener Bebauungsplan \"KI-Rechenzentrum\" eingestellt.",
+          source: "Gemeinde Neckarwestheim / Nussbaum", tags: "Rechenzentrum, Baden-Württemberg, Beteiligung, BW"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Babenhausen", state: "Hessen", planName: "Bebauungsplan \"Aschaffenburger Straße 50 - 58\"",
+          status: "Satzung/rechtskräftig", dataCenter: "Babenhausen Data Center",
+          documents: "Bestandskräftige Bebauungspläne: https://www.babenhausen.de/bauen-planen-und-umwelt/bebauungsplaene/bestandskraeftige-bebauungsplaene/\nBegründung PDF: https://www.babenhausen.de/bauen-planen-und-umwelt/bebauungsplaene/bestandskraeftige-bebauungsplaene/google-aschaffenburger-strasse/20210819-bp-begruendung-sb-pb90082-p.pdf?cid=bkz",
+          notes: "Sondergebiet Rechenzentrum; ehemaliges Betonwerk, Satzungsbeschluss 15.07.2021; parallel 28. FNP-Änderung zu Sonderbaufläche Rechenzentrum.",
+          source: "Stadt Babenhausen", tags: "Rechenzentrum, Sondergebiet, Hessen, Google, Satzung"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Planegg", state: "Bayern", planName: "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
+          status: "Entwurf/Beteiligung", dataCenter: "MPG Data-Center Martinsried",
+          documents: "Bebauungsplan Nr. 83: https://www.planegg.de/rathaus-and-buergerservice/bauen-planen/bauleitplanung/bebauungsplaene/aktuelle-bekanntmachungen/bebauungsplan-nr-83\nPresseauszug: https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
+          notes: "Vorhabenbezogener Bebauungsplan für Data-Center der Max-Planck-Gesellschaft auf Campus Martinsried; Entwurf laut Presse im Dezember 2025 gebilligt.",
+          source: "Gemeinde Planegg / Merkur", tags: "Datacenter, MPG, Martinsried, Bayern, Beteiligung"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Bedburg", state: "Nordrhein-Westfalen", planName: "Erweiterung Gewerbegebiet BEB61 / Sondergebiet Rechenzentrum",
+          status: "Aufstellungsbeschluss", dataCenter: "Microsoft / Hyperscaler Bedburg",
+          documents: "Stadtmeldung: https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Erweiterung-fuer-das-Gewerbegebiet-BEB61-beschlossen.html",
+          notes: "Stadtentwicklungsausschuss beschloss 2026 planungsrechtliche Voraussetzungen für Erweiterung BEB61; Zweckbestimmung Sondergebiet Rechenzentrum, Microsoft-Planung und weiterer Hyperscaler.",
+          source: "Stadt Bedburg", tags: "Microsoft, Hyperscale, NRW, Sondergebiet"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Werneuchen", state: "Brandenburg", planName: "Bebauungsplan \"Rechenzentrum Seefeld\"",
+          status: "Entwurf/Beteiligung", dataCenter: "Rechenzentrum Seefeld",
+          documents: "Öffentlichkeitsbeteiligung: https://www.werneuchen-barnim.de/portal/meldungen/oeffentlichkeitsbeteiligung-entwurf-des-bebauungsplanes-rechenzentrum-seefeld--900000705-30690.html\nPDF-Treffer: https://www.werneuchen-barnim.de/downloads/datei/MDA5NzkzOGYyNzAwMDJkMnlmK0x3MktFNnN2aytCWnRqNSticXVHR1NtRUY3TXBUcDlwNFlhWEs4cDNOcjFJOW1xUFNndjFDTlR6a3NxdGdYRTlxQURhYWI0NUdQeTRublBLT09mTjQ1MkxIZ25NaHVkNlJ0VnRta2RSc2d4UWp6OWNadEM2RDJLTHFvUitTeVhNbG1GcTAwc3BsVGN6MWowSEVyNi9XVFFyR3c5NXozNGg0WlF6dzJycz0",
+          notes: "Entwurf des Bebauungsplanes Rechenzentrum Seefeld, vormals Gewerbepark Seefeld II; Sondergebiet Rechenzentrum.",
+          source: "Stadt Werneuchen", tags: "Rechenzentrum, Seefeld, Brandenburg"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Ankum", state: "Niedersachsen", planName: "Bebauungsplan Nr. 66 \"Sondergebiet Rechenzentrum am Lordsee\"",
+          status: "in Prüfung", dataCenter: "Rechenzentrum am Lordsee",
+          documents: "Kurzerläuterung PDF: https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
+          notes: "Sondergebiet Rechenzentrum am Lordsee; frühe Beteiligungsunterlage mit Rechenzentrum, Betriebsleiter-/Mitarbeiterwohnungen, Kantine und Kindergroßtagespflege.",
+          source: "Samtgemeinde Bersenbrück / Ankum", tags: "Rechenzentrum, Niedersachsen, Sondergebiet"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Heusenstamm", state: "Hessen", planName: "Bebauungsplan / städtebaulicher Vertrag \"Rechenzentrum am Campus Heusenstamm\"",
+          status: "in Prüfung", dataCenter: "EdgeConneX Campus Heusenstamm",
+          documents: "Stadtmeldung Baustart: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/4520/campus-baustart-fuer-rechenzentren-verkehrsfuehrung-waehrend-der-bauphase\nStadtpolitik-Meldung: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/6421/stadtpolitik-naechste-sitzung-der-stadtverordneten-am-10-juli\nRP Darmstadt Bescheid: https://rp-darmstadt.hessen.de/sites/rp-darmstadt.hessen.de/files/2026-04/besch_ie-rl-rz_heusenstamm_edgeconnex_2026_02_16.pdf",
+          notes: "Zwei Rechenzentren von EdgeConneX; städtebaulicher Vertrag nennt Erschließung, Artenschutz, Niederschlagswasser, Abwärmenutzung, 100% erneuerbare Energien, Fassaden-/Dachbegrünung. RP-Bescheid nennt Sondergebiet Rechenzentrum Nord/Süd.",
+          source: "Stadt Heusenstamm / RP Darmstadt", tags: "EdgeConneX, Hessen, Campus, Wasser, Abwärme"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          municipality: "Rackwitz", state: "Sachsen", planName: "Gewerbepark Zschortau / Rechenzentrum Zschortau-Rackwitz",
+          status: "in Prüfung", dataCenter: "Rechenzentrum Zschortau-Rackwitz",
+          documents: "Projektseite: https://rzzr.de/",
+          notes: "Projektseite beschreibt gemeinsames Vorhaben mit Gemeinde Rackwitz; Immission und Verkehr sollen im Bebauungsplanverfahren untersucht werden.",
+          source: "Projektseite RZZR", tags: "Rackwitz, Sachsen, Rechenzentrum, Beteiligung prüfen"
+        }
+      ],
       media: [
         {
           id: crypto.randomUUID(), created: today, updated: today,
@@ -1423,6 +1526,9 @@
           "Data Center Germany power water requirements",
           "Rechenzentrum Abwärme Energieeffizienzgesetz",
           "site:heise.de Rechenzentrum OR Datencenter KI Deutschland",
+          "site:.de Bebauungsplan Rechenzentrum Gemeinde PDF",
+          "site:.de Bebauungsplan Datacenter Gemeinde PDF",
+          "site:.de Sondergebiet Rechenzentrum Bebauungsplan",
           "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg"
         ]
       }
@@ -1513,7 +1619,7 @@
     }
 
     function mergeSeedArrays(target, seed) {
-      ["types", "requirements", "sites", "companies", "planning", "media", "drawings", "findings"].forEach(key => {
+      ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "media", "drawings", "findings"].forEach(key => {
         target[key] = Array.isArray(target[key]) ? target[key] : [];
         const existing = new Set(target[key].map(item => identityFor(key, item)));
         (seed[key] || []).forEach(item => {
@@ -1577,6 +1683,7 @@
       renderDataCenterDetail();
       renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
       renderCollection("planning", "Dokument hinzufügen", ["name", "municipality", "status", "docType", "tags"]);
+      renderCollection("zoningPlans", "Bebauungsplan hinzufügen", ["municipality", "state", "planName", "status", "dataCenter", "tags"]);
       renderMedia();
       renderCollection("drawings", "Zeichnung hinzufügen", ["title", "category", "system", "url", "tags"]);
       renderResearch();
@@ -1590,7 +1697,7 @@
       const heiseLatest = data.findings.filter(f => /heise\.de/i.test([f.source, f.tags].join(" "))).sort(byDate).slice(0, 4);
       document.getElementById("dashboard").innerHTML = `
         <div class="grid kpis">
-          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
+          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.zoningPlans.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
           ${kpi("RZ-Typen", data.types.length, "Technologiekategorien")}
           ${kpi("BW-Standorte", data.sites.length, "Bestand & Prüfliste")}
           ${kpi("Kritische Faktoren", critical, "Standortanforderungen")}
@@ -1617,6 +1724,7 @@
               ${quick("BW-Standorte", "Bestehende Rechenzentren und Cluster in BW sichten.", "sites")}
               ${quick("Deutschland-Karte", "Rechenzentren nach Typ farbcodiert sehen.", "germanyMap")}
               ${quick("BW-Bauleitplanung", "Gemeindeunterlagen, B-Pläne, FNP und Satzungen sammeln.", "planning")}
+              ${quick("Bebauungspläne RZ", "Kommunale RZ-B-Pläne und Beteiligungslinks prüfen.", "zoningPlans")}
               ${quick("Partner-Mapping", "Planer, Betreiber und Bauunternehmen strukturieren.", "companies")}
               ${quick("Bilder & Zeichnungen", "Bildquellen und technische Schemata prüfen.", "media")}
               ${quick("KI-Funde", "Neue Funde prüfen und in die Datenbank übernehmen.", "research")}
@@ -2112,6 +2220,7 @@
       const addedTypes = addUniqueItems("types", seedData.types.filter(x => /heise\.de|KI\/HPC/i.test([x.source, x.category].join(" "))));
       const addedCompanies = addUniqueItems("companies", seedData.companies.filter(x => /heise\.de/i.test(x.source || "")));
       const addedRequirements = addUniqueItems("requirements", seedData.requirements.filter(x => /heise\.de/i.test(x.source || "")));
+      const addedZoning = addUniqueItems("zoningPlans", seedData.zoningPlans);
       const addedMedia = addUniqueItems("media", seedData.media);
       const addedDrawings = addUniqueItems("drawings", seedData.drawings);
       const after = snapshotCounts();
@@ -2121,6 +2230,7 @@
         `${addedCompanies} neue Player`,
         `${addedTypes} neue Rechenzentrums-Typen`,
         `${addedRequirements} neue Anforderungen`,
+        `${addedZoning} Bebauungspläne`,
         `${addedMedia} Bildquellen`,
         `${addedDrawings} technische Zeichnungen`
       ].join(", ");
@@ -2160,7 +2270,7 @@
     }
 
     function snapshotCounts() {
-      const keys = ["types", "requirements", "sites", "companies", "planning", "media", "drawings", "findings"];
+      const keys = ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "media", "drawings", "findings"];
       const counts = Object.fromEntries(keys.map(key => [key, (data[key] || []).length]));
       counts.total = keys.reduce((sum, key) => sum + counts[key], 0);
       return counts;
