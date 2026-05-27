@@ -454,6 +454,27 @@
       font-size: 14px;
     }
 
+    .detail-grid {
+      display: grid;
+      grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr);
+      gap: 16px;
+      align-items: start;
+    }
+
+    .info-list {
+      display: grid;
+      gap: 9px;
+    }
+
+    .info-list div {
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 8px;
+      font-size: 14px;
+    }
+
+    .info-list div:last-child { border-bottom: 0; }
+    .info-list strong { display: block; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: 3px; }
+
     .legend {
       display: flex;
       flex-wrap: wrap;
@@ -596,7 +617,7 @@
         height: auto;
       }
       nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-      .kpis, .two-col, .research-panel, .map-layout { grid-template-columns: 1fr; }
+      .kpis, .two-col, .research-panel, .map-layout, .detail-grid { grid-template-columns: 1fr; }
     }
 
     @media (max-width: 720px) {
@@ -645,6 +666,7 @@
       <section class="view" id="requirements"></section>
       <section class="view" id="sites"></section>
       <section class="view" id="germanyMap"></section>
+      <section class="view" id="dataCenterDetail"></section>
       <section class="view" id="companies"></section>
       <section class="view" id="planning"></section>
       <section class="view" id="media"></section>
@@ -699,6 +721,7 @@
       { id: "requirements", title: "Standortanforderungen", icon: "⌁", intro: "Parameter für Strom, Glasfaser, Wasser, Fläche, Naturgefahren, Abwärme, Netz und Bauleitplanung." },
       { id: "sites", title: "BW-Standorte", icon: "⌖", intro: "Bestehende und geplante Rechenzentrumsstandorte in Baden-Württemberg aus der Standortliste und ergänzenden Quellen." },
       { id: "germanyMap", title: "Deutschland-Karte", icon: "◇", intro: "Farbcodierte Übersicht der bereits aufgenommenen Rechenzentren und Projekte in Deutschland." },
+      { id: "dataCenterDetail", title: "Datencenter-Detail", icon: "⌕", intro: "Gesammelte Informationen zum ausgewählten Rechenzentrum.", hidden: true },
       { id: "companies", title: "Bauunternehmen & Planer", icon: "⌂", intro: "Unternehmen, Planer, Generalunternehmer und Referenzen im deutschen Rechenzentrumsmarkt." },
       { id: "planning", title: "Bauleitplanung & Genehmigungen", icon: "§", intro: "Regulatorik, Bebauungspläne, Flächennutzungspläne und Genehmigungsanforderungen mit BW-Fokus." },
       { id: "media", title: "Bilder", icon: "▧", intro: "Gesammelte Bildquellen zu Rechenzentren, Projekten, Innenansichten und technischer Infrastruktur." },
@@ -1410,6 +1433,7 @@
     let editContext = null;
     let leafletMap = null;
     let leafletLayer = null;
+    let selectedDataCenterName = "";
 
     const germanyBounds = [[47.15, 5.55], [55.25, 15.35]];
     const markerColors = {
@@ -1535,7 +1559,7 @@
     }
 
     function renderNav() {
-      document.getElementById("nav").innerHTML = sections.map(s => `
+      document.getElementById("nav").innerHTML = sections.filter(s => !s.hidden).map(s => `
         <button class="nav-btn ${s.id === activeSection ? "active" : ""}" data-view="${s.id}">
           <span class="nav-icon">${s.icon}</span><span>${s.title}</span>
         </button>
@@ -1550,6 +1574,7 @@
       renderCollection("requirements", "Anforderung hinzufügen", ["name", "category", "threshold", "importance", "tags"]);
       renderCollection("sites", "BW-Standort hinzufügen", ["city", "operator", "name", "address", "status", "tags"]);
       renderGermanyMap();
+      renderDataCenterDetail();
       renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
       renderCollection("planning", "Dokument hinzufügen", ["name", "municipality", "status", "docType", "tags"]);
       renderMedia();
@@ -1733,6 +1758,7 @@
           opacity: 1
         }).bindPopup(`<strong>${escapeHtml(point.name)}</strong><br>${escapeHtml(point.city)}<br><span>${escapeHtml(point.type)}</span><br>${escapeHtml(point.note)}`);
         marker.bindTooltip(point.name, { direction: "top", offset: [0, -8], opacity: .9 });
+        marker.on("click", () => openDataCenterDetail(point.name));
         marker.addTo(leafletLayer);
         point.marker = marker;
       });
@@ -1746,6 +1772,112 @@
           }
         });
       });
+    }
+
+    function openDataCenterDetail(pointName) {
+      selectedDataCenterName = pointName;
+      setView("dataCenterDetail");
+    }
+
+    function renderDataCenterDetail() {
+      const root = document.getElementById("dataCenterDetail");
+      const point = germanyMapPoints.find(p => p.name === selectedDataCenterName) || germanyMapPoints[0];
+      const matches = findSiteMatches(point);
+      const relatedCompanies = findRelated(data.companies, point, ["name", "role", "region", "references", "notes", "tags"]).slice(0, 6);
+      const relatedFindings = findRelated(data.findings, point, ["title", "summary", "action", "tags", "source"]).slice(0, 6);
+      const relatedMedia = findRelated(data.media, point, ["title", "notes", "tags", "source"]).slice(0, 4);
+      root.innerHTML = `
+        <div class="toolbar">
+          <button class="ghost" data-go="germanyMap">Zurück zur Karte</button>
+          <button class="ghost" data-go="sites">Standorttabelle öffnen</button>
+        </div>
+        <div class="detail-grid">
+          <div class="card section">
+            <h3>${escapeHtml(point.name)}</h3>
+            <div class="info-list">
+              ${infoRow("Stadt / Gebiet", point.city)}
+              ${infoRow("Typ", point.type)}
+              ${infoRow("Koordinaten", `${point.lat.toFixed(4)}, ${point.lon.toFixed(4)}`)}
+              ${infoRow("Hinweis", point.note)}
+            </div>
+            <div style="margin-top:12px">
+              <span class="pill blue">${escapeHtml(point.type)}</span>
+              ${matches.length ? `<span class="pill">${matches.length} Standort-Eintrag${matches.length === 1 ? "" : "e"}</span>` : `<span class="pill red">kein Tabellenmatch</span>`}
+            </div>
+          </div>
+          <div class="grid">
+            <div class="card section">
+              <h3>Standortdaten</h3>
+              ${matches.length ? matches.map(siteDetailCard).join("") : `<p class="small">Für diesen Kartenpunkt gibt es noch keinen exakt passenden Standort-Datensatz. Die Karteninformation wird als Recherchepunkt geführt.</p>`}
+            </div>
+            <div class="card section">
+              <h3>Passende Player / Betreiber</h3>
+              <div class="list">${relatedCompanies.length ? relatedCompanies.map(companyDetailCard).join("") : `<p class="small">Noch keine passenden Unternehmen verknüpft.</p>`}</div>
+            </div>
+            <div class="card section">
+              <h3>Recherchefunde & Quellen</h3>
+              <div class="list">${relatedFindings.length ? relatedFindings.map(findingCard).join("") : `<p class="small">Noch keine passenden Recherchefunde verknüpft.</p>`}</div>
+            </div>
+            <div class="card section">
+              <h3>Bilder / Medien</h3>
+              <div class="list">${relatedMedia.length ? relatedMedia.map(mediaTextCard).join("") : `<p class="small">Noch keine passenden Medien verknüpft.</p>`}</div>
+            </div>
+          </div>
+        </div>
+      `;
+      root.querySelectorAll("[data-go]").forEach(button => button.addEventListener("click", () => setView(button.dataset.go)));
+    }
+
+    function findSiteMatches(point) {
+      const city = normalizeText(point.city.split(/[\/,]/)[0]);
+      const pointWords = normalizeText([point.name, point.city, point.note].join(" ")).split(" ").filter(w => w.length > 3);
+      return data.sites.filter(site => {
+        const blob = normalizeText(Object.values(site).join(" "));
+        return blob.includes(city) || pointWords.some(word => blob.includes(word));
+      });
+    }
+
+    function findRelated(rows, point, fields) {
+      const terms = normalizeText([point.name, point.city, point.type, point.note].join(" ")).split(" ").filter(word => word.length > 3);
+      return rows.filter(row => {
+        const blob = normalizeText(fields.map(field => row[field]).join(" "));
+        return terms.some(term => blob.includes(term));
+      });
+    }
+
+    function normalizeText(value) {
+      return String(value || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, " ").trim();
+    }
+
+    function infoRow(label, value) {
+      return `<div><strong>${escapeHtml(label)}</strong>${escapeHtml(value || "nicht hinterlegt")}</div>`;
+    }
+
+    function siteDetailCard(site) {
+      return `<article class="finding">
+        <h4>${escapeHtml(site.name || site.city)}</h4>
+        <p>${escapeHtml([site.operator, site.address, site.postalCode, site.city].filter(Boolean).join(" · "))}</p>
+        <p>${escapeHtml(site.status ? `Status: ${site.status}` : "")}</p>
+        ${site.link ? `<a href="${escapeHtml(site.link)}" target="_blank" rel="noreferrer">Standortquelle öffnen</a>` : ""}
+        <div style="margin-top:9px">${tags(site.tags).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("")}<span class="pill blue">${escapeHtml(site.source || "Quelle")}</span></div>
+      </article>`;
+    }
+
+    function companyDetailCard(company) {
+      return `<article class="finding">
+        <h4>${escapeHtml(company.name)}</h4>
+        <p>${escapeHtml([company.role, company.region].filter(Boolean).join(" · "))}</p>
+        <p>${escapeHtml(company.notes || company.references || "")}</p>
+        ${company.contact ? `<a href="${escapeHtml(company.contact)}" target="_blank" rel="noreferrer">Website öffnen</a>` : ""}
+      </article>`;
+    }
+
+    function mediaTextCard(item) {
+      return `<article class="finding">
+        <h4>${escapeHtml(item.title)}</h4>
+        <p>${escapeHtml(item.notes || "")}</p>
+        ${item.pageUrl ? `<a href="${escapeHtml(item.pageUrl)}" target="_blank" rel="noreferrer">Quelle öffnen</a>` : ""}
+      </article>`;
     }
 
     function renderCollection(key, addLabel, columns) {
