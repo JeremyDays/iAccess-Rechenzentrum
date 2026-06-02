@@ -1624,8 +1624,8 @@
           id: crypto.randomUUID(), created: today, updated: today,
           title: "ASHRAE Data Centers and Telecommunications Facilities",
           category: "Normen", system: "Thermik, Luftführung, CFD, Leckage- und Raumrisiken",
-          url: "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
-          notes: "Technischer Referenztext zu Rechenzentrumsflächen, Luftführung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
+          url: "assets/local-snapshots/ashrae-data-centers-a19-ch20.html",
+          notes: "Lokaler Snapshot ohne ASHRAE-Redirect. Original: https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx. Technischer Referenztext zu Rechenzentrumsflächen, Luftführung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
           tags: "ASHRAE, Luftführung, CFD, Wasserleckage, Betrieb", source: "ASHRAE"
         }
       ],
@@ -1976,7 +1976,7 @@
       renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
       renderCollection("planning", "Dokument hinzufügen", ["name", "municipality", "status", "docType", "tags"]);
       renderCollection("zoningPlans", "Bebauungsplan hinzufügen", ["municipality", "state", "planName", "status", "dataCenter", "tags"]);
-      renderCollection("pdfExtracts", "PDF-Datensatz hinzufügen", ["municipality", "dataCenter", "documentTitle", "documentType", "pages", "tags"]);
+      renderPdfExtracts();
       renderMedia();
       renderCollection("drawings", "Zeichnung hinzufügen", ["title", "category", "system", "url", "tags"]);
       renderResearch();
@@ -2388,6 +2388,79 @@
       bindCollection(key, columns);
     }
 
+    function renderPdfExtracts() {
+      const key = "pdfExtracts";
+      const root = document.getElementById(key);
+      const rows = [...data.pdfExtracts].sort(byDate);
+      const columns = ["municipality", "dataCenter", "documentTitle", "documentType", "pages", "tags"];
+      root.innerHTML = `
+        <div class="card section">
+          <div class="toolbar">
+            <div class="filters">
+              <input class="input search" placeholder="Suchen..." data-search="${key}">
+              <select data-filter="${key}">
+                <option value="">Alle Dokumenttypen</option>
+                ${unique(rows.map(item => item.documentType).filter(Boolean)).map(v => `<option>${escapeHtml(v)}</option>`).join("")}
+              </select>
+            </div>
+            <button class="primary" data-add="${key}">PDF-Datensatz hinzufügen</button>
+          </div>
+          <p class="small">Hier stehen die ausgelesenen Inhalte. Die eigentlichen PDF-Dateien sind über „Lokale PDF“ verlinkt, sofern sie im Projektordner vorliegen; „Originalquelle“ öffnet die öffentliche Quelle.</p>
+          <div class="table-wrap">
+            <table>
+              <thead><tr>${columns.map(c => `<th>${labelFor(key, c)}</th>`).join("")}<th>PDFs</th><th>Aktionen</th></tr></thead>
+              <tbody data-body="${key}">${pdfRows(rows, columns)}</tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      bindPdfExtracts(columns);
+    }
+
+    function pdfRows(rows, columns) {
+      if (!rows.length) return `<tr><td colspan="${columns.length + 2}" class="empty">Noch keine PDF-Datensätze vorhanden.</td></tr>`;
+      return rows.map(item => `
+        <tr>
+          ${columns.map(c => `<td>${cellValue(item[c], c)}</td>`).join("")}
+          <td>${pdfLinks(item)}</td>
+          <td><button class="ghost" data-edit="pdfExtracts:${item.id}">Bearbeiten</button></td>
+        </tr>
+      `).join("");
+    }
+
+    function pdfLinks(item) {
+      const links = [];
+      if (item.localFile) {
+        links.push(`<a href="${escapeHtml(item.localFile)}" target="_blank" rel="noreferrer">Lokale PDF</a>`);
+      }
+      if (item.sourceUrl) {
+        links.push(`<a href="${escapeHtml(item.sourceUrl)}" target="_blank" rel="noreferrer">Originalquelle</a>`);
+      }
+      if (!links.length) return `<span class="small">PDF noch nicht lokal hinterlegt</span>`;
+      return `<div style="display:grid;gap:6px">${links.join("")}</div>`;
+    }
+
+    function bindPdfExtracts(columns) {
+      const search = document.querySelector(`[data-search="pdfExtracts"]`);
+      const filter = document.querySelector(`[data-filter="pdfExtracts"]`);
+      const apply = () => {
+        const q = search.value.toLowerCase();
+        const f = filter.value;
+        const rows = data.pdfExtracts.filter(item => {
+          const blob = Object.values(item).join(" ").toLowerCase();
+          const hit = !q || blob.includes(q);
+          const inFilter = !f || item.documentType === f;
+          return hit && inFilter;
+        }).sort(byDate);
+        document.querySelector(`[data-body="pdfExtracts"]`).innerHTML = pdfRows(rows, columns);
+        bindRowActions();
+      };
+      search.addEventListener("input", apply);
+      filter.addEventListener("change", apply);
+      document.querySelector(`[data-add="pdfExtracts"]`).addEventListener("click", () => openEditor("pdfExtracts"));
+      bindRowActions();
+    }
+
     function tableRows(key, rows, columns) {
       if (!rows.length) return `<tr><td colspan="${columns.length + 1}" class="empty">Noch keine Einträge vorhanden.</td></tr>`;
       return rows.map(item => `
@@ -2395,7 +2468,6 @@
           ${columns.map(c => `<td>${cellValue(item[c], c)}</td>`).join("")}
           <td>
             <button class="ghost" data-edit="${key}:${item.id}">Bearbeiten</button>
-            <button class="danger" data-delete="${key}:${item.id}">Löschen</button>
           </td>
         </tr>
       `).join("");
@@ -2437,16 +2509,6 @@
         btn.onclick = () => {
           const [key, id] = btn.dataset.edit.split(":");
           openEditor(key, id);
-        };
-      });
-      document.querySelectorAll("[data-delete]").forEach(btn => {
-        btn.onclick = () => {
-          const [key, id] = btn.dataset.delete.split(":");
-          if (confirm("Eintrag wirklich löschen?")) {
-            data[key] = data[key].filter(item => item.id !== id);
-            saveData();
-            render();
-          }
         };
       });
     }
