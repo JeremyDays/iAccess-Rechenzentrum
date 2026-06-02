@@ -310,6 +310,50 @@
 
     tr:last-child td { border-bottom: 0; }
 
+    .detail-row td {
+      background: #fbfcfa;
+      padding-top: 0;
+    }
+
+    .record-detail {
+      display: grid;
+      gap: 10px;
+      border-left: 3px solid #d8e7d5;
+      padding: 10px 0 10px 12px;
+      color: #48564f;
+      line-height: 1.45;
+      max-width: 1180px;
+    }
+
+    .record-detail strong {
+      color: #25332d;
+    }
+
+    .source-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .button-link {
+      display: inline-flex;
+      align-items: center;
+      min-height: 32px;
+      border: 1px solid #b8d0c5;
+      background: #fff;
+      color: var(--blue-dark);
+      border-radius: 6px;
+      padding: 6px 10px;
+      font-size: 13px;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .button-link:hover {
+      border-color: var(--blue);
+      background: #eef6f8;
+    }
+
     .pill {
       display: inline-flex;
       align-items: center;
@@ -2425,6 +2469,9 @@
           <td>${pdfLinks(item)}</td>
           <td><button class="ghost" data-edit="pdfExtracts:${item.id}">Bearbeiten</button></td>
         </tr>
+        <tr class="detail-row">
+          <td colspan="${columns.length + 2}">${detailPanel("pdfExtracts", item, columns)}</td>
+        </tr>
       `).join("");
     }
 
@@ -2470,6 +2517,9 @@
             <button class="ghost" data-edit="${key}:${item.id}">Bearbeiten</button>
           </td>
         </tr>
+        <tr class="detail-row">
+          <td colspan="${columns.length + 1}">${detailPanel(key, item, columns)}</td>
+        </tr>
       `).join("");
     }
 
@@ -2481,6 +2531,63 @@
         if (/^https?:\/\//.test(v)) return `<a href="${escapeHtml(v)}" target="_blank" rel="noreferrer">${escapeHtml(v)}</a>`;
       }
       return escapeHtml(value || "");
+    }
+
+    function detailPanel(key, item, columns) {
+      const shown = new Set([...columns, "id", "created", "updated", "tags"]);
+      const links = collectLinks(item);
+      const longFields = Object.entries(item)
+        .filter(([field, value]) => !shown.has(field) && typeof value === "string" && value.trim())
+        .map(([field, value]) => `<div><strong>${escapeHtml(labelFor(key, field) || field)}:</strong><br>${formatLongText(value)}</div>`)
+        .join("");
+      const linkBlock = links.length ? `<div class="source-actions">${links.map(link => `<a class="button-link" href="${escapeHtml(link.href)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`).join("")}</div>` : "";
+      if (!longFields && !linkBlock) return `<span class="small">Keine weiteren Detailinformationen hinterlegt.</span>`;
+      return `<div class="record-detail">${linkBlock}${longFields}</div>`;
+    }
+
+    function collectLinks(item) {
+      const fields = [
+        ["contact", "Website"],
+        ["url", "Quelle öffnen"],
+        ["link", "Link öffnen"],
+        ["source", "Quelle"],
+        ["sourceUrl", "Originalquelle"],
+        ["localFile", "Lokale Datei"],
+        ["imageUrl", "Bild/Medienlink"],
+        ["pageUrl", "Quellseite"]
+      ];
+      const links = [];
+      fields.forEach(([field, label]) => {
+        const value = item[field];
+        if (typeof value === "string" && isLinkLike(value)) {
+          links.push({ label, href: value });
+        }
+      });
+      ["documents", "references", "notes", "requirements", "planningFacts", "technicalFacts", "keyFacts"].forEach(field => {
+        const value = item[field];
+        if (typeof value !== "string") return;
+        extractUrls(value).forEach((url, index) => {
+          links.push({ label: `${labelFor("", field) || field} ${index + 1}`, href: url });
+        });
+      });
+      const seen = new Set();
+      return links.filter(link => {
+        if (seen.has(link.href)) return false;
+        seen.add(link.href);
+        return true;
+      });
+    }
+
+    function isLinkLike(value) {
+      return /^https?:\/\//i.test(value) || /^assets\//i.test(value) || /^pdfs\//i.test(value);
+    }
+
+    function extractUrls(value) {
+      return Array.from(String(value || "").matchAll(/https?:\/\/[^\s<>"')]+/g)).map(match => match[0].replace(/[.,;]+$/, ""));
+    }
+
+    function formatLongText(value) {
+      return escapeHtml(value).replace(/\n/g, "<br>");
     }
 
     function bindCollection(key, columns) {
