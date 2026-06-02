@@ -1,0 +1,23 @@
+name;city;type;note;latitude;longitude
+AtlasEdge NB8 Stuttgart;Stuttgart;Colocation;Neue Brücke 8, Stuttgart;48.7784;9.18
+AtlasEdge / Kyndryl Stuttgart-Vaihingen;Stuttgart-Vaihingen;Colocation;Schockenriedstraße / Gropiusplatz, Vaihingen;48.7296;9.1116
+nLighten Stuttgart STR1;Stuttgart;Edge;Breitwiesenstraße, Stuttgart;48.7218;9.107
+Stuttgart Zettachring Cluster;Stuttgart;Colocation;Zettachring, Stuttgart;48.7144;9.1457
+AtlasEdge STR001 Böblingen;Böblingen;Colocation;Schickardstraße, Böblingen;48.6841;9.0112
+Telemaxx IPC 3/4;Karlsruhe-Durlach;Colocation;Durlach, Karlsruhe;49.0057;8.4721
+ILK Albert-Nestler Data Center;Karlsruhe-Neureut;Colocation;Neureut, Karlsruhe;49.0512;8.3831
+KIT Scientific Computing Center;Karlsruhe;Forschung;KIT Campus Süd;49.0094;8.4116
+EXA Edge DC Kehl;Kehl;Edge;Hafenstraße, Kehl;48.5725;7.8166
+Reutlingen Data Centers;Reutlingen;Edge;Nepustil / Pronexon, Reutlingen;48.5069;9.2038
+SeeConnect Rechenzentrum Konstanz;Konstanz;Edge;Max-Stromeyer-Straße, Konstanz;47.6779;9.1732
+MHG01 Mannheim;Mannheim;Enterprise;Hans-Thoma-Straße, Mannheim;49.4634;8.477
+STACKIT Ellhofen DC08;Ellhofen;Enterprise;Schwarz Gruppe / STACKIT;49.1467;9.3212
+Nepustil Tübingen;Tübingen;Edge;Brückenstraße, Tübingen;48.5289;9.067
+SWU TeleNet Ulm;Ulm;Edge;Stadtwerk-Rechenzentrum Ulm;48.4011;9.9876
+Nextspace Heidelberg;Heidelberg;Colocation;George-Boole-Weg, Heidelberg;49.4145;8.6849
+SAP WDF51;Walldorf;Enterprise;Hasso-Plattner-Ring, Walldorf;49.293;8.6413
+Frankfurt Data Center Cluster;Frankfurt am Main;Colocation;größter deutscher Colocation-Markt;50.1109;8.6821
+NTT Frankfurt 6 / Nierstein;Nierstein;Hyperscale;geplanter 482-MW-Campus, heise.de;49.8706;8.3362
+Microsoft Azure Rheinisches Revier;Bergheim;Hyperscale;geplanter 520-MW-Cluster, heise.de;50.9543;6.6393
+Schwarz Digits Lübbenau;Lübbenau/Spreewald;Hyperscale;geplantes 200-MW-KI-Rechenzentrum, heise.de;51.8667;13.9667
+Telekom/T-Systems Tucherpark;München;Forschung;KI-Rechenzentrum München, heise.de;48.1516;11.5981
