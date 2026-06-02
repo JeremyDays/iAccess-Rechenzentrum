@@ -1,7 +1,7 @@
 {
   "types": [
     {
-      "id": "85ef5d03-e13d-4b4b-a5f6-68809b39f725",
+      "id": "9bcd9d87-aa3f-4070-aa41-59fc1baca93b",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Hyperscale-Rechenzentrum",
@@ -15,7 +15,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "ae54b22d-2b3b-4110-ace9-646e0232f4c1",
+      "id": "8822c241-c471-4540-a4db-75c81c666a74",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Colocation-Rechenzentrum",
@@ -29,7 +29,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "3b281f9e-0910-4f2e-9047-fc3f7584d351",
+      "id": "981acf15-94af-49a8-9277-3b5a11589e5e",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Edge-Rechenzentrum",
@@ -43,7 +43,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "f7a1ac11-6b63-4d7d-8551-f7b1314ceb66",
+      "id": "05fa9579-0161-45a2-bfc7-beda47cc4442",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Enterprise / On-Premise",
@@ -57,7 +57,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "45faf944-cabc-452b-a99e-7e3ed0f6bebd",
+      "id": "e516d653-3b78-410e-85fd-4e147bd224b0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Modular / Container-Rechenzentrum",
@@ -71,7 +71,7 @@
       "source": "Allgemeine Informationen Datencenter.pdf"
     },
     {
-      "id": "60d5ced4-6987-483e-a4c7-6e283c6ebea4",
+      "id": "9ec1f944-a1e9-41b7-816d-168c556dd7d0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "KI-/HPC-Gigafactory",
@@ -87,7 +87,7 @@
   ],
   "requirements": [
     {
-      "id": "0e87ea81-28a5-432d-8cb9-31dcfbebb0b2",
+      "id": "d0f6e8f3-bb0a-4a42-9d95-39ef11a0a67c",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Netzanschluss und elektrische Leistung",
@@ -100,7 +100,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "f387ff74-4ac3-4f88-b669-f93ea4745ad0",
+      "id": "f64aac93-00b2-498c-89c8-e844f1890e3f",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Glasfaser, Bandbreite und Latenz",
@@ -113,7 +113,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "b49ff0e9-db4e-4d3e-af64-fa3011c7e368",
+      "id": "2c05f3dd-a810-4545-97bd-1f6fecd923f7",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Wasser und Kühlung",
@@ -126,7 +126,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "3a63cf29-4afa-41f0-8bc6-d6fcc7fe6156",
+      "id": "4c7eb5ed-5070-4b0c-baba-4149e191c296",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Fläche, Erweiterbarkeit und Baugrund",
@@ -139,7 +139,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "a4727fbb-5d51-412c-998c-8c428d43d822",
+      "id": "fc4d857a-ae90-4116-9719-1e5506514274",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Abwärmenutzung",
@@ -152,7 +152,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "bc90f489-29d6-42aa-bc50-19e9171ac756",
+      "id": "6a8055aa-ddf4-42fc-a695-46b49ef80b2f",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Naturgefahren und Resilienz",
@@ -165,7 +165,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "f74a48b7-7e66-4ba8-828d-ffb696c763e1",
+      "id": "e642ad80-c57f-4e78-a83b-ac5e9e402266",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Regionaler Grünzug / Grünzäsur als No-Go-Filter",
@@ -178,7 +178,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "7496a956-093c-4e64-b3fc-6b781452b875",
+      "id": "71c5f96b-7d21-43f7-b277-bae99255457d",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Außenbereich, Ackerflächen und Bauleitplanung",
@@ -191,7 +191,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "dfbe129e-b887-4d32-8ae9-3da410e1c327",
+      "id": "211cc118-349f-4ff5-8999-e7969630470c",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "TA Lärm und Abstand zu Wohnbebauung",
@@ -204,7 +204,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "299e20b2-c779-4101-9789-6055883f9134",
+      "id": "d847545f-0c59-4767-a59d-4e917429c9b7",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "EnEfG, PUE und erneuerbarer Strom",
@@ -217,7 +217,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "fb9aad92-ec52-4243-bb06-5af94d10379b",
+      "id": "9e1cfc0e-852e-4722-94c7-034787826f80",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Schnelle Red Flags im Flächenscreening",
@@ -230,7 +230,7 @@
       "source": "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "edbb3900-3274-45ff-b209-df2e0c0e491f",
+      "id": "0be89d8a-26c5-4037-ae31-93aed37b69d6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Technische Redundanz und Standards",
@@ -243,7 +243,7 @@
       "source": "Datencenter alle wichtigen Daten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "e781cd9f-8a38-47b5-afd1-97fcd9e4e497",
+      "id": "4e907f79-c738-4300-81e6-56d5463f862c",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Logistik, Feuerwehr und Erweiterbarkeit",
@@ -256,7 +256,7 @@
       "source": "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "9016a60a-4617-49d7-8dbe-8da71ef04d17",
+      "id": "1193f14c-9ffc-4404-b51a-ef3116ac2bda",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Leistungsklassen als Primärfilter",
@@ -269,7 +269,7 @@
       "source": "heise.de"
     },
     {
-      "id": "85e396e3-1add-42e7-938d-f5e48a3f001a",
+      "id": "0bc5511c-9830-4296-aa89-3b5c750c76f0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Konversions- und Energieflächen",
@@ -284,7 +284,7 @@
   ],
   "sites": [
     {
-      "id": "792ba362-38fa-4345-9691-40e5a7711db6",
+      "id": "471440ff-874f-4741-bff2-94057f9e6238",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Stuttgart",
@@ -298,7 +298,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "f308ed72-3c8d-4586-9728-5899bb02e5f7",
+      "id": "33ce9f90-3637-4734-89fd-c6aaf12bd286",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Stuttgart-Vaihingen",
@@ -312,7 +312,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "fda00eda-4749-423a-aff1-e73eb3239f13",
+      "id": "9f868c25-3f76-4529-b2aa-95b572c665ec",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Stuttgart-Vaihingen",
@@ -326,7 +326,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "889b2a3b-d38a-4535-8357-c72ff9ee5555",
+      "id": "cbb38a94-11b1-4be9-9db7-21a532014e42",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Stuttgart",
@@ -340,7 +340,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "dbd44b83-adab-4275-8e56-5f18db42be33",
+      "id": "0f66a833-e727-454c-9361-1c7e3f0630ad",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Stuttgart",
@@ -354,7 +354,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "5c8e2caa-03ac-40c8-8ae6-d63e8d17fb2a",
+      "id": "75608462-4166-41c2-a2cc-41d3cdeb79d1",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Karlsruhe",
@@ -368,7 +368,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "44f60c4f-3b0f-4ba7-a901-48a3705f8f1c",
+      "id": "1a7bceda-b44b-49f7-821c-545dde320e10",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Karlsruhe",
@@ -382,7 +382,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "c9a63cb5-fea7-415b-8d13-83cb59b9eb7a",
+      "id": "677d357b-c72e-46f5-8f4a-2ae8dca44740",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Karlsruhe-Neureut",
@@ -396,7 +396,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "371932f8-4861-4fe7-83d6-41fe82cc92cd",
+      "id": "609b1af5-2794-45b0-abea-c96e4e4edb82",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Kehl",
@@ -410,7 +410,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "9bf75088-8b55-4d6a-bc11-3404c59b7a3a",
+      "id": "a17b805e-df11-46d5-9797-c877b137bdbe",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Böblingen",
@@ -424,7 +424,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "3d297bde-213c-4c8f-8349-f277276fbf97",
+      "id": "eec42e2d-356b-41df-a8ac-2d8bf4a64350",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Reutlingen",
@@ -438,7 +438,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "0608a436-d19c-4cf2-813d-ba30186d60a0",
+      "id": "f1a1ae49-0281-416b-a95c-3e2ef489eacf",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Konstanz",
@@ -452,7 +452,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "c5756284-5c28-46da-b879-3a22406bac83",
+      "id": "ff76fe52-6f75-4329-a7a1-ea9630f5f723",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Mannheim",
@@ -466,7 +466,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "2788ee0d-d01d-416b-a2d0-b29bb55a958d",
+      "id": "47568b47-115e-4510-8698-3ab431a7e03f",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Ellhofen",
@@ -480,7 +480,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "ef84c09a-795f-4ea9-82ff-c3caddf1ee3a",
+      "id": "fc068c71-6b9e-4f18-9cf8-a608a0a4d8f8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Tübingen",
@@ -494,7 +494,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "b27fd296-56a5-466a-a737-c3239b1f0150",
+      "id": "65e30306-abb6-46f6-9d7b-7fcc69ec31a0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Ulm",
@@ -508,7 +508,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "8038d837-f52b-46dd-850a-14ab78a956bc",
+      "id": "b4421541-d4a7-4aed-a063-12a1760b1884",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Heidelberg",
@@ -522,7 +522,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "f90fe955-783f-4efb-afa8-0c7d744655c6",
+      "id": "cbe82d11-8658-4b9e-9c5a-f6f596179a0e",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Walldorf",
@@ -536,7 +536,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "0849ea61-70dc-4df4-9a3d-c83d2ff6a560",
+      "id": "4e75452d-71e7-4535-bdd5-210eb4cd9486",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Karlsruhe",
@@ -550,7 +550,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "45bc18f5-787f-443b-aae3-2de5777ff876",
+      "id": "fe95924c-52cc-43c6-ab39-88b02da9cafc",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "city": "Appenweier / Lahr / Stödtlen / Göppingen",
@@ -566,7 +566,7 @@
   ],
   "companies": [
     {
-      "id": "4a6d2b29-492a-47dd-a8b1-08be5458f6e4",
+      "id": "579b9b4a-d6ec-4a51-b196-0743616b1bab",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Arup",
@@ -579,7 +579,7 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "7eca4751-2bff-4357-86de-f408f14011cd",
+      "id": "6ef7cf6a-02c6-48bc-9951-cfc98c97fc83",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Drees & Sommer",
@@ -592,7 +592,7 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "672da29d-5058-423f-9f94-f6f7af3da576",
+      "id": "e0c7f444-52c9-4562-ad67-2d6ba143afda",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "NTT Global Data Centers",
@@ -605,7 +605,7 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "5f23e16f-6545-44f9-92dd-1776863986e6",
+      "id": "da63a91a-b869-48ff-844d-bfaada51c6a8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "AtlasEdge",
@@ -618,7 +618,7 @@
       "source": "Informationen zu Datencenter 2.docx; Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "cbbb620e-d78b-42f8-9176-c03bc28969e8",
+      "id": "1e03bfbf-2c5b-4c32-9266-347f7dfb71a7",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "EdgeConneX",
@@ -631,7 +631,7 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "72f2bf6f-7189-4397-943f-ebb62f7765ab",
+      "id": "843e903b-816d-494a-84df-f1fedc196f3f",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "AECOM",
@@ -644,7 +644,7 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "185b32e4-1942-4c05-80ef-7779e0aee7b0",
+      "id": "88ee3f1b-cffd-48d1-b4a2-2765fdc2d553",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "DPR Construction",
@@ -657,7 +657,7 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "dc936cb5-bb47-4b43-9038-7c6093253aa8",
+      "id": "15e755fb-1dc5-4881-b640-448172f3c0f9",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Turner Construction",
@@ -670,7 +670,7 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "15c87eba-caa8-4e87-8341-a9cfd9f220fa",
+      "id": "aad04aae-7089-4842-85c4-f2dbc0aa17f3",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Telemaxx Telekommunikation GmbH",
@@ -683,7 +683,7 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "26892b04-1542-47bc-b39e-aadd652d770e",
+      "id": "a54cf28e-56cf-4a99-99be-8cace0440b08",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Microsoft Azure",
@@ -696,7 +696,7 @@
       "source": "heise.de"
     },
     {
-      "id": "159cd136-457e-4147-95ab-2ae362b51441",
+      "id": "dc13946d-a981-46cd-b1a9-e365458853ff",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Schwarz Digits / STACKIT",
@@ -709,7 +709,7 @@
       "source": "heise.de; Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "c657e4c2-e4d5-4053-9174-bdde5b5410dd",
+      "id": "628e0c77-8481-407e-85ed-cba0274e3c2b",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Deutsche Telekom / T-Systems",
@@ -722,7 +722,7 @@
       "source": "heise.de"
     },
     {
-      "id": "2a9bbadb-2ef2-4b75-a913-dfe5d2f8b8a2",
+      "id": "ac9397ed-211c-4082-8195-4cf1246c83a6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Data4",
@@ -735,7 +735,7 @@
       "source": "heise.de"
     },
     {
-      "id": "f598b139-f1e6-4940-aee8-bc1d44fda253",
+      "id": "42a72f41-5c7d-40c8-ac20-c7a8543706ab",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Virtus Data Centres",
@@ -748,7 +748,7 @@
       "source": "heise.de"
     },
     {
-      "id": "92f44b37-1830-4030-8a2c-cb78a5164bc1",
+      "id": "4f11f13d-ba10-4968-aafb-8978af9febbb",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Mistral AI",
@@ -763,7 +763,7 @@
   ],
   "planning": [
     {
-      "id": "38e61c03-ed5f-4019-ae79-ec67f354891e",
+      "id": "8684894d-fa9f-477e-bf51-62e343dd04cd",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Energieeffizienzgesetz und Rechenzentren",
@@ -776,7 +776,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "0b070317-65c8-4689-98b3-7a03c26bb41d",
+      "id": "fc6464ad-d015-46da-a71e-7be0cc5a1a56",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "BauGB, BauNVO, BImSchG-Schnittstellen",
@@ -789,7 +789,7 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "09f801db-b3d8-4805-9b1d-6c23861bc0dd",
+      "id": "de825026-f913-43f4-bf12-12030fdca553",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Suchauftrag: Bebauungspläne Rechenzentrum Baden-Württemberg",
@@ -802,7 +802,7 @@
       "source": "Rechercheauftrag"
     },
     {
-      "id": "06a84dcf-5a5e-47e8-89e4-5ba7cbeeed9e",
+      "id": "a781d22d-64cc-410c-9e9c-efb97d903ac0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg",
@@ -815,7 +815,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "8d8b1eb5-1c24-4c60-8fc0-3a835808e428",
+      "id": "e0c1ba07-e6f2-4723-8d8f-63d79a702937",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Bauleitplanungs-Suchbegriffe für Gemeinden",
@@ -828,7 +828,7 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "11e00733-99ec-4154-aea1-3a726777dc17",
+      "id": "c0a38a8f-b9a3-408f-b7a2-2bedb1162d9a",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "name": "Genehmigungs- und Normenprüfpfad Rechenzentrum",
@@ -843,7 +843,7 @@
   ],
   "zoningPlans": [
     {
-      "id": "0b9770ff-06d2-4c6f-bc50-e1e9bd8b4f2f",
+      "id": "715c003d-61aa-4bf7-a0cb-34955170a3ea",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -857,7 +857,7 @@
       "tags": "Rechenzentrum, Sondergebiet, FNP, Brandenburg, gefunden"
     },
     {
-      "id": "29ac3823-f3c0-465f-adac-e02677faec04",
+      "id": "f158df95-29b6-4d65-b73b-89792d6fbc44",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Wustermark",
@@ -871,7 +871,7 @@
       "tags": "Rechenzentrum, Virtus, Abwärme, Brandenburg, Satzung"
     },
     {
-      "id": "980c8135-10d5-4ff1-a7aa-76dfc2cec524",
+      "id": "4259ed87-22ce-4e55-80a0-ede3475f1456",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Brieselang",
@@ -885,7 +885,7 @@
       "tags": "Rechenzentrum, GVZ, Brandenburg, Satzung"
     },
     {
-      "id": "34f73e64-8e75-49cf-81f5-2c2cd5b26b6b",
+      "id": "2f113c6d-04e5-4226-be8a-c8766e10adf3",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Neckarwestheim",
@@ -899,7 +899,7 @@
       "tags": "Rechenzentrum, Baden-Württemberg, Beteiligung, BW"
     },
     {
-      "id": "242bb98d-20d6-44ef-b8aa-fbcda99ceec7",
+      "id": "e2953f34-b859-4836-9413-78e34204b276",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Babenhausen",
@@ -913,7 +913,7 @@
       "tags": "Rechenzentrum, Sondergebiet, Hessen, Google, Satzung"
     },
     {
-      "id": "11a6da8e-66db-41e6-9cb4-b6e5139b55c1",
+      "id": "a8d561d8-02ec-4fdd-a71c-a5f1e4f41edb",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Planegg",
@@ -927,7 +927,7 @@
       "tags": "Datacenter, MPG, Martinsried, Bayern, Beteiligung"
     },
     {
-      "id": "163184ac-a98a-42e8-a30c-28bbab85ecc3",
+      "id": "97e27638-cb0c-43d7-b8e6-553c4ce1999b",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Bedburg",
@@ -941,7 +941,7 @@
       "tags": "Microsoft, Hyperscale, NRW, Sondergebiet"
     },
     {
-      "id": "0ffc4f36-a242-4bfa-929d-258bd920e55d",
+      "id": "df8b3498-fc2a-4ced-98c0-08d3844c77c2",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Werneuchen",
@@ -955,7 +955,7 @@
       "tags": "Rechenzentrum, Seefeld, Brandenburg"
     },
     {
-      "id": "2b0a9a0e-20b0-44da-85b0-0329b0be98e0",
+      "id": "67da519e-bd47-4851-af05-f5737a27c0f6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ankum",
@@ -969,7 +969,7 @@
       "tags": "Rechenzentrum, Niedersachsen, Sondergebiet"
     },
     {
-      "id": "766d8a22-80ca-4229-9a80-d2239e9d69c0",
+      "id": "4b26a0ad-ccb6-4498-98b3-b990712a5afa",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Heusenstamm",
@@ -983,7 +983,7 @@
       "tags": "EdgeConneX, Hessen, Campus, Wasser, Abwärme"
     },
     {
-      "id": "6197b8ea-ff53-45f4-b2f4-8e6fe154ec03",
+      "id": "77a82275-782a-447d-9c56-c2aa591c57df",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Rackwitz",
@@ -999,7 +999,7 @@
   ],
   "pdfExtracts": [
     {
-      "id": "26a07a5f-47f5-404e-9204-67bc438091d5",
+      "id": "3049fc54-37f7-4fdc-8a4b-022e546411e7",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Wustermark",
@@ -1015,7 +1015,7 @@
       "tags": "PDF-ausgelesen, Wustermark, Sondergebiet, Notstrom, Feuerwehr, Niederschlagswasser"
     },
     {
-      "id": "c4948074-39ad-4560-9b73-9275ec18b27a",
+      "id": "96c834c4-4efd-4141-9dbe-c6b1b84aec8b",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Wustermark",
@@ -1031,7 +1031,7 @@
       "tags": "PDF-ausgelesen, Wustermark, Satzung, Umweltbelange, Umspannwerk"
     },
     {
-      "id": "1964f1e1-86c2-422a-9e16-664d25600df6",
+      "id": "87a37102-27f9-43d5-973d-3cee225aad07",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Wustermark",
@@ -1047,7 +1047,7 @@
       "tags": "PDF-ausgelesen, Wustermark, Abwärme, 300 MW, Wärmenetz, Erneuerbare"
     },
     {
-      "id": "4319b9c2-cd3e-4a93-a89c-4e6666d2a641",
+      "id": "9d346b9d-9a0f-402f-9f44-926445d4aca2",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Babenhausen",
@@ -1063,7 +1063,7 @@
       "tags": "PDF-ausgelesen, Babenhausen, Brandschutz, Löschwasserzisterne, Niederschlagswasser, Generator"
     },
     {
-      "id": "48c85816-7e2c-4a55-b510-d31d33818fe5",
+      "id": "021792fc-6dae-48eb-b25b-06fa927c8f9c",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Brieselang",
@@ -1079,7 +1079,7 @@
       "tags": "PDF-ausgelesen, Brieselang, 10,8 ha, SO-RZ, Umspannwerk, Generatoren, Niederschlagswasser"
     },
     {
-      "id": "6d3aeff2-bba1-4373-8514-99c70ee5f7b2",
+      "id": "704240d3-8d3d-4de8-b6e9-9c1c68991d9a",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ankum",
@@ -1095,7 +1095,7 @@
       "tags": "PDF-ausgelesen, Ankum, Vorentwurf, FNP-Änderung, Schallschutz"
     },
     {
-      "id": "75874559-80f2-425d-b695-e6eec1783a8d",
+      "id": "33ef5e5a-5c52-4174-a46c-96e6d4028971",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Werneuchen",
@@ -1111,7 +1111,7 @@
       "tags": "PDF-ausgelesen, Werneuchen, Umspannwerk, 50Hertz, Kühlung, Wasser, Brandschutz, Schall"
     },
     {
-      "id": "ab15e1d2-4a6c-4e43-bc9b-5bf51144371e",
+      "id": "8045927b-4e63-4b35-b42f-48b23d5319a8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1127,7 +1127,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Planzeichnung, SO-RZ, Höhe, Schallschutz"
     },
     {
-      "id": "62e74f50-5f49-43f5-9830-3666fe27d3f9",
+      "id": "80b08edd-20e9-4986-bb19-0f0821d31199",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1143,7 +1143,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Begründung, Bauleitplanung, Brandschutz, Löschwasser"
     },
     {
-      "id": "aebbcab9-916b-42d8-83a5-b352ae642043",
+      "id": "435b0833-207d-4411-9429-6708285496aa",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1159,7 +1159,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Umweltbericht, Schutzgüter, Ausgleich"
     },
     {
-      "id": "6a272b89-e849-4955-9c5d-fce9284594fa",
+      "id": "bd749dd5-4068-403e-8115-e8d5532ffa03",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1175,7 +1175,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Artenschutz, Fauna"
     },
     {
-      "id": "3adf4fc5-7a43-4a3e-89ef-1b51b8be1449",
+      "id": "0155c867-e2fe-4486-a6fa-eff0c63a3479",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1191,7 +1191,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Regenwasser, Entwässerung, Grundwasser"
     },
     {
-      "id": "25be7fe3-104f-43ce-b9e8-716ccc2055e6",
+      "id": "c06f9eca-dc3c-48dc-baf0-817e98ae05c4",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1207,7 +1207,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Verkehr, Erschließung"
     },
     {
-      "id": "31cbd37a-f24c-4c3c-8d46-9ffa542056a5",
+      "id": "55547a93-3f82-41fb-9dd2-ca1871323f12",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1223,7 +1223,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Schall, TA Lärm, Kühlung"
     },
     {
-      "id": "bee29e22-f0b1-414a-887a-8f66a27224ed",
+      "id": "da638897-dfd0-431c-bc36-433490178318",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1239,7 +1239,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Geotechnik, Baugrund, Grundwasser"
     },
     {
-      "id": "a72708db-9dd6-423a-8bfc-ae932df9a6ea",
+      "id": "ab1db66f-96b2-4a9a-95ca-82063aa00ba6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1255,7 +1255,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Altlasten, Boden, Grundwasser"
     },
     {
-      "id": "7a88f17a-eb39-4223-ad88-ce47964e839e",
+      "id": "226065d1-bf57-402d-a52a-9dd451dde86d",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
@@ -1271,7 +1271,7 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Abwärme, Wärmenetz, Effizienz"
     },
     {
-      "id": "6f459864-cf78-4a29-a023-780eb5305ecb",
+      "id": "ab164e71-7f71-48a6-b088-1f8832ff63c6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "municipality": "Heusenstamm",
@@ -1289,7 +1289,7 @@
   ],
   "media": [
     {
-      "id": "e630dce9-3eea-44b6-aa5d-047f42eeee3a",
+      "id": "94a37400-b3cc-4c50-90c3-f3c5ff13d9dd",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Microsoft Azure Cluster bei Bergheim/NRW",
@@ -1302,7 +1302,7 @@
       "source": "heise.de"
     },
     {
-      "id": "4aee0cf4-22a6-4115-8452-2f5149d77e95",
+      "id": "86670ca9-19ba-48f5-bcba-92b2b2b6aa59",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "NTT Frankfurt 6 / Nierstein Rendering",
@@ -1315,7 +1315,7 @@
       "source": "heise.de"
     },
     {
-      "id": "abf5b8f3-bbfb-452a-9200-9adddaa2db87",
+      "id": "2b495df1-f695-41e5-9b8c-857d8ea539db",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Schwarz Digits KI-Rechenzentrum Lübbenau",
@@ -1328,7 +1328,7 @@
       "source": "heise.de"
     },
     {
-      "id": "6af0131a-4a33-4b27-aeaa-c4a91dc0aec4",
+      "id": "4e6c5523-e63c-4c12-a258-e1a56751df51",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Microsoft Fairwater KI-Rechenzentrum",
@@ -1341,7 +1341,7 @@
       "source": "heise.de"
     },
     {
-      "id": "2d5182a0-4f5d-4806-9cd1-fd443eeb1667",
+      "id": "952ce5ea-7dff-4b8a-8290-c7f216eb58ed",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "HPC-Kühlsystem mit Energie-Rückgewinnung",
@@ -1356,7 +1356,7 @@
   ],
   "drawings": [
     {
-      "id": "c66bbec1-b1fe-4cc3-999f-787be8ef35c1",
+      "id": "c5711737-8684-4e7c-b8ea-b2862f728163",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "NIH Sustainable Data Center Design Guide",
@@ -1368,7 +1368,7 @@
       "source": "WBDG / NIH"
     },
     {
-      "id": "97467c71-179c-40d1-8a9d-821e9b17074d",
+      "id": "468b8e11-d37e-4614-bad3-f591f9715a4f",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "HPC Data Center Cooling System",
@@ -1380,7 +1380,7 @@
       "source": "NREL"
     },
     {
-      "id": "3ab4d290-cf31-45c5-9a13-4853530c1925",
+      "id": "e8ae2010-cf1a-4d90-84bd-1eac78f6c6ae",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "DCO Chilled Water Loop Schematic",
@@ -1392,7 +1392,7 @@
       "source": "Carnegie Mellon PDL"
     },
     {
-      "id": "c9241d30-e26e-4367-a0d1-0895dfa405fd",
+      "id": "a96aef4b-a530-4582-9fb4-103742358a70",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Data Center Cooling Piping Diagram",
@@ -1404,7 +1404,7 @@
       "source": "Parker"
     },
     {
-      "id": "0cf29672-65b1-4138-a398-bd56611f44a2",
+      "id": "2163013b-718f-450c-823a-cbd68f6dc061",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Fire Protection & Life Safety Design Manual",
@@ -1416,21 +1416,21 @@
       "source": "WBDG / Smithsonian"
     },
     {
-      "id": "32c29bd4-6d56-48d5-9925-ff1bcf5ec10c",
+      "id": "9b4a8859-d836-423e-8125-745a3958cf95",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "ASHRAE Data Centers and Telecommunications Facilities",
       "category": "Normen",
       "system": "Thermik, Luftführung, CFD, Leckage- und Raumrisiken",
-      "url": "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
-      "notes": "Technischer Referenztext zu Rechenzentrumsflächen, Luftführung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
+      "url": "assets/local-snapshots/ashrae-data-centers-a19-ch20.html",
+      "notes": "Lokaler Snapshot ohne ASHRAE-Redirect. Original: https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx. Technischer Referenztext zu Rechenzentrumsflächen, Luftführung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
       "tags": "ASHRAE, Luftführung, CFD, Wasserleckage, Betrieb",
       "source": "ASHRAE"
     }
   ],
   "findings": [
     {
-      "id": "db5b3735-4c7d-4b19-bb99-ed24cc0434b9",
+      "id": "353ad925-1392-47a9-97d9-d1b7938001c8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Datenraum initialisiert",
@@ -1442,7 +1442,7 @@
       "tags": "Start, Datenraum"
     },
     {
-      "id": "b88f96d0-23c4-4f6e-8085-364d4d3a930f",
+      "id": "4ca85f9a-16a8-4b7c-ba3a-1b0c7d2345cf",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Quellenpaket vom Nutzer importiert",
@@ -1454,7 +1454,7 @@
       "tags": "Import, Quellenpaket, Datenraum"
     },
     {
-      "id": "60525b0e-92fc-49fd-b006-f300827adfd9",
+      "id": "394f6f84-c7fc-431a-bb0d-6993c65e8a64",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "BW-Standortliste ergänzt",
@@ -1466,7 +1466,7 @@
       "tags": "BW, Standortliste, Validierung"
     },
     {
-      "id": "c4fb9a5b-33be-4593-84f8-cd9537a37d17",
+      "id": "b707921b-6513-49dc-9672-8296844b48a8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "K.O.-Kriterien für iAccess-Flächenscreening übernommen",
@@ -1478,7 +1478,7 @@
       "tags": "Screening, K.O., iAccess"
     },
     {
-      "id": "50fcc4a7-3ddb-43e0-b177-c07bd13cf031",
+      "id": "2ab44fc5-e3b3-4d9e-b674-f27b9e4820b9",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Einstufung nach elektrischer Leistung",
@@ -1490,7 +1490,7 @@
       "tags": "heise.de, Leistung, Klassifizierung, Strom"
     },
     {
-      "id": "fcee3899-2194-4f76-9e47-5aef5f4d5ef3",
+      "id": "20b1aa39-3011-4e15-8d4c-e32078b8a119",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Microsoft Azure Cluster in NRW mit 520 MW",
@@ -1502,7 +1502,7 @@
       "tags": "heise.de, Microsoft, Azure, NRW, 520 MW"
     },
     {
-      "id": "aee4505c-13e2-4efe-b071-c3a3272c065b",
+      "id": "295e4df0-8d78-4803-a725-3da8dbfde9d8",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: KI-Rechenzentren boomen in Deutschland",
@@ -1514,7 +1514,7 @@
       "tags": "heise.de, KI, Investitionen, Schwarz, Google, Microsoft, Telekom"
     },
     {
-      "id": "e1e04c94-7b0f-47ce-8f9c-c06b4f8b36c6",
+      "id": "890488b1-62d9-4079-bf0e-01abdfeab118",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Effizienz als Designprinzip für KI-Rechenzentren",
@@ -1526,7 +1526,7 @@
       "tags": "heise.de, Effizienz, KI, Kühlung, Rackdichte"
     },
     {
-      "id": "01f24a79-c708-427f-ac61-4e706d148952",
+      "id": "8d2c0eb7-f86e-446c-98fe-fd4569a8fe6b",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Bundesregierung will KI/HPC-Kapazität vervierfachen",
@@ -1538,7 +1538,7 @@
       "tags": "heise.de, Bundesregierung, 2030, Anschlussleistung, KI"
     },
     {
-      "id": "5a8fcec9-b60d-46bc-9f8b-bfcd8042e3f7",
+      "id": "30ddf79e-c991-4527-89b7-9da6e65ad039",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: NTT Frankfurt 6 / Nierstein mit 482 MW",
@@ -1550,7 +1550,7 @@
       "tags": "heise.de, NTT, Nierstein, 482 MW, Konversion"
     },
     {
-      "id": "c61409c3-ae0b-4ea6-8438-3796f5fc984c",
+      "id": "fd00cc9e-2400-48f2-b5ab-e2a7963adc5c",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Big Tech belastet Energie, Wasser und Ressourcen",
@@ -1562,7 +1562,7 @@
       "tags": "heise.de, Big Tech, Wasser, Energie, Transparenz"
     },
     {
-      "id": "cb7c826d-466f-4a9c-9a20-7665126c67f8",
+      "id": "5ff7d2b1-b4eb-41fa-9129-ee57f5eed94d",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: 482-MW-Gigant in Rheinhessen",
@@ -1574,7 +1574,7 @@
       "tags": "heise.de, NTT, Nierstein, 482 MW, Datencenter"
     },
     {
-      "id": "1b3ba45d-a1f6-4277-9eac-2c918fdb30c6",
+      "id": "a6909d31-362a-4ae7-8112-6b1342d05bd6",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Microsoft zeigt Fairwater-KI-Rechenzentrum",
@@ -1586,7 +1586,7 @@
       "tags": "heise.de, Microsoft, Fairwater, GPU, KI"
     },
     {
-      "id": "04427821-2350-43bb-a833-440b5bcca597",
+      "id": "866e4a5e-00fd-4bcd-a1f9-ea8efd934933",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Telekom startet KI-Rechenzentrum im Tucherpark",
@@ -1598,7 +1598,7 @@
       "tags": "heise.de, Telekom, T-Systems, München, KI, 20 MW"
     },
     {
-      "id": "3977ae05-d2aa-4d2f-85cc-84944e383dd8",
+      "id": "8bfa4ab5-7aed-4ea0-a339-386069f2a2de",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Heise: Mistral finanziert eigenes KI-Rechenzentrum",
@@ -1610,7 +1610,7 @@
       "tags": "heise.de, Mistral, Frankreich, KI, 44 MW"
     },
     {
-      "id": "77c3b56c-6c7a-417f-8de2-bb8bf7c27635",
+      "id": "2a44d4ce-f4d5-4b36-b002-e1b61ff1435d",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Denzlingen: 110-kV-Netzverstärkung als Standortsignal",
@@ -1622,7 +1622,7 @@
       "tags": "Denzlingen, Netze BW, 110 kV, Strom, Emmendingen"
     },
     {
-      "id": "6ff9b190-7008-4113-b1c2-46b096551b58",
+      "id": "07f2dba9-4b28-421e-8b75-d149f1808f62",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Denzlingen: Gewerbestandort mit Entwicklungspotenzial",
@@ -1634,7 +1634,7 @@
       "tags": "Denzlingen, Gewerbegebiet, Geringfeldele, Freiburg"
     },
     {
-      "id": "060e4ef8-42b1-4e34-91ca-2c6f0f32c8c9",
+      "id": "70f65295-2c25-4b1b-bd1c-81e9d4b0b0c0",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Denzlingen: Glasfaser-/Gewerbegebiets-Hinweise",
@@ -1646,7 +1646,7 @@
       "tags": "Denzlingen, Glasfaser, Telekom, Vodafone, Gewerbegebiet"
     },
     {
-      "id": "60fb172a-eb4c-427d-9465-73bef7b4b1d8",
+      "id": "a091225c-2956-474d-a2c4-d2fde1144e69",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Freiburg: Baden-RZ als regionaler Rechenzentrumsanker",
@@ -1658,7 +1658,7 @@
       "tags": "Freiburg, Baden-RZ, Glasfaser, Versatel, Partner"
     },
     {
-      "id": "1db8ad6f-b35c-406c-9d23-232abae0ad34",
+      "id": "a2290763-efc1-4835-a492-bf24f328e0f1",
       "created": "2026-06-02",
       "updated": "2026-06-02",
       "title": "Ulm: SWU-Rechenzentrum im Science Park",
