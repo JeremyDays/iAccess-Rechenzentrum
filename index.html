@@ -665,6 +665,7 @@
       <section class="view" id="types"></section>
       <section class="view" id="requirements"></section>
       <section class="view" id="sites"></section>
+      <section class="view" id="bwMunicipalities"></section>
       <section class="view" id="germanyMap"></section>
       <section class="view" id="dataCenterDetail"></section>
       <section class="view" id="companies"></section>
@@ -723,6 +724,7 @@
       { id: "requirements", title: "Standortanforderungen", icon: "⌁", intro: "Parameter für Strom, Glasfaser, Wasser, Fläche, Naturgefahren, Abwärme, Netz und Bauleitplanung." },
       { id: "sites", title: "BW-Standorte", icon: "⌖", intro: "Bestehende und geplante Rechenzentrumsstandorte in Baden-Württemberg aus der Standortliste und ergänzenden Quellen." },
       { id: "germanyMap", title: "Deutschland-Karte", icon: "◇", intro: "Farbcodierte Übersicht der bereits aufgenommenen Rechenzentren und Projekte in Deutschland." },
+      { id: "bwMunicipalities", title: "BW-Gemeinden", icon: "▦", intro: "Abdeckung aller Gemeinden Baden-Württembergs: dokumentierte RZ-Funde, Prioritäten und noch offene kommunale Prüfungen." },
       { id: "dataCenterDetail", title: "Datencenter-Detail", icon: "⌕", intro: "Gesammelte Informationen zum ausgewählten Rechenzentrum.", hidden: true },
       { id: "companies", title: "Bauunternehmen & Planer", icon: "⌂", intro: "Unternehmen, Planer, Generalunternehmer und Referenzen im deutschen Rechenzentrumsmarkt." },
       { id: "planning", title: "Bauleitplanung & Genehmigungen", icon: "§", intro: "Regulatorik, Bebauungspläne, Flächennutzungspläne und Genehmigungsanforderungen mit BW-Fokus." },
@@ -1748,6 +1750,47 @@
           action: "Europäische KI-Anbieter als neue Nachfragegruppe für souveräne Infrastruktur aufnehmen.",
           source: "https://www.heise.de/news/Europaeische-KI-Autonomie-Mistral-investiert-830-Mio-US-Dollar-in-Rechenzentrum-11241808.html", confidence: "mittel", tags: "heise.de, Mistral, Frankreich, KI, 44 MW"
         }
+,
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Denzlingen: 110-kV-Netzverstärkung als Standortsignal",
+          topic: "Standort",
+          summary: "Netze BW plant die Verstärkung der bestehenden 110-kV-Hochspannungsleitung Anschluss Denzlingen. Das Regierungspräsidium Freiburg prüft den Planfeststellungsantrag; Hintergrund ist u.a. der erwartete massive Ausbau erneuerbarer Erzeugungsanlagen im Kreis Emmendingen.",
+          action: "Für Denzlingen nicht als Anschlusszusage werten, aber als wichtigen Netzindikator verfolgen: Netze BW, RP Freiburg, Umspannwerksnähe und mögliche Mittel-/Hochspannungsanschlusspunkte separat anfragen.",
+          source: "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen", confidence: "hoch", tags: "Denzlingen, Netze BW, 110 kV, Strom, Emmendingen"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Denzlingen: Gewerbestandort mit Entwicklungspotenzial",
+          topic: "Standort",
+          summary: "Die Gemeinde Denzlingen beschreibt sich als Unterzentrum mit guter Lage nahe Freiburg und nennt im Gewerbegebiet Geringfeldele weiteres Entwicklungspotenzial.",
+          action: "Geringfeldele, bestehende Gewerbegebiete, Eigentümerstruktur, B-Plan, Strom/Glasfaser und Feuerwehrzufahrten als erstes lokales Screeningpaket prüfen.",
+          source: "https://www.denzlingen.de/p/wirtschaftsstandort", confidence: "mittel", tags: "Denzlingen, Gewerbegebiet, Geringfeldele, Freiburg"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Denzlingen: Glasfaser-/Gewerbegebiets-Hinweise",
+          topic: "Standort",
+          summary: "Mehrere öffentliche Treffer verweisen auf Glasfaserausbau in Denzlingen und im Landkreis Emmendingen, darunter GlasfaserPlus/Telekom und ein Vodafone-Hinweis zu Glasfaser für Unternehmen im Gewerbegebiet.",
+          action: "Glasfaserverfügbarkeit nicht aus Nachricht ableiten, sondern bei Telekom/GlasfaserPlus, Vodafone, NetCom BW, lokalen Carriern und Gemeinde konkret für jede Fläche anfragen.",
+          source: "https://regionimblick.de/news-aus-der-region/emmendingen/spatenstich-fuer-den-glasfaserausbau-in-denzlingen", confidence: "mittel", tags: "Denzlingen, Glasfaser, Telekom, Vodafone, Gewerbegebiet"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Freiburg: Baden-RZ als regionaler Rechenzentrumsanker",
+          topic: "Standort",
+          summary: "Systemhaus Jerg beschreibt das Baden-RZ in Freiburg Nord mit Glasfaser-Backbone-Anbindung und Partner Versatel. Das ist ein konkreter regionaler RZ-Hinweis im Raum Freiburg.",
+          action: "Baden-RZ/Jerg als Gesprächspartner für regionale Anforderungen, Carrier, Flächenlogik, Kundenbedarf und mögliche Micro-/Container-RZ-Partnerschaft prüfen.",
+          source: "https://www.systemhaus-jerg.de/managed-service/rechenzentrum-neu", confidence: "mittel", tags: "Freiburg, Baden-RZ, Glasfaser, Versatel, Partner"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          title: "Ulm: SWU-Rechenzentrum im Science Park",
+          topic: "Standort",
+          summary: "Ein aktueller BW-Fund beschreibt die Eröffnung eines neuen SWU-Rechenzentrums im Ulmer Science Park, inklusive redundanter Stromversorgung und 1,6 MW Notstrom-Diesel; DC-Datacenter-Group wird als Generalunternehmer genannt.",
+          action: "SWU/DC-Datacenter-Group als Referenzfall für kommunale/stadtwerknahe Rechenzentren und kleine bis mittlere Standortentwicklung auswerten.",
+          source: "https://www.donau3fm.de/swu-eroeffnet-neues-rechenzentrum-im-ulmer-science-park-1010452/", confidence: "mittel", tags: "Ulm, SWU, Science Park, DC-Datacenter-Group, Notstrom"
+        }
       ],
       settings: {
         endpoint: "",
@@ -1762,7 +1805,21 @@
           "site:.de Bebauungsplan Rechenzentrum Gemeinde PDF",
           "site:.de Bebauungsplan Datacenter Gemeinde PDF",
           "site:.de Sondergebiet Rechenzentrum Bebauungsplan",
-          "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg"
+          "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg",
+          "site:baden-wuerttemberg.de Rechenzentrum",
+          "site:service-bw.de Rechenzentrum",
+          "site:uvp-verbund.de Rechenzentrum Baden-Württemberg",
+          "site:ratsinfo.* Rechenzentrum Baden-Württemberg",
+          "site:*.de intitle:Bebauungsplan Rechenzentrum Baden-Württemberg",
+          "site:*.de intitle:Bebauungsplan Datacenter Baden-Württemberg",
+          "site:*.de Rechenzentrum Denzlingen OR Freiburg OR Emmendingen OR Breisgau",
+          "site:*.de Glasfaser Gewerbegebiet Denzlingen Rechenzentrum",
+          "site:*.de Umspannwerk Gewerbegebiet Denzlingen Freiburg",
+          "Rechenzentrum Baden-Württemberg Nachrichten",
+          "Datacenter Deutschland News Rechenzentrum",
+          "site:datacenter-insider.de Rechenzentrum Baden-Württemberg",
+          "site:datacenterdynamics.com Germany data center Baden-Württemberg",
+          "site:cloudcomputing-insider.de Rechenzentrum Deutschland"
         ]
       }
     };
@@ -1773,6 +1830,7 @@
     let leafletMap = null;
     let leafletLayer = null;
     let selectedDataCenterName = "";
+    let bwMunicipalityCoverage = null;
 
     const germanyBounds = [[47.15, 5.55], [55.25, 15.35]];
     const markerColors = {
@@ -1912,6 +1970,7 @@
       renderCollection("types", "Rechenzentrumstyp hinzufügen", ["name", "category", "scale", "itPower", "area", "tags"]);
       renderCollection("requirements", "Anforderung hinzufügen", ["name", "category", "threshold", "importance", "tags"]);
       renderCollection("sites", "BW-Standort hinzufügen", ["city", "operator", "name", "address", "status", "tags"]);
+      renderBwMunicipalities();
       renderGermanyMap();
       renderDataCenterDetail();
       renderCollection("companies", "Unternehmen hinzufügen", ["name", "role", "region", "contact", "tags"]);
@@ -1957,6 +2016,7 @@
               ${quick("Standort-Screening", "Strom, Glasfaser, Wasser, Naturgefahren und Abwärme prüfen.", "requirements")}
               ${quick("BW-Standorte", "Bestehende Rechenzentren und Cluster in BW sichten.", "sites")}
               ${quick("Deutschland-Karte", "Rechenzentren nach Typ farbcodiert sehen.", "germanyMap")}
+              ${quick("BW-Gemeinden", "Abdeckung aller Gemeinden und offene Prüfungen sehen.", "bwMunicipalities")}
               ${quick("BW-Bauleitplanung", "Gemeindeunterlagen, B-Pläne, FNP und Satzungen sammeln.", "planning")}
               ${quick("Bebauungspläne RZ", "Kommunale RZ-B-Pläne und Beteiligungslinks prüfen.", "zoningPlans")}
               ${quick("PDF-Daten RZ", "Ausgelesene PDF-Fakten zu Technik und Planung sehen.", "pdfExtracts")}
@@ -1987,6 +2047,85 @@
         ${link}
         <div style="margin-top:9px">${tags(f.tags).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("")}<span class="pill blue">${escapeHtml(f.topic || "Fund")}</span><span class="pill sun">${escapeHtml(f.confidence || "mittel")}</span></div>
       </article>`;
+    }
+
+    async function renderBwMunicipalities() {
+      const root = document.getElementById("bwMunicipalities");
+      if (!root) return;
+      if (!bwMunicipalityCoverage) {
+        root.innerHTML = `<div class="card section"><h3>BW-Gemeindeabdeckung</h3><p class="small">Lade Abdeckungsdatei...</p></div>`;
+        try {
+          const response = await fetch("assets/bw-municipality-coverage.json");
+          bwMunicipalityCoverage = await response.json();
+        } catch (error) {
+          root.innerHTML = `<div class="card section"><h3>BW-Gemeindeabdeckung</h3><p class="small">Die Datei assets/bw-municipality-coverage.json konnte nicht geladen werden. Auf GitHub Pages funktioniert diese Ansicht; lokal bitte über einen kleinen Webserver öffnen.</p></div>`;
+          return;
+        }
+      }
+
+      const items = bwMunicipalityCoverage.items || [];
+      const found = items.filter(item => item.status === "RZ gefunden");
+      const priorityOpen = items.filter(item => item.priority === "hoch" && item.status !== "RZ gefunden");
+      root.innerHTML = `
+        <div class="grid kpis">
+          ${kpi("BW-Gemeinden", bwMunicipalityCoverage.total || items.length, "vollständige Gemeindeliste")}
+          ${kpi("RZ gefunden", found.length, "Standort oder B-Plan dokumentiert")}
+          ${kpi("Offen", bwMunicipalityCoverage.notSystematicallyChecked || (items.length - found.length), "nicht systematisch geprüft")}
+          ${kpi("Priorität offen", priorityOpen.length, "Raum Freiburg/BW-Fokus")}
+        </div>
+        <div class="card section">
+          <div class="toolbar">
+            <h3>Rechercheabdeckung Baden-Württemberg</h3>
+            <input class="input" id="municipalitySearch" placeholder="Gemeinde, Landkreis, Nachweis suchen" style="max-width:340px">
+          </div>
+          <p class="small">Diese Liste ist kein Negativnachweis. Sie zeigt, wo bereits ein Rechenzentrum oder RZ-Bebauungsplan dokumentiert ist und welche Gemeinden noch systematisch über Gemeindeseite, Ratsinformationssystem, B-Pläne/FNP, Gewerbeflächen, Netzbetreiber und Glasfaser geprüft werden müssen. Quelle: ${escapeHtml(bwMunicipalityCoverage.source || "")}</p>
+          <div class="toolbar" style="justify-content:flex-start">
+            <button class="secondary" data-status-filter="all">Alle</button>
+            <button class="secondary" data-status-filter="found">RZ gefunden</button>
+            <button class="secondary" data-status-filter="priority">Priorität offen</button>
+            <button class="secondary" data-status-filter="open">Offen</button>
+          </div>
+          <div id="municipalityTable"></div>
+        </div>
+      `;
+
+      let statusFilter = "all";
+      const draw = () => {
+        const query = document.getElementById("municipalitySearch").value.trim().toLowerCase();
+        const rows = items
+          .filter(item => {
+            if (statusFilter === "found" && item.status !== "RZ gefunden") return false;
+            if (statusFilter === "priority" && !(item.priority === "hoch" && item.status !== "RZ gefunden")) return false;
+            if (statusFilter === "open" && item.status === "RZ gefunden") return false;
+            if (!query) return true;
+            return [item.name, item.district, item.status, item.evidence, item.notes, item.nextAction].join(" ").toLowerCase().includes(query);
+          })
+          .slice(0, 220);
+        document.getElementById("municipalityTable").innerHTML = `
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Gemeinde</th><th>Landkreis</th><th>Status</th><th>Nachweis / nächste Aktion</th></tr></thead>
+              <tbody>
+                ${rows.map(item => `<tr>
+                  <td><strong>${escapeHtml(item.name)}</strong>${item.priority === "hoch" ? `<br><span class="pill">Priorität</span>` : ""}</td>
+                  <td>${escapeHtml(item.district || "")}</td>
+                  <td>${escapeHtml(item.status || "")}</td>
+                  <td>${item.evidence ? escapeHtml(item.evidence) : escapeHtml(item.nextAction || "")}</td>
+                </tr>`).join("")}
+              </tbody>
+            </table>
+          </div>
+          <p class="small">${rows.length} angezeigte Zeilen. Bei großen Treffermengen werden die ersten 220 Zeilen angezeigt; bitte Suche/Filter nutzen.</p>
+        `;
+      };
+      document.getElementById("municipalitySearch").addEventListener("input", draw);
+      root.querySelectorAll("[data-status-filter]").forEach(button => {
+        button.addEventListener("click", () => {
+          statusFilter = button.dataset.statusFilter;
+          draw();
+        });
+      });
+      draw();
     }
 
     function renderMedia() {
