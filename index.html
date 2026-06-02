@@ -783,10 +783,16 @@
     const schemas = {
       types: [
         ["name", "Typ", "text"],
-        ["category", "Kategorie", "text"],
-        ["scale", "Typische Größe", "text"],
-        ["itPower", "IT-Leistung", "text"],
-        ["area", "Flächenbedarf", "text"],
+        ["category", "Leistungsklasse", "text"],
+        ["marketCategory", "Kategorie / Nutzung", "text"],
+        ["powerSort", "Sortierwert MW", "text"],
+        ["gridPower", "Elektrische Bezugsleistung", "text"],
+        ["itPower", "IT-Last", "text"],
+        ["area", "Flaechenbedarf", "text"],
+        ["waterNeed", "Wasserbedarf", "text"],
+        ["connectivityNeed", "Internet / Glasfaser", "textarea"],
+        ["cooling", "Kuehlung", "textarea"],
+        ["scale", "Typische Groesse", "text"],
         ["traits", "Merkmale", "textarea"],
         ["examples", "Beispiele", "textarea"],
         ["tags", "Tags", "text"],
@@ -891,63 +897,129 @@
       types: [
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "Hyperscale-Rechenzentrum", category: "Hyperscale",
-          scale: "Zehntausende bis >100.000 m² Bruttogrundfläche",
-          itPower: "typisch 20 bis >100 MW IT-Last",
-          area: "mehrere Hektar, oft Campus-Struktur mit Erweiterungsflächen",
-          traits: "Für Cloud- und KI-Workloads. Sehr hoher Strombedarf, redundante Netzanbindung, skalierbare Kühlung, hohe Anforderungen an Netzanschluss, Glasfaser, Sicherheit und Genehmigung.",
-          examples: "Cloud-Regionen großer Plattformbetreiber, KI-Trainingscluster, große Campus-Standorte.",
-          tags: "KI, Cloud, Strom, Campus", source: "Initiale Wissensbasis"
+          name: "Mikro-/Serverraum",
+          category: "0,05-0,25 MW Bezug",
+          marketCategory: "Enterprise / lokaler Betrieb",
+          powerSort: "0.05",
+          gridPower: "ca. 50 bis 250 kW elektrische Bezugsleistung inklusive Kuehlung und Nebenanlagen",
+          itPower: "ca. 30 bis 170 kW IT-Last, je nach PUE und Redundanz",
+          area: "ca. 30 bis 300 m2 Technik- und Nebenflaechen; meist im bestehenden Gebaeude",
+          waterNeed: "in der Regel kein Prozesswasser noetig, wenn DX-/Luftkuehlung oder kleine Trockenkuehler genutzt werden",
+          connectivityNeed: "mindestens 1 bis 10 Gbit/s, fuer professionelle Nutzung redundant ueber zwei Provider oder zwei Trassen; Latenz lokal/regional wichtiger als Peering-Groesse.",
+          cooling: "DX-Klima, indirekte freie Kuehlung oder kleine luftgekuehlte Rueckkuehler. Wasserfrei moeglich, aber bei hoeheren Aussentemperaturen meist weniger effizient als wasserunterstuetzte Systeme.",
+          scale: "Serverraum, kleiner Technikraum oder einzelne Modulzelle",
+          traits: "Gut fuer Bestand, Gewerbe und erste lokale Dienste. Der Netzanschluss ist oft noch auf Niederspannung oder kleine Mittelspannung erweiterbar; Brandschutz, Zutritt und Monitoring bleiben trotzdem kritisch.",
+          examples: "Unternehmens-IT, lokale Backup-/Edge-Knoten, kleine KI-Inferenz.",
+          tags: "Enterprise, Edge, Niederspannung, wasserfrei",
+          source: "iAccess-Screening, Richtwerte"
         },
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "Colocation-Rechenzentrum", category: "Colocation",
-          scale: "ca. 5.000 bis 50.000 m², je nach Markt und Ausbauphase",
-          itPower: "typisch 2 bis 50 MW",
-          area: "innerstädtisch oder gewerblich, gute Glasfaser- und Stromnähe",
-          traits: "Vermietung von Racks, Cages oder Suiten an mehrere Kunden. Carrier-Neutralität, hohe Verfügbarkeit und kurze Latenzen sind zentrale Standortfaktoren.",
-          examples: "Frankfurt-Rhein-Main, Berlin, München, Hamburg, Stuttgart als Sekundärmarkt.",
-          tags: "Carrier, Kunden, Latenz", source: "Initiale Wissensbasis"
+          name: "Container-/Kleinrechenzentrum",
+          category: "0,25-2 MW Bezug",
+          marketCategory: "Modular / Edge",
+          powerSort: "0.25",
+          gridPower: "ca. 0,25 bis 2 MW elektrische Bezugsleistung; Mittelspannungsanschluss wird ab etwa 1 MW meist realistisch",
+          itPower: "ca. 0,15 bis 1,4 MW IT-Last, abhaengig von PUE, USV, Kuehlung und Redundanz",
+          area: "ca. 300 bis 3.000 m2 inklusive Container/Modul, Trafo, Rueckkuehler, Sicherheitsabstand, Zufahrt und Erweiterungsreserve",
+          waterNeed: "wasserfrei mit Luft-/Trockenkuehlung oder direkter/indirekter Fluessigkeitskuehlung moeglich; adiabatische Systeme brauchen nur Spitzen-/Sommerwasser",
+          connectivityNeed: "mindestens 2 x 10 Gbit/s als Startpunkt, besser skalierbar auf 40/100 Gbit/s; zwei unabhaengige Glasfaserwege sind fuer echte Verfuegbarkeit wichtiger als eine einzelne hohe Bandbreite.",
+          cooling: "Modulare Luftkuehlung, indirekte freie Kuehlung, Rear-Door-Kuehler oder Direct-to-Chip-Fluessigkeitskuehlung. Fuer Denzlingen/Freiburg ist wasserarme oder wasserfreie Kuehlung ein guter erster Suchfilter.",
+          scale: "1 bis mehrere IT-Container oder kleine modulare Halle",
+          traits: "Das ist die passende Einstiegsklasse fuer iAccess: noch klein genug fuer Gewerbeflaechen, aber gross genug fuer professionellen Betrieb, Abwaermeoptionen und belastbare Netz-/Glasfaserpruefung.",
+          examples: "Kommunales/industrielles Edge-RZ, Containerloesung fuer regionale KI-Inferenz, kleiner Colocation-Start.",
+          tags: "Container, Modular, Edge, Baden-Wuerttemberg, Denzlingen",
+          source: "iAccess-Screening, Richtwerte"
         },
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "Edge-Rechenzentrum", category: "Edge",
-          scale: "Container bis wenige tausend m²",
-          itPower: "typisch 100 kW bis 5 MW",
-          area: "kleine Flächen nahe Nutzern, Industrie, Mobilfunk, Verkehr oder Energieinfrastruktur",
-          traits: "Für niedrige Latenz, lokale Datenverarbeitung und resiliente Dienste. Besonders interessant für Industriecluster und kommunale Infrastruktur.",
+          name: "Edge-Rechenzentrum",
+          category: "1-5 MW Bezug",
+          marketCategory: "Edge / regionale Plattform",
+          powerSort: "1",
+          gridPower: "ca. 1 bis 5 MW elektrische Bezugsleistung; regelmaessig Mittelspannung, Redundanz und Erweiterbarkeit pruefen",
+          itPower: "ca. 0,7 bis 3,5 MW IT-Last",
+          area: "ca. 0,2 bis 1 ha, je nach Gebaeude, Rueckkuehlern, Trafoflaechen, Zufahrt und Reserve",
+          waterNeed: "wasserfrei oder wasserarm moeglich; bei hoher Rackdichte werden Fluessigkeitskuehlung und Waermerueckgewinnung wichtiger",
+          connectivityNeed: "mehrere Carrier, typischerweise 2 x 10 bis 2 x 100 Gbit/s; niedrige Latenz zu Nutzern, Industrieclustern und naechsten Internetknoten.",
+          cooling: "Indirekte freie Kuehlung, Trockenkuehler, hybride/adiabatische Spitzenlast oder Direct-to-Chip fuer dichte KI-Racks.",
+          scale: "kleine Halle, Modulbau oder erweiterbarer Containerverbund",
+          traits: "Fuer niedrige Latenz, lokale Datenverarbeitung und resiliente Dienste. Besonders interessant fuer Industriecluster, kommunale Infrastruktur und regionale KI-Inferenz.",
           examples: "Industrie 4.0, autonome Systeme, regionale KI-Inferenz, Smart City.",
-          tags: "Latenz, Industrie, Kommune", source: "Initiale Wissensbasis"
+          tags: "Latenz, Industrie, Kommune, Mittelspannung",
+          source: "Initiale Wissensbasis, iAccess-Screening"
         },
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "Enterprise / On-Premise", category: "Enterprise",
-          scale: "Serverraum bis eigenes Gebäude",
-          itPower: "typisch 50 kW bis 5 MW",
-          area: "auf Unternehmensgelände, oft mit begrenzter Erweiterbarkeit",
-          traits: "Unternehmensinterne IT. Modernisierung, Auslagerung oder Kopplung mit Colocation häufig relevant.",
-          examples: "Banken, Industrieunternehmen, Forschung, öffentliche Verwaltung.",
-          tags: "Bestand, Migration, Unternehmen", source: "Initiale Wissensbasis"
+          name: "Enterprise / On-Premise",
+          category: "0,05-5 MW Bezug",
+          marketCategory: "Enterprise",
+          powerSort: "2",
+          gridPower: "typisch 50 kW bis 5 MW elektrische Bezugsleistung; oft durch Bestand, Mietflaeche oder Werksnetz begrenzt",
+          itPower: "ca. 30 kW bis 3,5 MW IT-Last",
+          area: "Serverraum bis eigenes Gebaeude; Erweiterbarkeit haeufig begrenzt",
+          waterNeed: "meist wasserfrei oder geringer Wasserbedarf; ab hoeherer Dichte standortabhaengig",
+          connectivityNeed: "1 bis 100 Gbit/s je nach Unternehmensgroesse; Redundanz, Providerdiversitaet und Ausfallszenarien pruefen.",
+          cooling: "Bestandsklima, DX, freie Kuehlung, Rueckkuehler oder Umbau auf effizientere Luft-/Fluessigkeitskuehlung.",
+          scale: "Serverraum bis eigenes Gebaeude",
+          traits: "Unternehmensinterne IT. Modernisierung, Auslagerung oder Kopplung mit Colocation haeufig relevant.",
+          examples: "Banken, Industrieunternehmen, Forschung, oeffentliche Verwaltung.",
+          tags: "Bestand, Migration, Unternehmen",
+          source: "Initiale Wissensbasis, iAccess-Screening"
         },
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "Modular / Container-Rechenzentrum", category: "Modular",
-          scale: "vorgefertigte Module bis campusfähige Modulbauweise",
-          itPower: "von Edge-Größenordnung bis große KI-Ausbauphasen",
-          area: "abhängig von Modulanzahl, Trafo-/Generatorflächen, Rückkühlern und Erweiterungsreserve",
-          traits: "Schneller Ausbau, standardisierte Technik, phasenweiser Kapazitätsaufbau. Genehmigungs- und Standortfragen bleiben im Kern dieselben wie bei festen Gebäuden.",
-          examples: "Edge-Module, KI-Container, prefabrizierte Hallenmodule.",
-          tags: "Container, Prefab, KI, Ausbauphasen", source: "Allgemeine Informationen Datencenter.pdf"
+          name: "Colocation-Rechenzentrum",
+          category: "5-50 MW Bezug",
+          marketCategory: "Colocation / Carrier-neutral",
+          powerSort: "5",
+          gridPower: "ca. 5 bis 50 MW elektrische Bezugsleistung; Mittel- bis Hochspannungsnaehe, Redundanz und Ausbauzeit entscheidend",
+          itPower: "ca. 3,5 bis 35 MW IT-Last",
+          area: "ca. 1 bis 8 ha inklusive Gebaeude, Technikhoefe, Netzersatzanlagen, Rueckkuehler, Sicherheitszonen und Erweiterung",
+          waterNeed: "abhaengig vom Kuehlkonzept; wasserarme freie Kuehlung moeglich, evaporative/adiabatische Systeme senken Strombedarf, brauchen aber Wasser und Genehmigungspruefung",
+          connectivityNeed: "carrier-neutral, mehrere unabhaengige Trassen, 100 Gbit/s faehige Anbindung, skalierbar auf mehrere 100 Gbit/s bis Tbit/s; Peering-/Cloud-On-Ramp-Naehe wichtig.",
+          cooling: "Indirekte freie Kuehlung, Kalt-/Warmgang, Rueckkuehler, hybride adiabatische Systeme; bei KI-Mietern zusaetzlich Fluessigkeitskuehlung.",
+          scale: "mehrere tausend bis zehntausende m2 BGF",
+          traits: "Vermietung von Racks, Cages oder Suiten an mehrere Kunden. Carrier-Neutralitaet, hohe Verfuegbarkeit und kurze Latenzen sind zentrale Standortfaktoren.",
+          examples: "Frankfurt-Rhein-Main, Berlin, Muenchen, Hamburg, Stuttgart als Sekundaermarkt.",
+          tags: "Carrier, Kunden, Latenz, Hochverfuegbarkeit",
+          source: "Initiale Wissensbasis, iAccess-Screening"
         },
         {
           id: crypto.randomUUID(), created: today, updated: today,
-          name: "KI-/HPC-Gigafactory", category: "KI/HPC",
-          scale: "Campus mit mehreren Hallen, häufig 100 MW bis mehrere 100 MW Anschlussleistung",
-          itPower: "GPU-/Beschleuniger-Cluster, oft in Ausbauphasen von 20 MW bis >500 MW",
-          area: "große Konversions-, Industrie- oder Energieflächen mit Hochspannungsnähe, Kühlung, Sicherheitszonen und Erweiterungsreserve",
-          traits: "Für Training und Betrieb großer KI-Modelle oder HPC. Sehr hohe Rackdichten, Flüssigkeitskühlung, große Strom- und Netzanschlüsse, Abwärme- und Wasserstrategie sowie schnelle Genehmigungsfähigkeit sind zentral.",
-          examples: "Microsoft Azure NRW mit 520 MW, NTT Frankfurt 6/Nierstein mit 482 MW, Schwarz Digits Lübbenau mit 200 MW.",
-          tags: "KI, HPC, Hyperscale, Hochspannung, Konversion", source: "heise.de"
+          name: "Hyperscale-Rechenzentrum",
+          category: "50-150 MW Bezug",
+          marketCategory: "Hyperscale / Cloud",
+          powerSort: "50",
+          gridPower: "ca. 50 bis 150 MW elektrische Bezugsleistung; Hochspannung, Umspannwerksnaehe, Netzausbau und Phasenplanung sind Gatekeeper",
+          itPower: "ca. 35 bis 110 MW IT-Last",
+          area: "typisch 5 bis >20 ha, oft Campus-Struktur mit Erweiterungsflaechen",
+          waterNeed: "konzeptabhaengig von gering bis sehr hoch; wasserarme Konzepte, Abwaermenutzung und kommunale Wasserbilanz frueh pruefen",
+          connectivityNeed: "mehrere redundante Ferntrassen, hohe Dark-Fiber-/Wavelength-Kapazitaet, mehrere 100 Gbit/s bis Tbit/s, Cloud-Backbone und Peering-Anbindung.",
+          cooling: "skalierte freie Kuehlung, luft- oder fluessigkeitsbasierte Systeme, adiabatische Spitzenlast, Abwaermeauskopplung; Wasserstrategie wird genehmigungs- und akzeptanzrelevant.",
+          scale: "Zehntausende bis >100.000 m2 Bruttogrundflaeche",
+          traits: "Fuer Cloud- und KI-Workloads. Sehr hoher Strombedarf, redundante Netzanbindung, skalierbare Kuehlung, hohe Anforderungen an Netzanschluss, Glasfaser, Sicherheit und Genehmigung.",
+          examples: "Cloud-Regionen grosser Plattformbetreiber, KI-Trainingscluster, grosse Campus-Standorte.",
+          tags: "KI, Cloud, Strom, Campus",
+          source: "Initiale Wissensbasis, heise.de"
+        },
+        {
+          id: crypto.randomUUID(), created: today, updated: today,
+          name: "KI-/HPC-Gigafactory",
+          category: ">150 MW Bezug",
+          marketCategory: "KI/HPC / Grosscampus",
+          powerSort: "150",
+          gridPower: "ca. 150 bis >500 MW elektrische Bezugsleistung; Hoch- oder Hoechstspannungsnaehe, eigene Umspannwerke und Netzausbau praktisch vorausgesetzt",
+          itPower: "ca. 100 bis >350 MW IT-Last, je nach PUE und Ausbauphase",
+          area: "typisch >10 bis >50 ha mit Hallen, Umspannwerk, Kuehltechnik, Sicherheitszonen, Wasser-/Abwaermeinfrastruktur und Erweiterungsreserve",
+          waterNeed: "kritischer Standortfaktor: wasserfreie Fluessigkeits-/Trockenkuehlung moeglich, aber mit Effizienz- und Investitionsfolgen; wasserbasierte Spitzenlast oder Waermerueckgewinnung separat pruefen",
+          connectivityNeed: "mehrere grossskalige Ferntrassen, Dark Fiber/Wavelength, Tbit/s-faehige Backbone-Anbindung; Redundanz und Latenz zu Cloud-/KI-Oekosystemen entscheidend.",
+          cooling: "Direct-to-Chip- oder Immersionsnahe Fluessigkeitskuehlung fuer hohe Rackdichten, Trockenkuehler/Hybridkuehlung, grosse Waermeabfuhr und moegliche Abwaermenutzung.",
+          scale: "Campus mit mehreren Hallen, haeufig in Ausbauphasen",
+          traits: "Fuer Training und Betrieb grosser KI-Modelle oder HPC. Sehr hohe Rackdichten, Fluessigkeitskuehlung, grosse Strom- und Netzanschluesse, Abwaerme- und Wasserstrategie sowie schnelle Genehmigungsfaehigkeit sind zentral.",
+          examples: "Microsoft Azure NRW mit 520 MW, NTT Frankfurt 6/Nierstein mit 482 MW, Schwarz Digits Luebbenau mit 200 MW.",
+          tags: "KI, HPC, Hyperscale, Hochspannung, Konversion",
+          source: "heise.de"
         }
       ],
       requirements: [
@@ -1940,6 +2012,7 @@
     function loadData() {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (!raw) {
+        normalizeTypeRows(seedData);
         localStorage.setItem(STORAGE_KEY, JSON.stringify(seedData));
         return structuredClone(seedData);
       }
@@ -1947,10 +2020,20 @@
         const parsed = JSON.parse(raw);
         const merged = Object.assign(structuredClone(seedData), parsed);
         mergeSeedArrays(merged, seedData);
+        normalizeTypeRows(merged);
         return merged;
       } catch {
+        normalizeTypeRows(seedData);
         return structuredClone(seedData);
       }
+    }
+
+    function normalizeTypeRows(target) {
+      const seedByName = new Map(seedData.types.map(item => [item.name, item]));
+      target.types = (target.types || []).map(item => {
+        const seed = seedByName.get(item.name);
+        return seed ? { ...item, ...seed, id: item.id || seed.id, created: item.created || seed.created } : item;
+      }).sort((a, b) => typePowerValue(a) - typePowerValue(b));
     }
 
     function mergeSeedArrays(target, seed) {
@@ -2011,7 +2094,7 @@
     function render() {
       renderNav();
       renderDashboard();
-      renderCollection("types", "Rechenzentrumstyp hinzufügen", ["name", "category", "scale", "itPower", "area", "tags"]);
+      renderTypes();
       renderCollection("requirements", "Anforderung hinzufügen", ["name", "category", "threshold", "importance", "tags"]);
       renderCollection("sites", "BW-Standort hinzufügen", ["city", "operator", "name", "address", "status", "tags"]);
       renderBwMunicipalities();
@@ -2404,6 +2487,67 @@
         <p>${escapeHtml(item.notes || "")}</p>
         ${item.pageUrl ? `<a href="${escapeHtml(item.pageUrl)}" target="_blank" rel="noreferrer">Quelle öffnen</a>` : ""}
       </article>`;
+    }
+
+
+
+    function renderTypes() {
+      const key = "types";
+      const root = document.getElementById(key);
+      const rows = [...data.types].sort((a, b) => typePowerValue(a) - typePowerValue(b));
+      const columns = ["name", "category", "gridPower", "itPower", "area", "waterNeed", "connectivityNeed"];
+      root.innerHTML = `
+        <div class="card section">
+          <div class="toolbar">
+            <div class="filters">
+              <input class="input search" placeholder="Suchen..." data-search="${key}">
+              <select data-filter="${key}">
+                <option value="">Alle Leistungsklassen</option>
+                ${unique(rows.map(item => item.category).filter(Boolean)).map(v => `<option>${escapeHtml(v)}</option>`).join("")}
+              </select>
+            </div>
+            <button class="primary" data-add="${key}">Rechenzentrumstyp hinzufuegen</button>
+          </div>
+          <p class="small"><strong>Typ</strong> beschreibt die technische und marktliche Bauart, z.B. Container, Edge, Colocation oder Hyperscale. <strong>Leistungsklasse</strong> ist hier die harte Screening-Groesse nach elektrischer Bezugsleistung. Die IT-Last ist nicht identisch mit dem Strombedarf: Bezugsleistung umfasst zusaetzlich Kuehlung, USV-Verluste, Netzteile, Sicherheitstechnik und Nebenanlagen.</p>
+          <div class="table-wrap">
+            <table>
+              <thead><tr>${columns.map(c => `<th>${labelFor(key, c)}</th>`).join("")}<th>Aktionen</th></tr></thead>
+              <tbody data-body="${key}">${tableRows(key, rows, columns)}</tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      bindTypes(columns);
+    }
+
+    function bindTypes(columns) {
+      const key = "types";
+      const search = document.querySelector(`[data-search="${key}"]`);
+      const filter = document.querySelector(`[data-filter="${key}"]`);
+      const apply = () => {
+        const q = search.value.toLowerCase();
+        const f = filter.value;
+        const rows = data.types.filter(item => {
+          const blob = Object.values(item).join(" ").toLowerCase();
+          const hit = !q || blob.includes(q);
+          const inFilter = !f || item.category === f;
+          return hit && inFilter;
+        }).sort((a, b) => typePowerValue(a) - typePowerValue(b));
+        document.querySelector(`[data-body="${key}"]`).innerHTML = tableRows(key, rows, columns);
+        bindRowActions();
+      };
+      search.addEventListener("input", apply);
+      filter.addEventListener("change", apply);
+      document.querySelector(`[data-add="${key}"]`).addEventListener("click", () => openEditor(key));
+      bindRowActions();
+    }
+
+    function typePowerValue(item) {
+      const explicit = Number(String(item.powerSort || "").replace(",", "."));
+      if (Number.isFinite(explicit) && explicit >= 0) return explicit;
+      const text = [item.category, item.gridPower, item.itPower, item.scale].filter(Boolean).join(" ");
+      const match = text.match(/(\d+(?:[,.]\d+)?)/);
+      return match ? Number(match[1].replace(",", ".")) : Number.MAX_SAFE_INTEGER;
     }
 
     function renderCollection(key, addLabel, columns) {
