@@ -1,9 +1,9 @@
 {
   "types": [
     {
-      "id": "dc1c3f0c-4df4-4b9b-aa2c-eccaf5ac2307",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5f022cdf-2eb5-4c2f-b131-77441ab424ec",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Hyperscale-Rechenzentrum",
       "category": "Hyperscale",
       "scale": "Zehntausende bis >100.000 m² Bruttogrundfläche",
@@ -15,9 +15,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "2aa158d6-2be5-467a-b6bf-6e014382d804",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "13b1ae60-6a56-4be4-a1ef-52d0f312c5e2",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Colocation-Rechenzentrum",
       "category": "Colocation",
       "scale": "ca. 5.000 bis 50.000 m², je nach Markt und Ausbauphase",
@@ -29,9 +29,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "6cd169ad-fbf8-48d8-8d2a-33536370967f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a0c4b5cf-a76f-41bb-95e6-942fcae031f0",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Edge-Rechenzentrum",
       "category": "Edge",
       "scale": "Container bis wenige tausend m²",
@@ -43,9 +43,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "10e58bf8-c660-4d38-a8f8-8d8994abb220",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5b4fa709-265f-41bd-b1b2-722d7262ab19",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Enterprise / On-Premise",
       "category": "Enterprise",
       "scale": "Serverraum bis eigenes Gebäude",
@@ -57,9 +57,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "665145c5-c7c5-4b1c-86ce-d65179713228",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "90022fad-1c14-447c-b874-c617e72fa520",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Modular / Container-Rechenzentrum",
       "category": "Modular",
       "scale": "vorgefertigte Module bis campusfähige Modulbauweise",
@@ -71,9 +71,9 @@
       "source": "Allgemeine Informationen Datencenter.pdf"
     },
     {
-      "id": "5b4fbbcb-3425-421b-8fc3-d45c9968381c",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "55fb2326-ffba-42b5-a961-aa3e65a5bc9a",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "KI-/HPC-Gigafactory",
       "category": "KI/HPC",
       "scale": "Campus mit mehreren Hallen, häufig 100 MW bis mehrere 100 MW Anschlussleistung",
@@ -87,9 +87,9 @@
   ],
   "requirements": [
     {
-      "id": "c97d5565-cfb8-497b-b81a-083991662bf7",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "fd540a6c-6464-456a-ba69-6f282d4e7a98",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Netzanschluss und elektrische Leistung",
       "category": "Strom",
       "threshold": "Edge: <5 MW, Colocation: 2 bis 50 MW, Hyperscale: 20 bis >100 MW",
@@ -100,9 +100,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "472a539e-b89e-4e46-a8d9-de3e9b8307d4",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "4dbb8593-ebdb-473c-a408-abdf9a318b30",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Glasfaser, Bandbreite und Latenz",
       "category": "Internet",
       "threshold": "mehrere Carrier, redundante Trassen, sehr niedrige Latenz je nach Use Case",
@@ -113,9 +113,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "77141901-db1a-4b39-b799-1f9e55637c34",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "86f6ed73-4c02-491a-b1fb-a1ff1e425372",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Wasser und Kühlung",
       "category": "Wasser",
       "threshold": "stark abhängig von Kühlkonzept, PUE, Außentemperatur und Wiederverwendung",
@@ -126,9 +126,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "6f795533-df13-4201-9543-3273eddc81c2",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "84b6461f-e227-4e8e-af2b-a5bfe5c889cd",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Fläche, Erweiterbarkeit und Baugrund",
       "category": "Fläche",
       "threshold": "Edge: <1 ha, mittlere Standorte: 1 bis 5 ha, Campus: 5 bis >20 ha",
@@ -139,9 +139,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "0b23fcfc-7c53-4665-a46e-1492763010fd",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "96ac57e4-d692-4370-b925-d996245e0e8f",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Abwärmenutzung",
       "category": "Abwärme",
       "threshold": "Nähe zu Wärmenetz, Industrie, Quartier oder kommunaler Wärmeplanung",
@@ -152,9 +152,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "81dfbc55-0d31-473c-985e-8f78248190af",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "1adaa445-5128-4582-945a-6163812554b7",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Naturgefahren und Resilienz",
       "category": "Naturgefahren",
       "threshold": "Ausschluss oder technische Schutzmaßnahmen bei Hochwasser, Starkregen, Hangrutschung, Erdbebenrisiko",
@@ -165,9 +165,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "871a0e1b-4bf7-46ef-a6ff-cf8ad8306420",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "f0ee0625-cd80-4d93-879e-2d02aa7c2bf3",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Regionaler Grünzug / Grünzäsur als No-Go-Filter",
       "category": "Bauleitplanung",
       "threshold": "im ersten GIS-Screening grundsätzlich Ausschluss, Zielabweichung nur als Ausnahme prüfen",
@@ -178,9 +178,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "b1784293-2b10-47d0-a1d9-430fbd7061ff",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "23ce6c47-3393-4195-9667-9d9d45a3a9ba",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Außenbereich, Ackerflächen und Bauleitplanung",
       "category": "Bauleitplanung",
       "threshold": "Rechenzentrum typischerweise nicht privilegiert; B-Plan/FNP oder bestehendes GE/GI/SO erforderlich",
@@ -191,9 +191,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "5bc199e1-8a56-4d5b-9efa-be3827df30b7",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "9e0ad52a-fd8f-4f3b-83ef-8dfc72b97ee8",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "TA Lärm und Abstand zu Wohnbebauung",
       "category": "Betrieb",
       "threshold": "200 m als internes Screeningkriterium; endgültig schalltechnische Prognose",
@@ -204,9 +204,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "21590c81-a549-4f9b-9858-b301d874c13e",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "bd22b8f5-c4e6-49ed-bdbf-e4f235170fcf",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "EnEfG, PUE und erneuerbarer Strom",
       "category": "Energie",
       "threshold": "ab 2024 50% EE bilanziell, ab 2027 100%; Neubau nach 01.07.2026 PUE-Ziel max. 1,2",
@@ -217,9 +217,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "422bf779-3f7f-44ca-8752-7f0ee61ec196",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2de9357f-59bb-4ba0-9e72-10ed4f5f776d",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Schnelle Red Flags im Flächenscreening",
       "category": "Bauleitplanung",
       "threshold": "sofort aussortieren bei fehlendem Strom, fehlender Glasfaser, Wohngebiet, Hochwasser, Naturschutz, politisch schwierigem Baurecht",
@@ -230,9 +230,9 @@
       "source": "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "45002d5c-634b-4f61-92d1-f3700fdcf258",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "92251cb6-26a7-4b1e-b5e9-bd7909e00c15",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Technische Redundanz und Standards",
       "category": "Betrieb",
       "threshold": "N+1 oder 2N für USV, Generatoren, Kühlung und Kommunikationspfade je nach Tier-/Verfügbarkeitsziel",
@@ -243,9 +243,9 @@
       "source": "Datencenter alle wichtigen Daten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "9f12e0c5-9fbd-4ac7-b706-c097c846827f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "1b620a0d-41e1-4220-af3f-713bfbe971cc",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Logistik, Feuerwehr und Erweiterbarkeit",
       "category": "Fläche",
       "threshold": "LKW-/Schwertransportzufahrt, Feuerwehrzufahrt, Platz für Trafo, Generatoren, Rückkühler und Ausbauphasen",
@@ -256,9 +256,9 @@
       "source": "Kurzfassung in Stichpunkten (CHAT GPT_Shion).pdf"
     },
     {
-      "id": "5dceee6b-84d3-41d3-893d-f2ab7e03ed3a",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "f8f731f0-d263-4bc2-b36a-9ae52dae8ddf",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Leistungsklassen als Primärfilter",
       "category": "Strom",
       "threshold": "Edge <5 MW, mittlere Colocation 5-50 MW, Hyperscale/KI häufig >100 MW, Großcampus 400-520 MW",
@@ -269,9 +269,9 @@
       "source": "heise.de"
     },
     {
-      "id": "539e735f-8e51-4ac8-b305-146e7f32c1f4",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "01e1d150-9159-4aee-8979-35aaf9c6d31c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Konversions- und Energieflächen",
       "category": "Fläche",
       "threshold": "alte Kraftwerks-, Industrie-, Kasernen- oder Energieinfrastrukturflächen mit 110-kV-/Hochspannungsnähe priorisieren",
@@ -284,9 +284,9 @@
   ],
   "sites": [
     {
-      "id": "9a46b20b-044e-44e1-b77d-67852caaa27e",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5a40cf17-0cb4-4e98-bac0-b3aaaab53f35",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Stuttgart",
       "postalCode": "70173",
       "address": "Neue Brücke 8",
@@ -298,9 +298,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "5e1faf0c-eb66-4249-9e91-e5a5c6d9d40a",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "1d3882b5-140c-47bf-9fd7-050d2c62b89c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Stuttgart-Vaihingen",
       "postalCode": "70565",
       "address": "Schockenriedstraße 6",
@@ -312,9 +312,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "e1e17ff2-6b97-4bf2-ae31-cfcf4a761ed7",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "885e6eb8-32c0-41c6-9ca9-a587feb36247",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Stuttgart-Vaihingen",
       "postalCode": "70563",
       "address": "Gropiusplatz 10",
@@ -326,9 +326,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "45d35b68-bdf4-473d-8663-745145c2a6b3",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "7404b5d8-989b-46f7-8378-ce853817fa8f",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Stuttgart",
       "postalCode": "70565",
       "address": "Breitwiesenstraße 28",
@@ -340,9 +340,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "166ba7ee-2b5b-4032-b29e-1800b0756e9f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "c615dd58-0193-49a4-9ed3-754faa8c4cf0",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Stuttgart",
       "postalCode": "70567",
       "address": "Zettachring 10/12",
@@ -354,9 +354,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "6680dffe-0e5c-4e14-a391-142853f43687",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "29a77963-5909-48d1-9b98-d469838d781d",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Karlsruhe",
       "postalCode": "76227",
       "address": "Amalienbadstraße 54",
@@ -368,9 +368,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "4ca24c5a-f549-4847-86d5-1661db66aa3f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "655ca874-4216-4b65-982f-e4c999acb01e",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Karlsruhe",
       "postalCode": "76227",
       "address": "Auf der Breit 5a",
@@ -382,9 +382,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "34aa69b0-cd69-4619-a1b4-e2e1915aee82",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a7609b8f-29f6-4c44-8d35-9a08016b4109",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Karlsruhe-Neureut",
       "postalCode": "76149",
       "address": "Am Sandfeld",
@@ -396,9 +396,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "4806d1d6-bfc0-44fb-87b5-1f1fd4629358",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "f0725eb8-77c3-4886-abff-f73fe6827816",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Kehl",
       "postalCode": "77694",
       "address": "Hafenstraße 3",
@@ -410,9 +410,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "5b0da9fc-d4be-4598-99e5-77ca2999496f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5e945591-0f6e-4ad0-94d9-90a1944185cd",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Böblingen",
       "postalCode": "71034",
       "address": "Schickardstraße 19/25a",
@@ -424,9 +424,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "4e3491e2-56ab-49e4-a690-e9fb0cd87309",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "0fdc776d-af8e-402c-94e7-fadecb8f8b82",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Reutlingen",
       "postalCode": "72770 / 72766",
       "address": "Gerhard-Kindler-Straße 8 / Am Heilbrunnen 115",
@@ -438,9 +438,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "308bcfa0-d431-4d3e-b9a4-c8e29d258227",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "3116aa81-e2ea-409a-9e2f-9cfbc89aed2d",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Konstanz",
       "postalCode": "78467",
       "address": "Max-Stromeyer-Straße 21-29",
@@ -452,9 +452,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "35a2bddf-ea1a-43fe-a183-7ed0c0fc5285",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8a015bd0-3ca6-4531-89d2-263ffc42bc40",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Mannheim",
       "postalCode": "68163",
       "address": "Hans-Thoma-Straße 15",
@@ -466,9 +466,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "ca3ddb10-2eb2-4cb2-a49f-8cd43a9e8f99",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "273c8bcc-41df-49c7-bad0-f64291605a5b",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Ellhofen",
       "postalCode": "",
       "address": "",
@@ -480,9 +480,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "4568be9a-69c0-45b0-8493-005a9d798bf9",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "68db4065-8988-4be4-964e-6b8e232360c7",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Tübingen",
       "postalCode": "72074",
       "address": "Brückenstraße 7",
@@ -494,9 +494,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "9df65e4f-0304-43bc-ab7f-3e91660bcc3f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "96130544-fa58-49da-9486-47ec2739d282",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Ulm",
       "postalCode": "",
       "address": "",
@@ -508,9 +508,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "8ee9053d-8fd9-4584-ad9e-e9f24a95e5cc",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "c7cd0b8d-f27f-40b4-9b62-61df40f2c0ab",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Heidelberg",
       "postalCode": "",
       "address": "George-Boole-Weg",
@@ -522,9 +522,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "a826d72c-5db3-4941-9c0a-2d8baee1e740",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "f33347cd-1b1d-411e-89af-117787163fa2",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Walldorf",
       "postalCode": "69190",
       "address": "Hasso-Plattner-Ring 12",
@@ -536,9 +536,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "d8e1133a-ccdb-4607-8e05-d729262c3014",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2f6e78b9-8019-4b9d-8fa9-91642260f4db",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Karlsruhe",
       "postalCode": "76131",
       "address": "Zirkel 2",
@@ -550,9 +550,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "acf38ed1-7611-4859-8af7-d95f91ca53c6",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "227f3502-7efa-45be-bd52-73ae68801a43",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "city": "Appenweier / Lahr / Stödtlen / Göppingen",
       "postalCode": "",
       "address": "diverse",
@@ -566,9 +566,9 @@
   ],
   "companies": [
     {
-      "id": "23e1bd03-4310-4392-9544-5749e495b142",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "ed05da04-ecc9-4878-a25f-532584e2b241",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Arup",
       "role": "Planung, Engineering, Nachhaltigkeitsberatung",
       "region": "Deutschland / international",
@@ -579,9 +579,9 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "cd632f99-13c8-4dc2-9629-bdd06e221f70",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "3b609077-bab7-44db-83cd-d1cfae79bfc5",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Drees & Sommer",
       "role": "Projektsteuerung, Beratung, Bau- und Immobilienexpertise",
       "region": "Deutschland, starker BW-Bezug",
@@ -592,9 +592,9 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "84a69cc4-1c83-4386-8fe9-789f0e259c0d",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "6b19835e-0093-43a1-90a6-904807e45dbc",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "NTT Global Data Centers",
       "role": "Betreiber und Entwickler",
       "region": "Deutschland",
@@ -605,9 +605,9 @@
       "source": "Initiale Recherche-Struktur"
     },
     {
-      "id": "cb3f77e3-df9f-4019-8d98-0ff6a15d44ad",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2dcddd92-e2d3-43c6-a780-fe6d082f431c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "AtlasEdge",
       "role": "Edge-/Colocation-Betreiber",
       "region": "Europa, mehrere Standorte in Stuttgart/BW",
@@ -618,9 +618,9 @@
       "source": "Informationen zu Datencenter 2.docx; Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "6c23c01e-f64b-4524-9328-fbfd912d9f66",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "b9f0302d-9a8a-47a1-92ef-bd98fa3fe900",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "EdgeConneX",
       "role": "Edge-/Hyperscale-Entwickler und Betreiber",
       "region": "international, DACH beobachten",
@@ -631,9 +631,9 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "e891d824-77f3-4dbc-84ae-bf66c1bc0eb3",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2a329f35-4de3-4703-a086-65d9b875b2d5",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "AECOM",
       "role": "Design, Engineering, Projektmanagement",
       "region": "Deutschland mit Standort Stuttgart",
@@ -644,9 +644,9 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "566a2269-2ea9-48ed-8161-6cc84fd4cee2",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "c7251fa5-ac0f-4c36-af27-3ae87bdbd171",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "DPR Construction",
       "role": "Mission Critical / Data Center Bau",
       "region": "international, Frankfurt",
@@ -657,9 +657,9 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "dee7f39a-6e55-4f7f-b12a-40b887303e47",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5f1e108b-69ab-4151-89bb-c3ea7a49ca09",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Turner Construction",
       "role": "Generalunternehmer / Bau",
       "region": "international",
@@ -670,9 +670,9 @@
       "source": "Informationen zu Datencenter 2.docx"
     },
     {
-      "id": "5d0f3efa-6a60-4ec3-a774-689f136164a5",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a5aa8e73-ae92-4fe9-978e-369b20023b72",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Telemaxx Telekommunikation GmbH",
       "role": "Regionaler Rechenzentrums- und Telekommunikationsanbieter",
       "region": "Karlsruhe / Baden-Württemberg",
@@ -683,9 +683,9 @@
       "source": "Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "5a8af74b-4fb1-45b8-b19e-a412bb2be18d",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "f1f3f55b-e0b6-48e3-81c1-8f0c1b5afedf",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Microsoft Azure",
       "role": "Hyperscale-/Cloud- und KI-Rechenzentrumsbetreiber",
       "region": "Deutschland, u.a. Nordrhein-Westfalen",
@@ -696,9 +696,9 @@
       "source": "heise.de"
     },
     {
-      "id": "b98864df-8634-4537-8bb2-01c79c091215",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "27dfab3d-4b1c-4c5b-b31d-505d5bfd6c29",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Schwarz Digits / STACKIT",
       "role": "Souveräne Cloud, KI- und Rechenzentrumsbetreiber",
       "region": "Deutschland, u.a. Lübbenau und Baden-Württemberg",
@@ -709,9 +709,9 @@
       "source": "heise.de; Datencenter in Baden Württemberg.xlsx"
     },
     {
-      "id": "412d4b2e-6af4-4552-9236-33c9949b45ee",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "0bb80645-58c3-4772-ba37-7e3870052cf8",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Deutsche Telekom / T-Systems",
       "role": "KI-Cloud- und Rechenzentrumsbetreiber",
       "region": "Deutschland, München",
@@ -722,9 +722,9 @@
       "source": "heise.de"
     },
     {
-      "id": "ee5c2610-f497-42bf-8fba-99b21f6c4a09",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8c0ca2bf-fa6f-4fce-a9ec-871002823c66",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Data4",
       "role": "Rechenzentrumsentwickler und Betreiber",
       "region": "Frankreich / Deutschland beobachten",
@@ -735,9 +735,9 @@
       "source": "heise.de"
     },
     {
-      "id": "c341a40d-6302-4b50-ae70-a47cb5f0b583",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "0a22d117-1c7b-4c3f-8d67-fada629018b6",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Virtus Data Centres",
       "role": "Rechenzentrumsentwickler und Betreiber",
       "region": "Großbritannien / Deutschland beobachten",
@@ -748,9 +748,9 @@
       "source": "heise.de"
     },
     {
-      "id": "d3a2672e-6bb4-412e-b2ec-dc7929ba2d8d",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "dc6f8b1e-625d-4519-b54f-a94836d72a81",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Mistral AI",
       "role": "Europäischer KI-Anbieter mit eigener Infrastruktur",
       "region": "Frankreich / Europa",
@@ -763,9 +763,9 @@
   ],
   "planning": [
     {
-      "id": "aa5227c3-78ba-4d6c-ba3f-ec9d5f97e700",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "3c20808a-e690-413f-af6f-86bad0419651",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Energieeffizienzgesetz und Rechenzentren",
       "municipality": "Bund",
       "status": "in Prüfung",
@@ -776,9 +776,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "4f795f65-e704-4c00-bf81-82adab1fb85b",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "b9a2d416-00e3-4452-a8b1-219d178f7441",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "BauGB, BauNVO, BImSchG-Schnittstellen",
       "municipality": "Bund / Kommunen",
       "status": "Recherchebedarf",
@@ -789,9 +789,9 @@
       "source": "Initiale Wissensbasis"
     },
     {
-      "id": "67af0a43-c69f-47b9-9bea-dfb608624778",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8f619d1b-0699-4b16-a764-b83de94fd250",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Suchauftrag: Bebauungspläne Rechenzentrum Baden-Württemberg",
       "municipality": "alle Gemeinden BW",
       "status": "Recherchebedarf",
@@ -802,9 +802,9 @@
       "source": "Rechercheauftrag"
     },
     {
-      "id": "5141797d-b906-4e84-bebb-7f9d3d018e64",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "3ddc7ca0-2b1f-4a0f-984e-02fcc8bf8301",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg",
       "municipality": "Baden-Württemberg",
       "status": "relevant",
@@ -815,9 +815,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "629d6a14-530b-4628-9c10-5105e98ff2fc",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "7f1b2660-ce4a-43ec-b831-679dc53e21fa",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Bauleitplanungs-Suchbegriffe für Gemeinden",
       "municipality": "alle Gemeinden BW",
       "status": "Recherchebedarf",
@@ -828,9 +828,9 @@
       "source": "Standortauswahl für ein KI-Rechenzentrum in Baden-Württemberg.pdf"
     },
     {
-      "id": "ddc35bc5-0b04-4ca8-bbeb-96fe81014335",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8a3d000e-f985-4a1e-8265-61c9d0927d76",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "name": "Genehmigungs- und Normenprüfpfad Rechenzentrum",
       "municipality": "Bund / Land / Kommune",
       "status": "relevant",
@@ -843,9 +843,9 @@
   ],
   "zoningPlans": [
     {
-      "id": "5e0e5f2c-efdf-4f2e-b6bb-d50f330db4fb",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "dd89e084-4a3c-4bc1-8b84-d0d04866d860",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "state": "Brandenburg",
       "planName": "Bebauungsplan \"Rechenzentrum Eiche\"",
@@ -857,9 +857,9 @@
       "tags": "Rechenzentrum, Sondergebiet, FNP, Brandenburg, gefunden"
     },
     {
-      "id": "92441d8f-8593-4699-807c-ee737dbd0405",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "41238b51-61d0-438c-a59d-dde0f18185a0",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Wustermark",
       "state": "Brandenburg",
       "planName": "Bebauungsplan W 49 \"Rechenzentrum 1 Wustermark Nordwest\"",
@@ -871,9 +871,9 @@
       "tags": "Rechenzentrum, Virtus, Abwärme, Brandenburg, Satzung"
     },
     {
-      "id": "0e83c688-0dba-4e84-964b-a9b24947434b",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8ea985b6-4db5-495b-9f03-5ecedeb2e5d7",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Brieselang",
       "state": "Brandenburg",
       "planName": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
@@ -885,9 +885,9 @@
       "tags": "Rechenzentrum, GVZ, Brandenburg, Satzung"
     },
     {
-      "id": "16b25a75-c5f0-42da-8d39-8be4ce33cb59",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "1e1a579d-f995-4732-af2d-bcedbfbb4a7a",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Neckarwestheim",
       "state": "Baden-Württemberg",
       "planName": "Bebauungsplan \"Rechenzentrum\"",
@@ -899,9 +899,9 @@
       "tags": "Rechenzentrum, Baden-Württemberg, Beteiligung, BW"
     },
     {
-      "id": "0e71f2e0-a4c5-449f-8b91-974156ddffef",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "60f5798a-2504-47d2-b3c5-b2ade386767d",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Babenhausen",
       "state": "Hessen",
       "planName": "Bebauungsplan \"Aschaffenburger Straße 50 - 58\"",
@@ -913,9 +913,9 @@
       "tags": "Rechenzentrum, Sondergebiet, Hessen, Google, Satzung"
     },
     {
-      "id": "0a72b460-72cd-4258-8bb8-cf0c97fa764f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "535fb983-31a9-456d-8c93-498b829533cd",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Planegg",
       "state": "Bayern",
       "planName": "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
@@ -927,9 +927,9 @@
       "tags": "Datacenter, MPG, Martinsried, Bayern, Beteiligung"
     },
     {
-      "id": "931312cf-fbc1-4e8f-8e52-4fd304b94c0a",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2f1b95c7-7dd5-4bca-b7a4-0ef3c2cf42fc",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Bedburg",
       "state": "Nordrhein-Westfalen",
       "planName": "Erweiterung Gewerbegebiet BEB61 / Sondergebiet Rechenzentrum",
@@ -941,9 +941,9 @@
       "tags": "Microsoft, Hyperscale, NRW, Sondergebiet"
     },
     {
-      "id": "b5c708f2-207d-407e-8b7a-16c6e22c14c6",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "c23fd454-a0b3-4052-b83c-afd769d074c1",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Werneuchen",
       "state": "Brandenburg",
       "planName": "Bebauungsplan \"Rechenzentrum Seefeld\"",
@@ -955,9 +955,9 @@
       "tags": "Rechenzentrum, Seefeld, Brandenburg"
     },
     {
-      "id": "83473c53-cda0-4443-9112-aa611b1a249e",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "07fe5d35-be6b-4708-a674-d892aa57ab60",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ankum",
       "state": "Niedersachsen",
       "planName": "Bebauungsplan Nr. 66 \"Sondergebiet Rechenzentrum am Lordsee\"",
@@ -969,9 +969,9 @@
       "tags": "Rechenzentrum, Niedersachsen, Sondergebiet"
     },
     {
-      "id": "9b57c560-77a2-421f-9b14-00e42248e694",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "3cb1a78a-b056-4607-b28d-40a962a46a63",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Heusenstamm",
       "state": "Hessen",
       "planName": "Bebauungsplan / städtebaulicher Vertrag \"Rechenzentrum am Campus Heusenstamm\"",
@@ -983,9 +983,9 @@
       "tags": "EdgeConneX, Hessen, Campus, Wasser, Abwärme"
     },
     {
-      "id": "09fc6096-a603-43d5-a08d-9745fe9589fb",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2e9c3f6b-ad64-4c12-81ad-17b71d513bfc",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Rackwitz",
       "state": "Sachsen",
       "planName": "Gewerbepark Zschortau / Rechenzentrum Zschortau-Rackwitz",
@@ -999,9 +999,9 @@
   ],
   "pdfExtracts": [
     {
-      "id": "a9235f61-b927-4070-b2bc-0de95061213c",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "bf49fc3d-de30-40ce-a06c-335f981dab84",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Wustermark",
       "dataCenter": "Rechenzentrum 1 Wustermark Nordwest / Virtus",
       "documentTitle": "Begründung Bebauungsplan Nr. W 49 „Rechenzentrum 1 Wustermark Nordwest“",
@@ -1015,9 +1015,9 @@
       "tags": "PDF-ausgelesen, Wustermark, Sondergebiet, Notstrom, Feuerwehr, Niederschlagswasser"
     },
     {
-      "id": "43167a48-684b-4cfb-b5ae-760d72b701f3",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "2f99aaac-364f-46ae-b907-abca6196adc2",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Wustermark",
       "dataCenter": "Rechenzentrum 1 Wustermark Nordwest / Virtus",
       "documentTitle": "Zusammenfassende Erklärung zum Bebauungsplan Nr. W 49",
@@ -1031,9 +1031,9 @@
       "tags": "PDF-ausgelesen, Wustermark, Satzung, Umweltbelange, Umspannwerk"
     },
     {
-      "id": "4632236d-0adb-489f-b413-e4fd3f718266",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "9986d5e6-2e3b-4ac8-b091-60f88ec30d14",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Wustermark",
       "dataCenter": "Rechenzentrum 1 Wustermark Nordwest / Virtus",
       "documentTitle": "Vorstudie zur Nutzung der Abwärme des Rechenzentrums Wustermark",
@@ -1047,9 +1047,9 @@
       "tags": "PDF-ausgelesen, Wustermark, Abwärme, 300 MW, Wärmenetz, Erneuerbare"
     },
     {
-      "id": "c38981db-9627-419e-9af2-44d927d83b15",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "7ed96a77-1374-4816-ba13-970cfe99c5e2",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Babenhausen",
       "dataCenter": "Babenhausen Data Center / Aschaffenburger Straße 50-58",
       "documentTitle": "Begründung Bebauungsplan „Aschaffenburger Straße 50 - 58“",
@@ -1063,9 +1063,9 @@
       "tags": "PDF-ausgelesen, Babenhausen, Brandschutz, Löschwasserzisterne, Niederschlagswasser, Generator"
     },
     {
-      "id": "a20ff362-bb06-4163-8ab3-621f190454b5",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "c390761f-6ddd-4283-9ae7-4a64bb89c9ab",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Brieselang",
       "dataCenter": "Rechenzentrum GVZ Brieselang",
       "documentTitle": "Umweltbericht zum Bebauungsplan Nr. 117 „Rechenzentrum“",
@@ -1079,9 +1079,9 @@
       "tags": "PDF-ausgelesen, Brieselang, 10,8 ha, SO-RZ, Umspannwerk, Generatoren, Niederschlagswasser"
     },
     {
-      "id": "a0de464a-7295-4894-87ac-9e9057f12aad",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "d6603742-9d83-45bf-8df3-c67597f9ce4a",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ankum",
       "dataCenter": "Rechenzentrum am Lordsee",
       "documentTitle": "Kurzerläuterung Bebauungsplan Nr. 66 „Sondergebiet Rechenzentrum am Lordsee“",
@@ -1095,9 +1095,9 @@
       "tags": "PDF-ausgelesen, Ankum, Vorentwurf, FNP-Änderung, Schallschutz"
     },
     {
-      "id": "d5698f73-3e2e-4833-8159-e2797b25d9a2",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "fb8c3902-7a84-4422-a129-8190f228fc68",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Werneuchen",
       "dataCenter": "Rechenzentrum Seefeld",
       "documentTitle": "Begründung mit Umweltbericht Bebauungsplan „Rechenzentrum Seefeld“",
@@ -1111,9 +1111,9 @@
       "tags": "PDF-ausgelesen, Werneuchen, Umspannwerk, 50Hertz, Kühlung, Wasser, Brandschutz, Schall"
     },
     {
-      "id": "8b8ed507-42f7-45db-9ea5-e5693d3a0009",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "42083298-aaf4-4b6f-9392-4664db8615b0",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Planzeichnung B-Plan „Rechenzentrum Eiche“",
@@ -1127,9 +1127,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Planzeichnung, SO-RZ, Höhe, Schallschutz"
     },
     {
-      "id": "cd8073cc-d1a9-4950-abf0-da116fd9ad1c",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "d6d23f00-3390-41f2-a7ce-8a626e7c4a02",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Begründung Bebauungsplan „Rechenzentrum Eiche“",
@@ -1143,9 +1143,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Begründung, Bauleitplanung, Brandschutz, Löschwasser"
     },
     {
-      "id": "0f1e8316-6282-4908-b325-6e0499655114",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "b48add3e-dc5d-4610-96e7-40cda40f8106",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Umweltbericht B-Plan „Rechenzentrum Eiche“",
@@ -1159,9 +1159,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Umweltbericht, Schutzgüter, Ausgleich"
     },
     {
-      "id": "9ef0d2c9-066f-43f0-a70f-4acf5e7f2006",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "406b11f7-deb7-4899-8fb1-7422093549e5",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Artenschutzpotentialanalyse „Rechenzentrum Eiche“",
@@ -1175,9 +1175,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Artenschutz, Fauna"
     },
     {
-      "id": "824617c2-f0b1-43f5-8a4e-b92422ee9b12",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "4e8eb555-d72e-4b32-b407-da009511a07e",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Regenwasserkonzept „Rechenzentrum Eiche“",
@@ -1191,9 +1191,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Regenwasser, Entwässerung, Grundwasser"
     },
     {
-      "id": "cc680da9-7f5f-4caa-b6f7-dbbf038b5475",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "fd681891-5fa8-4487-8d3d-5440d0056513",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Verkehrsuntersuchung „Rechenzentrum Eiche“",
@@ -1207,9 +1207,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Verkehr, Erschließung"
     },
     {
-      "id": "a6f20436-f1f8-4df7-bb53-99787ac9a5a9",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8955b07d-7c5d-4e66-abfe-4214bf2c5e66",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Schalltechnische Untersuchung „Rechenzentrum Eiche“",
@@ -1223,9 +1223,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Schall, TA Lärm, Kühlung"
     },
     {
-      "id": "ba637928-04bb-493f-b133-c906b61c9c2d",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "02beef7a-3923-429f-85c1-88b1cf76a269",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Geotechnischer Bericht „Rechenzentrum Eiche“",
@@ -1239,9 +1239,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Geotechnik, Baugrund, Grundwasser"
     },
     {
-      "id": "9e4e5907-ed64-4e49-85fd-5cf0c09c9cc2",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "e530aac9-98a3-4dc2-a4da-7e4d90a7464a",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Altlastengutachten „Rechenzentrum Eiche“",
@@ -1255,9 +1255,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Gutachten, Altlasten, Boden, Grundwasser"
     },
     {
-      "id": "37838b30-0bef-47e0-919a-ca15002e7e73",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a4ffad28-6063-47cf-bf0e-9e31bb4cdec1",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Ahrensfelde",
       "dataCenter": "Rechenzentrum Eiche",
       "documentTitle": "Abwärmenutzung „Rechenzentrum Eiche“",
@@ -1271,9 +1271,9 @@
       "tags": "PDF-ausgelesen, Ahrensfelde, Abwärme, Wärmenetz, Effizienz"
     },
     {
-      "id": "6a7a65a2-1099-4d66-9cd1-44b42d5e612b",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "60be5f17-44ca-4e91-8035-aedd0bd9fe6d",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "municipality": "Heusenstamm",
       "dataCenter": "EdgeConneX Campus Heusenstamm",
       "documentTitle": "RP Darmstadt Bescheid EdgeConneX Rechenzentrum Heusenstamm",
@@ -1289,9 +1289,9 @@
   ],
   "media": [
     {
-      "id": "2e8fae4a-cd7e-4698-91fe-7d3d32537b2f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8ee81844-ef57-480b-a924-e03f6963be10",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Microsoft Azure Cluster bei Bergheim/NRW",
       "category": "Projektbild",
       "imageUrl": "https://www.heise.de/news/Deutsches-Riesen-Rechenzentrum-von-Microsoft-Azure-kann-520-Megawatt-verheizen-11216718.html",
@@ -1302,9 +1302,9 @@
       "source": "heise.de"
     },
     {
-      "id": "2e2a7b4a-19a5-4840-9eb9-0531c5ea9dbb",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "6e539a10-6753-4456-8617-935b068e026f",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "NTT Frankfurt 6 / Nierstein Rendering",
       "category": "Projektbild",
       "imageUrl": "https://www.heise.de/news/482-Megawatt-Gigantisches-Rechenzentrum-in-Reinhessen-11118281.html",
@@ -1315,9 +1315,9 @@
       "source": "heise.de"
     },
     {
-      "id": "d6e4c54f-3a2c-44b4-9b36-88ce8c144fce",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5058c432-ab9f-4a14-a507-4f0aa34010da",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Schwarz Digits KI-Rechenzentrum Lübbenau",
       "category": "Projektbild",
       "imageUrl": "https://www.heise.de/hintergrund/KI-Rechenzentren-Ploetzlicher-Boom-in-Deutschland-11083928.html",
@@ -1328,9 +1328,9 @@
       "source": "heise.de"
     },
     {
-      "id": "33050d41-2b2d-47d8-bc48-3ad3f075257d",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "e4e93b92-3bdc-4e3b-ac2d-85c8364105f9",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Microsoft Fairwater KI-Rechenzentrum",
       "category": "Innenansicht",
       "imageUrl": "https://www.heise.de/news/Microsoft-zeigt-das-leistungsstaerkste-Rechenzentrum-der-Welt-10663057.html",
@@ -1341,9 +1341,9 @@
       "source": "heise.de"
     },
     {
-      "id": "832db973-602f-482e-9bef-d90e9712d77e",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "6bd5252e-8a21-4d8d-97af-4cd76e4c489a",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "HPC-Kühlsystem mit Energie-Rückgewinnung",
       "category": "Kühlung",
       "imageUrl": "https://www.nrel.gov/computational-science/data-center-cooling-system.html",
@@ -1356,9 +1356,9 @@
   ],
   "drawings": [
     {
-      "id": "f3a233ac-a057-43b6-95eb-ac1a1d799316",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "23abd1b8-3b96-45a7-a592-25d5124a756c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "NIH Sustainable Data Center Design Guide",
       "category": "Gesamtaufbau",
       "system": "Architektur, MEP, Brandschutz, Nachhaltigkeit",
@@ -1368,9 +1368,9 @@
       "source": "WBDG / NIH"
     },
     {
-      "id": "9f0a8265-8089-4764-82d6-747f32d77df8",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a11a5cab-d2ea-45f3-b207-5bc71555935b",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "HPC Data Center Cooling System",
       "category": "Kühlung",
       "system": "Liquid Cooling, Fan Walls, Energy Recovery Water Loop",
@@ -1380,9 +1380,9 @@
       "source": "NREL"
     },
     {
-      "id": "d1459427-a5f3-4fd5-9872-c4fdceab551c",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "cac52b84-2ed0-414e-85d4-31062cda8916",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "DCO Chilled Water Loop Schematic",
       "category": "Wasser",
       "system": "Kaltwasserkreis, redundante Pumpen, Wärmetauscher",
@@ -1392,9 +1392,9 @@
       "source": "Carnegie Mellon PDL"
     },
     {
-      "id": "077ba4db-0150-4bd1-aad2-23c96b48aebf",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "a220d5bb-bb7d-4ac1-bb97-8a1593b625d9",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Data Center Cooling Piping Diagram",
       "category": "Kühlung",
       "system": "Kühlwasserverrohrung und Anschlusslogik",
@@ -1404,9 +1404,9 @@
       "source": "Parker"
     },
     {
-      "id": "0cb5d7d9-91a9-4cdf-bf73-7c5f5ade5040",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "de3671a7-40cd-4cfd-bcf8-d2ac9c7c5c83",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Fire Protection & Life Safety Design Manual",
       "category": "Brandschutz",
       "system": "Sprinkler, Wasserversorgung, Brandabschnitte, Life Safety",
@@ -1416,9 +1416,9 @@
       "source": "WBDG / Smithsonian"
     },
     {
-      "id": "3514f39a-9a05-4811-bfbe-72212b2e40ac",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "e7a2ef33-9b69-4841-b342-980ce382d164",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "ASHRAE Data Centers and Telecommunications Facilities",
       "category": "Normen",
       "system": "Thermik, Luftführung, CFD, Leckage- und Raumrisiken",
@@ -1430,9 +1430,9 @@
   ],
   "findings": [
     {
-      "id": "ace0bf88-0670-4c92-8b1f-a700a15e98e3",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "25948f08-e09a-4cc9-a97e-7739a63d63a4",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Datenraum initialisiert",
       "topic": "Quelle",
       "summary": "Die App ist als lokaler Datenraum aufgebaut. Neue KI-Funde werden automatisch in diesem Bereich gespeichert und können anschließend in Typen, Standortanforderungen, Unternehmen oder Bauleitplanung übertragen werden.",
@@ -1442,9 +1442,9 @@
       "tags": "Start, Datenraum"
     },
     {
-      "id": "a6024f6f-ec7e-4d69-9fb8-bdb5c2c93a80",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "5c1272ca-39b6-4d8c-a7a4-334b013a4ee6",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Quellenpaket vom Nutzer importiert",
       "topic": "Quelle",
       "summary": "Sechs interne Quellen wurden ausgewertet: Standortauswahl KI-Rechenzentrum BW, BW-Standortliste als Excel, Informationen zu Datencenter 2, Allgemeine Informationen, Kurzfassung Praxis-Checkliste und Datencenter alle wichtigen Daten.",
@@ -1454,9 +1454,9 @@
       "tags": "Import, Quellenpaket, Datenraum"
     },
     {
-      "id": "551725be-579e-4f46-abe8-8e23f74d0c39",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "9df10082-cbed-4b58-86a4-b1767c6a7a2c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "BW-Standortliste ergänzt",
       "topic": "Standort",
       "summary": "Die Excel-Liste enthält Cluster in Stuttgart/Böblingen, Karlsruhe, Kehl, Reutlingen, Konstanz, Mannheim, Ellhofen, Tübingen, Ulm, Heidelberg, Walldorf und weitere regionale Prüffälle.",
@@ -1466,9 +1466,9 @@
       "tags": "BW, Standortliste, Validierung"
     },
     {
-      "id": "3dcc1feb-70a3-4aa6-81f6-ef4a6950b7bc",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "fad001ef-159c-4c32-a1da-495067537827",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "K.O.-Kriterien für iAccess-Flächenscreening übernommen",
       "topic": "Bauleitplanung",
       "summary": "Als schnelle Vorauswahl gelten Stromanschluss, Glasfaser, Gewerbe-/Industriegebiet, Erreichbarkeit und kein Hochwasser als die wichtigsten fünf Prüfpunkte.",
@@ -1478,9 +1478,9 @@
       "tags": "Screening, K.O., iAccess"
     },
     {
-      "id": "45e7ac53-ff80-4888-851f-c231c4758e17",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "b800e05a-a996-4eee-a962-4c61ee0276b0",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Einstufung nach elektrischer Leistung",
       "topic": "Technik",
       "summary": "Heise ordnet Rechenzentren nach elektrischer Anschluss- beziehungsweise IT-Leistung ein. Für Standortscreening ist das sinnvoller als reine Flächenangaben, weil Stromanschluss, Kühlung, Netzebene und Genehmigungsrisiko direkt daran hängen.",
@@ -1490,9 +1490,9 @@
       "tags": "heise.de, Leistung, Klassifizierung, Strom"
     },
     {
-      "id": "79484266-2f53-431d-b74f-b3a58aedbb14",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "994ead11-6968-497d-8a3e-b98cffb95e30",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Microsoft Azure Cluster in NRW mit 520 MW",
       "topic": "Standort",
       "summary": "Der geplante Microsoft-Azure-Cluster im rheinischen Revier erreicht laut Heise im Endausbau eine Größenordnung von 520 MW Netzleistung. Das zeigt, dass ehemalige Energie- und Industrieflächen für KI-Rechenzentren strategisch attraktiv werden.",
@@ -1502,9 +1502,9 @@
       "tags": "heise.de, Microsoft, Azure, NRW, 520 MW"
     },
     {
-      "id": "61e49d9e-13ad-4080-bcbe-a0eaee9ed114",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "d3728468-6493-4ccb-bc55-82d1c1aaf761",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: KI-Rechenzentren boomen in Deutschland",
       "topic": "Markt",
       "summary": "Heise berichtet über mehr als 25 Milliarden Euro angekündigte Investitionen in deutsche Rechenzentren, besonders für KI. Genannt werden unter anderem Schwarz Gruppe, Google, Microsoft, Telekom, Virtus und Data4.",
@@ -1514,9 +1514,9 @@
       "tags": "heise.de, KI, Investitionen, Schwarz, Google, Microsoft, Telekom"
     },
     {
-      "id": "8cd43780-5f82-4cac-a1b5-d676bddd2a16",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "feb8430e-307e-4f49-9beb-126f98414fb5",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Effizienz als Designprinzip für KI-Rechenzentren",
       "topic": "Technik",
       "summary": "Im Heise-Interview wird Effizienz als Gesamtdesign beschrieben: KI-Beschleuniger, Speicher, Netzwerk, Kühlung, Servergehäuse und Energieversorgung müssen zusammen optimiert werden.",
@@ -1526,9 +1526,9 @@
       "tags": "heise.de, Effizienz, KI, Kühlung, Rackdichte"
     },
     {
-      "id": "01dc1d3f-a64e-4c3f-aeb7-69ed2a69afe3",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "998f1a02-0614-49db-a1c2-978b7f53d6ce",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Bundesregierung will KI/HPC-Kapazität vervierfachen",
       "topic": "Regulatorik",
       "summary": "Die Rechenzentrumsstrategie der Bundesregierung zielt laut Heise bis 2030 auf mindestens doppelte Gesamtkapazität und mindestens vierfache KI-/HPC-Kapazität. Messgröße soll die Anschlussleistung sein.",
@@ -1538,9 +1538,9 @@
       "tags": "heise.de, Bundesregierung, 2030, Anschlussleistung, KI"
     },
     {
-      "id": "9fe0082d-039b-4f37-b53d-064080f37a44",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "dbfa878d-e34f-4112-a637-7dd1ed07a4a4",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: NTT Frankfurt 6 / Nierstein mit 482 MW",
       "topic": "Standort",
       "summary": "NTT plant in Nierstein/Rheinhessen auf ehemaligem Kasernengelände ein Rechenzentrum mit 482 MW; Bau ab 2027 und Betrieb ab 2029 sind genannt. Nahe 110-kV-Infrastruktur und regenerative PPAs sind zentrale Standortargumente.",
@@ -1550,9 +1550,9 @@
       "tags": "heise.de, NTT, Nierstein, 482 MW, Konversion"
     },
     {
-      "id": "033244ac-817c-4e02-a7c3-3ce9d5e4926e",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "50fca9df-1e18-492f-b69c-06f66bc256a6",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Big Tech belastet Energie, Wasser und Ressourcen",
       "topic": "Markt",
       "summary": "Heise beschreibt, dass Big-Tech-Investitionen in KI-Rechenzentren erhebliche Energie-, Wasser- und Ressourcenfragen erzeugen und Transparenz über ökologische Kosten oft fehlt.",
@@ -1562,9 +1562,9 @@
       "tags": "heise.de, Big Tech, Wasser, Energie, Transparenz"
     },
     {
-      "id": "c410fcb8-7b14-42b5-9b7c-1fe5958bffaa",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "1375790a-7bcc-4167-9bbd-cf83fc22b08f",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: 482-MW-Gigant in Rheinhessen",
       "topic": "Standort",
       "summary": "Ein zusätzlicher Heise-Treffer beschreibt NTTs Nierstein-Projekt als 482-MW-Großvorhaben und nennt die Dimension als europäisch außergewöhnlich.",
@@ -1574,9 +1574,9 @@
       "tags": "heise.de, NTT, Nierstein, 482 MW, Datencenter"
     },
     {
-      "id": "8db94fa4-d799-4d71-b4be-424b9b636e6f",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "9c92e6d2-127d-43df-8b8d-ec1b2164ac0c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Microsoft zeigt Fairwater-KI-Rechenzentrum",
       "topic": "Technik",
       "summary": "Heise zeigt Microsofts Fairwater-Rechenzentrum als Referenz für hochverdichtete KI-Infrastruktur mit GPU-Servern und großskaliger Cloud-Architektur.",
@@ -1586,9 +1586,9 @@
       "tags": "heise.de, Microsoft, Fairwater, GPU, KI"
     },
     {
-      "id": "8409430b-2b87-412e-93cf-c9ff8bd60f66",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "87a8a85d-868a-4149-844c-64b3f6396976",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Telekom startet KI-Rechenzentrum im Tucherpark",
       "topic": "Standort",
       "summary": "Heise berichtet über ein KI-Rechenzentrum der Telekom/T-Systems in München: 12 MW aktuelle Leistung, geplanter Ausbau auf 20 MW und Nutzung eines bestehenden Gebäudes.",
@@ -1598,9 +1598,9 @@
       "tags": "heise.de, Telekom, T-Systems, München, KI, 20 MW"
     },
     {
-      "id": "9c8bed8b-a651-4da1-9c5c-71bd7df0b11c",
-      "created": "2026-05-27",
-      "updated": "2026-05-27",
+      "id": "8cca4233-7129-4b10-a614-ffbabe6ac740",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
       "title": "Heise: Mistral finanziert eigenes KI-Rechenzentrum",
       "topic": "Unternehmen",
       "summary": "Heise meldet einen Kredit über 830 Mio. US-Dollar für Mistrals Rechenzentrum bei Paris mit 44 MW installierter Leistung und 18.000 geplanten Nvidia-Chips.",
@@ -1608,6 +1608,66 @@
       "source": "https://www.heise.de/news/Europaeische-KI-Autonomie-Mistral-investiert-830-Mio-US-Dollar-in-Rechenzentrum-11241808.html",
       "confidence": "mittel",
       "tags": "heise.de, Mistral, Frankreich, KI, 44 MW"
+    },
+    {
+      "id": "8cf74fec-10f4-4bb3-8b78-1baec13906fa",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "title": "Denzlingen: 110-kV-Netzverstärkung als Standortsignal",
+      "topic": "Standort",
+      "summary": "Netze BW plant die Verstärkung der bestehenden 110-kV-Hochspannungsleitung Anschluss Denzlingen. Das Regierungspräsidium Freiburg prüft den Planfeststellungsantrag; Hintergrund ist u.a. der erwartete massive Ausbau erneuerbarer Erzeugungsanlagen im Kreis Emmendingen.",
+      "action": "Für Denzlingen nicht als Anschlusszusage werten, aber als wichtigen Netzindikator verfolgen: Netze BW, RP Freiburg, Umspannwerksnähe und mögliche Mittel-/Hochspannungsanschlusspunkte separat anfragen.",
+      "source": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
+      "confidence": "hoch",
+      "tags": "Denzlingen, Netze BW, 110 kV, Strom, Emmendingen"
+    },
+    {
+      "id": "e204c43d-4ac6-4a77-b4d3-2d877eb7dd40",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "title": "Denzlingen: Gewerbestandort mit Entwicklungspotenzial",
+      "topic": "Standort",
+      "summary": "Die Gemeinde Denzlingen beschreibt sich als Unterzentrum mit guter Lage nahe Freiburg und nennt im Gewerbegebiet Geringfeldele weiteres Entwicklungspotenzial.",
+      "action": "Geringfeldele, bestehende Gewerbegebiete, Eigentümerstruktur, B-Plan, Strom/Glasfaser und Feuerwehrzufahrten als erstes lokales Screeningpaket prüfen.",
+      "source": "https://www.denzlingen.de/p/wirtschaftsstandort",
+      "confidence": "mittel",
+      "tags": "Denzlingen, Gewerbegebiet, Geringfeldele, Freiburg"
+    },
+    {
+      "id": "b0adad1f-3bab-42e2-89ea-6802f943cc74",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "title": "Denzlingen: Glasfaser-/Gewerbegebiets-Hinweise",
+      "topic": "Standort",
+      "summary": "Mehrere öffentliche Treffer verweisen auf Glasfaserausbau in Denzlingen und im Landkreis Emmendingen, darunter GlasfaserPlus/Telekom und ein Vodafone-Hinweis zu Glasfaser für Unternehmen im Gewerbegebiet.",
+      "action": "Glasfaserverfügbarkeit nicht aus Nachricht ableiten, sondern bei Telekom/GlasfaserPlus, Vodafone, NetCom BW, lokalen Carriern und Gemeinde konkret für jede Fläche anfragen.",
+      "source": "https://regionimblick.de/news-aus-der-region/emmendingen/spatenstich-fuer-den-glasfaserausbau-in-denzlingen",
+      "confidence": "mittel",
+      "tags": "Denzlingen, Glasfaser, Telekom, Vodafone, Gewerbegebiet"
+    },
+    {
+      "id": "4c97c6cd-c209-4891-b00d-5c8901aa2014",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "title": "Freiburg: Baden-RZ als regionaler Rechenzentrumsanker",
+      "topic": "Standort",
+      "summary": "Systemhaus Jerg beschreibt das Baden-RZ in Freiburg Nord mit Glasfaser-Backbone-Anbindung und Partner Versatel. Das ist ein konkreter regionaler RZ-Hinweis im Raum Freiburg.",
+      "action": "Baden-RZ/Jerg als Gesprächspartner für regionale Anforderungen, Carrier, Flächenlogik, Kundenbedarf und mögliche Micro-/Container-RZ-Partnerschaft prüfen.",
+      "source": "https://www.systemhaus-jerg.de/managed-service/rechenzentrum-neu",
+      "confidence": "mittel",
+      "tags": "Freiburg, Baden-RZ, Glasfaser, Versatel, Partner"
+    },
+    {
+      "id": "98a4d883-21dc-4497-877d-a28b29750e5c",
+      "created": "2026-06-02",
+      "updated": "2026-06-02",
+      "title": "Ulm: SWU-Rechenzentrum im Science Park",
+      "topic": "Standort",
+      "summary": "Ein aktueller BW-Fund beschreibt die Eröffnung eines neuen SWU-Rechenzentrums im Ulmer Science Park, inklusive redundanter Stromversorgung und 1,6 MW Notstrom-Diesel; DC-Datacenter-Group wird als Generalunternehmer genannt.",
+      "action": "SWU/DC-Datacenter-Group als Referenzfall für kommunale/stadtwerknahe Rechenzentren und kleine bis mittlere Standortentwicklung auswerten.",
+      "source": "https://www.donau3fm.de/swu-eroeffnet-neues-rechenzentrum-im-ulmer-science-park-1010452/",
+      "confidence": "mittel",
+      "tags": "Ulm, SWU, Science Park, DC-Datacenter-Group, Notstrom"
     }
   ],
   "settings": {
@@ -1623,7 +1683,21 @@
       "site:.de Bebauungsplan Rechenzentrum Gemeinde PDF",
       "site:.de Bebauungsplan Datacenter Gemeinde PDF",
       "site:.de Sondergebiet Rechenzentrum Bebauungsplan",
-      "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg"
+      "site:*.de Rechenzentrum Gewerbegebiet Bebauungsplan Baden-Württemberg",
+      "site:baden-wuerttemberg.de Rechenzentrum",
+      "site:service-bw.de Rechenzentrum",
+      "site:uvp-verbund.de Rechenzentrum Baden-Württemberg",
+      "site:ratsinfo.* Rechenzentrum Baden-Württemberg",
+      "site:*.de intitle:Bebauungsplan Rechenzentrum Baden-Württemberg",
+      "site:*.de intitle:Bebauungsplan Datacenter Baden-Württemberg",
+      "site:*.de Rechenzentrum Denzlingen OR Freiburg OR Emmendingen OR Breisgau",
+      "site:*.de Glasfaser Gewerbegebiet Denzlingen Rechenzentrum",
+      "site:*.de Umspannwerk Gewerbegebiet Denzlingen Freiburg",
+      "Rechenzentrum Baden-Württemberg Nachrichten",
+      "Datacenter Deutschland News Rechenzentrum",
+      "site:datacenter-insider.de Rechenzentrum Baden-Württemberg",
+      "site:datacenterdynamics.com Germany data center Baden-Württemberg",
+      "site:cloudcomputing-insider.de Rechenzentrum Deutschland"
     ]
   }
 }
