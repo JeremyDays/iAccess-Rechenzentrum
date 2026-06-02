@@ -2030,9 +2030,19 @@
 
     function normalizeTypeRows(target) {
       const seedByName = new Map(seedData.types.map(item => [item.name, item]));
+      const aliases = new Map([
+        ["Modular / Container-Rechenzentrum", "Container-/Kleinrechenzentrum"]
+      ]);
+      const seen = new Set();
       target.types = (target.types || []).map(item => {
-        const seed = seedByName.get(item.name);
+        const normalizedName = aliases.get(item.name) || item.name;
+        const seed = seedByName.get(normalizedName);
         return seed ? { ...item, ...seed, id: item.id || seed.id, created: item.created || seed.created } : item;
+      }).filter(item => {
+        const key = item.name || item.id;
+        if (seen.has(key)) return false;
+        seen.add(key);
+        return true;
       }).sort((a, b) => typePowerValue(a) - typePowerValue(b));
     }
 
