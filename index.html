@@ -2913,7 +2913,7 @@
       const key = "types";
       const root = document.getElementById(key);
       const rows = [...data.types].sort((a, b) => typePowerValue(a) - typePowerValue(b));
-      const columns = ["name", "category", "gridPower", "itPower", "area", "waterNeed", "connectivityNeed"];
+      const columns = ["name", "category", "gridPower", "itPower"];
       root.innerHTML = `
         <div class="card section">
           <div class="toolbar">
@@ -2968,9 +2968,28 @@
       return match ? Number(match[1].replace(",", ".")) : Number.MAX_SAFE_INTEGER;
     }
 
+    function collectionSort(key, rows) {
+      return rows.sort((a, b) => collectionCompare(key, a, b));
+    }
+
+    function collectionCompare(key, a, b) {
+      if (key === "requirements") {
+        const rankDiff = importanceRank(a.importance) - importanceRank(b.importance);
+        if (rankDiff) return rankDiff;
+        return String(a.category || "").localeCompare(String(b.category || ""), "de");
+      }
+      return byDate(a, b);
+    }
+
+    function importanceRank(value) {
+      const ranks = { kritisch: 0, hoch: 1, mittel: 2, niedrig: 3 };
+      const key = String(value || "").toLowerCase();
+      return Object.prototype.hasOwnProperty.call(ranks, key) ? ranks[key] : 9;
+    }
+
     function renderCollection(key, addLabel, columns) {
       const root = document.getElementById(key);
-      const rows = [...data[key]].sort(byDate);
+      const rows = collectionSort(key, [...data[key]]);
       root.innerHTML = `
         <div class="card section">
           <div class="toolbar">
@@ -3027,13 +3046,14 @@
       if (!rows.length) return `<tr><td colspan="${columns.length + 2}" class="empty">Noch keine PDF-Datensätze vorhanden.</td></tr>`;
       return rows.map(item => {
         const details = detailPanel("pdfExtracts", item, columns);
+        const detailId = `detail-${item.id}`;
         return `
         <tr>
           ${columns.map(c => `<td>${cellValue(item[c], c, "pdfExtracts", item)}</td>`).join("")}
           <td>${pdfLinks(item)}</td>
-          <td><button class="icon-btn" data-edit="pdfExtracts:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button></td>
+          <td>${details ? `<button class="icon-btn" data-toggle-detail="${detailId}" title="Details anzeigen" aria-label="Details anzeigen">▸</button>` : ""}<button class="icon-btn" data-edit="pdfExtracts:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button></td>
         </tr>
-        ${details ? `<tr class="detail-row">
+        ${details ? `<tr class="detail-row" id="${detailId}" hidden>
           <td colspan="${columns.length + 2}">${details}</td>
         </tr>` : ""}
       `;
@@ -3063,7 +3083,7 @@
           const hit = !q || blob.includes(q);
           const inFilter = !f || item.documentType === f;
           return hit && inFilter;
-        }).sort(byDate);
+        }).sort((a, b) => collectionCompare(key, a, b));
         document.querySelector(`[data-body="pdfExtracts"]`).innerHTML = pdfRows(rows, columns);
         bindRowActions();
       };
@@ -3077,14 +3097,16 @@
       if (!rows.length) return `<tr><td colspan="${columns.length + 1}" class="empty">Noch keine Einträge vorhanden.</td></tr>`;
       return rows.map(item => {
         const details = detailPanel(key, item, columns);
+        const detailId = `detail-${item.id}`;
         return `
         <tr>
           ${columns.map(c => `<td>${cellValue(item[c], c, key, item)}</td>`).join("")}
           <td>
+            ${details ? `<button class="icon-btn" data-toggle-detail="${detailId}" title="Details anzeigen" aria-label="Details anzeigen">▸</button>` : ""}
             <button class="icon-btn" data-edit="${key}:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button>
           </td>
         </tr>
-        ${details ? `<tr class="detail-row">
+        ${details ? `<tr class="detail-row" id="${detailId}" hidden>
           <td colspan="${columns.length + 1}">${details}</td>
         </tr>` : ""}
       `;
@@ -3187,7 +3209,7 @@
     }
 
     function formatLongText(value) {
-      const text = repairMojibake(String(value ?? ""));
+      const text = repairMojibake(value == null ? "" : String(value));
       const parts = [];
       let lastIndex = 0;
       for (const match of text.matchAll(/https?:\/\/[^\s<>"')]+/g)) {
@@ -3226,6 +3248,16 @@
     }
 
     function bindRowActions() {
+      document.querySelectorAll("[data-toggle-detail]").forEach(btn => {
+        btn.onclick = () => {
+          const row = document.getElementById(btn.dataset.toggleDetail);
+          if (!row) return;
+          row.hidden = !row.hidden;
+          btn.textContent = row.hidden ? "▸" : "▾";
+          btn.title = row.hidden ? "Details anzeigen" : "Details ausblenden";
+          btn.setAttribute("aria-label", btn.title);
+        };
+      });
       document.querySelectorAll("[data-edit]").forEach(btn => {
         btn.onclick = () => {
           const [key, id] = btn.dataset.edit.split(":");
@@ -3913,7 +3945,7 @@
     }
 
     function escapeHtml(value) {
-      return repairMojibake(String(value ?? "")).replace(/[&<>"']/g, char => ({
+      return repairMojibake(value == null ? "" : String(value)).replace(/[&<>"']/g, char => ({
         "&": "&amp;",
         "<": "&lt;",
         ">": "&gt;",
@@ -3923,7 +3955,7 @@
     }
 
     function repairMojibake(value) {
-      let text = String(value ?? "");
+      let text = value == null ? "" : String(value);
       const replacements = [
         ["\u00c3\u00a4", "ä"], ["\u00c3\u00b6", "ö"], ["\u00c3\u00bc", "ü"], ["\u00c3\u0084", "Ä"], ["\u00c3\u0096", "Ö"], ["\u00c3\u009c", "Ü"], ["\u00c3\u009f", "ß"],
         ["\u00c3\u0192\u00c2\u00a4", "ä"], ["\u00c3\u0192\u00c2\u00b6", "ö"], ["\u00c3\u0192\u00c2\u00bc", "ü"], ["\u00c3\u0192\u00c2\u0084", "Ä"], ["\u00c3\u0192\u00c2\u0096", "Ö"], ["\u00c3\u0192\u00c2\u009c", "Ü"],
