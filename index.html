@@ -2351,6 +2351,28 @@
       });
     }
 
+    function sourceName(value) {
+      const text = String(value || "");
+      if (/heise\.de/i.test(text)) return "heise online";
+      if (/donau3fm\.de/i.test(text)) return "DONAU 3 FM";
+      if (/regionimblick\.de/i.test(text)) return "Region im Blick";
+      if (/^https?:\/\//.test(text)) {
+        try {
+          return new URL(text).hostname.replace(/^www\./, "");
+        } catch {}
+      }
+      return text;
+    }
+
+    function shortUrl(url) {
+      try {
+        const parsed = new URL(url);
+        return parsed.hostname.replace(/^www\./, "") + parsed.pathname.replace(/\/$/, "");
+      } catch {
+        return url;
+      }
+    }
+
     function identityFor(key, item) {
       return [
         key,
