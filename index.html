@@ -729,6 +729,7 @@
       </header>
 
       <section class="view active" id="dashboard"></section>
+      <section class="view" id="searchRequests"></section>
       <section class="view" id="types"></section>
       <section class="view" id="requirements"></section>
       <section class="view" id="sites"></section>
@@ -743,7 +744,6 @@
       <section class="view" id="drawings"></section>
       <section class="view" id="gridTool"></section>
       <section class="view" id="connectivityTool"></section>
-      <section class="view" id="searchRequests"></section>
       <section class="view" id="research"></section>
       <section class="view" id="about"></section>
     </main>
@@ -790,6 +790,7 @@
 
     const sections = [
       { id: "dashboard", title: "Dashboard", icon: "DB", intro: "Überblick über Wissensdatenbank, Standortparameter, BW-Bezug und aktuelle KI-Funde." },
+      { id: "searchRequests", title: "Fragen & Uploads", icon: "FU", intro: "Sammelstelle für zusätzliche RZ-Fragen von Kollegen und manuell hochgeladene Dokumente für die nächste Recherchephase." },
       { id: "types", title: "Rechenzentrumstypen", icon: "RT", intro: "Kategorisierte Typen mit Größenordnung, Bezugsleistung, IT-Last, Flächenbedarf und Beispielen." },
       { id: "requirements", title: "Standortanforderungen", icon: "SA", intro: "Parameter für Strom, Glasfaser, Wasser, Fläche, Naturgefahren, Abwärme, Netz und Bauleitplanung." },
       { id: "sites", title: "BW-Standorte", icon: "BW", intro: "Bestehende und geplante Rechenzentrumsstandorte in Baden-Württemberg aus der Standortliste und ergänzenden Quellen." },
@@ -804,7 +805,6 @@
       { id: "drawings", title: "Technische Zeichnungen", icon: "TZ", intro: "Schemata und technische Referenzen zu Aufbau, Kühlung, Strom, Brandschutz und Wasserversorgung." },
       { id: "gridTool", title: "Netztool Freiburg", icon: "NT", intro: "Screening für Stromnetz, Netzanschluss, Glasfaser und Kapazitäts-Indizien im Raum Denzlingen/Freiburg." },
       { id: "connectivityTool", title: "Konnektivität", icon: "KN", intro: "Carrier, Glasfaser, PoPs, Bandbreite, Trassenredundanz und SLA für kleine Rechenzentrumsstandorte." },
-      { id: "searchRequests", title: "Fragen & Uploads", icon: "FU", intro: "Sammelstelle für zusätzliche RZ-Fragen von Kollegen und manuell hochgeladene Dokumente für die nächste Recherchephase." },
       { id: "research", title: "KI-Recherche", icon: "KI", intro: "Quellenlisten, Recherche-Jobs, automatisch gespeicherte Funde und späterer Backend-Anschluss." },
       { id: "about", title: "Über iAccess", icon: "IA", intro: "Positionierung von iAccess Energy für datengetriebene Standortanalyse in Baden-Württemberg." }
     ];
@@ -2519,6 +2519,23 @@
           ${kpi("Netz/Internet offen", gridOpen, "Denzlingen/Freiburg")}
           ${kpi("Fragen offen", openQuestions, "für nächste Suchphase")}
         </div>
+        <div class="card section" style="margin-bottom:16px">
+          <div class="toolbar">
+            <h3>Neue Frage oder Dokument für die nächste Recherche</h3>
+            <button class="secondary" data-go="searchRequests">Uploadbereich öffnen</button>
+          </div>
+          <div class="grid two-col">
+            <label>Name / Kürzel
+              <input class="input" id="dashboardQuestionAuthor" placeholder="z.B. Stephan, Technik, Vertrieb">
+            </label>
+            <label>Frage zur RZ-Recherche
+              <textarea id="dashboardQuestionText" placeholder="Frage zu Rechenzentren, Strom, Netzanschluss, Glasfaser, Fläche, Kühlung, Bauleitplanung, Partnern ..."></textarea>
+            </label>
+          </div>
+          <div class="actions" style="justify-content:flex-start;margin-top:12px">
+            <button class="primary" id="dashboardSaveQuestion">Frage speichern</button>
+          </div>
+        </div>
         <div class="grid two-col">
           <div class="card section">
             <div class="toolbar">
@@ -2556,6 +2573,7 @@
       `;
       document.querySelectorAll("[data-action='research']").forEach(b => b.addEventListener("click", runResearch));
       document.querySelectorAll("[data-go]").forEach(b => b.addEventListener("click", () => setView(b.dataset.go)));
+      document.getElementById("dashboardSaveQuestion").addEventListener("click", saveDashboardResearchQuestion);
     }
 
     function kpi(label, value, note) {
@@ -3516,6 +3534,23 @@
         return;
       }
       const author = document.getElementById("questionAuthor").value.trim();
+      addResearchQuestion(author, question);
+      renderSearchRequests();
+    }
+
+    function saveDashboardResearchQuestion() {
+      const question = document.getElementById("dashboardQuestionText").value.trim();
+      if (!question) {
+        alert("Bitte zuerst eine Frage eintragen.");
+        return;
+      }
+      const author = document.getElementById("dashboardQuestionAuthor").value.trim();
+      addResearchQuestion(author, question);
+      document.getElementById("dashboardQuestionText").value = "";
+      setView("searchRequests");
+    }
+
+    function addResearchQuestion(author, question) {
       const review = reviewResearchQuestion(question);
       data.researchQuestions = Array.isArray(data.researchQuestions) ? data.researchQuestions : [];
       data.researchQuestions.push({
@@ -3532,7 +3567,6 @@
         tags: review.ok ? "RZ-Frage, Nutzerfrage" : "Spam-Prüfung, Nutzerfrage"
       });
       saveData();
-      renderSearchRequests();
     }
 
     async function saveManualUpload() {
@@ -3616,7 +3650,10 @@
           <div class="card section">
             <div class="toolbar">
               <h3>Automatische Recherche</h3>
-              <button class="secondary" data-action="research">Neue Recherche starten</button>
+              <div class="actions">
+                <button class="secondary" data-go="searchRequests">Fragen & Uploads</button>
+                <button class="secondary" data-action="research">Neue Recherche starten</button>
+              </div>
             </div>
             <p class="small">Ohne Backend erzeugt die HTML-Datei strukturierte Recherche-Funde aus den hinterlegten Suchaufträgen. Wenn ein Backend-Endpunkt eingetragen ist, sendet die App die Suchaufträge dorthin und speichert die Antwort automatisch.</p>
             <div class="meter"><span id="researchMeter"></span></div>
@@ -3657,6 +3694,7 @@
         </div>
       `;
       document.querySelectorAll("[data-action='research']").forEach(b => b.addEventListener("click", runResearch));
+      document.querySelectorAll("[data-go]").forEach(b => b.addEventListener("click", () => setView(b.dataset.go)));
       document.getElementById("saveSettings").addEventListener("click", () => {
         data.settings.endpoint = document.getElementById("endpoint").value.trim();
         data.settings.sourceQueries = document.getElementById("sourceQueries").value.split("\n").map(x => x.trim()).filter(Boolean);
