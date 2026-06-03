@@ -187,6 +187,29 @@
       background: #fff;
     }
 
+    .icon-btn, .icon-link {
+      width: 34px;
+      min-width: 34px;
+      height: 34px;
+      min-height: 34px;
+      padding: 0;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 6px;
+      border: 1px solid var(--line);
+      background: #fff;
+      color: var(--blue-dark);
+      font-weight: 700;
+      text-decoration: none;
+      line-height: 1;
+    }
+
+    .icon-btn:hover, .icon-link:hover {
+      border-color: var(--blue);
+      background: #eef6f8;
+    }
+
     .danger {
       background: #f7e8e6;
       color: var(--danger);
@@ -2309,6 +2332,7 @@
     function loadData() {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (!raw) {
+        normalizeTextData(seedData);
         normalizeTypeRows(seedData);
         normalizeNewsMetadata(seedData);
         localStorage.setItem(STORAGE_KEY, JSON.stringify(seedData));
@@ -2318,14 +2342,33 @@
         const parsed = JSON.parse(raw);
         const merged = Object.assign(structuredClone(seedData), parsed);
         mergeSeedArrays(merged, seedData);
+        normalizeTextData(merged);
         normalizeTypeRows(merged);
         normalizeNewsMetadata(merged);
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
         return merged;
       } catch {
+        normalizeTextData(seedData);
         normalizeTypeRows(seedData);
         normalizeNewsMetadata(seedData);
         return structuredClone(seedData);
       }
+    }
+
+    function normalizeTextData(value) {
+      if (typeof value === "string") return repairMojibake(value);
+      if (Array.isArray(value)) {
+        value.forEach((item, index) => {
+          value[index] = normalizeTextData(item);
+        });
+        return value;
+      }
+      if (value && typeof value === "object") {
+        Object.keys(value).forEach(key => {
+          value[key] = normalizeTextData(value[key]);
+        });
+      }
+      return value;
     }
 
     function normalizeTypeRows(target) {
@@ -2442,7 +2485,7 @@
       renderDashboard();
       renderTypes();
       renderCollection("requirements", "Anforderung hinzufügen", ["name", "category", "threshold", "importance", "tags"]);
-      renderCollection("sites", "BW-Standort hinzufügen", ["city", "operator", "name", "address", "status", "tags"]);
+      renderCollection("sites", "BW-Standort hinzufügen", ["operator", "name", "address", "status", "link", "tags"]);
       renderBwMunicipalities();
       renderGermanyMap();
       renderDataCenterDetail();
@@ -2964,16 +3007,19 @@
 
     function pdfRows(rows, columns) {
       if (!rows.length) return `<tr><td colspan="${columns.length + 2}" class="empty">Noch keine PDF-Datensätze vorhanden.</td></tr>`;
-      return rows.map(item => `
+      return rows.map(item => {
+        const details = detailPanel("pdfExtracts", item, columns);
+        return `
         <tr>
-          ${columns.map(c => `<td>${cellValue(item[c], c)}</td>`).join("")}
+          ${columns.map(c => `<td>${cellValue(item[c], c, "pdfExtracts", item)}</td>`).join("")}
           <td>${pdfLinks(item)}</td>
-          <td><button class="ghost" data-edit="pdfExtracts:${item.id}">Bearbeiten</button></td>
+          <td><button class="icon-btn" data-edit="pdfExtracts:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button></td>
         </tr>
-        <tr class="detail-row">
-          <td colspan="${columns.length + 2}">${detailPanel("pdfExtracts", item, columns)}</td>
-        </tr>
-      `).join("");
+        ${details ? `<tr class="detail-row">
+          <td colspan="${columns.length + 2}">${details}</td>
+        </tr>` : ""}
+      `;
+      }).join("");
     }
 
     function pdfLinks(item) {
@@ -3011,39 +3057,42 @@
 
     function tableRows(key, rows, columns) {
       if (!rows.length) return `<tr><td colspan="${columns.length + 1}" class="empty">Noch keine Einträge vorhanden.</td></tr>`;
-      return rows.map(item => `
+      return rows.map(item => {
+        const details = detailPanel(key, item, columns);
+        return `
         <tr>
-          ${columns.map(c => `<td>${cellValue(item[c], c)}</td>`).join("")}
+          ${columns.map(c => `<td>${cellValue(item[c], c, key, item)}</td>`).join("")}
           <td>
-            <button class="ghost" data-edit="${key}:${item.id}">Bearbeiten</button>
+            <button class="icon-btn" data-edit="${key}:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button>
           </td>
         </tr>
-        <tr class="detail-row">
-          <td colspan="${columns.length + 1}">${detailPanel(key, item, columns)}</td>
-        </tr>
-      `).join("");
+        ${details ? `<tr class="detail-row">
+          <td colspan="${columns.length + 1}">${details}</td>
+        </tr>` : ""}
+      `;
+      }).join("");
     }
 
-    function cellValue(value, key) {
-      if (key === "tags") return tags(value).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("");
+    function cellValue(value, key, collection = "", item = {}) {
+      if (collection === "sites" && key === "address") return escapeHtml(siteAddress(item));
+      if (key === "tags") return visibleTags(value, item).map(t => `<span class="pill">${escapeHtml(t)}</span>`).join("");
       if (key === "importance") return `<span class="pill ${value === "kritisch" ? "red" : "blue"}">${escapeHtml(value || "")}</span>`;
       if (key === "contact" || key === "url" || key === "link" || key === "source") {
         const v = String(value || "");
-        if (/^https?:\/\//.test(v)) return `<a href="${escapeHtml(v)}" target="_blank" rel="noreferrer">${escapeHtml(linkLabel(v, "Quelle öffnen"))}</a>`;
+        if (/^https?:\/\//.test(v)) return `<a class="icon-link" href="${escapeHtml(v)}" target="_blank" rel="noreferrer" title="${escapeHtml(linkLabel(v, "Link öffnen"))}" aria-label="${escapeHtml(linkLabel(v, "Link öffnen"))}">↗</a>`;
       }
       return escapeHtml(value || "");
     }
 
     function detailPanel(key, item, columns) {
-      const shown = new Set([...columns, "id", "created", "updated", "tags"]);
+      const shown = new Set([...columns, "id", "created", "updated", "tags", "postalCode", "city", ...(key === "sites" ? ["source"] : [])]);
       const links = collectLinks(item);
       const longFields = Object.entries(item)
         .filter(([field, value]) => !shown.has(field) && typeof value === "string" && value.trim())
         .map(([field, value]) => `<div><strong>${escapeHtml(labelFor(key, field) || field)}:</strong><br>${formatLongText(value)}</div>`)
         .join("");
-      const linkBlock = links.length ? `<div class="source-actions">${links.map(link => `<a class="button-link" href="${escapeHtml(link.href)}" target="_blank" rel="noreferrer">${escapeHtml(link.label)}</a>`).join("")}</div>` : "";
-      if (!longFields && !linkBlock) return `<span class="small">Keine weiteren Detailinformationen hinterlegt.</span>`;
-      return `<div class="record-detail">${linkBlock}${longFields}</div>`;
+      if (!longFields) return "";
+      return `<div class="record-detail">${longFields}</div>`;
     }
 
     function collectLinks(item) {
@@ -3081,6 +3130,28 @@
 
     function isLinkLike(value) {
       return /^https?:\/\//i.test(value) || /^assets\//i.test(value) || /^pdfs\//i.test(value);
+    }
+
+    function siteAddress(item) {
+      const address = repairMojibake(item.address || "");
+      const place = [item.postalCode, item.city].filter(Boolean).join(" ");
+      return [address, place].filter(Boolean).join(", ");
+    }
+
+    function visibleTags(value, item = {}) {
+      const context = Object.entries(item)
+        .filter(([field]) => field !== "tags")
+        .map(([, fieldValue]) => repairMojibake(String(fieldValue || "")).toLowerCase())
+        .join(" ");
+      const seen = new Set();
+      return tags(value).filter(tag => {
+        const clean = repairMojibake(tag).trim();
+        const marker = clean.toLowerCase();
+        if (!marker || seen.has(marker)) return false;
+        seen.add(marker);
+        if (context.includes(marker)) return false;
+        return true;
+      });
     }
 
     function extractUrls(value) {
@@ -3419,7 +3490,7 @@
           <td>${escapeHtml(item.status || "neu")}<br><span class="small">${escapeHtml(item.priority || "normal")}</span></td>
           <td>${formatLongText(item.spamReview || "")}</td>
           <td>${item.pdfFile ? `<a href="${escapeHtml(item.pdfFile)}" target="_blank" rel="noreferrer">PDF öffnen</a>` : `<span class="small">noch offen</span>`}</td>
-          <td><button class="ghost" data-edit="researchQuestions:${item.id}">Bearbeiten</button><button class="danger" data-delete="researchQuestions:${item.id}" style="margin-top:6px">Löschen</button></td>
+          <td><button class="icon-btn" data-edit="researchQuestions:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button><button class="icon-btn danger" data-delete="researchQuestions:${item.id}" title="Löschen" aria-label="Löschen" style="margin-top:6px">×</button></td>
         </tr>
       `).join("");
     }
@@ -3433,7 +3504,7 @@
           <td>${escapeHtml(item.status || "neu")}</td>
           <td>${item.storedDataUrl ? `<a href="${escapeHtml(item.storedDataUrl)}" download="${escapeHtml(item.fileName || "upload")}" rel="noreferrer">Browser-Kopie</a><br>` : ""}<span class="small">${escapeHtml(item.localTarget || "")}</span></td>
           <td>${formatLongText(item.statsImpact || "")}</td>
-          <td><button class="ghost" data-edit="manualUploads:${item.id}">Bearbeiten</button><button class="danger" data-delete="manualUploads:${item.id}" style="margin-top:6px">Löschen</button></td>
+          <td><button class="icon-btn" data-edit="manualUploads:${item.id}" title="Bearbeiten" aria-label="Bearbeiten">✎</button><button class="icon-btn danger" data-delete="manualUploads:${item.id}" title="Löschen" aria-label="Löschen" style="margin-top:6px">×</button></td>
         </tr>
       `).join("");
     }
