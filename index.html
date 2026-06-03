@@ -2487,15 +2487,15 @@
     }
 
     function kpi(label, value, note) {
-      return `<div class="card kpi"><small>${label}</small><b>${value}</b><span>${note}</span></div>`;
+      return `<div class="card kpi"><small>${escapeHtml(label)}</small><b>${escapeHtml(value)}</b><span>${escapeHtml(note)}</span></div>`;
     }
 
     function quick(title, text, view) {
-      return `<button class="quick-link" data-go="${view}"><h4>${title}</h4><p>${text}</p></button>`;
+      return `<button class="quick-link" data-go="${escapeHtml(view)}"><h4>${escapeHtml(title)}</h4><p>${escapeHtml(text)}</p></button>`;
     }
 
     function findingCard(f) {
-      const link = /^https?:\/\//.test(f.source || "") ? `<a href="${escapeHtml(f.source)}" target="_blank" rel="noreferrer">Artikel Ã¶ffnen</a>` : "";
+      const link = /^https?:\/\//.test(f.source || "") ? `<a href="${escapeHtml(f.source)}" target="_blank" rel="noreferrer">${escapeHtml("Artikel öffnen")}</a>` : "";
       return `<article class="finding">
         <h4>${escapeHtml(f.title)}</h4>
         <p>${escapeHtml(f.summary)}</p>
@@ -3491,13 +3491,34 @@
     }
 
     function escapeHtml(value) {
-      return String(value ?? "").replace(/[&<>"']/g, char => ({
+      return repairMojibake(String(value ?? "")).replace(/[&<>"']/g, char => ({
         "&": "&amp;",
         "<": "&lt;",
         ">": "&gt;",
         '"': "&quot;",
         "'": "&#039;"
       }[char]));
+    }
+
+    function repairMojibake(value) {
+      let text = String(value ?? "");
+      const replacements = [
+        ["ÃƒÂ¤", "ä"], ["ÃƒÂ¶", "ö"], ["ÃƒÂ¼", "ü"], ["ÃƒÂ„", "Ä"], ["ÃƒÂ–", "Ö"], ["ÃƒÂœ", "Ü"], ["ÃƒÅ¸", "ß"],
+        ["Ã¤", "ä"], ["Ã¶", "ö"], ["Ã¼", "ü"], ["Ã„", "Ä"], ["Ã–", "Ö"], ["Ãœ", "Ü"], ["ÃŸ", "ß"],
+        ["Ã©", "é"], ["Ã¨", "è"], ["Ã¡", "á"], ["Ã ", "à"],
+        ["Â§", "§"], ["Â°C", "°C"], ["Â·", "·"], ["Â²", "²"], ["Â³", "³"],
+        ["â€ž", "„"], ["â€œ", "“"], ["â€", "”"], ["â€™", "’"], ["â€˜", "‘"],
+        ["â€“", "–"], ["â€”", "—"], ["â€¦", "…"], ["â€¢", "•"],
+        ["â€ž", "„"], ["â€œ", "“"], ["â€", "”"], ["â€", "”"]
+      ];
+      for (let i = 0; i < 3; i += 1) {
+        const before = text;
+        replacements.forEach(([bad, good]) => {
+          text = text.split(bad).join(good);
+        });
+        if (text === before) break;
+      }
+      return text;
     }
 
     document.querySelectorAll("[data-close]").forEach(btn => {
