@@ -7,14 +7,14 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
   <style>
     :root {
-      --bg: #f6f8f4;
+      --bg: #f5f7fb;
       --surface: #ffffff;
-      --surface-2: #eef4ee;
+      --surface-2: #edf2f8;
       --ink: #1f2a2f;
-      --muted: #64716d;
-      --line: #dce5dc;
-      --green: #78a22f;
-      --green-dark: #4f7f22;
+      --muted: #637086;
+      --line: #d8deea;
+      --green: #25336b;
+      --green-dark: #1d285a;
       --blue: #126d8a;
       --blue-dark: #0f4d61;
       --sun: #f2b705;
@@ -31,7 +31,7 @@
       font-family: var(--font);
       color: var(--ink);
       background:
-        linear-gradient(135deg, rgba(120, 162, 47, .10), transparent 34%),
+        linear-gradient(135deg, rgba(37, 51, 107, .08), transparent 34%),
         linear-gradient(315deg, rgba(18, 109, 138, .11), transparent 32%),
         var(--bg);
     }
@@ -109,7 +109,7 @@
     }
 
     .nav-btn.active {
-      background: #eaf2e7;
+      background: #edf2fb;
       color: var(--green-dark);
       box-shadow: inset 3px 0 0 var(--green);
     }
@@ -121,7 +121,7 @@
       border-radius: var(--radius);
       padding: 14px;
       margin-top: 22px;
-      background: #fbfcfa;
+      background: #fbfcff;
     }
 
     .side-box strong { display: block; font-size: 13px; margin-bottom: 8px; }
@@ -299,7 +299,7 @@
     }
 
     th {
-      background: #f3f7f1;
+      background: #f3f6fb;
       color: #42504b;
       font-size: 12px;
       text-transform: uppercase;
@@ -311,14 +311,14 @@
     tr:last-child td { border-bottom: 0; }
 
     .detail-row td {
-      background: #fbfcfa;
+      background: #fbfcff;
       padding-top: 0;
     }
 
     .record-detail {
       display: grid;
       gap: 10px;
-      border-left: 3px solid #d8e7d5;
+      border-left: 3px solid #cfd8ee;
       padding: 10px 0 10px 12px;
       color: #48564f;
       line-height: 1.45;
@@ -339,7 +339,7 @@
       display: inline-flex;
       align-items: center;
       min-height: 32px;
-      border: 1px solid #b8d0c5;
+      border: 1px solid #bfd1df;
       background: #fff;
       color: var(--blue-dark);
       border-radius: 6px;
@@ -360,7 +360,7 @@
       gap: 6px;
       border-radius: 999px;
       padding: 5px 9px;
-      background: #eaf2e7;
+      background: #edf2fb;
       color: var(--green-dark);
       font-size: 12px;
       font-weight: 700;
@@ -405,7 +405,7 @@
 
     .research-summary {
       border: 1px solid #cfe0cb;
-      background: #f2f8ef;
+      background: #f2f5fb;
       padding: 12px 14px;
       border-radius: var(--radius);
       margin-bottom: 12px;
@@ -432,7 +432,7 @@
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
-      background: #eef4ee;
+      background: #eef3f8;
       display: block;
     }
 
@@ -457,7 +457,7 @@
       border: 1px solid var(--line);
       border-radius: var(--radius);
       overflow: hidden;
-      background: #f7faf4;
+      background: #f7f9fc;
       box-shadow: 0 18px 46px rgba(26, 55, 49, .18);
     }
 
@@ -468,7 +468,7 @@
 
     .legend-dot.hyperscale { background: #b9473f; }
     .legend-dot.colocation { background: #126d8a; }
-    .legend-dot.edge { background: #78a22f; }
+    .legend-dot.edge { background: #25336b; }
     .legend-dot.enterprise { background: #f2b705; }
     .legend-dot.forschung { background: #6f5cc2; }
     .legend-dot.pruefung { background: #79837f; }
@@ -720,6 +720,7 @@
       <section class="view" id="drawings"></section>
       <section class="view" id="gridTool"></section>
       <section class="view" id="connectivityTool"></section>
+      <section class="view" id="searchRequests"></section>
       <section class="view" id="research"></section>
       <section class="view" id="about"></section>
     </main>
@@ -780,6 +781,7 @@
       { id: "drawings", title: "Technische Zeichnungen", icon: "TZ", intro: "Schemata und technische Referenzen zu Aufbau, Kühlung, Strom, Brandschutz und Wasserversorgung." },
       { id: "gridTool", title: "Netztool Freiburg", icon: "NT", intro: "Screening für Stromnetz, Netzanschluss, Glasfaser und Kapazitäts-Indizien im Raum Denzlingen/Freiburg." },
       { id: "connectivityTool", title: "Konnektivität", icon: "KN", intro: "Carrier, Glasfaser, PoPs, Bandbreite, Trassenredundanz und SLA für kleine Rechenzentrumsstandorte." },
+      { id: "searchRequests", title: "Fragen & Uploads", icon: "FU", intro: "Sammelstelle für zusätzliche RZ-Fragen von Kollegen und manuell hochgeladene Dokumente für die nächste Recherchephase." },
       { id: "research", title: "KI-Recherche", icon: "KI", intro: "Quellenlisten, Recherche-Jobs, automatisch gespeicherte Funde und späterer Backend-Anschluss." },
       { id: "about", title: "Über iAccess", icon: "IA", intro: "Positionierung von iAccess Energy für datengetriebene Standortanalyse in Baden-Württemberg." }
     ];
@@ -920,6 +922,26 @@
         ["status", "Status", "select", ["pruefen", "nutzbar", "nicht direkt nutzbar", "rechtlich beobachten"]],
         ["url", "Link", "text"],
         ["notes", "Notizen", "textarea"],
+        ["tags", "Tags", "text"]
+      ],
+      researchQuestions: [
+        ["author", "Name / Kürzel", "text"],
+        ["question", "Frage", "textarea"],
+        ["priority", "Priorität", "select", ["normal", "hoch", "niedrig"]],
+        ["status", "Status", "select", ["neu", "freigegeben", "Spam/prüfen", "in Bearbeitung", "beantwortet", "zurückgestellt"]],
+        ["spamReview", "Spam-/Themenprüfung", "textarea"],
+        ["answerSummary", "Antwort / Ergebnis", "textarea"],
+        ["pdfFile", "PDF-Datei", "text"],
+        ["tags", "Tags", "text"]
+      ],
+      manualUploads: [
+        ["fileName", "Dateiname", "text"],
+        ["documentType", "Dokumenttyp", "select", ["PDF", "Bild", "Technische Zeichnung", "Bebauungsplan", "Gutachten", "Webseite/HTML", "Text/Notiz", "Sonstiges"]],
+        ["status", "Status", "select", ["neu", "gespeichert", "auszulesen", "in Datenbank übernommen", "Spam/prüfen", "zurückgestellt"]],
+        ["sourceContext", "Kontext / Hinweis", "textarea"],
+        ["localTarget", "Ablageordner / lokaler Pfad", "text"],
+        ["statsImpact", "Neue Statistik-Effekte", "textarea"],
+        ["extractedSummary", "Ausgelesene Inhalte", "textarea"],
         ["tags", "Tags", "text"]
       ],
       findings: [
@@ -2181,6 +2203,8 @@
           tags: "DVLP, Flaechen, Screening, Baden-Wuerttemberg"
         }
       ],
+      researchQuestions: [],
+      manualUploads: [],
       settings: {
         endpoint: "",
         autoDaily: true,
@@ -2225,7 +2249,7 @@
     const markerColors = {
       Hyperscale: "#b9473f",
       Colocation: "#126d8a",
-      Edge: "#78a22f",
+      Edge: "#25336b",
       Enterprise: "#f2b705",
       Forschung: "#6f5cc2",
       "in Prüfung": "#79837f"
@@ -2323,7 +2347,7 @@
     }
 
     function mergeSeedArrays(target, seed) {
-      ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "gridChecks", "connectivityChecks", "capacityMarkets", "findings"].forEach(key => {
+      ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "gridChecks", "connectivityChecks", "capacityMarkets", "researchQuestions", "manualUploads", "findings"].forEach(key => {
         target[key] = Array.isArray(target[key]) ? target[key] : [];
         const existing = new Set(target[key].map(item => identityFor(key, item)));
         (seed[key] || []).forEach(item => {
@@ -2377,7 +2401,7 @@
     function identityFor(key, item) {
       return [
         key,
-        item.title || item.name || item.city || "",
+        item.title || item.name || item.city || item.question || item.fileName || "",
         item.source || item.url || item.pageUrl || item.link || ""
       ].join("|").toLowerCase();
     }
@@ -2430,6 +2454,7 @@
       renderCollection("drawings", "Zeichnung hinzufügen", ["title", "category", "system", "url", "tags"]);
       renderGridTool();
       renderConnectivityTool();
+      renderSearchRequests();
       renderResearch();
       renderAbout();
     }
@@ -2440,13 +2465,16 @@
       const gridOpen = [...(data.gridChecks || []), ...(data.connectivityChecks || [])].filter(x => /unbekannt|Anfrage noetig|angefragt/i.test(x.capacityStatus || x.status || "")).length;
       const latest = [...data.findings].sort(byDate).slice(0, 5);
       const heiseLatest = data.findings.filter(f => /heise\.de/i.test([f.source, f.tags].join(" "))).sort(byDate).slice(0, 4);
+      const openQuestions = (data.researchQuestions || []).filter(q => !/beantwortet|zurückgestellt/i.test(q.status || "")).length;
+      const openUploads = (data.manualUploads || []).filter(u => !/übernommen|zurückgestellt/i.test(u.status || "")).length;
       document.getElementById("dashboard").innerHTML = `
         <div class="grid kpis">
-          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.zoningPlans.length + data.pdfExtracts.length + data.media.length + data.drawings.length + data.findings.length, "gesamter Datenraum")}
+          ${kpi("Einträge", data.types.length + data.requirements.length + data.sites.length + data.companies.length + data.planning.length + data.zoningPlans.length + data.pdfExtracts.length + data.media.length + data.drawings.length + data.findings.length + openQuestions + openUploads, "gesamter Datenraum")}
           ${kpi("RZ-Typen", data.types.length, "Technologiekategorien")}
           ${kpi("BW-Standorte", data.sites.length, "Bestand & Prüfliste")}
           ${kpi("Kritische Faktoren", critical, "Standortanforderungen")}
           ${kpi("Netz/Internet offen", gridOpen, "Denzlingen/Freiburg")}
+          ${kpi("Fragen offen", openQuestions, "für nächste Suchphase")}
         </div>
         <div class="grid two-col">
           <div class="card section">
@@ -2476,7 +2504,8 @@
               ${quick("Partner-Mapping", "Planer, Betreiber und Bauunternehmen strukturieren.", "companies")}
               ${quick("Bilder & Zeichnungen", "Bildquellen und technische Schemata prüfen.", "media")}
               ${quick("Netztool Freiburg", "Strom, Netzanschluss, Glasfaser und Kapazitaets-Indizien pruefen.", "gridTool")}
-              ${quick("Konnektivitaet", "Carrier, PoPs, Dark Fiber, Wavelength, SLA und Trassen pruefen.", "connectivityTool")}
+              ${quick("Konnektivität", "Carrier, PoPs, Dark Fiber, Wavelength, SLA und Trassen prüfen.", "connectivityTool")}
+              ${quick("Fragen & Uploads", "Kollegenfragen und manuelle Dokumente für die nächste Recherche sammeln.", "searchRequests")}
               ${quick("KI-Funde", "Neue Funde pruefen und in die Datenbank uebernehmen.", "research")}
             </div>
           </div>
@@ -2601,7 +2630,7 @@
 
     function mediaCard(item) {
       const img = /\.(png|jpe?g|webp|gif|svg)(\?|$)/i.test(item.imageUrl || "") ? item.imageUrl : "";
-      const fallback = `<div style="aspect-ratio:16/9;display:grid;place-items:center;background:#eef4ee;color:#5f6b66;font-size:13px;padding:16px;text-align:center">${escapeHtml(item.category || "Bildquelle")}</div>`;
+      const fallback = `<div style="aspect-ratio:16/9;display:grid;place-items:center;background:#eef3f8;color:#5f6b66;font-size:13px;padding:16px;text-align:center">${escapeHtml(item.category || "Bildquelle")}</div>`;
       return `<article class="media-card">
         ${img ? `<img src="${escapeHtml(img)}" alt="${escapeHtml(item.title)}" loading="lazy">` : fallback}
         <div class="media-body">
@@ -3114,6 +3143,15 @@
           openEditor(key, id);
         };
       });
+      document.querySelectorAll("[data-delete]").forEach(btn => {
+        btn.onclick = () => {
+          const [key, id] = btn.dataset.delete.split(":");
+          if (!confirm("Diesen Eintrag wirklich löschen?")) return;
+          data[key] = (data[key] || []).filter(item => item.id !== id);
+          saveData();
+          render();
+        };
+      });
     }
 
     function openEditor(key, id) {
@@ -3286,6 +3324,221 @@
       ];
     }
 
+    function renderSearchRequests() {
+      const root = document.getElementById("searchRequests");
+      if (!root) return;
+      const questions = [...(data.researchQuestions || [])].sort(byDate);
+      const uploads = [...(data.manualUploads || [])].sort(byDate);
+      const suspicious = questions.filter(q => /Spam\/prüfen/i.test(q.status || "")).length;
+      const pending = questions.filter(q => !/beantwortet|zurückgestellt/i.test(q.status || "")).length;
+      const todayPdf = `docs/recherchefragen-${today}.pdf`;
+      root.innerHTML = `
+        <div class="grid kpis">
+          ${kpi("Offene Fragen", pending, "werden vor Recherche geprüft")}
+          ${kpi("Spam prüfen", suspicious, "nicht automatisch bearbeiten")}
+          ${kpi("Uploads", uploads.length, "manuell hinzugefügt")}
+          ${kpi("Tages-PDF", today, "Dateiname mit Datum")}
+        </div>
+        <div class="grid two-col">
+          <div class="card section">
+            <div class="toolbar">
+              <h3>Neue Frage zur RZ-Recherche</h3>
+              <button class="secondary" id="exportQuestionPackage">Fragenpaket exportieren</button>
+            </div>
+            <label>Name / Kürzel
+              <input class="input" id="questionAuthor" placeholder="z.B. Stephan, Vertrieb, Technik">
+            </label>
+            <label style="margin-top:12px">Frage
+              <textarea id="questionText" placeholder="Zusätzliche Frage zu Rechenzentren, Strom, Internet, Flächen, Genehmigung, Kühlung, Partnern ..."></textarea>
+            </label>
+            <div class="actions" style="justify-content:flex-start;margin-top:12px">
+              <button class="primary" id="saveQuestion">Frage speichern</button>
+            </div>
+            <p class="small">Vor der Bearbeitung werden Fragen auf Spam, Fremdthemen und fehlenden RZ-Bezug geprüft. Verdächtige Fragen werden nummeriert und nicht automatisch bearbeitet, sondern im Tagesbericht zur Freigabe gemeldet.</p>
+          </div>
+          <div class="card section">
+            <h3>Manuelle Dokumente hochladen</h3>
+            <p class="small">Kleine Dateien werden im Browser zwischengespeichert. Große PDFs bitte zusätzlich in <strong>pdfs/manual-uploads/</strong> ablegen, damit ich sie im nächsten Lauf sicher auslesen und dauerhaft in die Datenbank übernehmen kann.</p>
+            <label>Dokumenttyp
+              <select id="uploadType">
+                <option>PDF</option>
+                <option>Bild</option>
+                <option>Technische Zeichnung</option>
+                <option>Bebauungsplan</option>
+                <option>Gutachten</option>
+                <option>Webseite/HTML</option>
+                <option>Text/Notiz</option>
+                <option>Sonstiges</option>
+              </select>
+            </label>
+            <label style="margin-top:12px">Kontext / Hinweis
+              <textarea id="uploadContext" placeholder="Warum ist das Dokument relevant? Zu welchem Standort, Betreiber, Bebauungsplan oder Thema gehört es?"></textarea>
+            </label>
+            <label style="margin-top:12px">Datei
+              <input class="input" type="file" id="manualFile">
+            </label>
+            <div class="actions" style="justify-content:flex-start;margin-top:12px">
+              <button class="primary" id="saveUpload">Upload vormerken</button>
+            </div>
+          </div>
+        </div>
+        <div class="card section" style="margin-top:16px">
+          <div class="toolbar">
+            <h3>Gesammelte Fragen</h3>
+            <span class="small">Nächstes Antwort-PDF: ${escapeHtml(todayPdf)}</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>#</th><th>Frage</th><th>Status</th><th>Prüfung</th><th>PDF</th><th>Aktion</th></tr></thead>
+              <tbody>${questionRows(questions)}</tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card section" style="margin-top:16px">
+          <h3>Manuelle Uploads</h3>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Datei</th><th>Typ</th><th>Status</th><th>Ablage / Link</th><th>Statistik</th><th>Aktion</th></tr></thead>
+              <tbody>${uploadRows(uploads)}</tbody>
+            </table>
+          </div>
+        </div>
+      `;
+      document.getElementById("saveQuestion").addEventListener("click", saveResearchQuestion);
+      document.getElementById("saveUpload").addEventListener("click", saveManualUpload);
+      document.getElementById("exportQuestionPackage").addEventListener("click", exportQuestionPackage);
+      bindRowActions();
+    }
+
+    function questionRows(rows) {
+      if (!rows.length) return `<tr><td colspan="6" class="empty">Noch keine Fragen für die nächste Suchphase vorhanden.</td></tr>`;
+      return rows.map((item, index) => `
+        <tr>
+          <td>${index + 1}</td>
+          <td><strong>${escapeHtml(item.author || "ohne Name")}</strong><br>${formatLongText(item.question || "")}</td>
+          <td>${escapeHtml(item.status || "neu")}<br><span class="small">${escapeHtml(item.priority || "normal")}</span></td>
+          <td>${formatLongText(item.spamReview || "")}</td>
+          <td>${item.pdfFile ? `<a href="${escapeHtml(item.pdfFile)}" target="_blank" rel="noreferrer">PDF öffnen</a>` : `<span class="small">noch offen</span>`}</td>
+          <td><button class="ghost" data-edit="researchQuestions:${item.id}">Bearbeiten</button><button class="danger" data-delete="researchQuestions:${item.id}" style="margin-top:6px">Löschen</button></td>
+        </tr>
+      `).join("");
+    }
+
+    function uploadRows(rows) {
+      if (!rows.length) return `<tr><td colspan="6" class="empty">Noch keine manuellen Dokumente vorgemerkt.</td></tr>`;
+      return rows.map(item => `
+        <tr>
+          <td><strong>${escapeHtml(item.fileName || "ohne Datei")}</strong><br><span class="small">${escapeHtml(item.fileSizeLabel || "")}</span></td>
+          <td>${escapeHtml(item.documentType || "")}</td>
+          <td>${escapeHtml(item.status || "neu")}</td>
+          <td>${item.storedDataUrl ? `<a href="${escapeHtml(item.storedDataUrl)}" download="${escapeHtml(item.fileName || "upload")}" rel="noreferrer">Browser-Kopie</a><br>` : ""}<span class="small">${escapeHtml(item.localTarget || "")}</span></td>
+          <td>${formatLongText(item.statsImpact || "")}</td>
+          <td><button class="ghost" data-edit="manualUploads:${item.id}">Bearbeiten</button><button class="danger" data-delete="manualUploads:${item.id}" style="margin-top:6px">Löschen</button></td>
+        </tr>
+      `).join("");
+    }
+
+    function saveResearchQuestion() {
+      const question = document.getElementById("questionText").value.trim();
+      if (!question) {
+        alert("Bitte zuerst eine Frage eintragen.");
+        return;
+      }
+      const author = document.getElementById("questionAuthor").value.trim();
+      const review = reviewResearchQuestion(question);
+      data.researchQuestions = Array.isArray(data.researchQuestions) ? data.researchQuestions : [];
+      data.researchQuestions.push({
+        id: crypto.randomUUID(),
+        created: today,
+        updated: today,
+        author,
+        question,
+        priority: "normal",
+        status: review.ok ? "neu" : "Spam/prüfen",
+        spamReview: review.message,
+        answerSummary: "",
+        pdfFile: "",
+        tags: review.ok ? "RZ-Frage, Nutzerfrage" : "Spam-Prüfung, Nutzerfrage"
+      });
+      saveData();
+      renderSearchRequests();
+    }
+
+    async function saveManualUpload() {
+      const input = document.getElementById("manualFile");
+      const file = input.files && input.files[0];
+      if (!file) {
+        alert("Bitte zuerst eine Datei auswählen.");
+        return;
+      }
+      const context = document.getElementById("uploadContext").value.trim();
+      const documentType = document.getElementById("uploadType").value;
+      const maxInlineBytes = 2.5 * 1024 * 1024;
+      const storedDataUrl = file.size <= maxInlineBytes ? await readFileAsDataUrl(file) : "";
+      data.manualUploads = Array.isArray(data.manualUploads) ? data.manualUploads : [];
+      data.manualUploads.push({
+        id: crypto.randomUUID(),
+        created: today,
+        updated: today,
+        fileName: file.name,
+        documentType,
+        status: "neu",
+        sourceContext: context,
+        localTarget: `pdfs/manual-uploads/${file.name}`,
+        fileSize: String(file.size),
+        fileSizeLabel: formatBytes(file.size),
+        mimeType: file.type || "",
+        storedDataUrl,
+        statsImpact: "Noch nicht ausgewertet. Nach Auslesen zählen neue Quellen, PDFs, Bilder, technische Zeichnungen oder Standortdaten in den Tagesstatistiken.",
+        extractedSummary: "",
+        tags: "Manueller Upload, Rechercheauftrag"
+      });
+      saveData();
+      renderSearchRequests();
+    }
+
+    function readFileAsDataUrl(file) {
+      return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onload = () => resolve(String(reader.result || ""));
+        reader.onerror = reject;
+        reader.readAsDataURL(file);
+      });
+    }
+
+    function exportQuestionPackage() {
+      const payload = {
+        date: today,
+        nextPdf: `docs/recherchefragen-${today}.pdf`,
+        questions: data.researchQuestions || [],
+        manualUploads: (data.manualUploads || []).map(item => ({ ...item, storedDataUrl: item.storedDataUrl ? "[im Browser gespeichert]" : "" }))
+      };
+      const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `recherchefragen-${today}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+    }
+
+    function reviewResearchQuestion(question) {
+      const text = String(question || "").toLowerCase();
+      const rzTerms = /(rechenzentrum|rz|datacenter|data center|server|rack|colocation|cloud|ki|hpc|strom|netzanschluss|umspannwerk|glasfaser|internet|carrier|kühlung|kuehlung|wärme|waerme|wasser|bebauungsplan|b-plan|genehmigung|fläche|flaeche|bauleitplanung|brandschutz|notstrom|usv|sla|pop|dark fiber)/i;
+      const spamTerms = /(casino|krypto gewinn|viagra|porn|seo backlink|lotterie|kostenloses geld|whatsapp gruppe|telegram pump)/i;
+      if (spamTerms.test(text)) return { ok: false, message: "Automatisch markiert: typisches Spam-/Werbemuster. Bitte vor Bearbeitung freigeben." };
+      if (!rzTerms.test(text)) return { ok: false, message: "Automatisch markiert: kein klarer Bezug zu Rechenzentren, Energie, Netz, Internet, Bauleitplanung oder Standortsuche erkennbar." };
+      if (text.length < 12) return { ok: false, message: "Automatisch markiert: Frage ist zu kurz für eine belastbare Recherche." };
+      return { ok: true, message: "Vorprüfung bestanden: thematischer RZ-Bezug erkennbar." };
+    }
+
+    function formatBytes(bytes) {
+      const value = Number(bytes || 0);
+      if (value < 1024) return `${value} B`;
+      if (value < 1024 * 1024) return `${(value / 1024).toFixed(1)} KB`;
+      return `${(value / 1024 / 1024).toFixed(1)} MB`;
+    }
+
     function renderResearch() {
       document.getElementById("research").innerHTML = `
         <div class="research-panel">
@@ -3366,12 +3619,19 @@
       }
 
       const endpoint = data.settings.endpoint;
+      const questionReview = reviewPendingQuestions();
       if (endpoint) {
         try {
           const response = await fetch(endpoint, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ queries: data.settings.sourceQueries, date: today, focus: "Rechenzentren Baden-Württemberg" })
+            body: JSON.stringify({
+              queries: data.settings.sourceQueries,
+              researchQuestions: (data.researchQuestions || []).filter(q => /neu|freigegeben/i.test(q.status || "")),
+              manualUploads: data.manualUploads || [],
+              date: today,
+              focus: "Rechenzentren Baden-Württemberg"
+            })
           });
           const result = await response.json();
           const findings = Array.isArray(result.findings) ? result.findings : [];
@@ -3410,7 +3670,10 @@
         `${addedZoning} Bebauungspläne`,
         `${addedPdfExtracts} PDF-Datensätze`,
         `${addedMedia} Bildquellen`,
-        `${addedDrawings} technische Zeichnungen`
+        `${addedDrawings} technische Zeichnungen`,
+        `${questionReview.accepted} offene Fragen für die Suchphase`,
+        `${questionReview.flagged} Fragen zur Freigabe/Spamprüfung`,
+        `${(data.manualUploads || []).length} manuelle Uploads vorgemerkt`
       ].join(", ");
       data.settings.lastResearchSummary = `Recherche abgeschlossen: ${summary}. Datenstand vorher ${before.total} Einträge, danach ${after.total}.`;
       log.insertAdjacentHTML("beforeend", `<div>${escapeHtml(data.settings.lastResearchSummary)}</div>`);
@@ -3425,6 +3688,7 @@
 
     function generateLocalFindings() {
       const query = data.settings.sourceQueries[Math.floor(Math.random() * data.settings.sourceQueries.length)] || "Rechenzentrum Baden-Württemberg";
+      const openQuestions = (data.researchQuestions || []).filter(q => /neu|freigegeben/i.test(q.status || ""));
       return [
         {
           title: `Rechercheauftrag gespeichert: ${query}`,
@@ -3443,12 +3707,37 @@
           source: "Lokale Wissensbasis",
           confidence: "hoch",
           tags: "BW, Strom, Abwärme, Standortanalyse"
+        },
+        {
+          title: `Offene Nutzerfragen für Tagesrecherche: ${openQuestions.length}`,
+          topic: "Quelle",
+          summary: openQuestions.length ? openQuestions.map((q, index) => `${index + 1}. ${q.question}`).join(" | ") : "Aktuell liegen keine freigegebenen Nutzerfragen vor.",
+          action: `Bei der nächsten Automation beantworten, PDF docs/recherchefragen-${today}.pdf erstellen, unter PDF-Daten verlinken und Tagesmail nur bei vorhandenen Fragen senden.`,
+          source: "Fragen & Uploads",
+          confidence: "hoch",
+          tags: "Nutzerfragen, Tagesrecherche, PDF"
         }
       ];
     }
 
+    function reviewPendingQuestions() {
+      let accepted = 0;
+      let flagged = 0;
+      data.researchQuestions = (data.researchQuestions || []).map(item => {
+        if (/beantwortet|in Bearbeitung|zurückgestellt/i.test(item.status || "")) return item;
+        const review = reviewResearchQuestion(item.question || "");
+        if (!review.ok) {
+          flagged += 1;
+          return { ...item, status: "Spam/prüfen", spamReview: review.message, updated: today };
+        }
+        accepted += 1;
+        return { ...item, status: item.status || "neu", spamReview: item.spamReview || review.message, updated: today };
+      });
+      return { accepted, flagged };
+    }
+
     function snapshotCounts() {
-      const keys = ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "gridChecks", "connectivityChecks", "capacityMarkets", "findings"];
+      const keys = ["types", "requirements", "sites", "companies", "planning", "zoningPlans", "pdfExtracts", "media", "drawings", "gridChecks", "connectivityChecks", "capacityMarkets", "researchQuestions", "manualUploads", "findings"];
       const counts = Object.fromEntries(keys.map(key => [key, (data[key] || []).length]));
       counts.total = keys.reduce((sum, key) => sum + counts[key], 0);
       return counts;
@@ -3585,5 +3874,6 @@
   </script>
 </body>
 </html>
+
 
 
