@@ -1,0 +1,80 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg
+Datum: 2026-06-21
+
+Neue Quellen
+- Offizielle Kommunalpfade fuer Biederbach, Elzach, Winden im Elztal, Freiamt, Herbolzheim, Rheinhausen im Breisgau, Weisweil, Bahlingen am Kaiserstuhl, Endingen am Kaiserstuhl, Wyhl am Kaiserstuhl, Simonswald, Kappel-Grafenhausen, Rust, Mahlberg, Ringsheim, Neuried, Hohberg, Schutterwald, Renchen und Oberkirch.
+- Neue vertiefte Signalschwerpunkte aus Ringsheim und Mahlberg mit Fokus auf Gewerbegebiet, Bebauungsplaene, Energie-/Waermepfade und Erschliessung.
+
+Lokal archivierte Quellen
+- Manuelle Quellen-Notiz erstellt: assets/source-archive/manual/2026-06-21/branchennews-und-kommunalquellen-2026-06-21.md
+- Keine HTML-/PDF-Snapshots ueber scripts/archive-sources.py erzeugt, da keine Python-Laufzeit verfuegbar ist.
+
+PDF-Verfuegbarkeit
+- Keine neuen PDFs oder Gutachten lokal heruntergeladen.
+- scripts/check-pdf-availability.py wurde nicht ausgefuehrt, da keine Python-Laufzeit verfuegbar ist.
+
+Gepruefte Gemeinden
+- Biederbach
+- Elzach
+- Winden im Elztal
+- Freiamt
+- Herbolzheim
+- Rheinhausen im Breisgau
+- Weisweil
+- Bahlingen am Kaiserstuhl
+- Endingen am Kaiserstuhl
+- Wyhl am Kaiserstuhl
+- Simonswald
+- Kappel-Grafenhausen
+- Rust
+- Mahlberg
+- Ringsheim
+- Neuried
+- Hohberg
+- Schutterwald
+- Renchen
+- Oberkirch
+
+Gemeinden mit RZ-Fund
+- Kein neuer direkter kommunaler RZ-Fund in den heute geprueften 20 offenen Kommunen.
+
+Gemeinden ohne Fund / nur offen
+- Ringsheim verdichtet sich als plausibler Edge-/Container-Kandidat durch neues Gewerbegebiet, Breitband & Telefon, Fernwaerme, Wasser/Strom/Gas und kommunale Waermeplanung.
+- Mahlberg bleibt wegen Gewerbegebiet, Gewerbegrundstuecken, BuergerGIS/Bebauungsplaenen, Altlastenkataster und Netze-BW-/Entsorgungspfad ein belastbarer Micro-DC-Suchpunkt.
+- Schutterwald und Hohberg bestaetigen weiter den Gewerbe-/GRO-Korridor, heute aber ohne direkten Rechenzentrumsnachweis.
+
+Neue PDFs / Gutachten
+- Keine neuen PDFs lokal gespeichert.
+- Kommunale Gutachten-/Planpfade sichtbar in Schutterwald, Ringsheim, Kappel-Grafenhausen, Winden im Elztal und Freiamt; Download bleibt fuer einen Lauf mit funktionierender Python-/Archivierungsstrecke offen.
+
+Neue Partner / technische Anker
+- Kein neuer Betreiber oder Carrier als eigener Player-Eintrag.
+- Neue offizielle Infrastrukturanker:
+  - Ringsheim: Breitband, Strom/Gas, Fernwaerme, kommunale Waermeplanung.
+  - Mahlberg: Netze-BW-Monitor, Wasser/Abwasser, Altlastenkataster, Gewerbegrundstuecke.
+  - Elzach: Gewerbegebiete, Nahwaermeausbau, Energie+Klimaschutz.
+
+Linkpruefung
+- Die heute verwendeten offiziellen Hauptquellen wurden manuell im Web-Tool geoeffnet und waren erreichbar.
+- scripts/check-links.py wurde nicht ausgefuehrt, da keine Python-Laufzeit verfuegbar ist.
+
+Offene / verdaechtige Fragen
+- Keine neuen researchQuestions vorhanden.
+
+Verarbeitete Uploads
+- Keine neuen manualUploads vorhanden.
+
+Veraenderte Statistiken
+- database.json erweitert um 2 neue Findings.
+- assets/bw-municipality-coverage.json auf 2026-06-21 fortgeschrieben.
+- 20 zuvor offene Kommunen auf heute geprueft gesetzt.
+- notSystematicallyChecked: 1031 -> 1011
+- checkedNoRZ: 54 -> 74
+- settings.lastRun und settings.lastResearchSummary auf 2026-06-21 aktualisiert.
+
+Publikation
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker dieser Laufzeit
+- Keine Python-Laufzeit: daher keine Ausfuehrung von archive-sources.py, check-pdf-availability.py, check-links.py, create-question-report.py oder gmail-api.py.
+- Gmail-Connector ist in dieser Session nicht verfuegbar; nur Outlook-Mailtools wurden angeboten. Deshalb kein regelkonformer Versand ueber Gmail.
