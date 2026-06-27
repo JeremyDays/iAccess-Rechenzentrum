@@ -1,0 +1,81 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg
+Datum: 2026-06-20
+
+Neue Quellen
+- Gemeinde Teningen: offizielle Seiten zu Waermeplanung, Gewerbegebiet und Bauleitplanung.
+- Gemeinde Reute: offizielle Seiten zu Gewerbebauplaetzen, Bebauungsplaenen und kommunaler Waermeplanung.
+- Revalidierte offizielle Kommunalpfade u.a. fuer Freiburg, Denzlingen, Emmendingen, Gundelfingen, Gottenheim, March, Umkirch, Sexau, Waldkirch, Offenburg, Appenweier, Kehl, Lahr sowie die B-Plan-Pfade von Boetzingen und Voerstetten.
+
+Lokal archivierte Quellen
+- Keine neuen lokalen Archivierungen. scripts/archive-sources.py konnte mangels Python-Laufzeit nicht ausgefuehrt werden.
+
+PDF-Verfuegbarkeit
+- Neue PDF-Metadaten in database.json eingetragen:
+  - Fachgutachten Waermeplanung Teningen
+  - Bodengutachten Bebauungsplan Gereut (Teningen)
+  - Geotechnischer Bericht Bebauungsplan Ziegelbreite III (Teningen)
+- scripts/check-pdf-availability.py konnte mangels Python-Laufzeit nicht ausgefuehrt werden.
+
+Gepruefte Gemeinden
+- Freiburg im Breisgau
+- Denzlingen
+- Emmendingen
+- Gundelfingen
+- Gottenheim
+- March
+- Umkirch
+- Reute
+- Sexau
+- Teningen
+- Waldkirch
+- Breisach am Rhein
+- Bad Krozingen
+- Kirchzarten
+- Lahr/Schwarzwald
+- Offenburg
+- Appenweier
+- Kehl
+- Boetzingen
+- Voerstetten
+- Glottertal
+
+Gemeinden mit RZ-Fund
+- Freiburg im Breisgau: bekannter Bestand, heute kein neuer Standortfund.
+- Kehl: bestehender Edge-Standort bleibt wichtigster direkter RZ-Anker im Ortenaukorridor.
+
+Gemeinden ohne Fund / nur offen
+- Kein neuer direkter kommunaler RZ-Fund in den heute revalidierten Kommunen.
+- Teningen hat sich dennoch als besonders belastbarer Edge-/Container-Kandidat verstaerkt.
+- Reute bleibt als kleiner Micro-DC-Suchpunkt im Denzlingen-Teningen-Korridor plausibel.
+
+Neue PDFs / Gutachten
+- Teningen: Fachgutachten Waermeplanung.
+- Teningen: Bodengutachten zum Bebauungsplan Gereut.
+- Teningen: Geotechnischer Bericht zum Bebauungsplan Ziegelbreite III.
+
+Neue Partner / technische Anker
+- Keine neuen Betreiber oder Carrier als eigener Player-Eintrag.
+- Offizielle kommunale Waerme- und Gewerbepfade in Teningen/Reute wurden als Standortanker nachgeschaerft.
+
+Linkpruefung
+- scripts/check-links.py konnte mangels Python-Laufzeit nicht ausgefuehrt werden.
+- Offizielle Hauptquellen fuer Teningen, Reute, Offenburg, Kehl, Freiburg und Appenweier wurden manuell im Web-Tool geoeffnet und waren erreichbar.
+
+Offene / verdaechtige Fragen
+- Keine neuen researchQuestions vorhanden.
+
+Verarbeitete Uploads
+- Keine neuen manualUploads vorhanden.
+
+Veraenderte Statistiken
+- database.json erweitert um 2 neue Findings und 3 neue PDF-Eintraege.
+- assets/bw-municipality-coverage.json auf 2026-06-20 fortgeschrieben und mindestens 20 priorisierte/relevante Kommunalpfade revalidiert.
+- settings.lastRun und settings.lastResearchSummary auf 2026-06-20 aktualisiert.
+
+Publikation
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker dieser Laufzeit
+- Kein python/py verfuegbar: daher keine Ausfuehrung von archive-sources.py, check-pdf-availability.py, check-links.py, create-question-report.py oder gmail-api.py.
+- Kein lokales Git-Repo und kein node verfuegbar; GitHub-Publish muss daher ueber den GitHub-Connector erfolgen.
+- Kein Gmail-Connector verfuegbar; regelkonformer Mailversand mit Anhang konnte heute nicht lokal ueber das vorgesehene Skript ausgefuehrt werden.
