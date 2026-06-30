@@ -1,0 +1,74 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-06-30
+
+Neue Quellen
+- Heise Rechenzentrum-Themenseite: https://www.heise.de/thema/Rechenzentrum
+- Heise, 2026-06-23: EnEfG-Novelle / lockerere Vorgaben fuer Rechenzentren: https://www.heise.de/news/Energieeffizienz-Bundesregierung-will-Vorgaben-fuer-Rechenzentren-lockern-11342120.html
+- DataCenter-Insider: nLighten Ready Cabinet / Edge-Colocation in drei Werktagen: https://www.datacenter-insider.de/nlighten-verkuerzt-co-location-bereitstellung-auf-drei-werktage-a-125938695495715ce2bbfca3ba8bc6b3/
+- Kommunale Quellen fuer 20 zuvor offene BW-Gemeinden im Neckar-Fils/Filder-/Teckraum: Kirchheim unter Teck, Wendlingen am Neckar, Plochingen, Deizisau, Altbach, Esslingen am Neckar, Filderstadt, Leinfelden-Echterdingen, Ostfildern, Neuhausen auf den Fildern, Koengen, Unterensingen, Dettingen unter Teck, Owen, Lenningen, Wernau (Neckar), Notzingen, Neckartenzlingen, Bempflingen und Frickenhausen.
+- Schwerpunkt neu: Leinfelden-Echterdingen mit Glasfaserausbau, kommunaler Waermeplanung und Stadtwerke-Waermenetzstrategie; Notzingen mit kommunaler Glasfaserinformation.
+
+Lokal archivierte Quellen
+- Manuelles Quellenprotokoll: assets/source-archive/manual/2026-06-30/branchennews-und-kommunalquellen-2026-06-30.md
+- Automatische Archivierung mit scripts/archive-sources.py ausgefuehrt.
+- Neu gesichert u.a.: nLighten-Webseite, DataCenter-Insider-nLighten-Meldung, Heise-EnEfG-Meldung, Leinfelden-Echterdingen-Start-/Glasfaserpfad, mehrere kommunale Startseiten sowie die drei neuen PDFs.
+- Archivmanifest danach: 171 bekannte Quellen; 20 Abrufe scheiterten an Ratelimits, 403, SSL oder Verbindungsabbruechen, vor allem datacenters.com mit 429.
+
+PDF-Verfuegbarkeit
+- scripts/check-pdf-availability.py ausgefuehrt und auf dynamisches checkedAt gepatcht.
+- Ergebnis: total 31, localAvailable 13, publicAvailable 30, publicBlocked 1, publicUnavailable 0.
+- Der einzige blockierte PDF-/Quellpfad bleibt RP Darmstadt / Heusenstamm EdgeConneX mit 403; keine echte PDF-Nichtverfuegbarkeit.
+
+Gepruefte Gemeinden
+- 20 offene BW-Gemeinden kommunal geprueft: Kirchheim unter Teck, Wendlingen am Neckar, Plochingen, Deizisau, Altbach, Esslingen am Neckar, Filderstadt, Leinfelden-Echterdingen, Ostfildern, Neuhausen auf den Fildern, Koengen, Unterensingen, Dettingen unter Teck, Owen, Lenningen, Wernau (Neckar), Notzingen, Neckartenzlingen, Bempflingen, Frickenhausen.
+- Gepruefte Pfade: Gemeindeseiten, Ratsinfosysteme, Bauleitplanung/FNP, Gewerbegebiete/Firmen, Glasfaser/Breitband, Energie, Waermeplanung, Wasser/Abwasser.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten kommunalen RZ-Funde.
+- Bestehende Anker im Kernraum bleiben Freiburg im Breisgau und Kehl; der heutige Vergleichskorridor liefert nur Infrastrukturindikatoren.
+
+Gemeinden ohne Fund / nur offen
+- Ohne direkten RZ-Fund, aber mit brauchbaren Infrastrukturpfaden: Leinfelden-Echterdingen, Altbach, Kirchheim unter Teck, Filderstadt, Unterensingen, Owen, Neckartenzlingen und Frickenhausen.
+- Schwach oder nur als Nachrangpfad: Plochingen, Esslingen am Neckar, Neuhausen auf den Fildern, Dettingen unter Teck, Wernau, Bempflingen.
+
+Neue PDFs / Gutachten
+- Neu lokal gespeichert und ausgelesen:
+  - pdfs/leinfelden-echterdingen-kommunale-waermeplanung.pdf
+  - pdfs/leinfelden-echterdingen-waermenetzstrategie-stadtwerke-le.pdf
+  - pdfs/notzingen-information-glasfaser.pdf
+  - pdfs/kirchzarten-fischerrain-iii-beschlussvorlage.pdf
+- Neue PDF-Auszüge in database.json:
+  - Leinfelden-Echterdingen: Kommunale Waermeplanung, 96 Seiten; relevante Punkte: Abwaerme aus Industrie/Gewerbe, Abwasser, Geothermie, Stromnetzcheck, BEW-Studie Stetten Ost, Waermenetze.
+  - Leinfelden-Echterdingen: Stadtwerke-Waermenetzstrategie, 12 Seiten; relevante Punkte: 137 km Glasfaserleitungen, 80 Mio. kWh/a Gesamtwaermelieferung, Industrieabwaerme, Abwasserwaerme und integrierte Energienetze.
+  - Notzingen: Glasfaser-Information, 1 Seite; relevante Punkte: Telekom/EVF-Glasfaser nur punktuell, kein zeitnaher flaechenhafter Ausbau genannt.
+  - Kirchzarten: Fischerrain-III-Beschlussvorlage als lokaler Fallback wegen Zertifikatfehler im RIS-Link.
+
+Neue Partner / Player
+- nLighten neu als Edge-/Colocation-Betreiber in companies aufgenommen; DataCenter-Insider meldet Ready Cabinet als standardisiertes Edge-/Colocation-Angebot mit Bereitstellung binnen drei Werktagen.
+- Stadtwerke Leinfelden-Echterdingen als relevanter lokaler Infrastrukturplayer fuer Glasfaser, Wasser/Abwasser, Waerme und Energie aufgenommen.
+
+Linkpruefung
+- scripts/check-links.py ausgefuehrt und auf BOM-sicheres Lesen gepatcht.
+- Ergebnis: checked 190, ok 170, blocked 20, broken 0.
+- Der zuvor fehlerhafte Kirchzarten-RIS-PDF-Link wurde lokal gesichert und in der Datenbank auf offiziellen Planseitenlink plus lokalen Fallback umgestellt.
+
+Offene / verdaechtige Fragen
+- Keine neuen researchQuestions.
+- Keine Spam-, Werbe- oder Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen manualUploads.
+- pdfs/manual-uploads/ enthaelt weiter nur .gitkeep.
+
+Veraenderte Statistiken
+- database.json: findings 51 -> 56, pdfExtracts 27 -> 31, companies 15 -> 16, connectivityChecks 2 -> 4.
+- assets/bw-municipality-coverage.json: notSystematicallyChecked 923 -> 903, checkedNoRZ 162 -> 182, generatedAt/lastCheckedAt auf 2026-06-30.
+- pdf-availability.json: total 31, publicUnavailable 0.
+- link-check-results.json: broken 0.
+- publish-github.mjs erweitert: Coverage, Link-/PDF-Pruefdateien, Tagesberichte und PDFs werden nun mit auf GitHub Pages hochgeladen.
+
+Website
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Naechste sinnvolle Vertiefung
+- Kernraum Freiburg/Denzlingen/Emmendingen bleibt priorisiert; der heutige Neckar-Fils/Filder-Lauf dient als Vergleichskorridor.
+- Fuer Leinfelden-Echterdingen bei Bedarf Stadtwerke LE zu Glasfaser-SLA, Waermenetzen/Abwaermeabnahme, Stromnetzcheck und 100-kW- bis 1-MW-Modulen konkret anfragen.

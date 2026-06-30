@@ -1,4 +1,5 @@
 import json
+from datetime import date
 from pathlib import Path
 
 import requests
@@ -8,7 +9,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def load_json(path):
-    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else []
+    return json.loads(path.read_text(encoding="utf-8-sig")) if path.exists() else []
 
 
 def check_url(url):
@@ -32,7 +33,7 @@ def check_url(url):
 
 
 def main():
-    db = json.loads((ROOT / "database.json").read_text(encoding="utf-8"))
+    db = json.loads((ROOT / "database.json").read_text(encoding="utf-8-sig"))
     extracted = load_json(ROOT / "pdf-extracts.json")
     direct_by_title = {item.get("title"): item.get("url") for item in extracted if item.get("title") and item.get("url")}
     direct_by_file = {str(item.get("file", "")).replace("\\", "/"): item.get("url") for item in extracted if item.get("file") and item.get("url")}
@@ -62,7 +63,7 @@ def main():
         )
 
     output = {
-        "checkedAt": "2026-06-02",
+        "checkedAt": date.today().isoformat(),
         "total": len(rows),
         "localAvailable": sum(1 for row in rows if row["localExists"]),
         "publicAvailable": sum(1 for row in rows if row["ok"]),

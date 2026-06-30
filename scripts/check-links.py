@@ -13,7 +13,7 @@ URL_RE = re.compile(r'''https?://[^\s"'<>),;]+''')
 
 
 def collect_urls():
-    db = json.loads((ROOT / "database.json").read_text(encoding="utf-8"))
+    db = json.loads((ROOT / "database.json").read_text(encoding="utf-8-sig"))
     rows = []
     for collection, value in db.items():
         if not isinstance(value, list):
