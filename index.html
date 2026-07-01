@@ -840,6 +840,24 @@
       { id: "about", title: "Über iAccess", icon: "IA", intro: "Positionierung von iAccess Energy für datengetriebene Standortanalyse in Baden-Württemberg." }
     ];
 
+    let activeSection = "dashboard";
+    let germanyMapPoints = [];
+    let germanyMapPointsLoaded = false;
+    let germanyMapPointsLoading = false;
+    let germanyMapError = "";
+    let selectedDataCenterName = "";
+    let leafletMap = null;
+    let leafletLayer = null;
+    const germanyBounds = [[46.2, 4.4], [56.2, 16.6]];
+    const markerColors = {
+      Hyperscale: "#b9473f",
+      Colocation: "#126d8a",
+      Edge: "#f2b705",
+      Enterprise: "#25336b",
+      Forschung: "#3d7b59",
+      "Forschung / HPC": "#3d7b59",
+      "in Prüfung": "#7d8898"
+    };
 
     const schemas = {
       types: [
@@ -4608,6 +4626,9 @@
     }
 
     function renderGermanyMap() {
+      if (!germanyMapPointsLoaded && !germanyMapPointsLoading) {
+        loadGermanyMapPoints();
+      }
       document.getElementById("germanyMap").innerHTML = `
         <div class="map-layout">
           <div class="card section">
@@ -4621,7 +4642,8 @@
               <span><i class="legend-dot forschung"></i>Forschung / HPC</span>
             </div>
             <div class="map-table">
-              ${germanyMapPoints.map(p => `<button class="map-row" data-map-focus="${escapeHtml(p.name)}"><strong>${escapeHtml(p.name)}</strong><span>${escapeHtml(p.city)} · ${escapeHtml(p.type)}</span><span class="small">${escapeHtml(p.note)}</span></button>`).join("")}
+              ${germanyMapError ? `<p class="small">${escapeHtml(germanyMapError)}</p>` : ""}
+              ${germanyMapPoints.length ? germanyMapPoints.map(p => `<button class="map-row" data-map-focus="${escapeHtml(p.name)}"><strong>${escapeHtml(p.name)}</strong><span>${escapeHtml(p.city)} · ${escapeHtml(p.type)}</span><span class="small">${escapeHtml(p.note)}</span></button>`).join("") : `<p class="small">${germanyMapPointsLoading ? "Kartenpunkte werden geladen..." : "Noch keine Kartenpunkte geladen."}</p>`}
             </div>
           </div>
           <div id="germanyLeafletMap" class="germany-map" aria-label="Interaktive Deutschlandkarte mit Rechenzentrumspunkten"></div>
@@ -4632,12 +4654,51 @@
       }
     }
 
+    async function loadGermanyMapPoints(force = false) {
+      if (germanyMapPointsLoading) return;
+      if (germanyMapPointsLoaded && !force) return;
+      germanyMapPointsLoading = true;
+      germanyMapError = "";
+      try {
+        const response = await fetch("assets/gis/rechenzentren-deutschland.geojson");
+        if (!response.ok) throw new Error(`GeoJSON ${response.status}`);
+        const geojson = await response.json();
+        germanyMapPoints = (Array.isArray(geojson?.features) ? geojson.features : []).map(feature => {
+          const props = feature?.properties || {};
+          return {
+            name: props.name || "Unbenannter Kartenpunkt",
+            city: props.city || "",
+            type: props.type || "in Prüfung",
+            note: props.note || "",
+            lat: Number(props.latitude ?? feature?.geometry?.coordinates?.[1] ?? 0),
+            lon: Number(props.longitude ?? feature?.geometry?.coordinates?.[0] ?? 0)
+          };
+        }).filter(point => Number.isFinite(point.lat) && Number.isFinite(point.lon));
+        germanyMapPointsLoaded = true;
+        selectedDataCenterName = selectedDataCenterName || germanyMapPoints[0]?.name || "";
+      } catch (error) {
+        germanyMapError = "Die GIS-Kartendaten konnten nicht geladen werden.";
+      } finally {
+        germanyMapPointsLoading = false;
+      }
+      if (activeSection === "germanyMap") {
+        renderGermanyMap();
+      }
+      if (activeSection === "dataCenterDetail") {
+        renderDataCenterDetail();
+      }
+    }
+
     function initGermanyLeafletMap() {
       const mapEl = document.getElementById("germanyLeafletMap");
       if (!mapEl || typeof L === "undefined") {
         if (mapEl) {
           mapEl.innerHTML = `<div style="height:100%;display:grid;place-items:center;padding:24px;text-align:center;color:#5e6b66">Kartenbibliothek konnte nicht geladen werden. Bitte Internetverbindung prüfen.</div>`;
         }
+        return;
+      }
+      if (!germanyMapPoints.length) {
+        mapEl.innerHTML = `<div style="height:100%;display:grid;place-items:center;padding:24px;text-align:center;color:#5e6b66">${escapeHtml(germanyMapError || "Noch keine Kartenpunkte verfügbar.")}</div>`;
         return;
       }
       if (leafletMap) {
@@ -4654,29 +4715,6 @@
       L.tileLayer("https://sgx.geodatenzentrum.de/wmts_topplus_open/tile/1.0.0/web/default/WEBMERCATOR/{z}/{y}/{x}.png", {
         maxZoom: 18,
         attribution: "&copy; GeoBasis-DE / BKG (2026), TopPlusOpen"
-      }).addTo(leafletMap);
-      L.polygon([
-        [[56.2, 4.4], [56.2, 16.6], [46.2, 16.6], [46.2, 4.4], [56.2, 4.4]],
-        germanyOutline
-      ], {
-        color: "transparent",
-        fillColor: "#ffffff",
-        fillOpacity: .72,
-        fillRule: "evenodd",
-        interactive: false
-      }).addTo(leafletMap);
-      L.polygon(germanyOutline, {
-        color: "#5d7a94",
-        weight: 2,
-        fillColor: "transparent",
-        fillOpacity: 0,
-        interactive: false
-      }).addTo(leafletMap);
-      L.polyline(germanRegions, {
-        color: "#6d7f95",
-        weight: 1,
-        opacity: .65,
-        interactive: false
       }).addTo(leafletMap);
       leafletLayer = L.featureGroup().addTo(leafletMap);
       germanyMapPoints.forEach(point => {
@@ -4712,6 +4750,20 @@
 
     function renderDataCenterDetail() {
       const root = document.getElementById("dataCenterDetail");
+      if (!germanyMapPoints.length) {
+        root.innerHTML = `
+          <div class="toolbar">
+            <button class="ghost" data-go="germanyMap">Zurück zur Karte</button>
+            <button class="ghost" data-go="sites">Standorttabelle öffnen</button>
+          </div>
+          <div class="card section">
+            <h3>Datencenter-Detail</h3>
+            <p class="small">${escapeHtml(germanyMapError || "Kartenpunkte werden noch geladen.")}</p>
+          </div>
+        `;
+        root.querySelectorAll("[data-go]").forEach(button => button.addEventListener("click", () => setView(button.dataset.go)));
+        return;
+      }
       const point = germanyMapPoints.find(p => p.name === selectedDataCenterName) || germanyMapPoints[0];
       const matches = findSiteMatches(point);
       const relatedCompanies = findRelated(data.companies, point, ["name", "role", "region", "references", "notes", "tags"]).slice(0, 6);
@@ -4760,6 +4812,7 @@
     }
 
     function findSiteMatches(point) {
+      if (!point) return [];
       const city = normalizeText(point.city.split(/[\/,]/)[0]);
       const pointWords = normalizeText([point.name, point.city, point.note].join(" ")).split(" ").filter(w => w.length > 3);
       return data.sites.filter(site => {
@@ -4769,6 +4822,7 @@
     }
 
     function findRelated(rows, point, fields) {
+      if (!point) return [];
       const terms = normalizeText([point.name, point.city, point.type, point.note].join(" ")).split(" ").filter(word => word.length > 3);
       return rows.filter(row => {
         const blob = normalizeText(fields.map(field => row[field]).join(" "));
