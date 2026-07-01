@@ -4106,6 +4106,14 @@
       });
     }
 
+    function createWorkingData(imported = null) {
+      const workingData = Object.assign(structuredClone(seedData), imported || {});
+      normalizeNewsMetadata(workingData);
+      return workingData;
+    }
+
+    let data = createWorkingData();
+
     function sourceName(value) {
       const text = String(value || "");
       if (/heise\.de/i.test(text)) return "heise online";
@@ -5941,7 +5949,7 @@
       event.preventDefault();
       try {
         const imported = JSON.parse(document.getElementById("importText").value);
-        data = Object.assign(structuredClone(seedData), imported);
+        data = createWorkingData(imported);
         saveData();
         document.getElementById("importDialog").close();
         render();
