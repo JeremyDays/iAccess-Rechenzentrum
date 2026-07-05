@@ -54,6 +54,11 @@ Linkpruefung
 - Ergebnis: checked 242, ok 222, blocked 20, broken 0.
 - Keine echten broken Links festgestellt.
 
+Mailversand
+- Versand per scripts/gmail-api.py send versucht, aber Gmail-OAuth-Refresh scheitert mit invalid_grant.
+- SMTP-Fallback scripts/send-daily-report.py ebenfalls nicht nutzbar, weil GMAIL_SMTP_USER nicht gesetzt ist.
+- Tagesbericht und Dateien sind veroeffentlicht; E-Mail-Versand benoetigt neue Gmail-Autorisierung oder SMTP-Umgebungsvariablen.
+
 Offene / verdaechtige Fragen
 - database.json enthaelt weiterhin keine researchQuestions.
 - Keine Spam-, Werbe- oder Freigabefaelle.
