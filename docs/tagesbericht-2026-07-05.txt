@@ -1,66 +1,58 @@
-Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-05
+﻿Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-05
 
 Neue Quellen
 - DataCenter-Insider, 2026-06-30: KI-Strombedarf / Eigenerzeugung / Islanding / Lieferkettenengpaesse bei Energie- und Rechenzentrumsbetreibern: https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/
 - Gemeinde Kuchen: Bebauungsplan "Oestlicher Gewerbepark" mit Planseite und vier offiziellen PDFs: https://www.kuchen.de/oestlicher-gewerbepark-01.html
 - Gemeinde Kuchen / Geislingen: Gewerbepark Schwaebische Alb als regionaler Gewerbe-/Infrastrukturpfad: https://www.kuchen.de/gewerbepark-schwaebische-alb.html
 - Schlat: Absage Deutsche Glasfaser als Konnektivitaets-Negativsignal: https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html
-- 20 kommunale Primaerquellen im Filstal/Albvorland: Altdorf, Holzmaden, Neidlingen, Aichtal, Denkendorf, Bad Ditzenbach, Ebersbach an der Fils, Schlierbach, Eislingen/Fils, Ottenbach, Salach, Bad Ueberkingen, Geislingen an der Steige, Kuchen, Schlat, Wangen, Donzdorf, Gingen an der Fils, Lauterstein und Drackenstein.
+- DataCenter-Insider, 2026-07-03: Sidecar- und 400/800-VDC-Stromarchitekturen fuer KI-Racks bis perspektivisch 1 MW pro Rack: https://www.datacenter-insider.de/mit-sidecars-zu-1-mw-pro-rack-a-b3e236c0608c21796446b0cdb2244af2/
+- DataCenter-Insider, 2026-06-29: EnerSys Datasafe Noir als 500/600-kW-Batterieschrank fuer KI-RZ-USV: https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/
+- DatacenterDynamics, 2026-07-03: Large-Load-Tarif fuer Rechenzentren ab 50 MW als regulatorisches Netzanschluss-Signal: https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/
+- DatacenterDynamics, 2026-07-03: 300-MW-Campus in Kent als Planungs-/Umspannwerk-/Netzanschluss-Benchmark: https://www.datacenterdynamics.com/en/news/300mw-data-center-campus-proposed-in-kent-uk/
+- 20 weitere kommunale Primaerquellen im Alb-/Neckarraum: Gruibingen, Hohenstadt, Muehlhausen im Taele, Wiesensteig, Adelberg, Birenbach, Boertlingen, Rechberghausen, Aichelberg, Bad Boll, Duernau, Gammelshausen, Hattenhofen, Albershausen, Eschenbach, Boehmenkirch, Besigheim, Freudental, Gemmrigheim und Hessigheim.
 
 Lokal archivierte Quellen
-- Manuelles Quellenprotokoll: assets/source-archive/manual/2026-07-05/branchennews-und-kommunalquellen-2026-07-05.md
-- scripts/archive-sources.py ausgefuehrt.
-- Archivmanifest danach: 223 bekannte Quellen; 19 Abrufe gescheitert/blockiert, vor allem datacenters.com mit 429 sowie einzelne 403-Pfade.
-- Neu gesichert u.a.: Kuchen-Planseite, Gewerbepark-Schwaebische-Alb-Seite, vier Kuchen-PDFs, DataCenter-Insider-Strombedarfshinweis, AlbWerk, EVF, Schlat-Glasfaserabsage sowie die 20 kommunalen Start-/Pruefquellen.
+- scripts/archive-sources.py nach Datenbankupdate erneut ausgefuehrt.
+- Archivmanifest danach: 247 bekannte Quellen; 19 Abrufe gescheitert/blockiert, vor allem datacenters.com mit 429 sowie einzelne 403-Pfade.
+- Neu lokal gesichert: EnerSys, DataCenter-Insider Sidecar/1-MW-Rack, DataCenter-Insider EnerSys, DatacenterDynamics Large-Load-Tarif sowie die 20 kommunalen Start-/Pruefquellen des Nachtragslaufs.
+- Keine neuen Bilder aufgenommen. Es wurden keine technischen Zeichnungen erstellt oder erfunden.
 
 PDF-Verfuegbarkeit
-- scripts/check-pdf-availability.py ausgefuehrt.
-- Ergebnis: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0.
-- Der einzige blockierte PDF-/Quellpfad bleibt RP Darmstadt / EdgeConneX Heusenstamm mit 403; keine echte PDF-Nichtverfuegbarkeit.
+- Keine neuen PDF-/Gutachtenfunde im Nachtragslauf.
+- scripts/check-pdf-availability.py erneut ausgefuehrt. Ergebnis: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0.
+- Einziger blockierter PDF-/Quellpfad bleibt RP Darmstadt / EdgeConneX Heusenstamm mit 403; keine echte PDF-Nichtverfuegbarkeit.
 
 Gepruefte Gemeinden
-- 20 offene BW-Gemeinden fachlich geprueft: Altdorf, Holzmaden, Neidlingen, Aichtal, Denkendorf, Bad Ditzenbach, Ebersbach an der Fils, Schlierbach, Eislingen/Fils, Ottenbach, Salach, Bad Ueberkingen, Geislingen an der Steige, Kuchen, Schlat, Wangen, Donzdorf, Gingen an der Fils, Lauterstein und Drackenstein.
-- Gepruefte Pfade: Gemeindeseite, Ratsinformationssystem/Gemeinderat, Bebauungsplaene/FNP, Amtsblatt/Bekanntmachungen, Gewerbeflaechen/Gewerbegebiete, Glasfaser/Breitband, Energie/Stadtwerke/Netz, Wasser/Abwasser, Waermeplanung sowie Suchbegriffe Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Abwaerme und Sondergebiet.
-- Hinweis zur Statistik: In assets/bw-municipality-coverage.json existieren zwei Eintraege namens Altdorf; der Namensabgleich hat beide heutigen Statuszeilen gesetzt. Fachlich bearbeitet wurden 20 Zielgemeinden.
+- Frueherer Lauf heute: Altdorf, Holzmaden, Neidlingen, Aichtal, Denkendorf, Bad Ditzenbach, Ebersbach an der Fils, Schlierbach, Eislingen/Fils, Ottenbach, Salach, Bad Ueberkingen, Geislingen an der Steige, Kuchen, Schlat, Wangen, Donzdorf, Gingen an der Fils, Lauterstein und Drackenstein.
+- Nachtragslauf heute: Gruibingen, Hohenstadt, Muehlhausen im Taele, Wiesensteig, Adelberg, Birenbach, Boertlingen, Rechberghausen, Aichelberg, Bad Boll, Duernau, Gammelshausen, Hattenhofen, Albershausen, Eschenbach, Boehmenkirch, Besigheim, Freudental, Gemmrigheim und Hessigheim.
+- Gepruefte Pfade: Gemeindeseite, Gemeinderat/RIS, Bebauungsplaene/FNP, Amtsblatt/Bekanntmachungen, Gewerbe/Gewerbeflaechen, Glasfaser/Breitband, Energie/Netz/NETZMonitor, Wasser/Abwasser, Waermeplanung sowie Suchbegriffe Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Abwaerme und Sondergebiet.
 
 Gemeinden mit RZ-Fund
 - Keine neuen direkten RZ-Funde.
-- Kuchen ist kein RZ-Fund: Der Oestliche Gewerbepark ist planungsrechtlich Einzelhandel/Sondergebiet und wird nur als B-Plan-/Leitungsrechte-Benchmark gefuehrt.
+- Kuchen bleibt kein RZ-Fund; der Oestliche Gewerbepark ist nur B-Plan-/Leitungsrechte-Benchmark.
 
 Gemeinden ohne Fund / nur offen
-- Ohne direkten Fund, aber mit vertiefbaren Infrastrukturpfaden: Kuchen/Geislingen, Donzdorf, Gingen an der Fils und Schlat.
-- Kuchen/Geislingen: Gewerbepark Schwaebische Alb und B-Plan-PDFs liefern Due-Diligence-Muster, aber keine freie RZ-Flaeche.
-- Donzdorf: B-Plan/FNP/Glasfaser/Stadtwerke-Pfad sichtbar; nur bei konkretem Flaechenanlass vertiefen.
-- Gingen an der Fils: Glasfaserausbau, Gemeindeentwicklung, B-Plaene/FNP, Wasser und Energie sichtbar; kein RZ-Fund.
-- Schlat: Absage Deutsche Glasfaser als klares Konnektivitaets-Negativsignal fuer Micro-DC ohne Alternativcarrier.
+- Ohne direkten Fund, aber strukturiert vertiefbar bei konkretem Flaechenanlass: Bad Boll, Hattenhofen, Besigheim, Freudental und Aichelberg wegen sichtbarer Bauleitplanungs-, RIS-, Glasfaser-/Netzmonitor- oder Industriegebietspfade.
+- Kleine Alb-/Vorlandgemeinden im Nachtragslauf bleiben Niedrigfit ohne konkreten RZ-Hinweis: Gruibingen, Hohenstadt, Muehlhausen im Taele, Wiesensteig, Adelberg, Birenbach, Boertlingen, Rechberghausen, Duernau, Gammelshausen, Albershausen, Eschenbach, Boehmenkirch, Gemmrigheim und Hessigheim.
 
 Neue PDFs / Gutachten
-- Neu lokal gespeichert und in database.json/pdf-extracts.json erfasst:
-  - pdfs/kuchen-oestlicher-gewerbepark-lageplan.pdf
-  - pdfs/kuchen-oestlicher-gewerbepark-text.pdf
-  - pdfs/kuchen-oestlicher-gewerbepark-begruendung.pdf
-  - pdfs/kuchen-oestlicher-gewerbepark-auswirkungsanalyse.pdf
-- Relevante Auswertung: ca. 19.600 m2 Plangebiet; Sondergebiete fuer Einzelhandel/Bestand; Gebaeudehoehen 8/10 m; technische Nebenanlagen als Hoehenausnahmen; Leitungsrechte fuer Gemeinde Kuchen (Abwasser/Niederschlagwasser), AlbWerk Geislingen (Strom) und Energieversorgung Filstal (Gas); Gewaesserrandstreifen.
-- Keine technischen Zeichnungen erfunden oder nachgezeichnet. Der Lageplan wird nur als originales kommunales PDF referenziert.
+- Keine neuen PDFs/Gutachten im Nachtragslauf.
+- Bereits heute neu lokal gespeichert: vier Kuchen-PDFs zum Oestlichen Gewerbepark.
 
 Neue Partner / Player
-- Keine neuen RZ-Betreiberpartner.
-- Neu als Infrastrukturkontakte erfasst:
-  - AlbWerk Geislingen: Strom-/Leitungsrechtebezug im Kuchen-B-Plan.
-  - Energieversorgung Filstal: Gas-/Infrastrukturbezug im Kuchen-B-Plan und bereits bekannter Glasfaserbezug aus Notzingen.
+- Neu als Technik-/Lieferantenkontakt aufgenommen: EnerSys fuer USV-/Batteriesysteme bei dichten KI-Workloads. Kein Standort- oder Betreiberpartner.
+- Aus dem frueheren heutigen Lauf bleiben AlbWerk Geislingen und Energieversorgung Filstal als Infrastrukturkontakte.
 
 Linkpruefung
-- scripts/check-links.py ausgefuehrt.
-- Ergebnis: checked 242, ok 222, blocked 20, broken 0.
+- scripts/check-links.py erneut ausgefuehrt. Ergebnis: checked 266, ok 246, blocked 20, broken 0.
 - Keine echten broken Links festgestellt.
 
 Mailversand
-- Versand per scripts/gmail-api.py send versucht, aber Gmail-OAuth-Refresh scheitert mit invalid_grant.
-- SMTP-Fallback scripts/send-daily-report.py ebenfalls nicht nutzbar, weil GMAIL_SMTP_USER nicht gesetzt ist.
-- Tagesbericht und Dateien sind veroeffentlicht; E-Mail-Versand benoetigt neue Gmail-Autorisierung oder SMTP-Umgebungsvariablen.
+- Gmail-Versand war im frueheren heutigen Lauf blockiert: scripts/gmail-api.py send scheiterte mit OAuth invalid_grant; SMTP-Fallback nicht nutzbar, weil GMAIL_SMTP_USER nicht gesetzt ist.
+- Ich versuche den Versand nach dem finalen Bericht erneut; falls der Token unveraendert ist, bleibt neue Gmail-Autorisierung noetig.
 
 Offene / verdaechtige Fragen
-- database.json enthaelt weiterhin keine researchQuestions.
+- database.json enthaelt keine researchQuestions.
 - Keine Spam-, Werbe- oder Freigabefaelle.
 
 Verarbeitete Uploads
@@ -68,15 +60,18 @@ Verarbeitete Uploads
 - pdfs/manual-uploads/ enthaelt weiter nur .gitkeep.
 
 Veraenderte Statistiken
-- database.json: findings 60 -> 63, pdfExtracts 31 -> 35, zoningPlans 25 -> 26, gridChecks 5 -> 6, connectivityChecks 4 -> 5, companies 16 -> 18.
-- assets/bw-municipality-coverage.json: notSystematicallyChecked 745 -> 725, generatedAt auf 2026-07-05.
+- database.json nach Nachtragslauf: findings 66, companies 19, pdfExtracts 35, zoningPlans 26, gridChecks 6, connectivityChecks 5.
+- assets/bw-municipality-coverage.json: notSystematicallyChecked 705; todayChecked im Nachtragslauf 20.
+- Neue PDFs/Gutachten im Nachtragslauf: 0.
 - pdf-availability.json: total 35, localAvailable 17, publicUnavailable 0.
-- link-check-results.json: checked 242, broken 0.
-- assets/source-archive/manifest.json: 223 bekannte Quellen.
+- link-check-results.json: checked 266, broken 0.
+- assets/source-archive/manifest.json: 247 bekannte Quellen.
 
 Website
 - Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Naechste sinnvolle Vertiefung
-- Freiburger Kernraum bleibt priorisiert; heutiger Filstal/Albvorland-Lauf schliesst offene BW-Coverage-Luecken.
-- Bei konkreten Filstal-Flächen nur Kuchen/Geislingen/Donzdorf/Gingen erneut anfassen; sonst weiter Denzlingen/Freiburg/Emmendingen und Netz-/Gewerbegebietsnahe Flaechen fokussieren.
+- Freiburger Kernraum bleibt priorisiert. Die heutige Zusatzrunde schliesst weitere BW-Coverage-Luecken, liefert aber keinen neuen Standortkandidaten.
+- Fuer konkrete RZ-Flaechen weiter Denzlingen/Freiburg/Emmendingen plus GE/GI-, Mittelspannungs-, Waerme- und Carrier-Signale priorisieren.
+
+

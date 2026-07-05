@@ -884,6 +884,19 @@
       "notes": "Kein direkter RZ-Partnerfund; bei Filstal-Flaechen fuer Medien, Tiefbau und potenzielle Carrier-/Infrastrukturkontakte pruefen.",
       "tags": "EVF, Filstal, Kuchen, Notzingen, Gas, Glasfaser, Infrastruktur",
       "source": "https://www.kuchen.de/media/files/hp-kw-49-bbpl-oestlicher-gewerbepark-text-satzung-04.12.2023.pdf"
+    },
+    {
+      "id": "id-2026-07-05-enersys",
+      "created": "2026-07-05",
+      "updated": "2026-07-05",
+      "name": "EnerSys",
+      "role": "USV-/Batteriesystem-Hersteller fuer Rechenzentren",
+      "region": "International / Lieferantenpruefung",
+      "contact": "https://www.enersys.com/",
+      "references": "DataCenter-Insider berichtet ueber Datasafe Noir mit 500/600-kW-Schraenken und bis zu 3 MW je USV-System fuer dichte KI-Workloads.",
+      "notes": "Kein Standort- oder Betreiberpartner. Als Lieferanten-/Technikoption fuer USV, LFP-Batterien und Lastglaettung in modularen RZ-Konzepten vormerken; Kuehl-, Brandschutz- und Gewichtsdaten separat beim Hersteller pruefen.",
+      "tags": "EnerSys, USV, Batterie, LFP, BESS, KI-RZ, Micro-DC",
+      "source": "https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/"
     }
   ],
   "planning": [
@@ -3033,6 +3046,73 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Die kommunalen Start- und Fachseiten wurden als Quellen hinterlegt; neue Bilder wurden nicht aufgenommen."
+    },
+    {
+      "id": "id-2026-07-05-rack-sidecars-1mw",
+      "date": "2026-07-05",
+      "publishedDate": "2026-07-03",
+      "topic": "Technik / Stromarchitektur / KI-Racks",
+      "publisher": "DataCenter-Insider",
+      "sourceUrl": "https://www.datacenter-insider.de/mit-sidecars-zu-1-mw-pro-rack-a-b3e236c0608c21796446b0cdb2244af2/",
+      "title": "KI-Racks: Sidecar-Architektur verschiebt Standortanforderungen",
+      "summary": "DataCenter-Insider beschreibt fuer KI-Rechenzentren Lastdichten bis perspektivisch 1 MW je Rack und Sidecar-/DC-Verteilarchitekturen mit 400- bzw. 800-VDC-Ebenen. Strompfad, Schutztechnik, Fluessigkuehlung, Bodenlast und Wartungsflaechen werden damit fruehe Planungsparameter statt reine IT-Details.",
+      "relevance": "Fuer kleine Edge- und Container-RZ im iAccess-Zielkorridor ist das kein direkter Groessenmassstab, aber ein klares Warnsignal: auch kleinere KI-Inferenz-Cluster brauchen belastbare Elektroplanung, Flaechenreserve fuer USV/Batterie/Sidecars, Kuehlverteiler, Brandschutz und Wartungszonen.",
+      "action": "Bei Kandidatenflaechen Rackdichte, Stromverteilung, Bodenlast, Fluessigkeitskuehlung, USV/BESS und Wartungszugang als Pflichtfelder vorsehen; keine Standard-Gewerbeflaeche ohne Techniknebenflaechen positiv bewerten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "KI",
+        "Rackdichte",
+        "Sidecar",
+        "400 VDC",
+        "800 VDC",
+        "Fluessigkuehlung",
+        "Micro-DC"
+      ]
+    },
+    {
+      "id": "id-2026-07-05-dcd-large-load-tariff",
+      "date": "2026-07-05",
+      "publishedDate": "2026-07-03",
+      "topic": "Strom / Regulierung / Netzanschluss",
+      "publisher": "DatacenterDynamics",
+      "sourceUrl": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
+      "title": "Large-Load-Tarife: Netzrisiko wird zum Genehmigungs- und Kostenfilter",
+      "summary": "DatacenterDynamics berichtet ueber einen Gesetzentwurf in New Jersey fuer eigene Tarife bei Rechenzentren ab 50 MW. Elemente sind Kostenschutz fuer andere Netzkunden, 85-Prozent-Take-or-pay ueber zehn Jahre, Demand-Response-/Flexibilitaetszusagen, Vorrang fuer eigene saubere Erzeugung oder Speicher und moegliche Abregelung in Netznotlagen.",
+      "relevance": "Nicht direkt Baden-Wuerttemberg, aber als regulatorischer Trend relevant: grosse Lasten muessen ihre Netzfolgekosten, Flexibilitaet und Realisierungswahrscheinlichkeit immer frueher belegen. Das spricht auch bei kleineren BW-Projekten fuer saubere Lastprofile, Speicher-/Flexibilitaetskonzept und ernsthafte Abnehmer-/Betreiberbindung.",
+      "action": "Fuer iAccess-Screenings Netzanschlussanfrage, Lastprofil, Flexibilitaet, Speicher/Eigenerzeugung, Bauleitplanreife und Nicht-Spekulationsnachweis dokumentieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Netzanschluss",
+        "Tarif",
+        "Large Load",
+        "Demand Response",
+        "BESS",
+        "Regulierung"
+      ]
+    },
+    {
+      "id": "id-2026-07-05-bw-20-gemeinden-alb-neckar-screening",
+      "date": "2026-07-05",
+      "publishedDate": "2026-07-05",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.gruibingen.de/startseite; https://www.hohenstadt-alb.de/startseite; https://www.muehlhausen-taele.de/startseite; https://www.wiesensteig.de/startseite; https://www.adelberg.de/; https://www.birenbach.de/startseite; https://www.boertlingen.de/; https://www.rechberghausen.de/de/startseite; https://www.aichelberg.de/; https://www.bad-boll.de/; https://www.duernau.de/de/startseite; https://gammelshausen.net/; https://www.hattenhofen.de/de/startseite; https://www.albershausen.de/de/startseite; https://www.gemeinde-eschenbach.de/startseite; https://www.boehmenkirch.de/startseite; http://www.besigheim.de/start; https://freudental.de/; http://www.gemmrigheim.de/,Lde/start.html; https://www.hessigheim.de/",
+      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
+      "summary": "Nachtragslauf: Geprueft wurden Gruibingen, Hohenstadt, Muehlhausen im Taele, Wiesensteig, Adelberg, Birenbach, Boertlingen, Rechberghausen, Aichelberg, Bad Boll, Duernau, Gammelshausen, Hattenhofen, Albershausen, Eschenbach, Boehmenkirch, Besigheim, Freudental, Gemmrigheim und Hessigheim. Es gab keinen direkten Treffer zu Rechenzentrum, Datacenter/Data Center, Serverfarm oder Sondergebiet-Rechenzentrum.",
+      "relevance": "Strukturiert weiter nutzbar sind vor allem Bad Boll, Hattenhofen, Besigheim, Freudental und Aichelberg mit sichtbaren Pfaden zu Bauleitplanung/RIS/Netzmonitor/Glasfaser bzw. Gewerbe. Die kleinen Alb-/Vorlandgemeinden liefern ueberwiegend Negativ- oder Niedrigfit-Signale: Topografie, Tourismus-/Wohnfokus, kleine Gewerbestrukturen und keine oeffentlichen RZ-Hinweise.",
+      "action": "Diese 20 Gemeinden nur bei konkretem Flaechenanlass vertiefen. Fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und Gemeinden mit klaren GE/GI-, Mittelspannungs-, Waerme- oder Carrier-Signalen priorisieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Goeppingen",
+        "Ludwigsburg",
+        "Bebauungsplaene",
+        "RIS",
+        "Netzmonitor",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Nur offizielle kommunale Start-/Fachpfade hinterlegt; keine neuen Bilder, technischen Zeichnungen oder PDF-Gutachten aufgenommen."
     }
   ],
   "gridChecks": [
@@ -3282,7 +3362,7 @@
     "formspreeEndpoint": "",
     "autoDaily": true,
     "lastRun": "2026-07-05",
-    "lastResearchSummary": "2026-07-05: Keine neuen researchQuestions/manualUploads. Drei Findings, vier Kuchen-PDF-Auswertungen, ein B-Plan, ein GridCheck, ein ConnectivityCheck und zwei Infrastrukturkontakte ergaenzt; 20 offene BW-Gemeinden ohne direkten RZ-Fund geprueft.",
+    "lastResearchSummary": "2026-07-05 Nachtragslauf: Keine neuen researchQuestions/manualUploads. Drei Findings, ein Lieferantenkontakt und 20 weitere offene BW-Gemeinden im Alb-/Neckarraum ohne direkten RZ-Fund ergaenzt; keine neuen PDFs.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3310,6 +3390,6 @@
   },
   "metadata": {
     "lastResearchRun": "2026-07-05",
-    "lastResearchSummary": "2026-07-05: Keine neuen researchQuestions/manualUploads. Drei Findings, vier Kuchen-PDF-Auswertungen, ein B-Plan, ein GridCheck, ein ConnectivityCheck und zwei Infrastrukturkontakte ergaenzt; 20 offene BW-Gemeinden ohne direkten RZ-Fund geprueft."
+    "lastResearchSummary": "2026-07-05 Nachtragslauf: Keine neuen researchQuestions/manualUploads. Drei Findings, ein Lieferantenkontakt und 20 weitere offene BW-Gemeinden im Alb-/Neckarraum ohne direkten RZ-Fund ergaenzt; keine neuen PDFs."
   }
 }
