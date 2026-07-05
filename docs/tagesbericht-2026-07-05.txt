@@ -1,0 +1,77 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-05
+
+Neue Quellen
+- DataCenter-Insider, 2026-06-30: KI-Strombedarf / Eigenerzeugung / Islanding / Lieferkettenengpaesse bei Energie- und Rechenzentrumsbetreibern: https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/
+- Gemeinde Kuchen: Bebauungsplan "Oestlicher Gewerbepark" mit Planseite und vier offiziellen PDFs: https://www.kuchen.de/oestlicher-gewerbepark-01.html
+- Gemeinde Kuchen / Geislingen: Gewerbepark Schwaebische Alb als regionaler Gewerbe-/Infrastrukturpfad: https://www.kuchen.de/gewerbepark-schwaebische-alb.html
+- Schlat: Absage Deutsche Glasfaser als Konnektivitaets-Negativsignal: https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html
+- 20 kommunale Primaerquellen im Filstal/Albvorland: Altdorf, Holzmaden, Neidlingen, Aichtal, Denkendorf, Bad Ditzenbach, Ebersbach an der Fils, Schlierbach, Eislingen/Fils, Ottenbach, Salach, Bad Ueberkingen, Geislingen an der Steige, Kuchen, Schlat, Wangen, Donzdorf, Gingen an der Fils, Lauterstein und Drackenstein.
+
+Lokal archivierte Quellen
+- Manuelles Quellenprotokoll: assets/source-archive/manual/2026-07-05/branchennews-und-kommunalquellen-2026-07-05.md
+- scripts/archive-sources.py ausgefuehrt.
+- Archivmanifest danach: 223 bekannte Quellen; 19 Abrufe gescheitert/blockiert, vor allem datacenters.com mit 429 sowie einzelne 403-Pfade.
+- Neu gesichert u.a.: Kuchen-Planseite, Gewerbepark-Schwaebische-Alb-Seite, vier Kuchen-PDFs, DataCenter-Insider-Strombedarfshinweis, AlbWerk, EVF, Schlat-Glasfaserabsage sowie die 20 kommunalen Start-/Pruefquellen.
+
+PDF-Verfuegbarkeit
+- scripts/check-pdf-availability.py ausgefuehrt.
+- Ergebnis: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0.
+- Der einzige blockierte PDF-/Quellpfad bleibt RP Darmstadt / EdgeConneX Heusenstamm mit 403; keine echte PDF-Nichtverfuegbarkeit.
+
+Gepruefte Gemeinden
+- 20 offene BW-Gemeinden fachlich geprueft: Altdorf, Holzmaden, Neidlingen, Aichtal, Denkendorf, Bad Ditzenbach, Ebersbach an der Fils, Schlierbach, Eislingen/Fils, Ottenbach, Salach, Bad Ueberkingen, Geislingen an der Steige, Kuchen, Schlat, Wangen, Donzdorf, Gingen an der Fils, Lauterstein und Drackenstein.
+- Gepruefte Pfade: Gemeindeseite, Ratsinformationssystem/Gemeinderat, Bebauungsplaene/FNP, Amtsblatt/Bekanntmachungen, Gewerbeflaechen/Gewerbegebiete, Glasfaser/Breitband, Energie/Stadtwerke/Netz, Wasser/Abwasser, Waermeplanung sowie Suchbegriffe Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Abwaerme und Sondergebiet.
+- Hinweis zur Statistik: In assets/bw-municipality-coverage.json existieren zwei Eintraege namens Altdorf; der Namensabgleich hat beide heutigen Statuszeilen gesetzt. Fachlich bearbeitet wurden 20 Zielgemeinden.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten RZ-Funde.
+- Kuchen ist kein RZ-Fund: Der Oestliche Gewerbepark ist planungsrechtlich Einzelhandel/Sondergebiet und wird nur als B-Plan-/Leitungsrechte-Benchmark gefuehrt.
+
+Gemeinden ohne Fund / nur offen
+- Ohne direkten Fund, aber mit vertiefbaren Infrastrukturpfaden: Kuchen/Geislingen, Donzdorf, Gingen an der Fils und Schlat.
+- Kuchen/Geislingen: Gewerbepark Schwaebische Alb und B-Plan-PDFs liefern Due-Diligence-Muster, aber keine freie RZ-Flaeche.
+- Donzdorf: B-Plan/FNP/Glasfaser/Stadtwerke-Pfad sichtbar; nur bei konkretem Flaechenanlass vertiefen.
+- Gingen an der Fils: Glasfaserausbau, Gemeindeentwicklung, B-Plaene/FNP, Wasser und Energie sichtbar; kein RZ-Fund.
+- Schlat: Absage Deutsche Glasfaser als klares Konnektivitaets-Negativsignal fuer Micro-DC ohne Alternativcarrier.
+
+Neue PDFs / Gutachten
+- Neu lokal gespeichert und in database.json/pdf-extracts.json erfasst:
+  - pdfs/kuchen-oestlicher-gewerbepark-lageplan.pdf
+  - pdfs/kuchen-oestlicher-gewerbepark-text.pdf
+  - pdfs/kuchen-oestlicher-gewerbepark-begruendung.pdf
+  - pdfs/kuchen-oestlicher-gewerbepark-auswirkungsanalyse.pdf
+- Relevante Auswertung: ca. 19.600 m2 Plangebiet; Sondergebiete fuer Einzelhandel/Bestand; Gebaeudehoehen 8/10 m; technische Nebenanlagen als Hoehenausnahmen; Leitungsrechte fuer Gemeinde Kuchen (Abwasser/Niederschlagwasser), AlbWerk Geislingen (Strom) und Energieversorgung Filstal (Gas); Gewaesserrandstreifen.
+- Keine technischen Zeichnungen erfunden oder nachgezeichnet. Der Lageplan wird nur als originales kommunales PDF referenziert.
+
+Neue Partner / Player
+- Keine neuen RZ-Betreiberpartner.
+- Neu als Infrastrukturkontakte erfasst:
+  - AlbWerk Geislingen: Strom-/Leitungsrechtebezug im Kuchen-B-Plan.
+  - Energieversorgung Filstal: Gas-/Infrastrukturbezug im Kuchen-B-Plan und bereits bekannter Glasfaserbezug aus Notzingen.
+
+Linkpruefung
+- scripts/check-links.py ausgefuehrt.
+- Ergebnis: checked 242, ok 222, blocked 20, broken 0.
+- Keine echten broken Links festgestellt.
+
+Offene / verdaechtige Fragen
+- database.json enthaelt weiterhin keine researchQuestions.
+- Keine Spam-, Werbe- oder Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen manualUploads.
+- pdfs/manual-uploads/ enthaelt weiter nur .gitkeep.
+
+Veraenderte Statistiken
+- database.json: findings 60 -> 63, pdfExtracts 31 -> 35, zoningPlans 25 -> 26, gridChecks 5 -> 6, connectivityChecks 4 -> 5, companies 16 -> 18.
+- assets/bw-municipality-coverage.json: notSystematicallyChecked 745 -> 725, generatedAt auf 2026-07-05.
+- pdf-availability.json: total 35, localAvailable 17, publicUnavailable 0.
+- link-check-results.json: checked 242, broken 0.
+- assets/source-archive/manifest.json: 223 bekannte Quellen.
+
+Website
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Naechste sinnvolle Vertiefung
+- Freiburger Kernraum bleibt priorisiert; heutiger Filstal/Albvorland-Lauf schliesst offene BW-Coverage-Luecken.
+- Bei konkreten Filstal-Flächen nur Kuchen/Geislingen/Donzdorf/Gingen erneut anfassen; sonst weiter Denzlingen/Freiburg/Emmendingen und Netz-/Gewerbegebietsnahe Flaechen fokussieren.
