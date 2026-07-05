@@ -48,8 +48,9 @@ Linkpruefung
 - Keine echten broken Links festgestellt.
 
 Mailversand
-- Gmail-Versand war im frueheren heutigen Lauf blockiert: scripts/gmail-api.py send scheiterte mit OAuth invalid_grant; SMTP-Fallback nicht nutzbar, weil GMAIL_SMTP_USER nicht gesetzt ist.
-- Ich versuche den Versand nach dem finalen Bericht erneut; falls der Token unveraendert ist, bleibt neue Gmail-Autorisierung noetig.
+- scripts/gmail-api.py send erneut versucht: weiterhin blockiert durch Gmail-OAuth invalid_grant / Bad Request beim Token-Refresh.
+- SMTP-Fallback nicht nutzbar: GMAIL_SMTP_USER und GMAIL_APP_PASSWORD sind nicht gesetzt.
+- Tagesbericht ist veroeffentlicht; E-Mail-Versand benoetigt neue Gmail-Autorisierung oder SMTP-Umgebungsvariablen.
 
 Offene / verdaechtige Fragen
 - database.json enthaelt keine researchQuestions.
@@ -69,9 +70,11 @@ Veraenderte Statistiken
 
 Website
 - Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+- GitHub Pages verifiziert mit HTTP 200 fuer index.html, database.json, docs/tagesbericht-2026-07-05.txt und assets/bw-municipality-coverage.json; Marker fuer Nachtragslauf und notSystematicallyChecked 705 vorhanden.
 
 Naechste sinnvolle Vertiefung
 - Freiburger Kernraum bleibt priorisiert. Die heutige Zusatzrunde schliesst weitere BW-Coverage-Luecken, liefert aber keinen neuen Standortkandidaten.
 - Fuer konkrete RZ-Flaechen weiter Denzlingen/Freiburg/Emmendingen plus GE/GI-, Mittelspannungs-, Waerme- und Carrier-Signale priorisieren.
+
 
 
