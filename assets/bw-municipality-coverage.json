@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-05",
-  "source": "Automatisierte und manuelle Recherche; 2026-07-05 Nachtragslauf pruefte 20 weitere offene BW-Gemeinden ohne direkten RZ-Fund.",
+  "generatedAt": "2026-07-06",
+  "source": "Automatisierte und manuelle Recherche; 2026-07-06 Fortsetzung nach Hessigheim pruefte 8 weitere offene BW-Gemeinden im Landkreis Ludwigsburg ohne direkten RZ-Fund.",
   "total": 1101,
   "found": 16,
-  "notSystematicallyChecked": 705,
+  "notSystematicallyChecked": 697,
   "items": [
     {
       "name": "Stuttgart",
@@ -1288,12 +1288,12 @@
       "name": "LÃ¶chgau",
       "district": "Ludwigsburg",
       "code": "047",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.loechgau.de/start",
+      "notes": "Geprueft: https://www.loechgau.de/start; https://www.loechgau.de/start/Buergerservice/Redaktionsstatut+fuer+das+Amtsblatt.html; https://www.loechgau.de/start/Ueber+Loechgau/Gemeinderat.html; https://www.loechgau.de/start/Ueber+Loechgau/ratsinfo.html; https://www.loechgau.de/start/Leben/Bauen+_+Wohnen.html. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Mundelsheim",
@@ -1310,78 +1310,78 @@
       "name": "Walheim",
       "district": "Ludwigsburg",
       "code": "074",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.walheim.de/startseite",
+      "notes": "Geprueft: https://www.walheim.de/startseite; https://www.walheim.de/rathaus-service/gemeinderat/allgemeines-mitglieder; https://www.walheim.de/rathaus-service/gemeinderat/ausschuesse; https://www.walheim.de/rathaus-service/gemeinderat/sitzungstermine-ratsinformationssystem/seite-1/suche-none; https://www.walheim.de/rathaus-service/amtliche-bekanntmachungen/seite-1/suche-none. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Bietigheim-Bissingen",
       "district": "Ludwigsburg",
       "code": "079",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.bietigheim-bissingen.de/",
+      "notes": "Geprueft: https://www.bietigheim-bissingen.de/; https://www.bietigheim-bissingen.de/rathaus-politik/aktuelles/energieversorgung-altstadt/; https://www.bietigheim-bissingen.de/rathaus-politik/gemeinderat-politik/gemeinderat/; https://www.bietigheim-bissingen.de/rathaus-politik/gemeinderat-politik/wahlergebnisse-in-bietigheim-bissingen/; https://www.bietigheim-bissingen.de/rathaus-politik/gemeinderat-politik/abgeordnete-politische-vereinigungen/. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechenanlass vertiefen: groessere Gewerbe-/Industrie-, Verkehrs- und Netzlage kann Edge-/Micro-DC-Pruefung rechtfertigen; ohne Flaechenhinweis nicht priorisieren."
     },
     {
       "name": "Ingersheim",
       "district": "Ludwigsburg",
       "code": "077",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.ingersheim.de/",
+      "notes": "Geprueft: https://www.ingersheim.de/; https://www.ingersheim.de/website/de/gemeinde-und-buerger/amtsblatt; https://www.ingersheim.de/website/de/leben-in-ingersheim/gewerbe; https://www.ingersheim.de/website/de/leben-in-ingersheim/gewerbe/windrad; https://www.ingersheim.de/website/de/gemeinde-und-buerger/rathaus/oeffentliche-bekanntmachungen. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Tamm",
       "district": "Ludwigsburg",
       "code": "071",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.tamm.org/de/startseite",
+      "notes": "Geprueft: https://www.tamm.org/de/startseite; https://www.tamm.org/de/stadt-daten/amtliche-mitteilungen-amtsblatt/amtliche-mitteilungen; https://www.tamm.org/de/stadt-daten/amtliche-mitteilungen-amtsblatt/amtsblatt; https://www.tamm.org/de/rathaus-service/politik-gemeinderat/mitglieder-des-gemeinderats; https://www.tamm.org/de/rathaus-service/politik-gemeinderat/parteien. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechenanlass vertiefen: groessere Gewerbe-/Industrie-, Verkehrs- und Netzlage kann Edge-/Micro-DC-Pruefung rechtfertigen; ohne Flaechenhinweis nicht priorisieren."
     },
     {
       "name": "BÃ¶nnigheim",
       "district": "Ludwigsburg",
       "code": "010",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.boennigheim.de/",
+      "notes": "Geprueft: https://www.boennigheim.de/; https://www.boennigheim.de/website/de/sonderseiten/lea-ludwigsburger-energieversorgung-e-v-; https://www.boennigheim.de/website/de/leben-arbeiten/wohnen-wirtschaft/immobilien/immobilien-in-boennigheim; https://www.boennigheim.de/website/de/sonderseiten/glasfasernetz-ausbau#A; https://www.boennigheim.de/website/de/stadtverwaltung/buerger-und-ratsinfo. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Erligheim",
       "district": "Ludwigsburg",
       "code": "015",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.erligheim.de/",
+      "notes": "Geprueft: https://www.erligheim.de/; https://www.erligheim.de/website/de/digitales-rathaus/gemeinderat; https://www.erligheim.de/website/de/digitales-rathaus/oeffentliche-bekanntmachungen; https://www.erligheim.de/website/de/leben-und-wohnen/bauen; https://www.erligheim.de/website/de/gewerbe-und-wirtschaft. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Kirchheim am Neckar",
       "district": "Ludwigsburg",
       "code": "040",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-06 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.kirchheim-neckar.de/",
+      "notes": "Geprueft: https://www.kirchheim-neckar.de/; https://www.kirchheim-neckar.de/website/de/politik-verwaltung/gemeinderat; https://www.kirchheim-neckar.de/website/de/zuhause-in-kirchheim/unternehmen-und-wirtschaft; https://www.kirchheim-neckar.de/website/de/zuhause-in-kirchheim/bebauungsplaene. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Freiberg am Neckar",

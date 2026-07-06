@@ -46,9 +46,9 @@ def check(row):
     headers = {"User-Agent": "iAccess link checker contact hornick@iaccess.de"}
     result = {**row, "status": None, "finalUrl": "", "ok": False, "blocked": False, "error": ""}
     try:
-        response = requests.head(url, headers=headers, timeout=15, allow_redirects=True)
+        response = requests.head(url, headers=headers, timeout=25, allow_redirects=True)
         if response.status_code in {403, 405, 406, 429} or response.status_code >= 500:
-            response = requests.get(url, headers=headers, timeout=20, allow_redirects=True, stream=True)
+            response = requests.get(url, headers=headers, timeout=45, allow_redirects=True, stream=True)
         result["status"] = response.status_code
         result["finalUrl"] = response.url
         result["ok"] = 200 <= response.status_code < 400

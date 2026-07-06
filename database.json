@@ -3113,6 +3113,29 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Nur offizielle kommunale Start-/Fachpfade hinterlegt; keine neuen Bilder, technischen Zeichnungen oder PDF-Gutachten aufgenommen."
+    },
+    {
+      "id": "id-2026-07-06-bw-8-gemeinden-ludwigsburg-screening",
+      "date": "2026-07-06",
+      "publishedDate": "2026-07-06",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.loechgau.de/start; https://www.walheim.de/startseite; https://www.bietigheim-bissingen.de/; https://www.ingersheim.de/; https://www.tamm.org/de/startseite; https://www.boennigheim.de/; https://www.erligheim.de/; https://www.kirchheim-neckar.de/",
+      "title": "8 offene Gemeinden nach Hessigheim im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
+      "summary": "Fortsetzung der Coverage nach Hessigheim: Geprueft wurden Loechgau, Walheim, Bietigheim-Bissingen, Ingersheim, Tamm, Boennigheim, Erligheim und Kirchheim am Neckar ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Bietigheim-Bissingen und Tamm bleiben wegen groesserer Gewerbe-/Industrie- und Verkehrslage als mittlere Vorfilter interessanter als die kleineren Weinbau-/Wohnkommunen. Trotzdem fehlt ohne konkrete freie GE/GI-Flaeche, Netzanschluss- oder Carrier-Hinweis ein harter iAccess-Kandidat.",
+      "action": "Coverage-Luecke geschlossen und nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet. Naechste offene Coverage im Landkreis Ludwigsburg fortsetzen; parallel konkrete Hinweise im Raum Freiburg/Denzlingen/Emmendingen weiterhin hoeher priorisieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Ludwigsburg",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; keine neuen Bilder, technischen Zeichnungen oder PDF-Gutachten aufgenommen."
     }
   ],
   "gridChecks": [

@@ -1,0 +1,29 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-06
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 8 offene Gemeinden nach Hessigheim im Landkreis Ludwigsburg:
+  - Loechgau: https://www.loechgau.de/start (9 abrufbare kommunale Pfade im Kurzscreening)
+  - Walheim: https://www.walheim.de/startseite (10 abrufbare kommunale Pfade im Kurzscreening)
+  - Bietigheim-Bissingen: https://www.bietigheim-bissingen.de/ (10 abrufbare kommunale Pfade im Kurzscreening)
+  - Ingersheim: https://www.ingersheim.de/ (5 abrufbare kommunale Pfade im Kurzscreening)
+  - Tamm: https://www.tamm.org/de/startseite (10 abrufbare kommunale Pfade im Kurzscreening)
+  - Boennigheim: https://www.boennigheim.de/ (5 abrufbare kommunale Pfade im Kurzscreening)
+  - Erligheim: https://www.erligheim.de/ (9 abrufbare kommunale Pfade im Kurzscreening)
+  - Kirchheim am Neckar: https://www.kirchheim-neckar.de/ (4 abrufbare kommunale Pfade im Kurzscreening)
+
+Ergebnis
+- Kein direkter RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 8 geprueften Gemeinden.
+- Bietigheim-Bissingen und Tamm sind wegen Gewerbe-/Industrie-/Verkehrslage die einzigen mittleren Vorfilter; ohne konkrete Flaechen- und Netzsignale aber kein neuer Standortkandidat.
+- Kleinere Gemeinden (Loechgau, Walheim, Ingersheim, Boennigheim, Erligheim, Kirchheim am Neckar) nur bei konkretem Flaechenanlass erneut vertiefen.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Hessigheim fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py erneut ausgefuehrt: Archivmanifest jetzt 255 bekannte Quellen; neu lokal gesichert wurden die 8 kommunalen Startquellen aus diesem Lauf. 19 Abrufe bleiben blockiert/fehlgeschlagen, vor allem datacenters.com mit 429 sowie einzelne 403-Pfade.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; keine neuen PDF-/Gutachtenfunde.
+- scripts/check-links.py mit laengerem Timeout fuer langsam antwortende Kommunalseiten: checked 274, ok 254, blocked 20, broken 0.
+
+Naechster Fokus
+- Fuer konkrete iAccess-Chancen weiter Freiburg/Denzlingen/Emmendingen priorisieren, sofern neue Flaechen-/Netz-/Carrier-Hinweise auftauchen; ansonsten Coverage im Landkreis Ludwigsburg ab dem naechsten offenen Eintrag fortsetzen.
