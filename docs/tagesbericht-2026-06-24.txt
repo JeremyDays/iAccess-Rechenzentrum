@@ -1,67 +1,75 @@
 Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-06-24
 
 Neue Quellen
-- https://www.emmendingen.de/bauen-wirtschaft/wirtschaftsfoerderung/wirtschaftsfoerderung
-- https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/bebauungsplaene
-- https://www.gundelfingen.de/leben-wohnen/bauen-sanieren/offenlage-von-bebauungs-/-flaechennutzungsverfahren
-- https://www.au-hexental.de/startseite
-- https://www.gemeinde-breitnau.de/leben-wohnen/bauen-wohnen/bebauungsplaene-oertliche-bauleitplanung
-- https://www.gemeinde-breitnau.de/leben-wohnen/ver-entsorgung/breitbandversorgung
-- https://www.friedenweiler.de/
-- https://www.loeffingen.de/rathaus-service/oeffentliche-bekanntmachungen
-- https://www.gemeinde-badenweiler.de/startseite
-- https://www.lenzkirch.de/index.php
-- https://www.lenzkirch.de/verwaltung-und-politik/kommunalpolitik/oeffentliche-bekanntmachungen
-- https://www.titisee-neustadt.de/startseite
-- https://www.vogtsburg.de/
+- https://www.kenzingen.de/
+- https://www.forchheim-am-kaiserstuhl.de/
+- https://www.gemeinde-riegel.de/
+- https://www.sasbach-am-kaiserstuhl.de/
+- https://www.oberried.de/
+- https://www.bollschweil.de/
+- https://www.hinterzarten.de/
+- https://www.sulzburg.de/
+- https://www.st-maergen.de/
+- https://www.st-peter-schwarzwald.de/
+- https://www.pfaffenweiler.de/
+- https://www.schallstadt.de/
+- https://www.eisenbach.de/
+- https://www.ettenheim.de/
+- https://www.berghaupten.de/
+- https://www.stadt-gengenbach.de/
+- https://www.ohlsbach.de/
+- https://www.friesenheim.de/
+- https://www.rheinau.de/
+- https://www.willstaett.de/
+- https://www.welt.de/regionales/baden-wuerttemberg/article6a26ac1af1ea924ca06cc54b/kreise-vorgehen-deutet-auf-linksextremistische-taeter-hin.html
+- https://www.welt.de/regionales/baden-wuerttemberg/article6a280d122f1d399245057ce9/strom-fuer-reutlinger-firmen-soll-ab-mittwoch-wieder-fliessen.html
 
 Lokal archivierte Quellen
-- Neues manuelles Quellenprotokoll angelegt: `assets/source-archive/manual/2026-06-24/branchennews-und-kommunalquellen-2026-06-24.md`
-- Keine vollautomatische Web-/PDF-Archivierung mit `scripts/archive-sources.py`, da in dieser Session weiterhin kein nutzbarer Python- und Shell-Netzpfad verfuegbar ist.
+- Manuelles Quellenprotokoll fuer den zweiten Lauf am 2026-06-24 in `assets/source-archive/manual/2026-06-24/branchennews-und-kommunalquellen-2026-06-24.md` erweitert.
+- Keine vollautomatische Web-/PDF-Archivierung mit `scripts/archive-sources.py`, da in dieser Session weiter kein nutzbarer Python- und Shell-Netzpfad verfuegbar ist.
 
 PDF-Verfuegbarkeit
 - Kein neuer Lauf von `scripts/check-pdf-availability.py`.
-- Neue relevante PDF-Pfade heute nur indirekt/offiziell verifiziert, insbesondere ueber Loffingen (mehrere Offenlagen mit PDF-Unterlagen) und bestehende Kommunal-Offenlagen.
+- Heute keine neuen lokalen PDF-Downloads; der Fokus lag auf 20 offenen Kommunalpfaden und einem BW-weiten Netzresilienzsignal.
 
 Gepruefte Gemeinden
-- Neu offen geprueft: Au, Breitnau, Friedenweiler, Loffingen, Badenweiler, Titisee-Neustadt, Lenzkirch, Vogtsburg im Kaiserstuhl.
-- Rueckwirkend in der Coverage nachgetragen, weil am 2026-06-22 zwar recherchiert, aber auf den eigentlichen Kommunenzeilen noch nicht persistiert: Heuweiler, Malterdingen, Gutach im Breisgau, Oppenau, Lautenbach, Schwanau, Seelbach, Wolfach, Nordrach, Zell am Harmersbach.
-- Prioritaere Revalidierung auf offiziellen Pfaden: Emmendingen und Gundelfingen.
+- Heute zusaetzlich offen geprueft: Kenzingen, Forchheim, Riegel am Kaiserstuhl, Sasbach am Kaiserstuhl, Oberried, Bollschweil, Hinterzarten, Sulzburg, St. Maergen, St. Peter, Pfaffenweiler, Schallstadt, Eisenbach (Hochschwarzwald), Ettenheim, Berghaupten, Gengenbach, Ohlsbach, Friesenheim, Rheinau und Willstaett.
+- Keine neuen `researchQuestions` oder `manualUploads`; `pdfs/manual-uploads/` enthaelt weiter nur `.gitkeep`.
 
 Gemeinden mit RZ-Fund
 - Keine neuen direkten Funde.
 - Bestaetigte Anker im Zielraum bleiben Freiburg im Breisgau und Kehl.
 
 Gemeinden ohne Fund / nur offen
-- Ohne direkten RZ-Fund, aber mit belastbarem Infrastrukturpfad: Emmendingen, Au, Breitnau, Loffingen, Badenweiler, Lenzkirch, Vogtsburg im Kaiserstuhl, Schwanau, Nordrach, Seelbach, Wolfach, Lautenbach, Zell am Harmersbach.
-- Weiter nur oberflaechlich bzw. mit vertiefungsbeduerftigem Stadtportalpfad: Oppenau.
+- Ohne direkten RZ-Fund, aber mit weiter plausiblen Infrastruktur- oder Verkehrssignalen: Riegel am Kaiserstuhl, Kenzingen, Schallstadt, Pfaffenweiler, Ettenheim, Rheinau und Willstaett.
+- Eher Rand- oder Nachrangstandorte fuer groessere Vorhaben: Forchheim, Oberried, Bollschweil, Hinterzarten, Sulzburg, St. Maergen, St. Peter, Eisenbach, Berghaupten, Gengenbach, Ohlsbach und Friesenheim.
 
 Neue PDFs / Gutachten
-- Kein neuer lokaler PDF-Download.
-- Methodisch relevant ist heute vor allem Loffingen: amtliche Bekanntmachungen mit aktuellen Offenlagen zu `Im Schachen-Mitte, Erweiterung`, `Tal` und `Solarpark Bachheim` inklusive Umweltbericht, Artenschutz und Stellungnahmen.
+- Keine neuen lokalen PDF-Dateien.
+- Neues methodisches Risikosignal in `database.json`: BW-Netzresilienz nach dem Umspannwerksbrand Reutlingen-West als Standortpruefpunkt fuer künftige Flaechenkandidaten.
 
 Neue Partner / Player
 - Kein neuer Betreiber im Suchraum.
-- Neue kommunale Ansprechpartner-/Player-Hinweise: Emmendingen Wirtschaftsfoerderung als offizielle Anlaufstelle fuer Gewerbeflaechensuche; Vodafone/Zweckverband Breitband Breisgau-Hochschwarzwald als relevanter Netzhinweis in Breitnau.
+- Relevante Infrastruktur-/Player-Hinweise heute vor allem indirekt ueber die Kommunalstandorte an den Korridoren A5, Rheintalbahn und Kehl/Strasbourg sowie ueber Netze-BW im Reutlingen-Risikofall.
 
 Linkpruefung
-- Kein neuer Lauf von `scripts/check-links.py`, weil die benoetigten Shell-/Python-Pfade in dieser Session blockiert bleiben.
+- Kein neuer Lauf von `scripts/check-links.py`, weil die benoetigten Python-/Shell-Pfade in dieser Session blockiert bleiben.
 
 Offene / verdaechtige Fragen
 - Keine neuen `researchQuestions`.
 - Keine Spam-, Werbe- oder Freigabefaelle.
 
 Verarbeitete Uploads
-- Keine neuen `manualUploads`; `pdfs/manual-uploads/` enthaelt weiterhin nur `.gitkeep`.
+- Keine neuen `manualUploads`.
 
 Veraenderte Statistiken
-- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 1001 -> 983, `checkedNoRZ` 84 -> 102, `generatedAt`/`lastCheckedAt` auf 2026-06-24.
-- `database.json`: drei neue Findings zu Emmendingen, Breitnau/Lenzkirch und Loffingen/Vogtsburg; `settings.lastRun` und `settings.lastResearchSummary` auf 2026-06-24 gesetzt.
+- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 983 -> 963, `checkedNoRZ` 102 -> 122; 20 offene Kommunen auf `heute geprueft` gesetzt.
+- `database.json`: ein neues Finding zur BW-Stromnetzresilienz nach Reutlingen, `settings.lastRun` und `settings.lastResearchSummary` auf den erweiterten Stand vom 2026-06-24 aktualisiert.
 
 Website
 - Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Blocker
-- Lokales `git` ist in diesem Arbeitsverzeichnis weiterhin nicht verfuegbar.
-- Externe Shell-Netzwerkzugriffe sind weiterhin blockiert; dadurch heute kein regelkonformer Lauf fuer `archive-sources.py`, `check-pdf-availability.py`, `check-links.py`, `create-question-report.py` oder `gmail-api.py`.
-- Es liegen keine neuen Fragen/Uploads vor; daher heute kein Fragen-PDF.
+- Das Arbeitsverzeichnis ist weiterhin kein lokales Git-Repository; daher heute kein lokaler GitHub-Pages-Publish.
+- Externe Shell-Netzwerkzugriffe und Python-Skripte bleiben blockiert; dadurch heute kein regelkonformer Lauf fuer `archive-sources.py`, `check-pdf-availability.py`, `check-links.py`, `create-question-report.py` oder `gmail-api.py`.
+- Es liegen weiterhin keine neuen Fragen/Uploads vor; daher heute kein Fragen-PDF.
