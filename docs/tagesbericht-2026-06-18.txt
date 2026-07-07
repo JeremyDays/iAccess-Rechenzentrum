@@ -1,0 +1,56 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg
+Datum: 2026-06-18
+
+Neue Quellen
+- Gemeinde Rust: https://www.rust.de/startseite
+- Gemeinde Hohberg: https://www.hohberg.de/de/startseite
+- Gemeinde Schutterwald: https://www.schutterwald.de/
+- Gemeinde Kappel-Grafenhausen: https://www.kappel-grafenhausen.de/startseite
+- Gemeinde Rheinhausen: https://www.rheinhausen.de/pb/,Lde/131795.html
+
+Lokal archivierte Quellen
+- Keine neuen lokalen Archive gespeichert. Grund: In dieser Laufzeitumgebung fehlen Python und direkte Shell-Netzwerkzugriffe, daher konnte `scripts/archive-sources.py` heute nicht ausgefuehrt werden.
+
+PDF-Verfuegbarkeit
+- Keine neuen relevanten PDFs lokal gesichert.
+- `scripts/check-pdf-availability.py` konnte heute mangels Python-Laufzeit nicht ausgefuehrt werden.
+
+Gepruefte Gemeinden
+- Revalidiert bzw. geprueft: Ehrenkirchen, Hartheim, Ihringen, Muellheim, Neuenburg am Rhein.
+- Neu kommunal geprueft: Malterdingen, Herbolzheim, Rheinhausen im Breisgau, Bahlingen am Kaiserstuhl, Endingen am Kaiserstuhl, Kappel-Grafenhausen, Mahlberg, Ringsheim, Rust, Oberkirch, Renchen, Hohberg, Schutterwald, Neuried.
+- Insgesamt heute im Tageslauf beruecksichtigt: 20 BW-Kommunalpfade.
+
+Gemeinden mit RZ-Fund
+- Kein neuer direkter Rechenzentrumsfund auf kommunalen Seiten.
+
+Gemeinden ohne Fund bzw. nur offen
+- Infrastrukturindizien ohne Direktfund verdichten sich im Europa-Park-Korridor Rust/Ringsheim/Kappel-Grafenhausen/Rheinhausen.
+- Hohberg und Schutterwald verstaerken den noerdlichen Ortenau-/GRO-Gewerbekorridor.
+- Freiburg-Nord/Denzlingen bleibt netzseitig der staerkste Suchraum im engeren Zielgebiet.
+
+Neue PDFs oder Gutachten
+- Keine neuen PDFs extrahiert.
+- Schutterwald fuehrt auf der Gemeindeseite weiterhin einen geotechnischen Gutachtenpfad; heute nur als offizieller Hinweis notiert, nicht lokal gespiegelt.
+
+Neue Partner
+- Keine neuen Betreiber- oder Integratorpartner eingetragen.
+
+Linkpruefung
+- Die heute neu eingetragenen kommunalen Quellen wurden direkt ueber den Webzugriff geoeffnet.
+- `scripts/check-links.py` konnte heute mangels Python-Laufzeit nicht ausgefuehrt werden.
+
+Offene oder verdaechtige Fragen
+- Keine neuen `researchQuestions`.
+- Keine Spam- oder Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen manuellen Uploads; `pdfs/manual-uploads/` enthaelt weiterhin nur `.gitkeep`.
+
+Veraenderte Statistiken
+- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 1046 -> 1031.
+- `assets/bw-municipality-coverage.json`: `checkedNoRZ` 39 -> 54.
+- `database.json`: zwei neue Findings zu Rust/TransnetBW und Hohberg-Schutterwald/GRO.
+
+Website
+- Datenbasis aktualisiert: https://jeremydays.github.io/iAccess-Rechenzentrum/
+- GitHub-Publish konnte heute nicht lokal ausgefuehrt werden, da im Arbeitsverzeichnis kein Git-Repo und keine Node-Laufzeit verfuegbar sind.
