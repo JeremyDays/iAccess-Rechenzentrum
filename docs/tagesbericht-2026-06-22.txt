@@ -1,0 +1,59 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-06-22
+
+Neue Quellen
+- https://www.heuweiler.de/startseite
+- https://www.malterdingen.de/
+- https://www.gutach.de/start
+- https://www.oppenau.de/1722971.html
+- https://www.lautenbach-renchtal.de/pb/,Lde/30686.html
+- https://www.schwanau.de/
+- https://www.seelbach-online.de/startseite
+- https://www.wolfach.de/startseite
+- https://www.nordrach.de/startseite
+- https://www.zell.de/3148799
+- https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d
+
+Lokal archivierte Quellen
+- Heute keine neue Shell-basierte Archivierung moeglich, da externe Socket-Zugriffe in der Shell gesperrt sind.
+
+PDF-Verfuegbarkeit
+- Kein neuer PDF-Check-Lauf. `scripts/check-pdf-availability.py` konnte wegen gesperrter Shell-Netzwerkzugriffe nicht regelkonform ausgefuehrt werden.
+
+Gepruefte Gemeinden
+- Neu geprueft: Heuweiler, Malterdingen, Gutach im Breisgau, Oppenau, Lautenbach, Schwanau, Seelbach, Wolfach, Nordrach, Zell am Harmersbach.
+- Revalidierungsrelevant im Fokusraum: Denzlingen, Emmendingen, Gundelfingen, March, Umkirch, Gottenheim, Bötzingen, Waldkirch, Sexau, Teningen, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Freiburg, Lahr, Appenweier, Offenburg, Kehl.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten Funde.
+- Bestaetigte bestehende Anker im Suchraum bleiben Freiburg im Breisgau und Kehl.
+
+Gemeinden ohne Fund / nur offen
+- Ohne neuen direkten Fund, aber mit belastbaren Infrastrukturpfaden: Nordrach, Schwanau, Seelbach, Wolfach, Lautenbach, Gutach im Breisgau, Malterdingen, Zell am Harmersbach, Heuweiler.
+- Weiter offen bzw. nur oberflaechlich geoeffnet: Oppenau.
+
+Neue PDFs / Gutachten
+- Keine neuen lokalen PDF-Downloads. Heute nur Websichtung offizieller Kommunalpfade.
+
+Neue Partner / Player
+- Kein neuer Betreiber oder Partner im Suchraum.
+- Branchenhinweis: DPA/Welt-Meldung vom 2026-06-12 zu Siemens-Energy-Chef Christian Bruch und dem geforderten Ausbau deutscher Rechenzentrumskapazitaet.
+
+Linkpruefung
+- Kein neuer Lauf von `scripts/check-links.py`, weil Shell-Netzzugriffe blockiert sind.
+
+Offene / verdaechtige Fragen
+- Keine neuen `researchQuestions`.
+- Keine Spam-/Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen `manualUploads`; `pdfs/manual-uploads/` enthaelt weiterhin nur `.gitkeep`.
+
+Veraenderte Statistiken
+- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 1011 -> 1001, `checkedNoRZ` 74 -> 84, `lastCheckedAt` auf 2026-06-22.
+- `database.json`: zwei neue Findings zu Nordrach und Schwanau; `settings.lastRun` und `settings.lastResearchSummary` auf 2026-06-22 gesetzt.
+
+Website
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker
+- Externe Shell-Netzwerkzugriffe schlagen mit `WinError 10013` fehl. Dadurch heute kein regelkonformer Lauf fuer Archivierung, PDF-/Linkchecks, Report-PDF, E-Mail-Versand oder GitHub-Publish der grossen JSON-Dateien.
