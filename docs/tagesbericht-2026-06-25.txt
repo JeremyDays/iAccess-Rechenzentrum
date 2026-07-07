@@ -1,0 +1,76 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-06-25
+
+Neue Quellen
+- https://www.achern.de/
+- https://www.lauf-schwarzwald.de/
+- https://www.sasbach-ortenau.de/
+- https://www.sasbachwalden.de/
+- https://www.fischerbach.de/
+- https://www.haslach.de/
+- https://www.hofstetten-schwarzwald.de/
+- https://www.muehlenbach.de/
+- https://www.steinach.de/
+- https://www.gutach.de/
+- https://www.hausach.de/
+- https://www.kappelrodeck.de/
+- https://www.ottenhoefen.de/
+- https://www.seebach.de/
+- https://www.kippenheim.de/
+- https://www.bad-peterstal-griesbach.de/
+- https://www.durbach.de/
+- https://rathaus.durbach.de/
+- https://www.ortenberg.de/
+- https://www.meissenheim.de/
+- https://www.schuttertal.de/
+- https://www.welt.de/regionales/baden-wuerttemberg/article6a2669128d84dbd8a4ed8784/nach-stromausfall-rotes-kreuz-und-malteser-im-einsatz.html
+- https://www.welt.de/regionales/baden-wuerttemberg/article6a27f746405f5b69b799b792/so-werden-umspannwerke-geschuetzt.html
+
+Lokal archivierte Quellen
+- Manuelles Quellenprotokoll fuer den Lauf am 2026-06-25 unter `assets/source-archive/manual/2026-06-25/branchennews-und-kommunalquellen-2026-06-25.md` angelegt.
+- Keine vollautomatische Web-/PDF-Archivierung mit `scripts/archive-sources.py`, da Python/Shell-Netzpfad in dieser Session weiter blockiert sind.
+
+PDF-Verfuegbarkeit
+- Kein neuer Lauf von `scripts/check-pdf-availability.py`.
+- Heute keine neuen lokalen PDF-Downloads; geoeffnet wurden vor allem kommunale HTML-Pfade und aktuelle BW-Netzresilienzquellen.
+
+Gepruefte Gemeinden
+- Heute zusaetzlich offen geprueft: Achern, Lauf, Sasbach, Sasbachwalden, Fischerbach, Haslach im Kinzigtal, Hofstetten, Muehlenbach, Steinach, Gutach (Schwarzwaldbahn), Hausach, Kappelrodeck, Ottenhoefen im Schwarzwald, Seebach, Kippenheim, Bad Peterstal-Griesbach, Durbach, Ortenberg, Meissenheim und Schuttertal.
+- Keine neuen `researchQuestions` oder `manualUploads`; `pdfs/manual-uploads/` enthaelt weiter nur `.gitkeep`.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten Funde.
+- Bestaetigte Anker im Zielraum bleiben Freiburg im Breisgau und Kehl.
+
+Gemeinden ohne Fund / nur offen
+- Ohne direkten RZ-Fund, aber mit weiter plausiblen Infrastruktur- oder Datenpfaden: Haslach im Kinzigtal, Kippenheim, Gutach (Schwarzwaldbahn), Lauf und Seebach.
+- Eher Rand- oder Nachrangstandorte fuer groessere Vorhaben: Sasbachwalden, Hofstetten, Ottenhoefen im Schwarzwald, Bad Peterstal-Griesbach, Durbach und Schuttertal.
+
+Neue PDFs / Gutachten
+- Keine neuen lokalen PDF-Dateien.
+- Neue belastbare Kommunalpfade in `database.json`: Haslach (Bauleitplanung/Businessinfo/Stadtwerke), Kippenheim (Bebauungsplaene/Altlasten/Wirtschaft) und Gutach (BuergerGIS/Energiemonitor/B-Plan).
+
+Neue Partner / Player
+- Kein neuer Betreiber im Suchraum.
+- Neue Kommunal-/Infrastrukturplayer heute vor allem indirekt ueber Stadtwerke Haslach, nectanet in Kippenheim, den Energiemonitor Gutach und die Gigabitkommune-Seebach-Selbstdarstellung.
+
+Linkpruefung
+- Kein neuer Lauf von `scripts/check-links.py`, weil die benoetigten Python-/Shell-Pfade in dieser Session blockiert bleiben.
+
+Offene / verdaechtige Fragen
+- Keine neuen `researchQuestions`.
+- Keine Spam-, Werbe- oder Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen `manualUploads`.
+
+Veraenderte Statistiken
+- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 963 -> 943, `checkedNoRZ` 122 -> 142; 20 offene Kommunen auf `heute geprueft` gesetzt.
+- `database.json`: drei neue Findings zu Haslach, Kippenheim und Gutach; `settings.lastRun` und `settings.lastResearchSummary` auf 2026-06-25 aktualisiert.
+
+Website
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker
+- Das Arbeitsverzeichnis ist weiterhin kein lokales Git-Repository; daher heute kein lokaler GitHub-Pages-Publish.
+- Externe Shell-Netzwerkzugriffe und Python-Skripte bleiben blockiert; dadurch heute kein regelkonformer Lauf fuer `archive-sources.py`, `check-pdf-availability.py`, `check-links.py`, `create-question-report.py` oder `gmail-api.py`.
+- Es liegen weiterhin keine neuen Fragen/Uploads vor; daher heute kein Fragen-PDF und kein Versand an `hornick@iaccess.de`.
