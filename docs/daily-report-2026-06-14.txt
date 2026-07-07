@@ -1,0 +1,63 @@
+Tagesbericht RZ-Flaechenrecherche - 2026-06-14
+
+Neue Quellen
+- Stadt Offenburg, offizieller Breitbandpfad, 14.06.2026 geprueft: Glasfaseranschluesse bis 100 GBit/s, Betreibertrennung mit Telekom in der Kernstadt, Deutsche Glasfaser in Ortsteilen und 1&1 Versatel in Gewerbegebieten; Ausbau der Kernstadt laut Stadt bis 15.10.2026.
+- Netze BW, Anschluss Denzlingen / Ausbau Hochspannungsnetz, 14.06.2026 geprueft: laufendes Planfeststellungsverfahren fuer die Netzverstaerkung der bestehenden 110-kV-Hochspannungsleitung, Unterlagen im Januar 2025 eingereicht.
+- Gemeinde Teningen, Bauleitplanung, 14.06.2026 geprueft: WebGIS, Bebauungsplaene und Nahwaermesatzung bleiben als kombinierter Flaechen-/Waerme-Suchpfad relevant.
+- Gemeinde Appenweier, Glasfaserpfad, 14.06.2026 geprueft: Gewerbe- und Industriegebiete gelten laut Gemeindemeldung weiterhin als seit 2017 glasfaserstandardisiert.
+- badenIT, Startseite, 14.06.2026 geprueft: lokaler Managed-/Connectivity-Anker im Raum Freiburg mit Datacenter Services, Cloud Peering und eigenem Rechenzentrumspfad.
+
+Lokal archivierte Quellen
+- Neu angelegt: assets/source-archive/manual/2026-06-14/branchennews-und-kommunalquellen-2026-06-14.md
+
+PDF-Verfuegbarkeit
+- Denzlingen-PDF Langacker-Weidenacker heute erneut fachlich ausgewertet; relevant fuer Gewerbeflaeche, 110-kV-Naehe und Erschliessung.
+- Teningen fuehrt weiterhin mehrere aktuelle PDF-Unterlagen inkl. Bebauungsplan- und Nahwaermesatzungsdokumenten.
+- `scripts/check-pdf-availability.py` konnte weiterhin nicht ausgefuehrt werden, weil `python`/`py` in dieser Laufzeit fehlen.
+
+Gepruefte Gemeinden
+- Heute 21 priorisierte BW-Gemeinden im Raum Freiburg/Emmendingen/Ortenau erneut kommunal geprueft: Denzlingen, Freiburg im Breisgau, Emmendingen, Voerstetten, Gundelfingen, Waldkirch, March, Umkirch, Boetzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach am Rhein, Bad Krozingen, Lahr/Schwarzwald, Appenweier, Offenburg und Kehl.
+
+Gemeinden mit RZ-Fund
+- Keine neuen Gemeinden mit direktem RZ-Fund.
+- Freiburg im Breisgau und Kehl bleiben die bestehenden regionalen RZ-/Edge-Anker im erweiterten Suchraum.
+
+Gemeinden ohne Fund / nur offen
+- Denzlingen bleibt netzseitig der staerkste Freiburg-Nord-Pfad: 8,5 ha Gewerbeentwicklung plus laufende 110-kV-Netzverstaerkung bleiben ein belastbares Infrastrukturindiz.
+- Offenburg konkretisiert sich deutlich als Ortenau-Kandidat fuer Edge-/Micro-DC, weil die Stadt den Carrier-Pfad fuer Kernstadt, Ortsteile und Gewerbegebiete inzwischen konkret beschreibt.
+- Teningen, Reute, Voerstetten und Umkirch bleiben die wichtigsten kommunalen Folgepfade fuer kleinere modulare Flaechen westlich und noerdlich von Freiburg.
+- Glottertal bleibt schwach, weil weiter kein belastbarer technischer Gewerbe- oder Infrastrukturfund sichtbar wurde.
+
+Neue PDFs / Gutachten
+- Kein neuer lokaler PDF-Download erfolgt.
+- Neu fachlich gespiegelt: Denzlingen Langacker-Weidenacker sowie die aktuell verlinkten Teningen-PDFs im Bauleitplanpfad.
+
+Neue Partner
+- Kein neuer Betreiber oder Baupartner aufgenommen.
+- Offenburg verfestigt aber die Partner-/Carrier-Struktur mit Telekom, Deutsche Glasfaser und 1&1 Versatel als offiziellem Infrastrukturpfad.
+
+Linkpruefung
+- `scripts/check-links.py` konnte weiterhin nicht ausgefuehrt werden, weil `python`/`py` fehlen.
+- Kein GitHub-Pages-Publish aus dieser Laufzeit: `node` fehlt, und das Arbeitsverzeichnis ist weiterhin kein lokal nutzbares Git-Repository.
+
+Offene / verdaechtige Fragen
+- `database.json` enthaelt weiterhin keine `researchQuestions` mit Status `neu` oder `freigegeben`.
+- Keine Spam-/Prueffragen vorhanden.
+
+Verarbeitete Uploads
+- `pdfs/manual-uploads/` enthaelt weiterhin nur `.gitkeep`.
+- Keine `manualUploads` in `database.json`.
+
+Veraenderte Statistiken
+- `findings` von 31 auf 32 erhoeht durch neues offizielles Offenburg-Finding zum Carrier-Pfad in Gewerbegebieten.
+- `zoningPlans` unveraendert bei 25.
+- `pdfExtracts` unveraendert bei 24.
+- `assets/bw-municipality-coverage.json` auf `generatedAt=2026-06-14` fortgeschrieben.
+- `settings.lastRun` auf `2026-06-14` und `lastResearchSummary` auf den heutigen Stand gesetzt.
+
+Mail / Fragen-PDF
+- Kein Fragen-PDF erzeugt, da keine neuen `researchQuestions` oder `manualUploads` vorlagen.
+- Tagesbericht wird ohne Fragen-PDF separat per Mail versendet, sofern ein nutzbarer Mail-Connector verfuegbar ist.
+
+Website
+- Lokaler Datenstand aktualisiert fuer https://jeremydays.github.io/iAccess-Rechenzentrum/
