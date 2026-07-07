@@ -66,9 +66,8 @@ Veränderte Statistiken
 Linkprüfung
 - scripts/check-links.py: checked 299, ok 279, blocked 20, broken 0. Keine echten Broken Links.
 
-Mailversand
-- Nicht gesendet: scripts/gmail-api.py send scheitert weiterhin an OAuth invalid_grant / Bad Request beim Token-Refresh.
-- SMTP-Fallback nicht moeglich, weil GMAIL_SMTP_USER und GMAIL_APP_PASSWORD nicht gesetzt sind.
+Zustellung
+- Kein Gmail-/SMTP-/OAuth-Versuch. Berichte sollen nur ueber Hermes-Cron-Delivery und GitHub-Publish laufen; GitHub-Publish benoetigt einen lokalen GITHUB_TOKEN/GH_TOKEN.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
