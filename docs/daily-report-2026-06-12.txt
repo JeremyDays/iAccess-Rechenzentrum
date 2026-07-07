@@ -1,0 +1,59 @@
+Tagesbericht RZ-Flaechenrecherche - 2026-06-12
+
+Neue Quellen
+- Welt / dpa, 12.06.2026: Siemens-Energy-Chef Christian Bruch warnt vor Rueckstand Deutschlands beim Rechenzentrumsausbau und verweist auf das gestoppte EdgeConneX-Projekt in Maintal als Beispiel fuer Energie- und Akzeptanzrisiken.
+- Kommunale Revalidierung im Fokusraum erneut auf offiziellen Pfaden fortgesetzt: Denzlingen, Freiburg, Emmendingen, Voerstetten, Gundelfingen, Waldkirch, March, Umkirch, Boetzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach am Rhein, Bad Krozingen, Lahr/Schwarzwald, Appenweier, Offenburg und Kehl.
+
+Lokal archivierte Quellen
+- Neu angelegt: assets/source-archive/manual/2026-06-12/branchennews-und-kommunalquellen-2026-06-12.md
+
+PDF-Verfuegbarkeit
+- Relevante bekannte PDF-/Planpfade fuer Denzlingen, Voerstetten, Reute, Kirchzarten, Boetzingen, Appenweier und Umkirch erneut logisch gegengeprueft.
+- `scripts/check-pdf-availability.py` heute nicht ausfuehrbar, da `python`/`py` in dieser Laufzeit nicht vorhanden sind.
+
+Gepruefte Gemeinden
+- Heute erneut 20 priorisierte BW-Gemeinden im Raum Freiburg/Emmendingen/Ortenau kommunal geprueft: Denzlingen, Emmendingen, Voerstetten, Gundelfingen, Waldkirch, March, Umkirch, Boetzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach am Rhein, Bad Krozingen, Lahr/Schwarzwald, Appenweier, Offenburg und Kehl.
+- Freiburg im Breisgau als bestehender RZ-Anker erneut im Kontext der Prioritaetsregion mitgefuehrt.
+
+Gemeinden mit RZ-Fund
+- Keine neuen Gemeinden mit RZ-Fund.
+- Bestehende Anker bleiben Freiburg im Breisgau und Kehl sowie die bereits dokumentierten Standortlisten-Funde an anderen BW-Standorten.
+
+Gemeinden ohne Fund / nur offen
+- Freiburg-Nord-Korridor Denzlingen / Voerstetten / Reute / Gundelfingen / Teningen bleibt wegen Gewerbe-, Glasfaser- und Bauleitplan-Indizien ein valider Edge-/Micro-DC-Suchraum.
+- Ortenau-Korridor Offenburg / Appenweier / Kehl bleibt fuer kleine Edge-/Serviceflaechen relevant.
+- Ohne direkten RZ-Fund, aber weiter vertiefungsfaehig: Emmendingen, March, Umkirch, Waldkirch, Kirchzarten, Breisach am Rhein, Bad Krozingen und Lahr/Schwarzwald.
+- Glottertal bleibt schwach, weil kein belastbarer technischer Gewerbe-/RZ-Pfad sichtbar wurde.
+
+Neue PDFs / Gutachten
+- Keine neuen lokalen PDF-Downloads.
+- Keine neuen Gutachten lokal extrahiert, da die Python-Werkzeuge fuer Download/Extraktion in dieser Laufzeit fehlen.
+
+Neue Partner
+- Keine neuen Marktpartner aufgenommen.
+
+Linkpruefung
+- `scripts/check-links.py` heute nicht ausfuehrbar, da `python`/`py` fehlen.
+- Kein GitHub-Pages-Publish aus dieser Laufzeit: `node` fehlt, und ein nutzbarer lokaler Git-Remote-Workflow ist weiterhin nicht verifiziert.
+
+Offene / verdaechtige Fragen
+- `database.json` enthaelt weiterhin keine `researchQuestions` mit Status `neu` oder `freigegeben`.
+- Keine Spam-/Prueffragen vorhanden.
+
+Verarbeitete Uploads
+- `pdfs/manual-uploads/` weiterhin leer, nur `.gitkeep` vorhanden.
+- Keine `manualUploads` in `database.json`.
+
+Veraenderte Statistiken
+- `findings` von 29 auf 30 erhoeht durch neues Markt-Finding zu Maintal/Genehmigungsrisiko.
+- `zoningPlans` unveraendert bei 25.
+- `pdfExtracts` unveraendert bei 24.
+- `assets/bw-municipality-coverage.json` auf `generatedAt=2026-06-12` fortgeschrieben.
+- `settings.lastRun` auf `2026-06-12` und `lastResearchSummary` auf den heutigen Stand gesetzt.
+
+Mail / Fragen-PDF
+- Kein Fragen-PDF erzeugt, da keine neuen `researchQuestions` oder `manualUploads` vorlagen.
+- Kein E-Mail-Versand erfolgt; `scripts/create-question-report.py` und `scripts/gmail-api.py send` benoetigen Python, das in dieser Laufzeit nicht vorhanden ist.
+
+Website
+- Lokaler Datenstand aktualisiert fuer https://jeremydays.github.io/iAccess-Rechenzentrum/
