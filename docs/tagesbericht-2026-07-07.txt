@@ -1,0 +1,70 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-07
+
+Neue Quellen
+- DataCenter-Insider: Socomec Smartsys Batteriespeicher im Schrank- und Containerformat fuer BESS-/MS-Anschluss-Benchmarks.
+- Golem.de: EU-Entwurf zu Oekostrom-/Effizienzvorgaben fuer Rechenzentren, relevant fuer PUE/WUE/Oekostromnachweise.
+- DatacenterDynamics: Hitzewellenbedingter Ausfall am Dawn-HPC-Standort als Kuehl-/Resilienzbenchmark.
+- CloudComputing-Insider: Microsoft Grevenbroich als Brownfield-/Grossflaechen-/Genehmigungsbenchmark.
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene BW-Gemeinden nach Kirchheim am Neckar:
+  - Freiberg am Neckar: https://www.freiberg-an.de/de/startseite (3 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, gewerbe)
+  - Pleidelsheim: https://www.pleidelsheim.de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server)
+  - Affalterbach: https://www.affalterbach.de/startseite (4 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: gewerbe, gewerbegebiet, netz, strom)
+  - Benningen am Neckar: https://www.benningen.de/de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, server, wärme)
+  - Erdmannhausen: https://www.erdmannhausen.de/ (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, breitband, gewerbe, gewerbegebiet, glasfaser, netz, server, strom)
+  - Schwieberdingen: https://www.schwieberdingen.de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server)
+  - Murr: https://www.gemeinde-murr.de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet)
+  - Eberdingen: https://www.eberdingen.de/ (2 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: keine)
+  - Sersheim: https://www.sersheim.de/start (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, bebauungsplan, fernwärme, flächennutzungsplan, gewerbe, glasfaser, netz, server)
+  - Vaihingen an der Enz: https://www.vaihingen.de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, bebauungsplan, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz)
+  - Asperg: https://www.asperg.de/ (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, glasfaser, netz, server, wärme)
+  - Ditzingen: https://www.ditzingen.de/ (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: flächennutzungsplan, gewerbe, netz, wärme)
+  - Gerlingen: https://www.gerlingen.de/start (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, bebauungsplan, fernwärme, flächennutzungsplan, gewerbe, netz, server, strom)
+  - Grossbottwar: https://www.grossbottwar.de/ (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, gewerbe, glasfaser, industrie, netz, server)
+  - Korntal-Muenchingen: https://www.korntal-muenchingen.de/willkommen (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, fernwärme, gewerbe, netz, server, strom, wärme)
+  - Kornwestheim: https://www.kornwestheim.de/start.html (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, bebauungsplan, gewerbe, netz, wärme)
+  - Ludwigsburg: https://www.ludwigsburg.de/start.html (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, bebauungsplan, fernwärme, flächennutzungsplan, gewerbe, glasfaser, industrie, netz)
+  - Markgroeningen: https://www.markgroeningen.de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bauleit, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server, wärme)
+  - Remseck am Neckar: https://www.stadt-remseck.de/ (5 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: gewerbe, wärme)
+  - Allmersbach im Tal: https://www.allmersbach.de/de/startseite (8 abrufbare kommunale Pfade; kein RZ-Fund; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, industrie, netz, strom, wärme)
+
+Lokal archivierte Quellen
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 294 bekannte Quellen, 280 gesichert/uebersprungen, 19 bekannte Abruf-Blocker.
+- Neu lokal gesichert bzw. bestaetigt wurden u.a. die vier Newsquellen, Socomec, Sersheim, Vaihingen an der Enz, Gerlingen, Korntal-Muenchingen, Kornwestheim, Ludwigsburg, Markgroeningen und Allmersbach im Tal.
+- Keine Bilder aufgenommen: Die gesichteten Vorschaubilder waren Presse-/Stock-/Symbolbilder oder ohne zwingenden Original-RZ-/Schemawert.
+- Keine technischen Zeichnungen erfunden oder hinzugefuegt.
+
+PDF-Verfuegbarkeit
+- Keine neuen RZ-spezifischen PDFs/Gutachten im Tageslauf gefunden.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0. Einziger Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
+
+Gepruefte Gemeinden
+- Freiberg am Neckar, Pleidelsheim, Affalterbach, Benningen am Neckar, Erdmannhausen, Schwieberdingen, Murr, Eberdingen, Sersheim, Vaihingen an der Enz, Asperg, Ditzingen, Gerlingen, Grossbottwar, Korntal-Muenchingen, Kornwestheim, Ludwigsburg, Markgroeningen, Remseck am Neckar, Allmersbach im Tal.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten RZ-/Datacenter-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 Gemeinden bleiben ohne direkten RZ-Fund; mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Vaihingen an der Enz, Asperg, Ditzingen, Gerlingen, Korntal-Muenchingen, Kornwestheim, Ludwigsburg, Remseck am Neckar.
+
+Neue PDFs/Gutachten
+- Keine neuen PDF-Gutachten heruntergeladen; keine RZ-spezifischen Gutachten, Planzeichnungen, Umwelt-/Schall-/Verkehrs-/Brandschutz-/Loeschwasserunterlagen gefunden.
+
+Neue Partner
+- Socomec als Technik-/Lieferantenoption fuer BESS, MS-Skid, Peak Shaving und Micro-DC-Flexibilitaet erfasst.
+
+Offene/verdächtige Fragen
+- Keine researchQuestions mit Status neu/freigegeben in database.json.
+
+Verarbeitete Uploads
+- Keine manualUploads in database.json; pdfs/manual-uploads/ enthaelt nur .gitkeep.
+
+Veränderte Statistiken
+- Aktueller Datenbankstand: findings 73 (+5 durch diesen Lauf: 4 News-/Benchmark-Findings, 1 Kommunal-Screening), companies 20 (+1 Socomec).
+- pdfExtracts 35, zoningPlans 26, gridChecks 6, connectivityChecks 5: keine neuen Eintraege.
+- Coverage: genau 20 weitere Gemeinden auf Tagesstatus 2026-07-07 gesetzt; notSystematicallyChecked jetzt 677, RZ gefunden unveraendert 16.
+
+Linkprüfung
+- scripts/check-links.py: checked 299, ok 279, blocked 20, broken 0. Keine echten Broken Links.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/

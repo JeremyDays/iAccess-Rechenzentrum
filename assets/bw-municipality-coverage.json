@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-06",
-  "source": "Automatisierte und manuelle Recherche; 2026-07-06 Fortsetzung nach Hessigheim pruefte 8 weitere offene BW-Gemeinden im Landkreis Ludwigsburg ohne direkten RZ-Fund.",
+  "generatedAt": "2026-07-07",
+  "source": "Automatisierte und manuelle Recherche; 2026-07-07 pruefte 20 weitere offene BW-Gemeinden im Landkreis Ludwigsburg/Rems-Murr-Korridor ohne direkten RZ-Fund.",
   "total": 1101,
   "found": 16,
-  "notSystematicallyChecked": 697,
+  "notSystematicallyChecked": 677,
   "items": [
     {
       "name": "Stuttgart",
@@ -1387,56 +1387,56 @@
       "name": "Freiberg am Neckar",
       "district": "Ludwigsburg",
       "code": "078",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.freiberg-an.de/de/startseite",
+      "notes": "Geprueft: https://www.freiberg-an.de/de/startseite; https://www.freiberg-an.de/de/wirtschaft-entwicklung-bauen; https://www.freiberg-an.de/de/index.php?id=627. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Pleidelsheim",
       "district": "Ludwigsburg",
       "code": "063",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.pleidelsheim.de/startseite",
+      "notes": "Geprueft: https://www.pleidelsheim.de/startseite; https://www.pleidelsheim.de/gemeinde-wirtschaft-service/impressum-service/inhalt; https://www.pleidelsheim.de/gemeinde-wirtschaft-service/impressum-service/impressum; https://www.pleidelsheim.de/gemeinde-wirtschaft-service/impressum-service/datenschutz; https://www.pleidelsheim.de/gemeinde-wirtschaft-service/impressum-service/erklaerung-zur-barrierefreiheit; https://www.pleidelsheim.de/gemeinde-wirtschaft-service/impressum-service/barriere-melden. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Affalterbach",
       "district": "Ludwigsburg",
       "code": "001",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.affalterbach.de/startseite",
+      "notes": "Geprueft: https://www.affalterbach.de/startseite; https://www.affalterbach.de/rathaus-service/aktuelles/rathaus-aktuell/979/news-aus-dem-gemeinderat-vom-25-juni-2026; https://www.affalterbach.de/leben-wohnen/wohnen-bauen/bebauungsplaene; https://www.affalterbach.de/rathaus-service/gemeinderat/sitzungstermine-tagesordnung-und-unterlagen. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Benningen am Neckar",
       "district": "Ludwigsburg",
       "code": "006",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.benningen.de/de/startseite",
+      "notes": "Geprueft: https://www.benningen.de/de/startseite; https://www.benningen.de/de/rathaus/politik/gemeinderat; https://www.benningen.de/de/rathaus/politik/ratsinformationssystem; https://www.benningen.de/de/leben/bauen/wohnbauflaechen; https://www.benningen.de/de/leben/bauen/bebauungsplaene-online; https://www.benningen.de/de/leben/bauen/ortskernsanierung-iii. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Erdmannhausen",
       "district": "Ludwigsburg",
       "code": "014",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.erdmannhausen.de/",
+      "notes": "Geprueft: https://www.erdmannhausen.de/; https://www.erdmannhausen.de/gemeinde-politik/gemeinderat; https://www.erdmannhausen.de/gemeinde-politik/gemeinderat/mitglieder; https://www.erdmannhausen.de/gemeinde-politik/gemeinderat/ausschuesse; https://www.erdmannhausen.de/gemeinde-politik/gemeinderat/ratsinformationssystem; https://www.erdmannhausen.de/wohnen-bauen/bauplaetze. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Marbach am Neckar",
@@ -1464,23 +1464,23 @@
       "name": "Schwieberdingen",
       "district": "Ludwigsburg",
       "code": "067",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.schwieberdingen.de/startseite",
+      "notes": "Geprueft: https://www.schwieberdingen.de/startseite; https://www.schwieberdingen.de/gemeinde-und-politik/aktuelles/amtsblatt; https://www.schwieberdingen.de/gemeinde-und-politik/aktuelles/bebauungsplaene; https://www.schwieberdingen.de/gemeinde-und-politik/aktuelles/oeffentliche-bekanntmachungen; https://www.schwieberdingen.de/24010950_24011629_24111648_24111663_24608945; https://www.schwieberdingen.de/gemeinde-und-politik/gemeindeentwicklung/breitbandausbau. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Murr",
       "district": "Ludwigsburg",
       "code": "054",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.gemeinde-murr.de/startseite",
+      "notes": "Geprueft: https://www.gemeinde-murr.de/startseite; https://www.gemeinde-murr.de/rathaus-service/verwaltung/amtliche-bekanntmachungen-ausschreibungen; https://www.gemeinde-murr.de/rathaus-service/buergerservice/bebauungsplaene; https://www.gemeinde-murr.de/rathaus-service/gemeinderat/mitglieder; https://www.gemeinde-murr.de/rathaus-service/gemeinderat/ratsinformationssystem; https://www.gemeinde-murr.de/rathaus-service/gemeinderat/sitzungstermine/seite-1/suche-none. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Steinheim an der Murr",
@@ -1497,12 +1497,12 @@
       "name": "Eberdingen",
       "district": "Ludwigsburg",
       "code": "012",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.eberdingen.de/",
+      "notes": "Geprueft: https://www.eberdingen.de/; https://www.eberdingen.de/news?action=view_one_article&article_id=360. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Oberriexingen",
@@ -1519,111 +1519,111 @@
       "name": "Sersheim",
       "district": "Ludwigsburg",
       "code": "068",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.sersheim.de/start",
+      "notes": "Geprueft: https://www.sersheim.de/start; https://www.sersheim.de/startseite/gemeinde/gemeinderat.html; https://www.sersheim.de/startseite/wirtschaft+_+bauen.html; https://www.sersheim.de/startseite/wirtschaft+_+bauen/ver-+und+entsorgung+sersheim+gmbh+_ves_.html; https://www.sersheim.de/startseite/wirtschaft+_+bauen/bebauungsplaene.html; https://www.sersheim.de/startseite/wirtschaft+_+bauen/bauleitplaene+im+beteiligungsverfahren.html. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Vaihingen an der Enz",
       "district": "Ludwigsburg",
       "code": "073",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.vaihingen.de/startseite",
+      "notes": "Geprueft: https://www.vaihingen.de/startseite; https://www.vaihingen.de/unsere-stadt/wirtschaft-stadtmarketing/wirtschaftsstandort; https://www.vaihingen.de/unsere-stadt/wirtschaft-stadtmarketing/invest-in-vaide; https://www.vaihingen.de/unsere-stadt/wirtschaft-stadtmarketing/gewerbe-immobilien; https://www.vaihingen.de/unsere-stadt/wirtschaft-stadtmarketing/stadtmarketing; https://www.vaihingen.de/unsere-stadt/wirtschaft-stadtmarketing/job-ausbildung. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Asperg",
       "district": "Ludwigsburg",
       "code": "003",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.asperg.de/",
+      "notes": "Geprueft: https://www.asperg.de/; https://www.asperg.de/rathaus-service/amtsblatt; https://www.asperg.de/rathaus-service/gemeinderat/mitglieder; https://www.asperg.de/rathaus-service/gemeinderat/ratsinformationssystem-und-sitzungsberichte; https://www.asperg.de/rathaus-service/gemeinderat/stadtrecht; https://www.asperg.de/kultur-freizeit/historische-rundwege/die-geschichte-der-kelten-und-ihre-zeugnisse. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Ditzingen",
       "district": "Ludwigsburg",
       "code": "011",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.ditzingen.de/",
+      "notes": "Geprueft: https://www.ditzingen.de/; https://www.ditzingen.de/service-rathaus/oeffentliche-bekanntmachungen-1; https://www.ditzingen.de/politik-gremien/gemeinderat-1; https://ditzingen.gremien.info/; https://www.ditzingen.de/politik-gremien/raete-und-abgeordnete-1; https://www.ditzingen.de/politik-gremien/jugendgemeinderat/ueber-uns-1. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Gerlingen",
       "district": "Ludwigsburg",
       "code": "019",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.gerlingen.de/start",
+      "notes": "Geprueft: https://www.gerlingen.de/start; https://www.gerlingen.de/start/netzmonitor; https://www.gerlingen.de/start/solarenergie; https://www.gerlingen.de/start/kommunale+waermeplanung; https://www.gerlingen.de/start/Gemeinderat_Politik; https://www.gerlingen.de/start/Gemeinderat. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "GroÃŸbottwar",
       "district": "Ludwigsburg",
       "code": "021",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.grossbottwar.de/",
+      "notes": "Geprueft: https://www.grossbottwar.de/; https://www.grossbottwar.de/seite/248230/historische-weinstadt.html; https://www.grossbottwar.de/seite/525288/gemeinderat.html; https://www.grossbottwar.de/seite/625111/wirtschaft,-natur,-klima,-%C3%B6pnv.html; https://www.grossbottwar.de/seite/625566/wirtschaftspartner-der-stadt.html; https://www.grossbottwar.de/seite/624220/gewerbeimmobilienb%C3%B6rse.html. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "Korntal-MÃ¼nchingen",
       "district": "Ludwigsburg",
       "code": "080",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.korntal-muenchingen.de/willkommen",
+      "notes": "Geprueft: https://www.korntal-muenchingen.de/willkommen; https://www.korntal-muenchingen.de/de/Aktuelles/Amtsblatt; https://www.korntal-muenchingen.de/de/Rathaus/Gemeinderat; https://www.korntal-muenchingen.de/de/Rathaus/Gemeinderat/Buerger-Info-System; https://www.korntal-muenchingen.de/de/Rathaus/Jugendgemeinderat; https://www.korntal-muenchingen.de/de/Rathaus/Wahlen/Jugendgemeinderatswahl. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Kornwestheim",
       "district": "Ludwigsburg",
       "code": "046",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.kornwestheim.de/start.html",
+      "notes": "Geprueft: https://www.kornwestheim.de/start.html; https://www.kornwestheim.de/start/rathaus/gemeinderat.html; https://www.kornwestheim.de/start/leben+und+wohnen/bauen+und+wohnen.html; https://www.kornwestheim.de/start/leben+und+wohnen/klima+und+energie.html; https://www.kornwestheim.de/start/wirtschaft.html; https://www.kornwestheim.de/start/wirtschaft/aktuelles_wirtschaft.html. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Ludwigsburg",
       "district": "Ludwigsburg",
       "code": "048",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.ludwigsburg.de/start.html",
+      "notes": "Geprueft: https://www.ludwigsburg.de/start.html; https://www.ludwigsburg.de/start/rathaus+und+service/gemeinderat+und+politik.html; https://www.ludwigsburg.de/start/leben+in+ludwigsburg/bauen+und+wohnen.html; https://www.ludwigsburg.de/start/leben+in+ludwigsburg/Klima+und+Energie.html; https://www.ludwigsburg.de/start/stadt+entwickeln/bauleitplanung.html; https://www.ludwigsburg.de/start/wirtschaft+und+innovation/newsletter+wirtschaft+im+fokus.html. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "MarkgrÃ¶ningen",
       "district": "Ludwigsburg",
       "code": "050",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.markgroeningen.de/startseite",
+      "notes": "Geprueft: https://www.markgroeningen.de/startseite; https://www.markgroeningen.de/stadt-markgroeningen/portrait-geschichte/historisches; https://www.markgroeningen.de/stadt-markgroeningen/wirtschaft/wirtschaftsfoerderung/aktuell/seite-1/suche-none; https://www.markgroeningen.de/stadt-markgroeningen/wirtschaft/wirtschaftsfoerderung/aufgaben-ansprechpartner; https://www.markgroeningen.de/stadt-markgroeningen/wirtschaft/wirtschaftsfoerderung/ziele; https://www.markgroeningen.de/stadt-markgroeningen/wirtschaft/wirtschaftsstandort/kurzportrait. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "MÃ¶glingen",
@@ -1651,12 +1651,12 @@
       "name": "Remseck am Neckar",
       "district": "Ludwigsburg",
       "code": "081",
-      "status": "noch nicht systematisch geprÃ¼ft",
-      "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
+      "priority": "mittel",
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.stadt-remseck.de/",
+      "notes": "Geprueft: https://www.stadt-remseck.de/; https://www.stadt-remseck.de/wirtschaft-remseck; https://www.stadt-remseck.de/aktuelles/oeffentliche-bekanntmachungen; https://www.stadt-remseck.de/unser-remseck-am-neckar/klimaschutz-energie; https://buergerinfo-remseck.de/buergerinfo/info.php. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen: groessere Stadt-/Gewerbe-/Industrie- und Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen."
     },
     {
       "name": "Sachsenheim",
@@ -1673,12 +1673,12 @@
       "name": "Allmersbach im Tal",
       "district": "Ludwigsburg",
       "code": "003",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "2026-07-07 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.allmersbach.de/de/startseite",
+      "notes": "Geprueft: https://www.allmersbach.de/de/startseite; https://www.allmersbach.de/de/rathaus-service/bauamt/bebauungsplaene; https://www.allmersbach.de/de/rathaus-service/gemeinderat; https://www.allmersbach.de/de/buerger-wohnen/amtsblatt/allgemein; https://www.allmersbach.de/de/buerger-wohnen/amtsblatt/amtsblatt-online-lesen; https://www.allmersbach.de/de/buerger-wohnen/energie-und-umwelt. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale priorisieren."
     },
     {
       "name": "AlthÃ¼tte",
@@ -1706,12 +1706,12 @@
       "name": "Auenwald",
       "district": "Ludwigsburg",
       "code": "006",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "noch nicht systematisch gepr?ft",
       "priority": "normal",
       "evidence": "",
       "source": "",
       "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, Bebauungspl?ne/FNP, Gewerbefl?chen, Netzbetreiber und Glasfaser pr?fen."
     },
     {
       "name": "Backnang",
@@ -1794,12 +1794,12 @@
       "name": "Schorndorf",
       "district": "Ludwigsburg",
       "code": "067",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "noch nicht systematisch gepr?ft",
       "priority": "normal",
       "evidence": "",
       "source": "",
       "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, Bebauungspl?ne/FNP, Gewerbefl?chen, Netzbetreiber und Glasfaser pr?fen."
     },
     {
       "name": "Winterbach",
@@ -1904,12 +1904,12 @@
       "name": "Alfdorf",
       "district": "Ludwigsburg",
       "code": "001",
-      "status": "noch nicht systematisch geprÃ¼ft",
+      "status": "noch nicht systematisch gepr?ft",
       "priority": "normal",
       "evidence": "",
       "source": "",
       "notes": "",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, Bebauungspl?ne/FNP, Gewerbefl?chen, Netzbetreiber und Glasfaser pr?fen."
     },
     {
       "name": "Berglen",

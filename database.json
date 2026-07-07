@@ -897,6 +897,19 @@
       "notes": "Kein Standort- oder Betreiberpartner. Als Lieferanten-/Technikoption fuer USV, LFP-Batterien und Lastglaettung in modularen RZ-Konzepten vormerken; Kuehl-, Brandschutz- und Gewichtsdaten separat beim Hersteller pruefen.",
       "tags": "EnerSys, USV, Batterie, LFP, BESS, KI-RZ, Micro-DC",
       "source": "https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/"
+    },
+    {
+      "id": "id-2026-07-07-socomec",
+      "created": "2026-07-07",
+      "updated": "2026-07-07",
+      "name": "Socomec",
+      "role": "Stromversorgungs- und Batteriespeichersystem-Hersteller fuer modulare RZ-/BESS-Konzepte",
+      "region": "Europa / Lieferantenpruefung",
+      "contact": "https://www.socomec.com/",
+      "references": "DataCenter-Insider meldet Smartsys C260 und M5000 mit Schrank- und Container-BESS sowie Mittelspannungs-Skid.",
+      "notes": "Kein Standortpartner. Fuer iAccess als Technik-/Lieferantenoption fuer Peak Shaving, Insel-/Netzparallelbetrieb, BESS-Brandschutz und MS-Anschluss vormerken.",
+      "tags": "Socomec, BESS, Batteriespeicher, Mittelspannung, Container, Micro-DC",
+      "source": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/"
     }
   ],
   "planning": [
@@ -3136,6 +3149,137 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; keine neuen Bilder, technischen Zeichnungen oder PDF-Gutachten aufgenommen."
+    },
+    {
+      "id": "id-2026-07-07-bw-8-gemeinden-ludwigsburg-screening",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-07",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.freiberg-an.de/de/startseite; https://www.pleidelsheim.de/startseite; https://www.affalterbach.de/startseite; https://www.benningen.de/de/startseite; https://www.erdmannhausen.de/; https://www.schwieberdingen.de/startseite; https://www.gemeinde-murr.de/startseite; https://www.eberdingen.de/",
+      "title": "8 weitere offene Gemeinden im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
+      "summary": "Fortsetzung der Coverage nach Kirchheim am Neckar: Geprueft wurden Freiberg am Neckar, Pleidelsheim, Affalterbach, Benningen am Neckar, Erdmannhausen, Schwieberdingen, Murr und Eberdingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Freiberg am Neckar und Schwieberdingen bleiben wegen Verdichtungsraum-/Gewerbelage mittlere Vorfilter, aber ohne konkrete freie GE/GI-Flaeche, Netzanschluss- oder Carrier-Hinweis kein harter iAccess-Kandidat. Die Freiburg/Denzlingen-Prioritaetsquellen wurden nur revalidiert; keine neue konkrete Flaeche gefunden.",
+      "action": "Coverage-Luecke weiter geschlossen und nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet. Naechste offene Coverage im Landkreis Ludwigsburg fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen weiterhin hoeher priorisieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Ludwigsburg",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Baden-RZ/Systemhaus Jerg."
+    },
+    {
+      "id": "id-2026-07-07-dci-socomec-bess-container",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-03",
+      "topic": "Strom / Speicher / Micro-DC-Technik",
+      "publisher": "DataCenter-Insider",
+      "sourceUrl": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/",
+      "title": "Socomec zeigt BESS im Schrank- und Containerformat fuer Gewerbe- und Netzanschlussfaelle",
+      "summary": "DataCenter-Insider berichtet ueber Socomec Smartsys C260 und M5000: ein integriertes Schranksystem mit 125 kVA/261 kWh, skalierbar bis 1 MVA bzw. 2 MWh, sowie ein 5-MWh-Container mit Mittelspannungs-Skid. Konfigurationen reichen laut Bericht bis 5 MVA / 20 MWh.",
+      "relevance": "Fuer kleine modulare Rechenzentren ist das ein konkreter Technikbaustein fuer Peak Shaving, Ueberbrueckung, PV-Kopplung, netzdienliche Betriebsweisen und Nachweis von Flexibilitaet gegenueber Netzbetreibern.",
+      "action": "Bei iAccess-Kandidaten Stromkonzept nicht nur als Anschlussleistung, sondern mit BESS-/Flexibilitaetsvariante, Aufstellflaeche, Brandschutz, Netzparallelbetrieb und MS-Skid-Bedarf pruefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "BESS",
+        "Socomec",
+        "Container",
+        "Mittelspannung",
+        "Peak Shaving",
+        "Micro-DC"
+      ]
+    },
+    {
+      "id": "id-2026-07-07-golem-eu-oekostrom-regeln-rz",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-02",
+      "topic": "Regulierung / Nachhaltigkeit / Strombezug",
+      "publisher": "Golem.de",
+      "sourceUrl": "https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html",
+      "title": "EU-Entwurf zu RZ-Oekostrom: strengere zeit- und zonengleiche Anrechnung offenbar abgeschwaecht",
+      "summary": "Golem berichtet, dass in einem EU-Entwurf fuer Effizienz- und Oekostromvorgaben bei Rechenzentren strengere Anforderungen an zeitnahe und gebotszonenbezogene erneuerbare Erzeugung abgeschwaecht wurden. Diskutiert werden weiter Effizienzlabel sowie PUE, WUE und Anteil erneuerbarer Energien.",
+      "relevance": "Auch wenn kleine iAccess-Projekte nicht Hyperscaler-Groessen erreichen, werden PUE, WUE, realer Strommix, Zusatzlichkeit, Wasserbedarf und Abwaermenutzung frueh zu Genehmigungs-, Akzeptanz- und Vermarktungsthemen.",
+      "action": "Screening-Notizen fuer Kandidaten um stundennahe Oekostromoption, lokale PV/BESS, Wasserarmut, Abwaermeabnehmer und belastbare Effizienzdaten ergaenzen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "EU",
+        "Energieeffizienz",
+        "Oekostrom",
+        "PUE",
+        "WUE",
+        "Nachhaltigkeit"
+      ]
+    },
+    {
+      "id": "id-2026-07-07-dcd-heatwave-cooling-risk",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-06",
+      "topic": "Kuehlung / Resilienz / Klima-Risiko",
+      "publisher": "DatacenterDynamics",
+      "sourceUrl": "https://www.datacenterdynamics.com/en/news/data-center-housing-uks-dawn-supercomputer-suffers-heatwave-related-outage-report/",
+      "title": "Hitzewelle legt HPC-Standort zeitweise lahm: Kuehlreserve wird Standortfilter",
+      "summary": "DatacenterDynamics berichtet, dass der Dawn-Supercomputer der University of Cambridge nach einer Hitzewelle wegen technischer Probleme der Kuehlinfrastruktur zeitweise offline war. Der Bericht nennt zudem weitere UK-Ausfaelle in Krankenhaus-IT bei ausgefallenen Chillersystemen.",
+      "relevance": "Fuer Edge- und Micro-Data-Center in Baden-Wuerttemberg ist das ein direkter Due-Diligence-Punkt: Sommertemperatur, freie Kuehlung, Rueckkuehler-Reserve, Notbetrieb und Servicezugang muessen zur Verfuegbarkeitsklasse passen.",
+      "action": "Bei Flaechenbewertung Kuehlkonzept gegen Hitzetage, Redundanz, Luftfuehrung, Rueckkuehler-Aufstellung, Laermschutz und wasserarme Betriebsweise separat bewerten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kuehlung",
+        "Hitzewelle",
+        "Resilienz",
+        "HPC",
+        "Betriebsrisiko"
+      ]
+    },
+    {
+      "id": "id-2026-07-07-cci-microsoft-grevenbroich-brownfield",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-02",
+      "topic": "Standortentwicklung / Brownfield / KI-Rechenzentren",
+      "publisher": "CloudComputing-Insider",
+      "sourceUrl": "https://www.cloudcomputing-insider.de/von-der-kohle-zur-ki-microsoft-investiert-weiter-in-rechenzentren-in-nrw-a-3a170243ab68b7bc7ba85f9efd1d9458/",
+      "title": "Microsoft Grevenbroich: Strukturwandel- und Grossflaechenbenchmark fuer RZ-Standorte",
+      "summary": "CloudComputing-Insider berichtet ueber einen weiteren geplanten Microsoft-Serverstandort in Grevenbroich. Genannt werden ein 23-ha-Grundstueck, Kauf unter Baugenehmigungsvorbehalt, Bezug zu Bedburg/Bergheim/Elsdorf und ein moeglicher Betrieb in den fruehen 2030er Jahren.",
+      "relevance": "Nicht Baden-Wuerttemberg, aber als Standortmuster relevant: grosse RZ-Entscheidungen koppeln Flaeche, Genehmigung, Strukturwandel, Industrieabnehmer, gegenseitige Standortabsicherung und Kuehl-/Energiekonzept.",
+      "action": "Fuer BW nur als Benchmark nutzen; kleine iAccess-Projekte brauchen dieselben Nachweise in kleinerem Massstab: gesicherte Flaeche, Netzpfad, Genehmigungsrisiko, Akzeptanz und Energie-/Kuehlkonzept.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Microsoft",
+        "NRW",
+        "Brownfield",
+        "Genehmigung",
+        "Kuehlung",
+        "Standortbenchmark"
+      ]
+    },
+    {
+      "id": "id-2026-07-07-bw-20-gemeinden-ludwigsburg-screening",
+      "date": "2026-07-07",
+      "publishedDate": "2026-07-07",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.freiberg-an.de/de/startseite; https://www.pleidelsheim.de/startseite; https://www.affalterbach.de/startseite; https://www.benningen.de/de/startseite; https://www.erdmannhausen.de/; https://www.schwieberdingen.de/startseite; https://www.gemeinde-murr.de/startseite; https://www.eberdingen.de/; https://www.sersheim.de/start; https://www.vaihingen.de/startseite; https://www.asperg.de/; https://www.ditzingen.de/; https://www.gerlingen.de/start; https://www.grossbottwar.de/; https://www.korntal-muenchingen.de/willkommen; https://www.kornwestheim.de/start.html; https://www.ludwigsburg.de/start.html; https://www.markgroeningen.de/startseite; https://www.stadt-remseck.de/; https://www.allmersbach.de/de/startseite",
+      "title": "20 weitere offene BW-Gemeinden im Ludwigsburg-/Rems-Murr-Korridor geprueft: kein direkter RZ-Fund",
+      "summary": "Fortsetzung der Coverage nach Kirchheim am Neckar: Geprueft wurden Freiberg am Neckar, Pleidelsheim, Affalterbach, Benningen am Neckar, Erdmannhausen, Schwieberdingen, Murr, Eberdingen, Sersheim, Vaihingen an der Enz, Asperg, Ditzingen, Gerlingen, Grossbottwar, Korntal-Muenchingen, Kornwestheim, Ludwigsburg, Markgroeningen, Remseck am Neckar, Allmersbach im Tal. Das Suchraster umfasste Gemeindeseiten, Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade sowie direkte Begriffe Rechenzentrum, Datacenter/Data Center und Serverfarm. Kein belastbarer direkter RZ-Fund.",
+      "relevance": "Als mittlere Vorfilter bleiben Vaihingen an der Enz, Asperg, Ditzingen, Gerlingen, Korntal-Muenchingen, Kornwestheim, Ludwigsburg, Remseck am Neckar wegen Stadtgroesse, Gewerbe-/Industriestruktur oder Infrastrukturkulisse interessanter als die kleineren Gemeinden. Ohne konkrete freie GE/GI-Flaeche, Netzanschluss- oder Carrier-Hinweis ist aber kein neuer iAccess-Standortkandidat entstanden.",
+      "action": "Diese 20 Gemeinden nur bei konkretem Flaechen-, Netz-, Abwaerme- oder Carrier-Anlass vertiefen. Fuer iAccess weiter Freiburg/Denzlingen/Emmendingen und klare Mittelspannungs-/Glasfaser-/Gewerbeflaechen-Signale hoeher priorisieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Ludwigsburg",
+        "Rems-Murr",
+        "Bebauungsplaene",
+        "RIS",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt. Im Kurzscreening wurden keine RZ-spezifischen Gutachten, technischen Zeichnungen oder verwertbaren Original-RZ-Bilder gefunden.",
+      "screeningWarnings": ""
     }
   ],
   "gridChecks": [
@@ -3413,6 +3557,8 @@
   },
   "metadata": {
     "lastResearchRun": "2026-07-05",
-    "lastResearchSummary": "2026-07-05 Nachtragslauf: Keine neuen researchQuestions/manualUploads. Drei Findings, ein Lieferantenkontakt und 20 weitere offene BW-Gemeinden im Alb-/Neckarraum ohne direkten RZ-Fund ergaenzt; keine neuen PDFs."
+    "lastResearchSummary": "2026-07-05 Nachtragslauf: Keine neuen researchQuestions/manualUploads. Drei Findings, ein Lieferantenkontakt und 20 weitere offene BW-Gemeinden im Alb-/Neckarraum ohne direkten RZ-Fund ergaenzt; keine neuen PDFs.",
+    "lastAutomationRun": "2026-07-07",
+    "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
 }
