@@ -1,0 +1,61 @@
+Tagesbericht RZ-Flaechenrecherche - 2026-06-11
+
+Neue Quellen
+- Denzlingen: Bekanntmachungen / Langacker-Weidenacker sowie Projektmeldung zur Gewerbeflaeche als heutige Revalidierungsquelle genutzt.
+- Voerstetten: Bekanntmachung Langacker II und UGG-Infoseite als heutige Revalidierungsquelle genutzt.
+- Reute: B-Plan-Seite mit Umwelt-/Schall-/Verkehrsunterlagen als heutige Revalidierungsquelle genutzt.
+- Emmendingen: Stadtplanung / FNP als heutige Revalidierungsquelle genutzt.
+- Gundelfingen, Teningen, Waldkirch, Offenburg, Appenweier, Kehl und weitere Prioritaetsgemeinden ueber offizielle Kommunalpfade bzw. bekannte Plan-/Infrastrukturseiten revalidiert.
+
+Lokal archivierte Quellen
+- assets/source-archive/manual/2026-06-11/formspree-und-kommunalquellen-2026-06-11.md um den 20-Gemeinden-Block ergaenzt.
+
+PDF-Verfuegbarkeit
+- scripts/check-pdf-availability.py heute nicht ausfuehrbar: Python in dieser Laufzeit nicht vorhanden.
+- Offizielle PDF-/Planlinks aus Denzlingen, Voerstetten, Reute, Waldkirch, Kirchzarten, Gottenheim, Breisach, Bötzingen und Appenweier wurden logisch gegen bekannte Pfade revalidiert, aber nicht per Skript geHEADet.
+
+Gepruefte Gemeinden
+- Heute 20 priorisierte offene BW-Gemeinden im Raum Freiburg/Emmendingen/Ortenau geprueft: Denzlingen, Emmendingen, Voerstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach am Rhein, Bad Krozingen, Lahr/Schwarzwald, Appenweier, Offenburg und Kehl.
+- Freiburg im Breisgau als bestehender RZ-Anker erneut im Kontext der Prioritaetsregion mitgefuehrt.
+- Kein neuer belastbarer RZ-Standort- oder B-Plan-Fund gegenueber dem Stand vom 2026-06-09.
+
+Gemeinden mit RZ-Fund
+- Keine neuen Gemeinden mit RZ-Fund.
+- Bestehende Anker bleiben Freiburg im Breisgau und Kehl sowie die bereits dokumentierten Standortlisten-Funde.
+
+Gemeinden ohne Fund / nur offen
+- Freiburg-Nord-Korridor Denzlingen / Voerstetten / Reute / Gundelfingen / Teningen bleibt wegen Gewerbe-, Glasfaser- und Bauleitplan-Indizien ein valider Edge-/Micro-DC-Suchraum.
+- Ortenau-Korridor Offenburg / Appenweier / Kehl bleibt fuer kleine Edge-/Serviceflaechen relevant.
+- Ohne direkten RZ-Fund, aber mit weiterem Vertiefungsbedarf: Bad Krozingen, Breisach am Rhein, Kirchzarten, March, Umkirch, Waldkirch und Lahr/Schwarzwald.
+
+Neue PDFs / Gutachten
+- Keine neuen lokalen PDF-Downloads.
+- Relevante bereits bekannte PDF-Pfade fuer Denzlingen, Voerstetten, Reute, Kirchzarten, Bötzingen und Appenweier bleiben im Fokus fuer einen Lauf mit funktionierendem Python-/Downloadpfad.
+
+Neue Partner
+- Keine neuen Marktpartner aufgenommen.
+
+Linkpruefung
+- scripts/check-links.py heute nicht ausfuehrbar: Python nicht vorhanden.
+- GitHub Pages Publish lokal nicht ausfuehrbar: kein nutzbarer Git-Remote-Workflow in dieser Laufzeit.
+- Gmail-/Outlook-/Teams-Ziele technisch aus dieser Laufzeit nicht nutzbar; Mailversand und Connector-gestuetzte Rueckkanaele bleiben blockiert.
+
+Offene / verdaechtige Fragen
+- database.json enthaelt weiterhin keine researchQuestions mit Status neu oder freigegeben.
+- Keine Spam-/Prueffragen vorhanden.
+
+Verarbeitete Uploads
+- pdfs/manual-uploads/ weiterhin leer, nur .gitkeep vorhanden.
+- Keine manualUploads in database.json.
+
+Veraenderte Statistiken
+- settings.lastRun auf 2026-06-11 gesetzt.
+- Neuer Finding-Eintrag zum Freiburg-Nord-Korridor als Edge-Kandidat ohne Direktfund in database.json und index.html gespiegelt.
+- assets/bw-municipality-coverage.json auf heutigen Revalidierungsstand 2026-06-11 fortgeschrieben.
+
+Mail / Fragen-PDF
+- Kein Fragen-PDF erzeugt, da keine neuen researchQuestions/manualUploads vorlagen und create-question-report.py ohne Python nicht lauffaehig ist.
+- Kein E-Mail-Versand erfolgt; `scripts/gmail-api.py send` und `scripts/create-question-report.py` benoetigen Python, das in dieser Laufzeit nicht verfuegbar ist.
+
+Website
+- Lokaler Datenstand: https://jeremydays.github.io/iAccess-Rechenzentrum/
