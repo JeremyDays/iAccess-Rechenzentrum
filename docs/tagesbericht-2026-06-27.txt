@@ -1,0 +1,77 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-06-27
+
+Neue Quellen
+- https://www.netze-bw.de/unsernetz/netzausbau/denzlingen
+- https://www.systemhaus-jerg.de/managed-service/rechenzentrum-neu
+- https://offenburg.de/de/arbeit-und-wirtschaft/breitband-2/
+- https://www.bonndorf.de/
+- https://www.wutach.de/startseite
+- https://www.dettighofen.de/start
+- https://www.jestetten.de/startseite
+- https://www.lottstetten.de/startseite
+- https://www.hohentengen.de/de/
+- https://www.kuessaberg.de/
+- https://www.gemeinde-grafenhausen.de/
+- https://www.uehlingen-birkendorf.de/
+- https://www.bad-saeckingen.de/startseite
+- https://www.herrischried.de/
+- https://www.murg.de/
+- https://www.rickenbach.de/
+- https://www.bernau-schwarzwald.de/startseite
+- https://www.dachsberg.de/
+- https://www.haeusern.de/
+- https://www.hoechenschwand.de/startseite
+- https://www.ibach.de/
+- https://www.stblasien.de/vorschaltseite
+- https://www.schluchsee.de/
+
+Lokal archivierte Quellen
+- Manuelles Quellenprotokoll fuer den Lauf am 2026-06-27 unter `assets/source-archive/manual/2026-06-27/branchennews-und-kommunalquellen-2026-06-27.md` angelegt.
+- Keine vollautomatische Web-/PDF-Archivierung mit `scripts/archive-sources.py`, da Python und Shell-Netzpfade in dieser Session weiter blockiert sind.
+
+PDF-Verfuegbarkeit
+- Kein neuer Lauf von `scripts/check-pdf-availability.py`.
+- Heute keine neuen lokalen PDF-Downloads; geoeffnet wurden vor allem kommunale HTML-Pfade sowie bestehende Betreiber-/Netzquellen.
+
+Gepruefte Gemeinden
+- Heute zusaetzlich offen geprueft: Bonndorf im Schwarzwald, Wutach, Dettighofen, Jestetten, Lottstetten, Hohentengen am Hochrhein, Kuessaberg, Grafenhausen, Uehlingen-Birkendorf, Bad Saeckingen, Herrischried, Murg, Rickenbach, Bernau im Schwarzwald, Dachsberg (Suedschwarzwald), Haeusern, Hoechenschwand, Ibach, St. Blasien und Schluchsee.
+- Keine neuen `researchQuestions` oder `manualUploads`; `pdfs/manual-uploads/` enthaelt weiter nur `.gitkeep`.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten Funde.
+- Bestaetigte Anker im Zielraum bleiben Freiburg im Breisgau und Kehl.
+
+Gemeinden ohne Fund / nur offen
+- Ohne direkten RZ-Fund, aber mit weiter plausiblen Infrastruktur- oder Datenpfaden: Hohentengen am Hochrhein, Herrischried, Rickenbach und Bad Saeckingen.
+- Eher nachrangige oder topografisch/touristisch dominierte Kleinstandorte: Bonndorf im Schwarzwald, Grafenhausen, Bernau im Schwarzwald, Haeusern, Hoechenschwand, St. Blasien und Schluchsee.
+
+Neue PDFs / Gutachten
+- Keine neuen lokalen PDF-Dateien.
+- Neue belastbare Kommunalpfade in `database.json`: Hohentengen (Gemeindewerke/Internet/Waermeplanung), Herrischried (Bebauungsplaene/Breitband/Gewerbegebiet), Rickenbach (Gewerbegebietserweiterung/Bebauungsplaene) und Bad Saeckingen (Gewerbeflaechen/Wirtschaftsdaten/Waermeplanung).
+
+Neue Partner / Player
+- Kein neuer Betreiber im Zielraum.
+- Neue kommunale Infrastrukturplayer heute vor allem ueber Gemeindewerke Hohentengen, das Baden-RZ/Systemhaus Jerg in Freiburg Nord, die Breitbandpfade von Herrischried und den Wirtschafts-/Waermeplanungspfad Bad Saeckingen.
+
+Linkpruefung
+- Kein neuer Lauf von `scripts/check-links.py`, weil die benoetigten Python-/Shell-Pfade in dieser Session blockiert bleiben.
+- Die heute neu aufgenommenen Webquellen wurden manuell ueber den Browser geoeffnet und auf Erreichbarkeit geprueft.
+
+Offene / verdaechtige Fragen
+- Keine neuen `researchQuestions`.
+- Keine Spam-, Werbe- oder Freigabefaelle.
+
+Verarbeitete Uploads
+- Keine neuen `manualUploads`.
+
+Veraenderte Statistiken
+- `assets/bw-municipality-coverage.json`: `notSystematicallyChecked` 943 -> 923, `checkedNoRZ` 142 -> 162; 20 offene Kommunen auf `heute geprueft` gesetzt.
+- `database.json`: vier neue Findings zu Hohentengen, Herrischried, Rickenbach und Bad Saeckingen; `settings.lastRun` und `settings.lastResearchSummary` auf 2026-06-27 aktualisiert.
+
+Website
+- Zielseite: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker
+- Das Arbeitsverzeichnis ist weiterhin kein lokales Git-Repository; daher heute kein lokaler GitHub-Pages-Publish.
+- Externe Shell-Netzwerkzugriffe sowie `python`/`py` fehlen weiterhin; dadurch heute kein regelkonformer Lauf fuer `archive-sources.py`, `check-pdf-availability.py`, `check-links.py`, `create-question-report.py` oder `gmail-api.py`.
+- Es liegen weiterhin keine neuen Fragen/Uploads vor; daher heute kein Fragen-PDF und kein Versand an `hornick@iaccess.de`.
