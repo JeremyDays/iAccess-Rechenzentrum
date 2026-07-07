@@ -1,0 +1,63 @@
+Tagesbericht RZ-Flaechenrecherche - 2026-06-13
+
+Neue Quellen
+- badenIT, 13.06.2026 geprueft: Offizielle Website bestaetigt lokales Glasfasernetz, geringe Latenzen und Cloud-/Hyperscaler-Anbindung ueber Basel, Freiburg und Frankfurt.
+- Gemeinde Denzlingen, Bebauungsplan Langacker-Weidenacker: 8,5 ha Gewerbeentwicklung mit Fortsetzung des Geringfeldele-Korridors, 110-kV-Leitung als technischer Pruefpunkt und vorhandenen Ver-/Entsorgungsachsen.
+- Gemeinde Appenweier, Meldung Glasfasernetz: In Gewerbe- und Industriegebieten gilt Glasfaser laut Gemeinde bereits seit 2017 als Standard.
+- Gemeinde Teningen, Bauleitplanung: WebGIS/Bebauungsplaene und aktuelle Nahwaermesatzung bleiben fuer waerme- und planungsseitige RZ-Screenings relevant.
+- Stadt Breisach am Rhein, Offenlage Neumatten II: rund 5,3 ha gewerbliche Bauflaechen als zweiter Bauabschnitt zur Erweiterung des bestehenden Gewerbegebiets.
+
+Lokal archivierte Quellen
+- Neu angelegt: assets/source-archive/manual/2026-06-13/branchennews-und-kommunalquellen-2026-06-13.md
+
+PDF-Verfuegbarkeit
+- Denzlingen-PDF Langacker-Weidenacker heute erneut fachlich ausgewertet; relevant fuer Gewerbeflaeche, 110-kV-Naehe und Erschliessung.
+- Reute, Teningen und Breisach weiterhin mit belastbaren Plan-/PDF-Pfaden auf offiziellen Seiten verknuepft.
+- `scripts/check-pdf-availability.py` konnte weiterhin nicht ausgefuehrt werden, weil `python`/`py` in dieser Laufzeit fehlen.
+
+Gepruefte Gemeinden
+- Heute 20 offene/priorisierte BW-Gemeinden im Raum Freiburg/Emmendingen/Ortenau erneut kommunal geprueft: Denzlingen, Emmendingen, Voerstetten, Gundelfingen, Waldkirch, March, Umkirch, Boetzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach am Rhein, Bad Krozingen, Lahr/Schwarzwald, Appenweier, Offenburg und Eichstetten am Kaiserstuhl.
+
+Gemeinden mit RZ-Fund
+- Keine neuen Gemeinden mit direktem RZ-Fund.
+- Freiburg im Breisgau und Kehl bleiben die bestehenden regionalen RZ-/Edge-Anker im erweiterten Suchraum.
+
+Gemeinden ohne Fund / nur offen
+- Denzlingen / Voerstetten / Reute / Teningen verdichten sich als Freiburg-Nord-Korridor fuer kleine Edge-/Container-RZ durch Gewerbeflaechen, Bauleitplanung und Netznah-Indizien.
+- Appenweier / Offenburg bleiben wegen bestehender Gewerbeachsen und dokumentierter Glasfaser stark fuer carrier- bzw. servicegetriebene Edge-Flaechen.
+- Breisach / Umkirch / Eichstetten bleiben als westliche Alternativen mit Gewerbe- bzw. Entwicklungsflaechen offen.
+- Glottertal bleibt schwach, weil kein belastbarer technischer Gewerbe- oder Infrastrukturfund sichtbar wurde.
+
+Neue PDFs / Gutachten
+- Kein neuer lokaler PDF-Download erfolgt.
+- Neu fachlich ausgewertet und im heutigen Finding gespiegelt: Denzlingen Langacker-Weidenacker (Kurzbegruendung / Infrastrukturhinweise).
+
+Neue Partner
+- Kein neuer Betreiber oder Baupartner aufgenommen.
+- badenIT heute als offizieller regionaler Konnektivitaetsindikator im Suchraum erneut verankert.
+
+Linkpruefung
+- `scripts/check-links.py` konnte weiterhin nicht ausgefuehrt werden, weil `python`/`py` fehlen.
+- Kein GitHub-Pages-Publish aus dieser Laufzeit: `node` fehlt, und das Arbeitsverzeichnis ist weiterhin kein lokal nutzbares Git-Repository.
+
+Offene / verdaechtige Fragen
+- `database.json` enthaelt weiterhin keine `researchQuestions` mit Status `neu` oder `freigegeben`.
+- Keine Spam-/Prueffragen vorhanden.
+
+Verarbeitete Uploads
+- `pdfs/manual-uploads/` enthaelt weiterhin nur `.gitkeep`.
+- Keine `manualUploads` in `database.json`.
+
+Veraenderte Statistiken
+- `findings` von 30 auf 31 erhoeht durch neues Standort-Finding zum Korridor Suedlicher Oberrhein.
+- `zoningPlans` unveraendert bei 25.
+- `pdfExtracts` unveraendert bei 24.
+- `assets/bw-municipality-coverage.json` auf `generatedAt=2026-06-13` und `lastCheckedAt=2026-06-13` fortgeschrieben.
+- `settings.lastRun` auf `2026-06-13` und `lastResearchSummary` auf den heutigen Stand gesetzt.
+
+Mail / Fragen-PDF
+- Kein Fragen-PDF erzeugt, da keine neuen `researchQuestions` oder `manualUploads` vorlagen.
+- Tagesbericht wird ohne Fragen-PDF separat per Mail versendet.
+
+Website
+- Lokaler Datenstand aktualisiert fuer https://jeremydays.github.io/iAccess-Rechenzentrum/
