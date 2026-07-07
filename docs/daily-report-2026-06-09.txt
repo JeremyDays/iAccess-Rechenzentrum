@@ -1,0 +1,56 @@
+Tagesbericht Rechenzentrum-Flaechenrecherche 2026-06-09
+
+Neue Quellen
+- 5 neue Branchenquellen/Fundstellen aufgenommen: Golem Netzanschluss-Engpass, Datacenter-Insider Brainqubes, Datacenter-Insider Atlas Edge, DCD Stadtwerke Luebeck, Datacenter-Insider EnEfG/Mittelstadtlogik.
+- 7 neue/vertiefte kommunale Quellen gesichert: Freiburg, Breisach, Eichstetten am Kaiserstuhl, Auggen, Buggingen, Neuenburg am Rhein, Eschbach/Gewerbepark Breisgau.
+
+Lokal archivierte Quellen
+- Text-Snapshots aktualisiert: assets/source-archive/manual/2026-06-09/branchennews-2026-06-09.md
+- Text-Snapshots aktualisiert: assets/source-archive/manual/2026-06-09/kommunal-bw-2026-06-09.md
+- Keine neuen Binary-PDF-Downloads moeglich, da Shell-HTTP in dieser Laufzeit blockiert ist.
+
+PDF-Verfuegbarkeit
+- Neue PDF-relevante Unterlagen identifiziert bei Eichstetten, Auggen, Buggingen und Neuenburg am Rhein.
+- Echte Download-/HEAD-Pruefung mit scripts/check-pdf-availability.py heute nicht ausfuehrbar, weil weder Python noch Shell-HTTP verfuegbar sind.
+
+Gepruefte Gemeinden
+- 20 weitere offene BW-Gemeinden heute kommunal geprueft: Hartheim, Ihringen, Merdingen, Buchenbach, Stegen, Ehrenkirchen, Ballrechten-Dottingen, Eschbach, Heitersheim, Horben, Merzhausen, Wittnau, Eichstetten am Kaiserstuhl, Auggen, Buggingen, Muellheim, Ebringen, Staufen im Breisgau, Neuenburg am Rhein, Soelden.
+
+Gemeinden mit RZ-Fund
+- Keine neuen direkten offiziellen RZ-Funde in den 20 heute neu geprueften offenen Gemeinden.
+- Bereits belastbar bleiben Freiburg und Kehl als Fokusraum mit starkem RZ-/Carrier-/Faserbezug.
+
+Gemeinden ohne Fund / weiter offen
+- Alle 20 neu geprueften Gemeinden derzeit ohne direkten offiziellen RZ-Nachweis.
+- Besonders weiterverfolgen trotz noch offenem RZ-Fund: Freiburg Nord, Breisach Rheinbruecke, Eschbach/Gewerbepark Breisgau, Neuenburg am Rhein, Auggen, Buggingen.
+
+Neue PDFs / Gutachten
+- Neue Gutachten-/Planpfade dokumentiert: Umweltbericht, Hydraulik und Artenschutz in Eichstetten; Schall, Verkehr und Geotechnik in Auggen; Umweltbericht in Buggingen; Schall/Umwelt/Artenschutz in Neuenburg am Rhein.
+
+Neue Partner / Player
+- Stadtwerke-/kommunaler Betreiberpfad als neues Muster durch Stadtwerke Luebeck.
+- Mittelstadt-/Nahwaerme-These aus Datacenter-Insider fuer BW-Screening konkretisiert.
+
+Linkpruefung
+- scripts/check-links.py heute nicht ausfuehrbar, weil Python und Shell-HTTP blockiert sind.
+- Relevante neue Quellen wurden stattdessen manuell ueber Web-Recherche validiert und als Text-Snapshot dokumentiert.
+
+Offene / verdaechtige Fragen
+- Keine neuen researchQuestions in database.json.
+- Keine Spam-/Freigabepruefung noetig.
+
+Verarbeitete Uploads
+- Keine neuen manualUploads in database.json.
+- Ordner pdfs/manual-uploads/ unveraendert, nur .gitkeep vorhanden.
+
+Veraenderte Statistiken
+- database.json: Findings 28, Zoning-Plans 25.
+- assets/bw-municipality-coverage.json: 39 Gemeinden aktuell als heute geprueft ohne RZ-Fund markiert, 16 mit RZ-Fund, 1046 noch nicht systematisch geprueft.
+- index.html auf neuen Seed-Stand synchronisiert und STORAGE_KEY auf iaccess-dc-datenraum-v4 angehoben.
+
+Publish / Versand
+- GitHub-Publish nicht ausfuehrbar: publish-github.mjs benoetigt GITHUB_TOKEN, der in dieser Laufzeit fehlt.
+- E-Mail-Versand nicht ausfuehrbar: scripts/gmail-api.py benoetigt Python, das in dieser Laufzeit nicht verfuegbar ist.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
