@@ -47,3 +47,54 @@ Vorgehen
 
 Naechster Fokus
 - Weitere offene Coverage nach Berglen fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
+
+---
+
+Zusatzlauf nach Berglen: Rems-Murr-/Heilbronn-Fortsetzung
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Gemeinden nach Berglen:
+  - Fellbach (Rems-Murr-Kreis): https://www.fellbach.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, strom)
+  - Kernen im Remstal (Rems-Murr-Kreis): https://www.kernen.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, netz, server, strom, wärme)
+  - Korb (Rems-Murr-Kreis): https://www.korb.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, server, wärme)
+  - Murrhardt (Rems-Murr-Kreis): https://www.murrhardt.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, fernwärme, flächennutzungsplan, gewerbe, glasfaser, industrie, netz, server, strom)
+  - Remshalden (Rems-Murr-Kreis): https://www.remshalden.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, server, wärme)
+  - Rudersberg (Rems-Murr-Kreis): https://www.rudersberg.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, strom)
+  - Waiblingen (Rems-Murr-Kreis): https://www.waiblingen.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gewerbe, netz, sondergebiet, strom, wärme)
+  - Weinstadt (Rems-Murr-Kreis): https://www.weinstadt.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server, wärme)
+  - Heilbronn (Heilbronn): https://www.heilbronn.de/startseite.html (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, strom)
+  - Bad Friedrichshall (Heilbronn): https://www.friedrichshall.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, glasfaser, industrie, netz, server, sondergebiet, strom)
+  - Oedheim (Heilbronn): https://www.oedheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, server, wärme)
+  - Offenau (Heilbronn): https://www.offenau.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, strom, wärme)
+  - Bad Rappenau (Heilbronn): https://www.badrappenau.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server, wärme)
+  - Kirchardt (Heilbronn): https://www.kirchardt.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, industrie, industriegebiet)
+  - Siegelsbach (Heilbronn): https://www.siegelsbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+  - Brackenheim (Heilbronn): https://www.brackenheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, glasfaser, industrie, industriegebiet, netz, sondergebiet, strom, wärme)
+  - Cleebronn (Heilbronn): https://www.cleebronn.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, glasfaser, server, strom, wärme)
+  - Eppingen (Heilbronn): https://www.eppingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gewerbe, industrie, industriegebiet, netz, strom, wärme)
+  - Gemmingen (Heilbronn): https://www.gemmingen.eu/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, sondergebiet, wärme)
+  - Ittlingen (Heilbronn): https://www.ittlingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, strom, wärme)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft/Bauen: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis Zusatzlauf
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Friedrichshall, Bad Rappenau, Eppingen, Fellbach, Heilbronn, Waiblingen, Weinstadt.
+- Alte Coverage-Altlasten mit falschen Quellen bei Remshalden/Kirchardt/Brackenheim wurden durch aktuelle kommunale Quellen ueberschrieben.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Berglen fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe Zusatzlauf
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 334 bekannte Quellen, 320 gesichert/uebersprungen, 19 bekannte Abruf-Blocker; neu gesichert wurden die 20 kommunalen Startquellen von Fellbach bis Ittlingen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; einziger Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
+- scripts/check-links.py: checked 339, ok 319, blocked 20, broken 0. Keine echten Broken Links.
+
+Naechster Fokus
+- Weitere offene Coverage nach Ittlingen fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
