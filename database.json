@@ -3304,6 +3304,30 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-08-bw-20-gemeinden-rems-murr-heilbronn-screening",
+      "date": "2026-07-08",
+      "publishedDate": "2026-07-08",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.fellbach.de/willkommen; https://www.kernen.de/willkommen; https://www.korb.de/; https://www.murrhardt.de/willkommen; https://www.remshalden.de/; https://www.rudersberg.de/de/startseite; https://www.waiblingen.de/willkommen; https://www.weinstadt.de/willkommen; https://www.heilbronn.de/startseite.html; https://www.friedrichshall.de/de/startseite; https://www.oedheim.de/startseite; https://www.offenau.de/startseite; https://www.badrappenau.de/; https://www.kirchardt.de/startseite; https://www.siegelsbach.de/startseite; https://www.brackenheim.de/startseite; https://www.cleebronn.de/; https://www.eppingen.de/startseite; https://www.gemmingen.eu/; https://www.ittlingen.de/startseite",
+      "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
+      "summary": "Fortsetzung der Coverage nach Berglen: Geprueft wurden Fellbach, Kernen im Remstal, Korb, Murrhardt, Remshalden, Rudersberg, Waiblingen, Weinstadt, Heilbronn, Bad Friedrichshall, Oedheim, Offenau, Bad Rappenau, Kirchardt, Siegelsbach, Brackenheim, Cleebronn, Eppingen, Gemmingen, Ittlingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur die groesseren bzw. besser erschlossenen Standorte Bad Friedrichshall, Bad Rappenau, Eppingen, Fellbach, Heilbronn, Waiblingen, Weinstadt. Ohne konkrete freie GE/GI-Flaeche, Netzanschluss- oder Carrier-Hinweis ist daraus noch kein harter iAccess-Kandidat ableitbar. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechenhinweis.",
+      "action": "Coverage-Luecke weiter geschlossen und nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet. Naechste offene Coverage nach Ittlingen fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen weiterhin sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Rems-Murr",
+        "Heilbronn",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
