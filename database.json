@@ -3280,6 +3280,30 @@
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt. Im Kurzscreening wurden keine RZ-spezifischen Gutachten, technischen Zeichnungen oder verwertbaren Original-RZ-Bilder gefunden.",
       "screeningWarnings": ""
+    },
+    {
+      "id": "id-2026-07-08-bw-20-gemeinden-rems-murr-screening",
+      "date": "2026-07-08",
+      "publishedDate": "2026-07-08",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.althuette.de/startseite; https://www.aspach.de/startseite; https://www.auenwald.de/startseite; https://www.backnang.de/start; https://www.burgstetten.de/de/startseite; https://www.kirchberg-murr.de/startseite; https://www.weissach-im-tal.de/; https://www.pluederhausen.de/; https://www.schorndorf.de/willkommen; https://www.winterbach.de/startseite; https://www.grosserlach.de/de/startseite; https://www.gemeinde-spiegelberg.de/de/startseite; https://www.sulzbach-murr.de/startseite; https://www.kaisersbach.de/startseite; https://www.welzheim.de/stadt/startseite; https://www.leutenbach.de/; https://www.schwaikheim.de/willkommen; https://www.winnenden.de/start; https://www.alfdorf.de/startseite; https://www.berglen.de/startseite",
+      "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
+      "summary": "Fortsetzung der Coverage nach Allmersbach im Tal: Geprueft wurden Althuette, Aspach, Auenwald, Backnang, Burgstetten, Kirchberg an der Murr, Weissach im Tal, Pluederhausen, Schorndorf, Winterbach, Grosserlach, Spiegelberg, Sulzbach an der Murr, Kaisersbach, Welzheim, Leutenbach, Schwaikheim, Winnenden, Alfdorf und Berglen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Backnang, Schorndorf, Winnenden, Welzheim, Pluederhausen und Winterbach bleiben wegen Stadtgroesse, Gewerbe-/Verkehrs- und Infrastrukturkulisse mittlere Vorfilter. Ohne konkrete freie GE/GI-Flaeche, Netzanschluss- oder Carrier-Hinweis ist daraus aber noch kein harter iAccess-Kandidat ableitbar. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechenhinweis.",
+      "action": "Coverage-Luecke weiter geschlossen und nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet. Naechste offene Coverage nach Berglen fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen weiterhin sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Rems-Murr",
+        "Ludwigsburg-Fortsetzung",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
