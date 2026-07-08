@@ -1,0 +1,49 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-08
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Gemeinden nach Allmersbach im Tal:
+  - Althuette: https://www.althuette.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, industrie, sondergebiet, strom, wärme)
+  - Aspach: https://www.aspach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, industriegebiet, netz, server, strom, wärme)
+  - Auenwald: https://www.auenwald.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, industrie, netz, server, strom, wärme)
+  - Backnang: https://www.backnang.de/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, wärme)
+  - Burgstetten: https://www.burgstetten.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, glasfaser, netz, server, strom, wärme)
+  - Kirchberg an der Murr: https://www.kirchberg-murr.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, wärme)
+  - Weissach im Tal: https://www.weissach-im-tal.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, strom, wärme)
+  - Pluederhausen: https://www.pluederhausen.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, industrie, netz, strom)
+  - Schorndorf: https://www.schorndorf.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, glasfaser, netz, server, strom, wärme)
+  - Winterbach: https://www.winterbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Grosserlach: https://www.grosserlach.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, netz, strom)
+  - Spiegelberg: https://www.gemeinde-spiegelberg.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz)
+  - Sulzbach an der Murr: https://www.sulzbach-murr.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, server)
+  - Kaisersbach: https://www.kaisersbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flaechennutzungsplan, flächennutzungsplan, gewerbe, glasfaser, industrie, server, wärme)
+  - Welzheim: https://www.welzheim.de/stadt/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+  - Leutenbach: https://www.leutenbach.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, industrie, netz, wärme)
+  - Schwaikheim: https://www.schwaikheim.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, server, strom)
+  - Winnenden: https://www.winnenden.de/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, glasfaser, netz, wärme)
+  - Alfdorf: https://www.alfdorf.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz)
+  - Berglen: https://www.berglen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, netz, server, strom)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/wirtschaft)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Pluederhausen, Winterbach, Winnenden, Welzheim, Backnang, Schorndorf.
+- Die kleineren Gemeinden bleiben ohne konkreten RZ-Anlass niedrig priorisiert.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 314 bekannte Quellen, 300 gesichert/uebersprungen, 19 bekannte Abruf-Blocker.
+- Neu lokal gesichert wurden die 20 kommunalen Startquellen dieses Laufs von Althuette bis Berglen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; einziger Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
+- scripts/check-links.py: checked 319, ok 299, blocked 20, broken 0. Keine echten Broken Links.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Allmersbach im Tal fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Naechster Fokus
+- Weitere offene Coverage nach Berglen fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
