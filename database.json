@@ -3351,6 +3351,30 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-09-cron2-heilbronn-hohenlohe-20-screening",
+      "date": "2026-07-09",
+      "publishedDate": "2026-07-09",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.beilstein.de/; https://www.ilsfeld.de/; https://www.untergruppenbach.de/startseite; https://www.massenbachhausen.de/startseite; https://www.schwaigern.de/; https://www.eberstadt.de/startseite; https://www.lehrensteinsfeld.de/; https://www.weinsberg.de/; https://www.badwimpfen.de/gaeste-bereich/startseite; https://www.gundelsheim.de/startseite; https://www.leingarten.de/startseite; https://www.neudenau.de/de/startseite; https://www.gemeinde-wuestenrot.de/de/startseite; https://www.kupferzell.de/startseite; https://www.neuenstein.de/startseite; https://www.waldenburg-hohenlohe.de/startseite; https://www.doerzbach.de/; https://www.krautheim.de/startseite; https://www.mulfingen.de/; https://www.ingelfingen.de/de/startseite",
+      "title": "Cron #2: 20 weitere Gemeinden nach Abstatt geprueft: keine belastbaren RZ-Flaechenfunde",
+      "summary": "Fortsetzung der Coverage nach Abstatt, Ellhofen als bereits bekannter RZ-Bestand uebersprungen: Geprueft wurden Beilstein, Ilsfeld, Untergruppenbach, Massenbachhausen, Schwaigern, Eberstadt, Lehrensteinsfeld, Weinsberg, Bad Wimpfen, Gundelsheim, Leingarten, Neudenau, Wuestenrot, Kupferzell, Neuenstein, Waldenburg, Doerzbach, Krautheim, Mulfingen, Ingelfingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Wimpfen, Ilsfeld, Ingelfingen, Kupferzell, Leingarten, Neuenstein, Schwaigern, Untergruppenbach, Weinsberg. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
+      "action": "Coverage weiter nach Hohenlohe fortsetzen; falsch vorbefuellte Altquellen wurden durch kommunale Primaerquellen ersetzt. Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Heilbronn",
+        "Hohenlohekreis",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
@@ -3600,7 +3624,7 @@
     "formspreeEndpoint": "",
     "autoDaily": true,
     "lastRun": "2026-07-09",
-    "lastResearchSummary": "2026-07-09: 20 weitere Heilbronner Gemeinden nach Ittlingen geprueft; keine neuen belastbaren RZ-Flaechenfunde, aber Coverage-Altlasten mit falschen Quellen korrigiert.",
+    "lastResearchSummary": "2026-07-09 Cron #2: 20 weitere Gemeinden nach Abstatt in Heilbronn/Hohenlohe geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3628,7 +3652,7 @@
   },
   "metadata": {
     "lastResearchRun": "2026-07-09",
-    "lastResearchSummary": "2026-07-09: 20 weitere Heilbronner Gemeinden nach Ittlingen geprueft; keine neuen belastbaren RZ-Flaechenfunde, aber Coverage-Altlasten mit falschen Quellen korrigiert.",
+    "lastResearchSummary": "2026-07-09 Cron #2: 20 weitere Gemeinden nach Abstatt in Heilbronn/Hohenlohe geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
