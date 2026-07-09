@@ -1,0 +1,48 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-09
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene bzw. fehlerhaft vorbefuellte Gemeinden nach Ittlingen im Landkreis Heilbronn:
+  - Flein (Heilbronn): https://www.flein.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, strom, wärme)
+  - Talheim (Heilbronn): https://www.talheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, kommunale wärmeplanung, netz, wärme)
+  - Lauffen am Neckar (Heilbronn): https://www.lauffen.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, wärme)
+  - Nordheim (Heilbronn): https://www.nordheim.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, wärme)
+  - Jagsthausen (Heilbronn): https://www.jagsthausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, glasfaser, kommunale wärmeplanung, netz, strom, wärme)
+  - Moeckmuehl (Heilbronn): https://www.moeckmuehl.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, industrie, industriegebiet, server)
+  - Roigheim (Heilbronn): https://www.roigheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, industrie, netz, server)
+  - Widdern (Heilbronn): https://www.widdern.de/de (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, strom, wärme)
+  - Erlenbach (Heilbronn): https://www.erlenbach-hn.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, gewerbegebiet, server, strom)
+  - Neckarsulm (Heilbronn): https://www.neckarsulm.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, bebauungsplan, fernwärme, flächennutzungsplan, gewerbe, netz, sondergebiet, strom, wärme)
+  - Untereisesheim (Heilbronn): https://www.untereisesheim.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, netz, server, strom)
+  - Hardthausen am Kocher (Heilbronn): https://www.hardthausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, server, wärme)
+  - Langenbrettach (Heilbronn): https://www.langenbrettach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, industrie, kommunale wärmeplanung, netz, server, wärme)
+  - Neuenstadt am Kocher (Heilbronn): https://www.neuenstadt.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, industrie, kommunale wärmeplanung, netz, wärme)
+  - Gueglingen (Heilbronn): https://www.gueglingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, glasfaser, industrie, netz, server, strom)
+  - Pfaffenhofen (Heilbronn): https://www.pfaffenhofen-wuertt.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, netz, server)
+  - Zaberfeld (Heilbronn): https://www.zaberfeld.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, server, strom)
+  - Loewenstein (Heilbronn): https://www.loewenstein.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Obersulm (Heilbronn): https://www.obersulm.de/de (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gewerbe, gewerbegebiet, glasfaser, netz, server)
+  - Abstatt (Heilbronn): https://www.abstatt.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, industrie, server, sondergebiet)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft/Bauen: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Abstatt, Lauffen am Neckar, Neckarsulm, Neuenstadt am Kocher, Nordheim, Obersulm.
+- Flein, Erlenbach, Untereisesheim und Loewenstein wurden bewusst neu geprueft, weil ihre Coverage-Eintraege alte Fehlquellen aus anderen Regionen enthielten.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Ittlingen fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 354 bekannte Quellen, 340 gesichert/uebersprungen, 19 bekannte Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Flein bis Abstatt.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; einziger PDF-Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
+- scripts/check-links.py: checked 359, ok 339, blocked 20, broken 0. Keine echten Broken Links.
+
+Naechster Fokus
+- Weitere offene Coverage nach Abstatt im Landkreis Heilbronn fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
