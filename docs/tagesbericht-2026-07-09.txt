@@ -46,3 +46,49 @@ Lokale Sicherung / Prueflaeufe
 
 Naechster Fokus
 - Weitere offene Coverage nach Abstatt im Landkreis Heilbronn fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
+
+---
+
+Cron #2 Zusatzlauf nach Abstatt: Heilbronn/Hohenlohe-Fortsetzung
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene bzw. fehlerhaft vorbefuellte Gemeinden nach Abstatt; Ellhofen als bereits bekannter RZ-Bestand uebersprungen:
+  - Beilstein (Heilbronn): https://www.beilstein.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie)
+  - Ilsfeld (Heilbronn): https://www.ilsfeld.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, glasfaser, industrie, netz, strom, wärme)
+  - Untergruppenbach (Heilbronn): https://www.untergruppenbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Massenbachhausen (Heilbronn): https://www.massenbachhausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Schwaigern (Heilbronn): https://www.schwaigern.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Eberstadt (Heilbronn): https://www.eberstadt.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, kommunale wärmeplanung, wärme)
+  - Lehrensteinsfeld (Heilbronn): https://www.lehrensteinsfeld.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server)
+  - Weinsberg (Heilbronn): https://www.weinsberg.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, server)
+  - Bad Wimpfen (Heilbronn): https://www.badwimpfen.de/gaeste-bereich/startseite (2 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, wärme)
+  - Gundelsheim (Heilbronn): https://www.gundelsheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, kommunale wärmeplanung, netz, server, trafo, waerme, waermeplanung, wärme)
+  - Leingarten (Heilbronn): https://www.leingarten.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, kommunale wärmeplanung, netz, server, wärme)
+  - Neudenau (Heilbronn): https://www.neudenau.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, kommunale wärmeplanung, server, wärme)
+  - Wuestenrot (Heilbronn): https://www.gemeinde-wuestenrot.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe)
+  - Kupferzell (Hohenlohekreis): https://www.kupferzell.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bebauungsplan, breitband, gewerbe, kommunale wärmeplanung, netz, wärme)
+  - Neuenstein (Hohenlohekreis): https://www.neuenstein.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, netz, strom)
+  - Waldenburg (Hohenlohekreis): https://www.waldenburg-hohenlohe.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, kommunale wärmeplanung, netz, server, waerme, waermeplanung, wärme)
+  - Doerzbach (Hohenlohekreis): https://www.doerzbach.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, industrie)
+  - Krautheim (Hohenlohekreis): https://www.krautheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, industrie, server)
+  - Mulfingen (Hohenlohekreis): https://www.mulfingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, strom)
+  - Ingelfingen (Hohenlohekreis): https://www.ingelfingen.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, strom, wärme)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft/Bauen: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis Zusatzlauf
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Wimpfen, Ilsfeld, Ingelfingen, Kupferzell, Leingarten, Neuenstein, Schwaigern, Untergruppenbach, Weinsberg.
+- Weinsberg, Gundelsheim, Krautheim und Ingelfingen wurden bewusst neu geprueft, weil Coverage-Eintraege alte Fehlquellen aus anderen Regionen enthielten.
+
+Vorgehen Zusatzlauf
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Abstatt fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Naechster Fokus
+- Weitere offene Coverage nach Ingelfingen/Kuenzelsau im Hohenlohekreis fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
