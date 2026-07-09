@@ -44,6 +44,11 @@ Lokale Sicherung / Prueflaeufe
 - scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; einziger PDF-Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
 - scripts/check-links.py: checked 359, ok 339, blocked 20, broken 0. Keine echten Broken Links.
 
+Lokale Sicherung / Prueflaeufe Zusatzlauf
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 374 bekannte Quellen, 360 gesichert/uebersprungen, 19 bekannte Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Beilstein bis Ingelfingen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 1, publicUnavailable 0; einziger PDF-Blocker bleibt RP Darmstadt / EdgeConneX Heusenstamm.
+- scripts/check-links.py: checked 379, ok 358, blocked 20, broken 1. Einziger Broken/Timeout in diesem Lauf: rzzr.de / Rechenzentrum Zschortau-Rackwitz; als transienten Pruefpunkt beobachten, kein BW-Flächenfund betroffen.
+
 Naechster Fokus
 - Weitere offene Coverage nach Abstatt im Landkreis Heilbronn fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
 
