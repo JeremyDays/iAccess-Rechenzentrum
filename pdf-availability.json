@@ -1,10 +1,10 @@
 {
-  "checkedAt": "2026-07-09",
+  "checkedAt": "2026-07-10",
   "total": 35,
   "localAvailable": 17,
-  "publicAvailable": 34,
+  "publicAvailable": 33,
   "publicBlocked": 1,
-  "publicUnavailable": 0,
+  "publicUnavailable": 1,
   "items": [
     {
       "municipality": "Wustermark",
@@ -84,12 +84,12 @@
       "localFile": "pdfs/brieselang-uvpg-vorprÃ¼fung-bebauungsplan-nr-117-rechenzentrum.pdf",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
+      "ok": false,
       "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
-      "contentType": "application/pdf; charset=UTF-8",
-      "error": ""
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=20)"
     },
     {
       "municipality": "Ankum",
