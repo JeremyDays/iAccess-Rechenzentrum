@@ -3375,6 +3375,30 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-10-cron2-hohenlohe-schwaebischhall-20-screening",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.kuenzelsau.de/start; https://www.forchtenberg.de/startseite; https://www.niedernhall.de/startseite; https://www.gemeinde-weissbach.de/startseite; https://www.oehringen.de/; https://www.pfedelbach.de/startseite; https://www.zweiflingen.de/; https://www.bretzfeld.de/startseite; https://www.schoental.de/de/startseite; https://www.braunsbach.de/startseite; https://www.untermuenkheim.de/; https://www.crailsheim.de/startseite; https://www.frankenhardt.de/de/startseite; https://www.satteldorf.de/; https://www.stimpfach.de/startseite; https://www.fichtenau.de/startseite; https://www.kressberg.de/home; https://www.gerabronn.de/startseite; https://www.langenburg.de/de/vorseite; https://www.ilshofen.de/startseite",
+      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
+      "summary": "Fortsetzung der Coverage nach Ingelfingen/Kuenzelsau: Geprueft wurden Kuenzelsau, Forchtenberg, Niedernhall, Weissbach, Oehringen, Pfedelbach, Zweiflingen, Bretzfeld, Schoental, Braunsbach, Untermuenkheim, Crailsheim, Frankenhardt, Satteldorf, Stimpfach, Fichtenau, Kressberg, Gerabronn, Langenburg, Ilshofen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bretzfeld, Crailsheim, Ilshofen, Kuenzelsau, Niedernhall, Oehringen, Untermuenkheim. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
+      "action": "Coverage weiter im Landkreis Schwaebisch Hall fortsetzen; fehlerhaft vorbefuellte Altquellen wurden durch kommunale Primaerquellen ersetzt. Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Hohenlohekreis",
+        "Schwaebisch Hall",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
@@ -3623,8 +3647,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-09",
-    "lastResearchSummary": "2026-07-09 Cron #2: 20 weitere Gemeinden nach Abstatt in Heilbronn/Hohenlohe geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastRun": "2026-07-10",
+    "lastResearchSummary": "2026-07-10 Cron #2: 20 weitere Gemeinden nach Ingelfingen/Kuenzelsau in Hohenlohe/Schwaebisch Hall geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3651,8 +3675,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-09",
-    "lastResearchSummary": "2026-07-09 Cron #2: 20 weitere Gemeinden nach Abstatt in Heilbronn/Hohenlohe geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastResearchRun": "2026-07-10",
+    "lastResearchSummary": "2026-07-10 Cron #2: 20 weitere Gemeinden nach Ingelfingen/Kuenzelsau in Hohenlohe/Schwaebisch Hall geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
