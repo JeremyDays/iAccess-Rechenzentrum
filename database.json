@@ -3399,6 +3399,30 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-10-cron2-schwaebischhall-maintauber-20-screening",
+      "date": "2026-07-10",
+      "publishedDate": "2026-07-10",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.vellberg.de/startseite; https://www.wolpertshausen.de/startseite; https://www.fichtenberg.de/startseite; https://www.gaildorf.de/; https://www.oberrot.de/de/startseite; https://www.sulzbach-laufen.de/startseite; https://www.buehlertann.de/startseite; https://www.buehlerzell.de/; https://www.obersontheim.de/startseite; https://www.kirchberg-jagst.de/startseite; https://www.rotamsee.de/; https://www.wallhausen.de/; https://www.michelbach-bilz.de/startseite; https://www.michelfeld.de/; https://www.rosengarten.de/; https://www.schwaebischhall.de/de/startseite; https://www.blaufelden.de/startseite; https://www.mainhardt.de/startseite; https://schrozberg.de/; https://www.assamstadt.de/",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
+      "summary": "Fortsetzung der Coverage nach Ilshofen/Vellberg: Geprueft wurden Vellberg, Wolpertshausen, Fichtenberg, Gaildorf, Oberrot, Sulzbach-Laufen, Buehlertann, Buehlerzell, Obersontheim, Kirchberg an der Jagst, Rot am See, Wallhausen, Michelbach an der Bilz, Michelfeld, Rosengarten, Schwaebisch Hall, Blaufelden, Mainhardt, Schrozberg, Assamstadt ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Blaufelden, Gaildorf, Mainhardt, Obersontheim, Rot am See, Schrozberg, Schwaebisch Hall. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
+      "action": "Coverage im Main-Tauber-Kreis nach Assamstadt fortsetzen; fehlerhaft vorbefuellte Altquellen wurden durch kommunale Primaerquellen ersetzt. Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Schwaebisch Hall",
+        "Main-Tauber-Kreis",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
@@ -3648,7 +3672,7 @@
     "formspreeEndpoint": "",
     "autoDaily": true,
     "lastRun": "2026-07-10",
-    "lastResearchSummary": "2026-07-10 Cron #2: 20 weitere Gemeinden nach Ingelfingen/Kuenzelsau in Hohenlohe/Schwaebisch Hall geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastResearchSummary": "2026-07-10 Cron #2 Zusatzlauf: 20 weitere Gemeinden nach Ilshofen/Vellberg in Schwaebisch Hall/Main-Tauber geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3676,7 +3700,7 @@
   },
   "metadata": {
     "lastResearchRun": "2026-07-10",
-    "lastResearchSummary": "2026-07-10 Cron #2: 20 weitere Gemeinden nach Ingelfingen/Kuenzelsau in Hohenlohe/Schwaebisch Hall geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastResearchSummary": "2026-07-10 Cron #2 Zusatzlauf: 20 weitere Gemeinden nach Ilshofen/Vellberg in Schwaebisch Hall/Main-Tauber geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
