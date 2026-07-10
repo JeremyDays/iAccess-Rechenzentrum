@@ -1,0 +1,50 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-10
+
+Cron #2: Hohenlohe/Schwaebisch-Hall-Fortsetzung nach Ingelfingen/Kuenzelsau
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene bzw. fehlerhaft vorbefuellte Gemeinden:
+  - Kuenzelsau (Hohenlohekreis): https://www.kuenzelsau.de/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, sondergebiet)
+  - Forchtenberg (Hohenlohekreis): https://www.forchtenberg.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, gewerbegebiet, industrie, strom)
+  - Niedernhall (Hohenlohekreis): https://www.niedernhall.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, breitband, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, strom, wärme)
+  - Weissbach (Hohenlohekreis): https://www.gemeinde-weissbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server, strom, trafo)
+  - Oehringen (Hohenlohekreis): https://www.oehringen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz)
+  - Pfedelbach (Hohenlohekreis): https://www.pfedelbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, server)
+  - Zweiflingen (Hohenlohekreis): https://www.zweiflingen.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Bretzfeld (Hohenlohekreis): https://www.bretzfeld.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, server)
+  - Schoental (Hohenlohekreis): https://www.schoental.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, glasfaser, industrie, netz, strom)
+  - Braunsbach (Schwaebisch Hall): https://www.braunsbach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, glasfaser, industrie, server, sondergebiet, strom, wärme)
+  - Untermuenkheim (Schwaebisch Hall): https://www.untermuenkheim.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, server, sondergebiet, strom, wärme)
+  - Crailsheim (Schwaebisch Hall): https://www.crailsheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server, wärme)
+  - Frankenhardt (Schwaebisch Hall): https://www.frankenhardt.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, gewerbegebiet, strom)
+  - Satteldorf (Schwaebisch Hall): https://www.satteldorf.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server)
+  - Stimpfach (Schwaebisch Hall): https://www.stimpfach.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, glasfaser, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Fichtenau (Schwaebisch Hall): https://www.fichtenau.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, strom, wärme)
+  - Kressberg (Schwaebisch Hall): https://www.kressberg.de/home (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, glasfaser, industrie, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Gerabronn (Schwaebisch Hall): https://www.gerabronn.de/startseite (6 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, server, strom)
+  - Langenburg (Schwaebisch Hall): https://www.langenburg.de/de/vorseite (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Ilshofen (Schwaebisch Hall): https://www.ilshofen.de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft/Bauen: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bretzfeld, Crailsheim, Ilshofen, Kuenzelsau, Niedernhall, Oehringen, Untermuenkheim.
+- Niedernhall und Fichtenau wurden bewusst neu geprueft, weil Coverage-Eintraege alte/regionfremde Quellen enthielten.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Ingelfingen/Kuenzelsau fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 394 bekannte Quellen, 380 gesichert/uebersprungen, 19 bekannte Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Kuenzelsau bis Ilshofen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 33, publicBlocked 1, publicUnavailable 1. Blockiert bleibt RP Darmstadt / EdgeConneX Heusenstamm; temporär nicht erreichbar war Brieselang Umweltbericht/B-Plan-PDF.
+- scripts/check-links.py: checked 399, ok 377, blocked 20, broken 2. Die zwei Broken/Timeouts betreffen Brieselang-Links, nicht BW-Flaechen.
+
+Naechster Fokus
+- Weitere offene Coverage nach Ilshofen/Vellberg im Landkreis Schwaebisch Hall fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
