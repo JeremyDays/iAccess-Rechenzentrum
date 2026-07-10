@@ -48,3 +48,55 @@ Lokale Sicherung / Prueflaeufe
 
 Naechster Fokus
 - Weitere offene Coverage nach Ilshofen/Vellberg im Landkreis Schwaebisch Hall fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
+
+---
+
+Cron #2 Zusatzlauf nach Ilshofen/Vellberg: Schwaebisch-Hall/Main-Tauber-Fortsetzung
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene bzw. fehlerhaft vorbefuellte Gemeinden:
+  - Vellberg (Schwaebisch Hall): https://www.vellberg.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, industrie, netz, server, strom)
+  - Wolpertshausen (Schwaebisch Hall): https://www.wolpertshausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gewerbe, gewerbegebiet, netz, wärme)
+  - Fichtenberg (Schwaebisch Hall): https://www.fichtenberg.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, gewerbegebiet, netz, server)
+  - Gaildorf (Schwaebisch Hall): https://www.gaildorf.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, glasfaser, netz)
+  - Oberrot (Schwaebisch Hall): https://www.oberrot.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gewerbe, industrie, netz)
+  - Sulzbach-Laufen (Schwaebisch Hall): https://www.sulzbach-laufen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, netz, server, strom)
+  - Buehlertann (Schwaebisch Hall): https://www.buehlertann.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, netz, server)
+  - Buehlerzell (Schwaebisch Hall): https://www.buehlerzell.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Obersontheim (Schwaebisch Hall): https://www.obersontheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, wärme)
+  - Kirchberg an der Jagst (Schwaebisch Hall): https://www.kirchberg-jagst.de/startseite (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flaechennutzungsplan, gewerbe, netz, server, strom)
+  - Rot am See (Schwaebisch Hall): https://www.rotamsee.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, netz, strom)
+  - Wallhausen (Schwaebisch Hall): https://www.wallhausen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, strom)
+  - Michelbach an der Bilz (Schwaebisch Hall): https://www.michelbach-bilz.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, industriegebiet, kommunale wärmeplanung, strom, wärme)
+  - Michelfeld (Schwaebisch Hall): https://www.michelfeld.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, server)
+  - Rosengarten (Schwaebisch Hall): https://www.rosengarten.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, netz, server)
+  - Schwaebisch Hall (Schwaebisch Hall): https://www.schwaebischhall.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, data center, datacenter, gewerbe, kommunale wärmeplanung, rechenzentrum, server, wärme)
+  - Blaufelden (Schwaebisch Hall): https://www.blaufelden.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gewerbe, industrie, industriegebiet, netz, server, strom, wärme)
+  - Mainhardt (Schwaebisch Hall): https://www.mainhardt.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, netz, server, strom)
+  - Schrozberg (Schwaebisch Hall): https://schrozberg.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Assamstadt (Main-Tauber-Kreis): https://www.assamstadt.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, netz, sondergebiet)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Wirtschaft/Bauen: blockiert/fehlgeschlagen (404 Client Error: Not Found for url: https://www.emmendingen.de/wirtschaft-bauen/)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis Zusatzlauf
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Blaufelden, Gaildorf, Mainhardt, Obersontheim, Rot am See, Schrozberg, Schwaebisch Hall.
+- Buehlerzell, Michelfeld und Schwaebisch Hall wurden bewusst neu geprueft, weil Coverage-Eintraege alte/regionfremde Quellen enthielten.
+
+Vorgehen Zusatzlauf
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Ilshofen/Vellberg fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+- Schwaebisch-Hall-Treffer auf Rechenzentrum/Data Center wurden als Datenschutz-/Hosting-Footer zu Hetzner/Falkenstein bewertet, nicht als lokaler Flaechenfund.
+
+Lokale Sicherung / Prueflaeufe Zusatzlauf
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 414 bekannte Quellen, 400 gesichert/uebersprungen, 19 bekannte Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Vellberg bis Assamstadt.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 33, publicBlocked 1, publicUnavailable 1. Blockiert bleibt RP Darmstadt / EdgeConneX Heusenstamm; temporaer nicht erreichbar war Brieselang Umweltbericht/B-Plan-PDF.
+- scripts/check-links.py: checked 419, ok 396, blocked 20, broken 3. Neue Auffaelligkeit: Schrozberg-URL meldete im Linkcheck Redirect-Problem, war im Recherchelauf aber mit Status 200 abrufbar; die beiden weiteren Broken/Timeouts betreffen Brieselang-Links, nicht BW-Flaechen.
+
+Naechster Fokus
+- Weitere offene Coverage nach Assamstadt/Bad Mergentheim im Main-Tauber-Kreis fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
