@@ -3423,6 +3423,30 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-11-cron2-maintauber-heidenheim-20-screening",
+      "date": "2026-07-11",
+      "publishedDate": "2026-07-11",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.bad-mergentheim.de/de/; https://www.igersheim.de/974490.html; https://www.gemeindeahorn.de/startseite; https://www.boxberg.de/startseite; https://www.gruensfeld.de/startseite; https://www.wittighausen.de/; https://www.koenigheim.de/; https://www.tauberbischofsheim.de/startseite; https://www.creglingen.de/de/startseite; https://www.kuelsheim.de/startseite; https://www.lauda-koenigshofen.de/startseite; https://www.niederstetten.de/startseite; https://www.weikersheim.de/startseite; https://www.wertheim.de/startseite; https://www.giengen.de/willkommen; https://www.hermaringen.de/; https://www.heidenheim.de/startseite; https://www.nattheim.de/willkommen; https://www.sontheim-brenz.de/willkommen; https://www.dischingen.de/",
+      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
+      "summary": "Fortsetzung der Coverage nach Assamstadt: Geprueft wurden Bad Mergentheim, Igersheim, Ahorn, Boxberg, Gruensfeld, Wittighausen, Koenigheim, Tauberbischofsheim, Creglingen, Kuelsheim, Lauda-Koenigshofen, Niederstetten, Weikersheim, Wertheim, Giengen an der Brenz, Hermaringen, Heidenheim an der Brenz, Nattheim, Sontheim an der Brenz, Dischingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Mergentheim, Giengen an der Brenz, Heidenheim an der Brenz, Tauberbischofsheim, Wertheim. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
+      "action": "Coverage nach Dischingen/Gerstetten fortsetzen; fehlerhaft vorbefuellte Main-Tauber-Districts wurden auf Main-Tauber-Kreis korrigiert. Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Main-Tauber-Kreis",
+        "Heidenheim",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Emmendingen Bauen/Wirtschaft Suche, Freiburg Gewerbeflaechen/Wirtschaft."
     }
   ],
   "gridChecks": [
@@ -3671,8 +3695,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-10",
-    "lastResearchSummary": "2026-07-10 Cron #2 Zusatzlauf: 20 weitere Gemeinden nach Ilshofen/Vellberg in Schwaebisch Hall/Main-Tauber geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastRun": "2026-07-11",
+    "lastResearchSummary": "2026-07-11 Cron #2: 20 weitere offene Gemeinden nach Assamstadt im Main-Tauber-Kreis und Landkreis Heidenheim geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3699,8 +3723,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-10",
-    "lastResearchSummary": "2026-07-10 Cron #2 Zusatzlauf: 20 weitere Gemeinden nach Ilshofen/Vellberg in Schwaebisch Hall/Main-Tauber geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
+    "lastResearchRun": "2026-07-11",
+    "lastResearchSummary": "2026-07-11 Cron #2: 20 weitere offene Gemeinden nach Assamstadt im Main-Tauber-Kreis und Landkreis Heidenheim geprueft; keine neuen belastbaren RZ-Flaechenfunde.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
