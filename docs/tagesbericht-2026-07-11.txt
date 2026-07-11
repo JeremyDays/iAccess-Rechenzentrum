@@ -1,0 +1,51 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-11
+
+Cron #2: Main-Tauber/Heidenheim-Fortsetzung nach Assamstadt/Bad Mergentheim
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Bad Mergentheim (Main-Tauber-Kreis): https://www.bad-mergentheim.de/de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Igersheim (Main-Tauber-Kreis): https://www.igersheim.de/974490.html (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, strom)
+  - Ahorn (Main-Tauber-Kreis): https://www.gemeindeahorn.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gewerbe, gewerbegebiet, netz, sondergebiet)
+  - Boxberg (Main-Tauber-Kreis): https://www.boxberg.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Gruensfeld (Main-Tauber-Kreis): https://www.gruensfeld.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, kommunale wärmeplanung, netz, strom)
+  - Wittighausen (Main-Tauber-Kreis): https://www.wittighausen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, wärme)
+  - Koenigheim (Main-Tauber-Kreis): https://www.koenigheim.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, netz, server, strom)
+  - Tauberbischofsheim (Main-Tauber-Kreis): https://www.tauberbischofsheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, glasfaser, industrie, kommunale wärmeplanung, netz, server, sondergebiet)
+  - Creglingen (Main-Tauber-Kreis): https://www.creglingen.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, sondergebiet)
+  - Kuelsheim (Main-Tauber-Kreis): https://www.kuelsheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, kommunale wärmeplanung, netz, wärme)
+  - Lauda-Koenigshofen (Main-Tauber-Kreis): https://www.lauda-koenigshofen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Niederstetten (Main-Tauber-Kreis): https://www.niederstetten.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+  - Weikersheim (Main-Tauber-Kreis): https://www.weikersheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Wertheim (Main-Tauber-Kreis): https://www.wertheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, kommunale wärmeplanung, netz)
+  - Giengen an der Brenz (Heidenheim): https://www.giengen.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, kommunale wärmeplanung, netz)
+  - Hermaringen (Heidenheim): https://www.hermaringen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, glasfaser, industrie, netz, strom)
+  - Heidenheim an der Brenz (Heidenheim): https://www.heidenheim.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Nattheim (Heidenheim): https://www.nattheim.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, server)
+  - Sontheim an der Brenz (Heidenheim): https://www.sontheim-brenz.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, kommunale wärmeplanung, server, wärme)
+  - Dischingen (Heidenheim): https://www.dischingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, gewerbegebiet, server, strom)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Bauen/Wirtschaft Suche: https://www.emmendingen.de/startseite (Status 200; Treffer: flächennutzungsplan)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Mergentheim, Giengen an der Brenz, Heidenheim an der Brenz, Tauberbischofsheim, Wertheim.
+- Bad Mergentheim, Tauberbischofsheim, Wertheim, Giengen und Heidenheim sind wegen Stadtgroesse/Gewerbe-/Industriekulisse keine Treffer, aber bessere Vertiefungskandidaten als kleine Landgemeinden, sobald ein konkretes Grundstueck oder Netzsignal vorliegt.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Assamstadt/Bad Mergentheim fortgesetzt.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 434 bekannte Quellen, 420 gesichert/uebersprungen, 19 Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Bad Mergentheim bis Dischingen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 0, publicUnavailable 1. Nicht verfuegbar bleibt der RP-Darmstadt/EdgeConneX-Heusenstamm-Link (404), nicht BW-Coverage.
+- scripts/check-links.py: checked 439, ok 417, blocked 19, broken 3. Broken: Schrozberg Redirect-Problem, Welt-Verbindungsabbruch und RP-Darmstadt/Heusenstamm 404; keine neue BW-Flaeche betroffen.
+- scripts/sync_index_seed_once.py ausgefuehrt: index.html SeedData aus database.json synchronisiert.
+
+Naechster Fokus
+- Weitere offene Coverage nach Dischingen/Gerstetten im Landkreis Heidenheim fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
