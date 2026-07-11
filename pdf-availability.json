@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-07-10",
+  "checkedAt": "2026-07-11",
   "total": 35,
   "localAvailable": 17,
-  "publicAvailable": 33,
-  "publicBlocked": 1,
+  "publicAvailable": 34,
+  "publicBlocked": 0,
   "publicUnavailable": 1,
   "items": [
     {
@@ -84,12 +84,12 @@
       "localFile": "pdfs/brieselang-uvpg-vorprÃ¼fung-bebauungsplan-nr-117-rechenzentrum.pdf",
       "localExists": false,
       "localBytes": 0,
-      "ok": false,
+      "ok": true,
       "blocked": false,
-      "status": null,
-      "finalUrl": "",
-      "contentType": "",
-      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=20)"
+      "status": 200,
+      "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+      "contentType": "application/pdf; charset=UTF-8",
+      "error": ""
     },
     {
       "municipality": "Ankum",
@@ -306,8 +306,8 @@
       "localExists": false,
       "localBytes": 0,
       "ok": false,
-      "blocked": true,
-      "status": 403,
+      "blocked": false,
+      "status": 404,
       "finalUrl": "https://rp-darmstadt.hessen.de/veroeffentlichungen-und-digitales/oeffentliche-bekanntmachungen/umweltrecht/18032026-edgeconnex-heusenstamm-gmbh-errichtung-und-betrieb-von-42-notstromdieselmotoranlagen",
       "contentType": "text/html; charset=UTF-8",
       "error": ""
