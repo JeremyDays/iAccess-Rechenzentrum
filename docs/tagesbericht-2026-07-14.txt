@@ -1,0 +1,52 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-14
+
+Cron #2: Heidenheim/Ostalb-Fortsetzung nach Dischingen/Gerstetten
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Gerstetten (Heidenheim): https://www.gerstetten.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, server, strom, wärme)
+  - Herbrechtingen (Heidenheim): https://www.herbrechtingen.de/Startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, fernwärme, gewerbe, industrie, kommunale wärmeplanung, netz, strom, wärme)
+  - Koenigsbronn (Heidenheim): https://www.koenigsbronn.de/willkommen (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, wärme)
+  - Steinheim am Albuch (Heidenheim): https://www.steinheim.com/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Aalen (Ostalbkreis): https://www.aalen.de/startseite.1.htm (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+  - Essingen (Ostalbkreis): https://www.essingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, strom)
+  - Huettlingen (Ostalbkreis): https://www.huettlingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, kommunale wärmeplanung, strom, wärme)
+  - Bopfingen (Ostalbkreis): https://www.bopfingen.de/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server)
+  - Kirchheim am Ries (Ostalbkreis): https://www.kirchheim-am-ries.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, breitband, flächennutzungsplan, gewerbe, glasfaser, industrie, kommunale wärmeplanung, netz, server, strom)
+  - Riesbuerg (Ostalbkreis): https://www.riesbuerg.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, server, strom)
+  - Adelmannsfelden (Ostalbkreis): https://www.adelmannsfelden.de/de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, industrie)
+  - Ellenberg (Ostalbkreis): https://www.ellenberg.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, server)
+  - Ellwangen (Jagst) (Ostalbkreis): https://www.ellwangen.de/buerger/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server, wärme)
+  - Jagstzell (Ostalbkreis): https://www.jagstzell.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Neuler (Ostalbkreis): https://www.neuler.de/startseite (9 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, server)
+  - Rainau (Ostalbkreis): https://www.rainau.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, netz, strom)
+  - Woert (Ostalbkreis): https://www.woert.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Lauchheim (Ostalbkreis): https://www.lauchheim.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe, industrie, industriegebiet, kommunale wärmeplanung, netz, server, strom)
+  - Westhausen (Ostalbkreis): https://www.westhausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, breitband, fernwärme, flaechennutzungsplan, flächennutzungsplan, gewerbe, kommunale wärmeplanung, netz, server, strom)
+  - Eschach (Ostalbkreis): https://www.eschach.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Bauen/Wirtschaft Suche: https://www.emmendingen.de/startseite (Status 200; Treffer: flächennutzungsplan)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Aalen, Bopfingen, Ellwangen (Jagst), Gerstetten, Herbrechtingen, Steinheim am Albuch.
+- Aalen, Ellwangen, Bopfingen sowie die groesseren Heidenheim-Kommunen sind wegen Stadtgroesse/Gewerbe-/Industriekulisse keine Treffer, aber bessere Vertiefungskandidaten als kleine Landgemeinden, sobald ein konkretes Grundstueck oder Netzsignal vorliegt.
+- Coverage-Datenfehler korrigiert: Aalen bis Eschach liegen im Ostalbkreis, nicht im Landkreis Heidenheim.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 bearbeitet; Coverage wurde nach Dischingen/Gerstetten fortgesetzt und das bereits gepruefte Rosenberg uebersprungen.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 454 bekannte Quellen, 440 gesichert/uebersprungen, 19 Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Gerstetten bis Eschach.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 0, publicUnavailable 1. Nicht verfuegbar bleibt der RP-Darmstadt/EdgeConneX-Heusenstamm-Link (404), nicht BW-Coverage.
+- scripts/check-links.py: checked 459, ok 438, blocked 19, broken 2. Broken: Schrozberg Redirect-Problem und RP-Darmstadt/Heusenstamm 404; keine heutige BW-Flaeche betroffen.
+- scripts/sync_index_seed_once.py ausgefuehrt: index.html SeedData aus database.json synchronisiert.
+
+Naechster Fokus
+- Weitere offene Coverage nach Eschach/Goeggingen im Ostalbkreis fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
