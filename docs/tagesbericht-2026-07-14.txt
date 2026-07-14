@@ -101,3 +101,61 @@ Lokale Sicherung / Prueflaeufe
 
 Naechster Fokus
 - Weitere offene Coverage nach Oberkochen/Baden-Baden fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
+
+Cron #3: Baden-Baden/Karlsruhe-Nord nach Oberkochen
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere Coverage-Gemeinden plus DataCenter-Insider-Revalidierung Philippsburg:
+  - Baden-Baden (Baden-Baden): https://www.baden-baden.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, kommunale wärmeplanung, netz, wärme)
+  - Bad Schoenborn (Karlsruhe): https://www.bad-schoenborn.de/willkommen (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: industrie, netz, strom, wärme)
+  - Bretten (Karlsruhe): https://www.bretten.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, industriegebiet, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Gondelsheim (Karlsruhe): https://www.gondelsheim.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: batteriespeicher, bebauungsplan, breitband, gewerbe, glasfaser, kommunale wärmeplanung, netz, strom, waerme, waermeplanung, wärme)
+  - Bruchsal (Karlsruhe): https://www.bruchsal.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, wärme)
+  - Forst (Karlsruhe): https://www.forst-baden.de/,Lde/946804.html (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, wärme)
+  - Hambruecken (Karlsruhe): https://www.hambruecken.de/,Lde/226954.html (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, industrie, netz, strom)
+  - Karlsdorf-Neuthard (Karlsruhe): https://www.karlsdorf-neuthard.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, netz, server, wärme)
+  - Dettenheim (Karlsruhe): https://www.dettenheim.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, gewerbegebiet, industrie, netz, strom)
+  - Graben-Neudorf (Karlsruhe): https://www.graben-neudorf.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gewerbe, gewerbegebiet, industrie, netz, server)
+  - Kuernbach (Karlsruhe): https://www.kuernbach.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, glasfaser, industrie, industriegebiet, netz, server, strom, waerme, wärme)
+  - Oberhausen-Rheinhausen (Karlsruhe): https://www.oberhausen-rheinhausen.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, glasfaser, netz, strom, wärme)
+  - Philippsburg (Karlsruhe): https://www.philippsburg.de/index.php/startseite.html (8 abrufbare kommunale Pfade; Direkt-RZ-Treffer: rechenzentrum-bekannter-fund; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server, sondergebiet)
+  - Sulzfeld (Karlsruhe): https://www.sulzfeld.de/leben/aktuell/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gewerbe)
+  - Zaisenhausen (Karlsruhe): https://www.zaisenhausen.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, wärme)
+  - Ettlingen (Karlsruhe): https://www.ettlingen.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, glasfaser, industrie, industriegebiet, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Linkenheim-Hochstetten (Karlsruhe): https://linkenheim-hochstetten.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, gewerbe, glasfaser, kommunale wärmeplanung, netz, strom, wärme)
+  - Malsch (Karlsruhe): https://www.malsch.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, industrie, industriegebiet, netz, strom)
+  - Marxzell (Karlsruhe): https://www.marxzell.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, cloud, gewerbe, gewerbegebiet, server)
+  - Oestringen (Karlsruhe): https://www.oestringen.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, fernwärme, flächennutzungsplan, industrie, netz, waerme, wärme)
+
+Gemeinden mit RZ-Fund
+- Philippsburg: bestehender BW-Benchmark revalidiert. DataCenter-Insider berichtet 2026-06-18 ueber geplanten Hyperscale-/RZ-Campus im frueheren Goodyear-/AKW-Umfeld mit bis zu 700 MW Anschlussleistung und rund 26 ha Flaeche; Coverage wurde von 'noch nicht systematisch geprueft' auf RZ gefunden gesetzt.
+
+Gemeinden ohne Fund/nur offen
+- Kein belastbarer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in: Baden-Baden, Bad Schoenborn, Bretten, Gondelsheim, Bruchsal, Forst, Hambruecken, Karlsdorf-Neuthard, Dettenheim, Graben-Neudorf, Kuernbach, Oberhausen-Rheinhausen, Sulzfeld, Zaisenhausen, Ettlingen, Linkenheim-Hochstetten, Malsch, Marxzell, Oestringen.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Baden-Baden, Bretten, Bruchsal, Ettlingen, Linkenheim-Hochstetten, Malsch, Oberhausen-Rheinhausen, Oestringen.
+
+Nachrichten-/Betreiber-Sichtung
+- DataCenter-Insider Philippsburg 700 MW: https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/ (Status 200; Treffer: abwärme, batteriespeicher, bebauungsplan, cloud, data center, datacenter, goodyear, industrie, konverter, netz, rechenzentrum, server).
+- DataCenter-Insider Eisenach Einwohnerantrag: https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/ (Status 200; Treffer: abwärme, bebauungsplan, cloud, data center, datacenter, flächennutzungsplan, industrie, netz, rechenzentrum, server, strom, umspannwerk).
+- DataCenter-Insider Datacenter-Energieversorgung: https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/ (Status 200; Treffer: abwärme, bebauungsplan, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- Bewertungsupdate: Aktuelle Branchen- und Regionaltreffer bestaetigen Strom-/Netzkapazitaet, Brownfield/Konversion, Akzeptanz, Wasser/Kuehlung, Laerm und Abwaerme als harte Standortfilter. Fuer den Prioritaetsraum Freiburg/Denzlingen/Emmendingen kein neuer konkreter Flaechen-/Carrier-Hinweis.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Bauen/Wirtschaft Suche: https://www.emmendingen.de/startseite (Status 200; Treffer: flächennutzungsplan)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- Keine neuen relevanten PDF-Gutachten oder technischen Originalzeichnungen gefunden. Philippsburg bleibt ohne veroeffentlichte B-Plan-/Gutachtenunterlagen in dieser Sichtung.
+- Keine neuen Bilder aufgenommen; die DataCenter-Insider-Illustration zu Philippsburg ist KI-generiert und wurde deshalb nicht als Standortbild verwendet.
+
+Offene/verdachtige Fragen und Uploads
+- database.json researchQuestions: 0; manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep. Kein Fragen-PDF erstellt.
+
+Lokale Sicherung / Prueflaeufe
+- Nachgelagert auszufuehren: archive-sources.py, check-pdf-availability.py, check-links.py, sync_index_seed_once.py, publish-github.mjs und Tagesbericht-Versand.
+
+Naechster Fokus
+- Coverage nach Oestringen mit Pfinztal/Rheinstetten/Stutensee/Ubstadt-Weiher/Waghaeusel/Waldbronn/Walzbachtal und danach Rastatt fortsetzen. Philippsburg aktiv auf B-Plan/FNP, Investorentscheidung und Gutachten monitoren.
