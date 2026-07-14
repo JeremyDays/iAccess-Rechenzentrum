@@ -160,6 +160,7 @@ Lokale Sicherung / Prueflaeufe
 - scripts/check-links.py: checked 508, ok 487, blocked 19, broken 2. Broken bleiben Schrozberg Redirect-Problem und RP-Darmstadt/Heusenstamm 404; keine heutige BW-Flaeche betroffen.
 - scripts/sync_index_seed_once.py ausgefuehrt: index.html SeedData aus database.json synchronisiert.
 - publish-github.mjs ausgefuehrt: index.html, database.json, Coverage, Link-/PDF-Pruefdateien, Tagesberichte und PDFs per GitHub API hochgeladen. Pages-Konfigurationsupdate blieb wegen 403 uebersprungen; bestehende URL bleibt https://jeremydays.github.io/iAccess-Rechenzentrum/.
+- Tagesbericht-Versand per scripts/gmail-api.py versucht, aber blockiert: OAuth-Refresh meldet invalid_grant. SMTP-Fallback nicht verfuegbar, weil GMAIL_SMTP_USER und GMAIL_APP_PASSWORD nicht gesetzt sind. Gmail muss neu autorisiert werden.
 
 Naechster Fokus
 - Coverage nach Oestringen mit Pfinztal/Rheinstetten/Stutensee/Ubstadt-Weiher/Waghaeusel/Waldbronn/Walzbachtal und danach Rastatt fortsetzen. Philippsburg aktiv auf B-Plan/FNP, Investorentscheidung und Gutachten monitoren.
