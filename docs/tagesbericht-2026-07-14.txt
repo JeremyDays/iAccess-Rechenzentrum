@@ -155,7 +155,11 @@ Offene/verdachtige Fragen und Uploads
 - database.json researchQuestions: 0; manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep. Kein Fragen-PDF erstellt.
 
 Lokale Sicherung / Prueflaeufe
-- Nachgelagert auszufuehren: archive-sources.py, check-pdf-availability.py, check-links.py, sync_index_seed_once.py, publish-github.mjs und Tagesbericht-Versand.
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 503 bekannte Quellen, 489 gesichert/uebersprungen, 19 Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen Baden-Baden bis Oestringen, Philippsburg-Bauleitplanungsseiten, Denzlingen/Emmendingen/Freiburg-Prioritaetsquellen sowie zwei neue DataCenter-Insider-Nachrichtensichten.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 0, publicUnavailable 1. Nicht verfuegbar bleibt der RP-Darmstadt/EdgeConneX-Heusenstamm-Link (404), nicht BW-Coverage.
+- scripts/check-links.py: checked 508, ok 487, blocked 19, broken 2. Broken bleiben Schrozberg Redirect-Problem und RP-Darmstadt/Heusenstamm 404; keine heutige BW-Flaeche betroffen.
+- scripts/sync_index_seed_once.py ausgefuehrt: index.html SeedData aus database.json synchronisiert.
+- publish-github.mjs ausgefuehrt: index.html, database.json, Coverage, Link-/PDF-Pruefdateien, Tagesberichte und PDFs per GitHub API hochgeladen. Pages-Konfigurationsupdate blieb wegen 403 uebersprungen; bestehende URL bleibt https://jeremydays.github.io/iAccess-Rechenzentrum/.
 
 Naechster Fokus
 - Coverage nach Oestringen mit Pfinztal/Rheinstetten/Stutensee/Ubstadt-Weiher/Waghaeusel/Waldbronn/Walzbachtal und danach Rastatt fortsetzen. Philippsburg aktiv auf B-Plan/FNP, Investorentscheidung und Gutachten monitoren.
