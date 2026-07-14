@@ -50,3 +50,54 @@ Lokale Sicherung / Prueflaeufe
 
 Naechster Fokus
 - Weitere offene Coverage nach Eschach/Goeggingen im Ostalbkreis fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
+
+Cron #2 Zusatzlauf: Ostalb-Fortsetzung nach Eschach/Goeggingen
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Goeggingen (Ostalbkreis): https://www.gemeinde-goeggingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+  - Iggingen (Ostalbkreis): https://www.iggingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, glasfaser, industrie, netz, strom)
+  - Leinzell (Ostalbkreis): https://www.leinzell.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, netz, sondergebiet)
+  - Schechingen (Ostalbkreis): https://www.schechingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server)
+  - Bartholomae (Ostalbkreis): https://www.bartholomae.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Boebingen an der Rems (Ostalbkreis): https://www.boebingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, industrie, server, wärme)
+  - Heubach (Ostalbkreis): https://www.heubach.de/,Lde/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, server, wärme)
+  - Heuchlingen (Ostalbkreis): https://heuchlingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, cloud, gewerbe, glasfaser, kommunale wärmeplanung, netz, strom, wärme)
+  - Moegglingen (Ostalbkreis): https://www.moegglingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, server, wärme)
+  - Schwaebisch Gmuend (Ostalbkreis): https://www.schwaebisch-gmuend.de/startseite.html (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flaechennutzungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz)
+  - Waldstetten (Ostalbkreis): https://www.waldstetten.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, netz, server, strom, wärme)
+  - Durlangen (Ostalbkreis): https://www.durlangen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gewerbe, gewerbegebiet, server, strom)
+  - Mutlangen (Ostalbkreis): https://www.mutlangen.de/,Lde/1452185.html (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, server, strom, wärme)
+  - Ruppertshofen (Ostalbkreis): https://www.ruppertshofen.de/ (9 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, server)
+  - Spraitbach (Ostalbkreis): https://www.spraitbach.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, kommunale wärmeplanung, netz, wärme)
+  - Tannhausen (Ostalbkreis): https://www.tannhausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, kommunale wärmeplanung, netz, server)
+  - Unterschneidheim (Ostalbkreis): https://www.unterschneidheim.de/de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gewerbe, server)
+  - Abtsgmuend (Ostalbkreis): https://www.abtsgmuend.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, netz, server)
+  - Lorch (Ostalbkreis): https://www.stadt-lorch.de/start (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gewerbe, gewerbegebiet, glasfaser, netz, strom)
+  - Oberkochen (Ostalbkreis): https://www.oberkochen.de/willkommen (9 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, gewerbegebiet, industrie, netz)
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen wurden live revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: bauleit, gewerbe, gewerbegebiet, industrie, netz, server, strom)
+  - Emmendingen Bauen/Wirtschaft Suche: https://www.emmendingen.de/startseite (Status 200; Treffer: flächennutzungsplan)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/,Lde/205243.html (Status 200; Treffer: bauleit, fernwärme, flächennutzungsplan, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme)
+
+Ergebnis
+- Kein belastbarer neuer RZ-/Datacenter-/Data-Center-/Serverfarm-Fund in den 20 neu geprueften Gemeinden.
+- Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Heubach, Lorch, Oberkochen, Schwaebisch Gmuend.
+- Schwaebisch Gmuend, Oberkochen, Heubach und Lorch sind wegen Stadtgroesse, Industrie-/Gewerbe- oder Infrastrukturkulisse bessere Vertiefungskandidaten als kleine Landgemeinden, sobald ein konkretes Grundstueck oder Netzsignal vorliegt.
+- Coverage-Datenfehler korrigiert: die bearbeiteten Gemeinden liegen im Ostalbkreis, nicht im Landkreis Heidenheim.
+
+Vorgehen
+- Nicht erneut die 40 Gemeinden vom 2026-07-05 oder den ersten heutigen Block bearbeitet; nach Eschach fortgesetzt, fehlerhafte Altstatus mit fremden URLs und vorhandenen RZ-Bestand uebersprungen.
+- Geprueft wurden Gemeindeseite und automatisch entdeckte Bau-/Gewerbe-/Bauleitplanungs-/Breitband-/Rats-/Energiepfade mit Suchraster Rechenzentrum, Datacenter/Data Center, Serverfarm, Gewerbe/GI/GE, Bauleitplanung/FNP, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.
+
+Lokale Sicherung / Prueflaeufe
+- scripts/archive-sources.py ausgefuehrt: Manifest jetzt 474 bekannte Quellen, 460 gesichert/uebersprungen, 19 Abruf-Blocker. Neu lokal gesichert wurden die 20 kommunalen Startquellen von Goeggingen bis Oberkochen.
+- scripts/check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicBlocked 0, publicUnavailable 1. Nicht verfuegbar bleibt der RP-Darmstadt/EdgeConneX-Heusenstamm-Link (404), nicht BW-Coverage.
+- scripts/check-links.py: checked 479, ok 458, blocked 19, broken 2. Broken: Schrozberg Redirect-Problem und RP-Darmstadt/Heusenstamm 404; keine heutige BW-Flaeche betroffen.
+- scripts/sync_index_seed_once.py ausgefuehrt: index.html SeedData aus database.json synchronisiert.
+
+Naechster Fokus
+- Weitere offene Coverage nach Oberkochen/Baden-Baden fortsetzen; Freiburg/Denzlingen/Emmendingen sofort vorziehen, sobald konkrete Flaechen-/Netz-/Carrier-Hinweise auftauchen.
