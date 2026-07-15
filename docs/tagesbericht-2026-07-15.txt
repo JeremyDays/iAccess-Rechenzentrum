@@ -1,71 +1,61 @@
 Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-15
 
 Neue Quellen
-- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
-  - Pfinztal (Karlsruhe): https://pfinztal.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, gewerbe, netz, ratsinfo, server, strom, verkehr)
-  - Rheinstetten (Karlsruhe): https://www.rheinstetten.de/de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, verkehr, wärme)
-  - Stutensee (Karlsruhe): https://www.stutensee.de/willkommen (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, server, strom, verkehr)
-  - Ubstadt-Weiher (Karlsruhe): https://www.ubstadt-weiher.de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server, verkehr, wärme)
-  - Waghaeusel (Karlsruhe): https://www.waghaeusel.de/startseite (6 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, verkehr, wärme)
-  - Waldbronn (Karlsruhe): https://www.waldbronn.de/start (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, ratsinfo, server, verkehr)
-  - Walzbachtal (Karlsruhe): https://www.walzbachtal.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, ratsinfo, verkehr)
-  - Bischweier (Rastatt): https://www.bischweier.de/startseite.html (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, ratsinfo, verkehr)
-  - Kuppenheim (Rastatt): https://www.kuppenheim.de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, strom, verkehr, wärme)
-  - Buehl (Rastatt): https://www.buehl.de/willkommen (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, glasfaser, netz, server, verkehr, wärme)
-  - Ottersweier (Rastatt): https://www.ottersweier.de/de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, glasfaser, industrie, ratsinfo, server, verkehr)
-  - Au am Rhein (Rastatt): https://www.auamrhein.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, industrie, netz, ratsinfo, strom)
-  - Bietigheim (Rastatt): https://www.bietigheim.de/web/index.html (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, ratsinfo, schall, server, strom, verkehr)
-  - Durmersheim (Rastatt): https://www.durmersheim.de/web/index.html (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, ratsinfo, server, strom, umspannwerk)
-  - Elchesheim-Illingen (Rastatt): https://www.elchesheim-illingen.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, ratsinfo, verkehr)
-  - Gernsbach (Rastatt): https://www.gernsbach.de/start (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, server, strom, verkehr)
-  - Loffenau (Rastatt): https://www.loffenau.de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, verkehr, wärme; PDF-Hinweise: 1)
-  - Iffezheim (Rastatt): https://www.iffezheim.de/start (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, industriegebiet, ratsinfo, server, strom, verkehr)
-  - Muggensturm (Rastatt): https://www.muggensturm.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gemeinderat, gewerbe, industrie, industriegebiet, kommunale wärmeplanung, ratsinfo, sondergebiet, strom, verkehr, wärme)
-  - Rastatt (Rastatt): https://www.rastatt.de/startseite (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, kommunale wärmeplanung)
+- 20 offene Coverage-Gemeinden live geprueft: Pfinztal, Rheinstetten, Stutensee, Ubstadt-Weiher, Waghaeusel, Waldbronn, Walzbachtal, Bischweier, Kuppenheim, Buehl, Ottersweier, Au am Rhein, Bietigheim, Durmersheim, Elchesheim-Illingen, Gernsbach, Loffenau, Iffezheim, Muggensturm, Rastatt.
+- Zusatzkorrektur: Weingarten (Baden) und Weisenbach wurden ebenfalls auf echte kommunale Primaerquellen umgestellt; zuvor waren dort fremde Altquellen hinterlegt.
+- Revalidierte Prioritaetsquellen: Netze BW 110-kV Denzlingen, Wirtschaftsstandort Denzlingen, Emmendingen Start/Bauen/Wirtschaft, Freiburg Gewerbeflaechen/Wirtschaft.
+- Nachrichtensichtung: Microsoft Grevenbroich KI-Serverstandort (WELT/dpa), Gartner-Strombedarf Rechenzentren 2026 (Tom's Hardware), Data-Center-Widerstand (Business Insider), FERC/Netzanschluss AI Data Centers (AP).
+
+Lokal archivierte Quellen
+- archive-sources.py: 549 bekannte Quellen, 532 gesichert/uebersprungen, 19 fehlgeschlagen/blockiert.
+- Neu bzw. heute gesichert: WELT-Microsoft-Grevenbroich, AP/FERC, Rastatt, Weingarten (Baden), Loffenau-PDF-Hinweis und weitere kommunale Primaerquellen.
+- Blocker bleiben vor allem datacenters.com mit 429; diese sind bekannte Drittquellen, keine heutigen kommunalen RZ-Funde.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Heusenstamm/EdgeConneX wurde repariert: der alte RP-Darmstadt-404 wurde durch die stabile Stadt-Heusenstamm-Fallbackquelle ersetzt. Die RP-PDF war browserseitig sichtbar, lokaler Download/Linkchecker lieferten aber 404; lokale PDF-Sicherung bleibt spaeter nachzuziehen.
 
 Gepruefte Gemeinden
-- Pfinztal, Rheinstetten, Stutensee, Ubstadt-Weiher, Waghaeusel, Waldbronn, Walzbachtal, Bischweier, Kuppenheim, Buehl, Ottersweier, Au am Rhein, Bietigheim, Durmersheim, Elchesheim-Illingen, Gernsbach, Loffenau, Iffezheim, Muggensturm, Rastatt.
-- Zusatzkorrektur im Cron-#2-Lauf: Weingarten (Baden) und Weisenbach wurden ebenfalls systematisch geprueft. Ihre zuvor fremdzugeordneten Quellen (Rickenbach bzw. Ibach) wurden durch die echten kommunalen Primaerquellen ersetzt. Damit wurden heute 22 eindeutige Gemeinden aktualisiert.
+- 22 eindeutige Gemeinden wurden heute aktualisiert: die 20 regulaeren Gemeinden plus Weingarten (Baden) und Weisenbach.
+- Pro Gemeinde wurden Startseite und gefundene Bau-, Gewerbe-, Bauleitplanungs-, Rats-/RIS-, Amtsblatt-, Glasfaser-/Breitband-, Energie-/Waerme- und Netzpfade gescannt.
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- Alle 22 heute aktualisierten Gemeinden bleiben ohne direkten RZ-Nachweis; Rastatt, Kuppenheim, Buehl, Gernsbach, Pfinztal, Rheinstetten, Stutensee, Waghaeusel, Waldbronn und Weingarten (Baden) bleiben nur bei konkretem Flaechen-/Netzsignal als mittlere Vorfilter offen.
-
-Nachrichten-/Betreiber-Sichtung
-- WELT/dpa Microsoft Grevenbroich KI-Rechenzentrum: https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-plant-naechsten-grossen-ki-serverstandort-in-nrw.html (Status 200; Treffer: cloud, netz, server).
-- Tom's Hardware/Gartner Strombedarf Rechenzentren 2026: https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts (Status 200; Treffer: data center, server).
-- Business Insider Widerstand gegen Data-Center-Boom: https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7 (Status 200; Treffer: data center).
-- AP/FERC Netzanschluss AI Data Centers: https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5 (Status 200; Treffer: data center).
-- Bewertung: Strom-/Netzanschluss, kommunale Akzeptanz, Wasser/Kuehlung, Laerm und Abwaerme bleiben die zentralen Standortfilter. Brownfield-/Strukturwandelstandorte sind fuer grosse RZ der Benchmark; fuer iAccess bleiben kleinere, wasserarme Edge-/Micro-Standorte realistischer.
-
-Prioritaetsraum Freiburg/Denzlingen/Emmendingen
-- Bekannte Prioritaetsquellen wurden revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
-  - Denzlingen 110-kV-Netzverstaerkung: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
-  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
-  - Emmendingen Bauen/Wirtschaft Suche: https://www.emmendingen.de/startseite (Status 200; Treffer: amtsblatt, flächennutzungsplan, verkehr)
-  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, server)
+- Alle 22 heute aktualisierten Gemeinden bleiben ohne direkten RZ-Nachweis.
+- Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzsignal: Rastatt, Kuppenheim, Buehl, Gernsbach, Pfinztal, Rheinstetten, Stutensee, Waghaeusel, Waldbronn und Weingarten (Baden).
 
 Neue PDFs/Gutachten/Fotos/technische Zeichnungen
-- Keine neuen belastbar RZ-relevanten PDF-Gutachten oder technischen Originalzeichnungen gefunden. Kommunale PDF-Hinweise aus Startseiten wurden nur als Quellenhinweis erfasst, nicht als RZ-Gutachten gewertet.
-- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+- Keine neuen belastbar RZ-relevanten PDF-Gutachten oder technischen Originalzeichnungen gefunden.
+- Loffenau hatte einen PDF-Hinweis auf ein Veranstaltungsdokument; lokal archiviert, aber nicht RZ-relevant.
+- Keine neuen Bilder aufgenommen; kein geprueftes Original-RZ-Foto, offizielles Rendering oder technische Hersteller-/Planungszeichnung gefunden.
 
 Neue Partner
-- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. News-Monitoring ergaenzt Microsoft, Gartner, AP/FERC und Business Insider als Markt-/Risikokontext, nicht als iAccess-Partner.
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen.
+- Microsoft, Gartner, AP/FERC und Business Insider wurden nur als Markt-/Risikokontext erfasst, nicht als iAccess-Partner.
 
-Offene/verdachtige Fragen und Uploads
-- create-question-report.py erfolgreich geprueft: database.json researchQuestions 0, manualUploads 0; skipped=true, daher kein Fragen-PDF erstellt. Keine Gmail-/SMTP-/OAuth-Aktion.
+Linkpruefung
+- check-links.py nach Bereinigung: checked 547, ok 528, blocked 19, broken 0.
+- Schrozberg aus einem aelteren Lauf nutzt jetzt den lokalen Snapshot-Hinweis, weil Remote-HEAD/Redirect fuer den Linkchecker instabil ist.
 
-Veränderte Statistiken
-- Coverage: 22 eindeutige Gemeinden neu bzw. nach fehlerhafter Altzuordnung systematisch geprueft; found unveraendert.
-- database.json: 3 heutige Findings (zwei ueberlappende Kommunalbloecke mit zusammen 22 eindeutigen Gemeinden; News-/Marktmonitoring Netz/Strom/Akzeptanz).
+Offene/verdaechtige Fragen
+- database.json researchQuestions: 0.
+- Keine offenen oder verdaechtigen Fragen; kein Fragen-PDF erstellt.
 
-Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
-- archive-sources.py: 544 bekannte Quellen; 530 gesichert/uebersprungen, 20 Abruf-Blocker. Heutige kommunale Primaerquellen lokal gesichert; externe Blocker vor allem datacenters.com (429) und alter RP-Darmstadt/Heusenstamm-Link (404).
-- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 34, publicUnavailable 1. Nicht verfuegbar bleibt nur der bekannte RP-Darmstadt/Heusenstamm-Link.
-- check-links.py nach Bereinigung der heutigen CMS-Redirect-URLs: checked 549, ok 528, blocked 19, broken 2. Broken bleiben nur die historischen Schrozberg-Redirectschleife und der RP-Darmstadt/Heusenstamm-404; keine heutige BW-Flaeche betroffen.
-- sync_index_seed_once.py ausgefuehrt; index.html SeedData aus database.json synchronisiert.
+Verarbeitete Uploads
+- database.json manualUploads: 0.
+- pdfs/manual-uploads enthaelt nur .gitkeep; keine Uploads verarbeitet.
+
+Veraenderte Statistiken
+- Coverage: 22 eindeutige Gemeinden heute aktualisiert; found unveraendert.
+- database.json: 3 heutige Findings (Cron-#2-Kommunalblock mit Weingarten/Weisenbach-Korrektur, Pfinztal-bis-Rastatt-Ergaenzung mit Muggensturm/Rastatt, News-/Marktmonitoring Netz/Strom/Akzeptanz).
+- pdfExtracts: Heusenstamm-Metadaten auf funktionierende Fallbackquelle und technische RP-PDF-Browserfakten aktualisiert.
+- source-archive manifest: 549 bekannte Quellen.
+
+Bewertung
+- Fuer iAccess bleiben kleine, wasserarme Edge-/Micro-DC-Standorte realistischer als grosse Hyperscale-Projekte.
+- Harte Standortfilter fuer Freiburg/Denzlingen/Emmendingen: belastbare Mittelspannungs-/110-kV-Naehe, Glasfaser-/Carrier-Redundanz, Wasser-/Kuehlkonzept, Schall, Brandschutz/Loeschwasser, Abwaermeabnehmer und kommunaler Nutzen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
