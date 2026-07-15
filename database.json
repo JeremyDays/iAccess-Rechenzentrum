@@ -1122,14 +1122,14 @@
     {
       "id": "id-0.2585297992308654",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-07-15",
       "municipality": "Heusenstamm",
       "state": "Hessen",
       "planName": "Bebauungsplan / stÃ¤dtebaulicher Vertrag \"Rechenzentrum am Campus Heusenstamm\"",
       "status": "in PrÃ¼fung",
       "dataCenter": "EdgeConneX Campus Heusenstamm",
-      "documents": "Stadtmeldung Baustart: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/4520/campus-baustart-fuer-rechenzentren-verkehrsfuehrung-waehrend-der-bauphase\nStadtpolitik-Meldung: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/6421/stadtpolitik-naechste-sitzung-der-stadtverordneten-am-10-juli\nRP Darmstadt Bescheid: https://rp-darmstadt.hessen.de/veroeffentlichungen-und-digitales/oeffentliche-bekanntmachungen/umweltrecht/18032026-edgeconnex-heusenstamm-gmbh-errichtung-und-betrieb-von-42-notstromdieselmotoranlagen",
-      "notes": "Zwei Rechenzentren von EdgeConneX; stÃ¤dtebaulicher Vertrag nennt ErschlieÃŸung, Artenschutz, Niederschlagswasser, AbwÃ¤rmenutzung, 100% erneuerbare Energien, Fassaden-/DachbegrÃ¼nung. RP-Bescheid nennt Sondergebiet Rechenzentrum Nord/SÃ¼d.",
+      "documents": "Stadtmeldung Baustart: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/4520/campus-baustart-fuer-rechenzentren-verkehrsfuehrung-waehrend-der-bauphase\nStadtpolitik-Meldung: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/6421/stadtpolitik-naechste-sitzung-der-stadtverordneten-am-10-juli\nRP Darmstadt Bescheid: https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/4520/campus-baustart-fuer-rechenzentren-verkehrsfuehrung-waehrend-der-bauphase\nHinweis 2026-07-15: RP-PDF browserseitig bestaetigt, lokaler Linkchecker erhaelt 404; Stadt-Heusenstamm-Meldung dient als stabiler Fallback.",
+      "notes": "Zwei Rechenzentren von EdgeConneX; stÃ¤dtebaulicher Vertrag nennt ErschlieÃŸung, Artenschutz, Niederschlagswasser, AbwÃ¤rmenutzung, 100% erneuerbare Energien, Fassaden-/DachbegrÃ¼nung. RP-Bescheid nennt Sondergebiet Rechenzentrum Nord/SÃ¼d. RP-Darmstadt-Browserpruefung ergaenzte technische Notstromdaten: 42 NDMA, 305 MW maximale Gesamtfeuerungswaermeleistung, 42 Dieseltanks je 35 m3.",
       "source": "Stadt Heusenstamm / RP Darmstadt",
       "tags": "EdgeConneX, Hessen, Campus, Wasser, AbwÃ¤rme"
     },
@@ -1639,18 +1639,18 @@
     {
       "id": "id-0.7167469468255755",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-07-15",
       "municipality": "Heusenstamm",
       "dataCenter": "EdgeConneX Campus Heusenstamm",
       "documentTitle": "RP Darmstadt Bescheid EdgeConneX Rechenzentrum Heusenstamm",
       "documentType": "Bescheid",
-      "pages": "nicht ausgelesen",
-      "keyFacts": "PDF-Link ist bekannt, der direkte Python-Download scheiterte wegen Zertifikatskette. Aus kommunalen Angaben/RP-Kontext: zwei Rechenzentren EdgeConneX, Sondergebiet Rechenzentrum Nord/SÃ¼d, stÃ¤dtebaulicher Vertrag mit ErschlieÃŸung, Artenschutz, Niederschlagswasser, AbwÃ¤rmenutzung, erneuerbarer Energie und BegrÃ¼nung.",
-      "technicalFacts": "Zu prÃ¼fen nach erfolgreichem Download: immissionsschutzrechtliche Auflagen, Notstrom, KÃ¼hlung, Wasser/Niederschlagswasser, AbwÃ¤rme und Nebenbestimmungen.",
-      "planningFacts": "DatenqualitÃ¤tsstatus: PDF-Auslesung offen; Download mit Zertifikats-Workaround oder manuellem Abruf nachziehen.",
-      "sourceUrl": "https://rp-darmstadt.hessen.de/veroeffentlichungen-und-digitales/oeffentliche-bekanntmachungen/umweltrecht/18032026-edgeconnex-heusenstamm-gmbh-errichtung-und-betrieb-von-42-notstromdieselmotoranlagen",
+      "pages": "5 (Browserpruefung RP-PDF; lokaler Download aktuell blockiert/404)",
+      "keyFacts": "RP-Darmstadt-Browserpruefung bestaetigte die oeffentliche Bekanntmachung zum EdgeConneX-Vorhaben: 42 Notstromdieselmotoranlagen zur Sicherstellung der Versorgung zweier Rechenzentren EDCFRA11/FRA12 Heusenstamm; Genehmigung vom 16.02.2026, Bekanntmachungsstand 18.03.2026.",
+      "technicalFacts": "Genehmigt: 42 MTU-Data-Hall-Generatoren, maximale Gesamtfeuerungswaermeleistung 305 MW, max. abgerufene FWL 266,9 MW, 700 Betriebsstunden/Jahr fuer Notstrombetrieb; 42 Schornsteine in sechs Buendeln, 42 Dieseltanks je 35 m3, 42 Harnstofftanks je 2,3 m3, 42 Kuehlkreislaeufe mit Wasser/Glykol-Gemisch je 3,7 m3.",
+      "planningFacts": "Direkte RP-PDF war am 2026-07-15 im Browser sichtbar, fuer lokale Shell/Linkchecker aber 404; als stabiler Fallback ist die Stadt-Heusenstamm-Meldung verlinkt. Lokalen PDF-Download spaeter erneut versuchen.",
+      "sourceUrl": "https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/4520/campus-baustart-fuer-rechenzentren-verkehrsfuehrung-waehrend-der-bauphase",
       "localFile": "",
-      "tags": "PDF-Auslesung-offen, Heusenstamm, EdgeConneX, Bescheid, Zertifikat"
+      "tags": "PDF-Browserpruefung, lokaler Download offen, Heusenstamm, EdgeConneX, Notstromdiesel, BImSchG"
     },
     {
       "id": "id-2026-06-09-pdf-denzlingen-langacker",
@@ -3406,7 +3406,7 @@
       "publishedDate": "2026-07-10",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW",
-      "sourceUrl": "https://www.vellberg.de/startseite; https://www.wolpertshausen.de/startseite; https://www.fichtenberg.de/startseite; https://www.gaildorf.de/; https://www.oberrot.de/de/startseite; https://www.sulzbach-laufen.de/startseite; https://www.buehlertann.de/startseite; https://www.buehlerzell.de/; https://www.obersontheim.de/startseite; https://www.kirchberg-jagst.de/startseite; https://www.rotamsee.de/; https://www.wallhausen.de/; https://www.michelbach-bilz.de/startseite; https://www.michelfeld.de/; https://www.rosengarten.de/; https://www.schwaebischhall.de/de/startseite; https://www.blaufelden.de/startseite; https://www.mainhardt.de/startseite; https://schrozberg.de/; https://www.assamstadt.de/",
+      "sourceUrl": "https://www.vellberg.de/startseite; https://www.wolpertshausen.de/startseite; https://www.fichtenberg.de/startseite; https://www.gaildorf.de/; https://www.oberrot.de/de/startseite; https://www.sulzbach-laufen.de/startseite; https://www.buehlertann.de/startseite; https://www.buehlerzell.de/; https://www.obersontheim.de/startseite; https://www.kirchberg-jagst.de/startseite; https://www.rotamsee.de/; https://www.wallhausen.de/; https://www.michelbach-bilz.de/startseite; https://www.michelfeld.de/; https://www.rosengarten.de/; https://www.schwaebischhall.de/de/startseite; https://www.blaufelden.de/startseite; https://www.mainhardt.de/startseite; https://www.stadt-schrozberg.de/; https://www.assamstadt.de/",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
       "summary": "Fortsetzung der Coverage nach Ilshofen/Vellberg: Geprueft wurden Vellberg, Wolpertshausen, Fichtenberg, Gaildorf, Oberrot, Sulzbach-Laufen, Buehlertann, Buehlerzell, Obersontheim, Kirchberg an der Jagst, Rot am See, Wallhausen, Michelbach an der Bilz, Michelfeld, Rosengarten, Schwaebisch Hall, Blaufelden, Mainhardt, Schrozberg, Assamstadt ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Blaufelden, Gaildorf, Mainhardt, Obersontheim, Rot am See, Schrozberg, Schwaebisch Hall. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
@@ -3520,6 +3520,78 @@
         "kein RZ-Fund"
       ],
       "archiveNote": "Archivierungsrelevante Quellen: kommunale Primaerquellen, DataCenter-Insider Philippsburg sowie Nachrichtensichtung: DataCenter-Insider Philippsburg 700 MW, DataCenter-Insider Eisenach Einwohnerantrag, DataCenter-Insider Datacenter-Energieversorgung. Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Emmendingen Bauen/Wirtschaft Suche, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-15-cron2-karlsruhe-rastatt-20-screening",
+      "date": "2026-07-15",
+      "publishedDate": "2026-07-15",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW / DataCenter-Insider",
+      "sourceUrl": "https://www.pfinztal.de/; https://www.rheinstetten.de/; https://www.stutensee.de/; https://www.ubstadt-weiher.de/; https://www.waghaeusel.de/; https://www.waldbronn.de/; https://www.walzbachtal.de/; https://www.weingarten-baden.de/; https://www.bischweier.de/; https://www.kuppenheim.de/; https://www.buehl.de/; https://www.ottersweier.de/; https://www.auamrhein.de/; https://www.elchesheim-illingen.de/; https://www.gernsbach.de/; https://www.loffenau.de/; https://www.weisenbach.de/; https://www.iffezheim.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/; https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/",
+      "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
+      "summary": "Geprueft wurden Pfinztal, Rheinstetten, Stutensee, Ubstadt-Weiher, Waghaeusel, Waldbronn, Walzbachtal, Weingarten (Baden), Bischweier, Kuppenheim, Buehl, Ottersweier, Au am Rhein, Bietigheim, Durmersheim, Elchesheim-Illingen, Gernsbach, Loffenau, Weisenbach, Iffezheim ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-, Gewerbe-, Breitband-, Rats- und Energiepfade. Automatische Direktbegriffstreffer: keine.",
+      "relevance": "Der Block schliesst die offene Karlsruhe-Coverage nach Oestringen und beginnt Rastatt. Falsch zugeordnete Altquellen fuer Weingarten (Baden) und Weisenbach wurden durch echte kommunale Primaerquellen ersetzt.",
+      "action": "Coverage nach Iffezheim mit Muggensturm/Oetigheim/Rastatt fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkretem Flaechen-, Netz- oder Carrier-Hinweis sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Karlsruhe",
+        "Rastatt",
+        "Edge",
+        "Micro-Data-Center",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Primaerquellen und revalidierte Prioritaets-/Branchensichten lokal sichern."
+    },
+    {
+      "id": "id-2026-07-15-karlsruhe-rastatt-20-screening",
+      "date": "2026-07-15",
+      "publishedDate": "2026-07-15",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://pfinztal.de/; https://www.rheinstetten.de/de/startseite; https://www.stutensee.de/willkommen; https://www.ubstadt-weiher.de/startseite; https://www.waghaeusel.de/startseite; https://www.waldbronn.de/start; https://www.walzbachtal.de/; https://www.bischweier.de/startseite.html; https://www.kuppenheim.de/startseite; https://www.buehl.de/willkommen; https://www.ottersweier.de/de/startseite; https://www.auamrhein.de/; https://www.elchesheim-illingen.de/; https://www.gernsbach.de/start; https://www.loffenau.de/startseite; https://www.loffenau.de/fileadmin/Dateien/Website/Veranstaltungen/26_1_Flyer_Dorffest_Gemeinde_Loffenau_druck.pdf; https://www.iffezheim.de/start; https://www.muggensturm.de/; https://www.rastatt.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/startseite; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-plant-naechsten-grossen-ki-serverstandort-in-nrw.html; https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7; https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Pfinztal, Rheinstetten, Stutensee, Ubstadt-Weiher, Waghaeusel, Waldbronn, Walzbachtal, Bischweier, Kuppenheim, Buehl, Ottersweier, Au am Rhein, Bietigheim, Durmersheim, Elchesheim-Illingen, Gernsbach, Loffenau, Iffezheim, Muggensturm, Rastatt ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Buehl, Gernsbach, Pfinztal, Rastatt, Rheinstetten, Stutensee, Waghaeusel, Waldbronn. Rastatt/Kuppenheim/Buehl/Gernsbach bleiben wegen Industrie-/Gewerbekulisse und Rheintal-/Murgtal-Infrastruktur beobachtenswert, aber ohne direkten RZ-Nachweis.",
+      "action": "Coverage Richtung Steinmauern/Lichtenau/Rheinmuenster/Buehlertal/Gaggenau fortsetzen; bei Rastatt/Kuppenheim/Buehl besonders Industriegebiete, Strom-/Umspannwerksnaehe, Glasfaser und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Karlsruhe",
+        "Rastatt",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt. Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Emmendingen Bauen/Wirtschaft Suche, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-15-rz-news-grid-power-acceptance",
+      "date": "2026-07-15",
+      "publishedDate": "2026-07-15",
+      "topic": "Nachrichten- und Marktmonitoring Rechenzentren",
+      "publisher": "WELT/dpa; Tom's Hardware/Gartner; Business Insider; AP",
+      "sourceUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-moechte-weiteres-ki-rechenzentrum-in-nrw-bauen.html; https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7; https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "summary": "Breite Nachrichtensichtung bestaetigt den Trend: neue KI-/Cloud-Rechenzentren werden vor allem durch Netzanschluss, Strom-/Wasserbilanz, Genehmigung und kommunale Akzeptanz begrenzt. Microsofts Grevenbroich-Plan ist ein aktueller deutscher Brownfield-/Strukturwandel-Benchmark; Gartner-Strombedarfsdaten und US-Pushback-Meldungen schaerfen die Risikofilter.",
+      "relevance": "Fuer kleine Edge-/Micro-DC in Baden-Wuerttemberg spricht weiterhin ein kleinerer, netzvertraeglicher, wasserarmer und abwaermefaehiger Ansatz. Fuer Freiburg/Denzlingen/Emmendingen muessen Netzzusage, Kuehlung/Wasser, Schall, Brandschutz/Loeschwasser und lokale Nutzenargumente frueh belegbar sein.",
+      "action": "Newsfilter in Standortbewertung uebernehmen: Brownfield/Bestand, gesicherte Mittelspannungs-/110-kV-Naehe, klarer Abwaermeabnehmer, niedrige Laermwirkung und transparenter kommunaler Nutzen priorisieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "KI",
+        "Netzanschluss",
+        "Strom",
+        "Wasser",
+        "Akzeptanz",
+        "Brownfield",
+        "Abwaerme"
+      ],
+      "archiveNote": "Nachrichtensichtung erfolgreich: WELT/dpa Microsoft Grevenbroich KI-Rechenzentrum, Tom's Hardware/Gartner Strombedarf Rechenzentren 2026, Business Insider Widerstand gegen Data-Center-Boom, AP/FERC Netzanschluss AI Data Centers."
     }
   ],
   "gridChecks": [
@@ -3768,8 +3840,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-14",
-    "lastResearchSummary": "2026-07-14 Cron #3: 20 Gemeinden Baden-Baden/Karlsruhe-Nord geprueft; Philippsburg als 700-MW-RZ-/Hyperscale-Benchmark in Coverage revalidiert.",
+    "lastRun": "2026-07-15",
+    "lastResearchSummary": "2026-07-15: 20 weitere offene BW-Gemeinden Pfinztal bis Rastatt geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Netz/Strom/Akzeptanz ergaenzt.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3796,8 +3868,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-14",
-    "lastResearchSummary": "2026-07-14 Cron #3: 20 Gemeinden Baden-Baden/Karlsruhe-Nord geprueft; Philippsburg als 700-MW-RZ-/Hyperscale-Benchmark in Coverage revalidiert.",
+    "lastResearchRun": "2026-07-15",
+    "lastResearchSummary": "2026-07-15: 20 weitere offene BW-Gemeinden Pfinztal bis Rastatt geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Netz/Strom/Akzeptanz ergaenzt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
