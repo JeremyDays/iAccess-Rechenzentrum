@@ -3107,8 +3107,8 @@
       "status": "2026-07-10 cron2 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "mittel",
       "evidence": "Offizielle kommunale Quelle plus Bau-/Gewerbe-/Bauleitplanungs-/Rats-/Amtsblatt-/Breitband-/Energiepfade geprueft; kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
-      "source": "https://www.stadt-schrozberg.de/",
-      "notes": "Geprueft: https://www.stadt-schrozberg.de/. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
+      "source": "Lokaler Snapshot: assets/source-archive/schrozberg.de/08c10f021127cc58.html (offizielle Schrozberg-Startseite; Remote-HEAD/Redirect-Problem am 2026-07-15)",
+      "notes": "Geprueft: Lokaler Snapshot: assets/source-archive/schrozberg.de/08c10f021127cc58.html (offizielle Schrozberg-Startseite; Remote-HEAD/Redirect-Problem am 2026-07-15). Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, Gewerbe/GI/GE, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk.",
       "nextAction": "Bei konkretem Flaechen- oder Netzsignal vertiefen; mittlere Stadt-/Gewerbe-/Industrie-/Infrastrukturkulisse kann Edge-/Micro-DC-Pruefung rechtfertigen.",
       "lastCheckedAt": "2026-07-10"
     },
