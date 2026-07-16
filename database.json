@@ -3592,6 +3592,55 @@
         "Abwaerme"
       ],
       "archiveNote": "Nachrichtensichtung erfolgreich: WELT/dpa Microsoft Grevenbroich KI-Rechenzentrum, Tom's Hardware/Gartner Strombedarf Rechenzentren 2026, Business Insider Widerstand gegen Data-Center-Boom, AP/FERC Netzanschluss AI Data Centers."
+    },
+    {
+      "id": "id-2026-07-16-rastatt-neckarodenwald-20-screening",
+      "date": "2026-07-16",
+      "publishedDate": "2026-07-16",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.steinmauern.de/; https://www.lichtenau-baden.de/de/startseite; https://www.rheinmuenster.de/; https://www.buehlertal.de/de/vorseite; https://www.gaggenau.de/startseite.1.htm; https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html; https://www.wallduern.de/willkommen; https://www.hassmersheim.de/startseite; https://www.hueffenhardt.de/de/startseite; https://www.aglasterhausen.de/startseite; https://www.neunkirchen-baden.de/; https://www.schwarzach-online.de/startseite; https://www.fahrenbach.de/; https://www.limbach.de/; https://www.elztal.de/startseite; https://www.mosbach.de/startseite; https://www.neckarzimmern.de/de/startseite; https://www.obrigheim.de/startseite; https://www.binau.de/startseite; https://www.neckargerach.de/de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187; https://www.theguardian.com/australia-news/2026/jul/16/albaneses-ai-blueprint-sparks-calls-for-datacentre-moratorium-until-new-regulations-in-place; https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7; https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/; https://www.heise.de/hintergrund/Rechenzentren-Weshalb-die-Einstufung-nach-elektrischer-Leistung-sinnvoll-ist-11297998.html",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Steinmauern, Lichtenau, Rheinmuenster, Buehlertal, Gaggenau, Hardheim, Wallduern, Hassmersheim, Hueffenhardt, Aglasterhausen, Neunkirchen, Schwarzach, Fahrenbach, Limbach, Elztal, Mosbach, Neckarzimmern, Obrigheim, Binau, Neckargerach ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Gaggenau, Hardheim, Lichtenau, Mosbach, Rheinmuenster, Wallduern. Die Rheintal- und Neckar-Odenwald-Achsen bieten einzelne Gewerbe-/Industrie- und Infrastrukturindikatoren, aber heute keinen direkten RZ-Nachweis.",
+      "action": "Coverage mit den naechsten offenen Gemeinden fortsetzen; bei Mosbach/Gaggenau/Wallduern/Hardheim besonders Industriegebiete, Strom-/Umspannwerksnaehe, Glasfaser und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Rastatt",
+        "Neckar-Odenwald",
+        "Bebauungsplaene",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt. Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzausbau, Denzlingen Wirtschaftsstandort, Emmendingen FNP/Bauleitplanung, Freiburg Gewerbeflaechen/Wirtschaft."
+    },
+    {
+      "id": "id-2026-07-16-rz-news-regulation-grid-water",
+      "date": "2026-07-16",
+      "publishedDate": "2026-07-16",
+      "topic": "Nachrichten- und Marktmonitoring Rechenzentren",
+      "publisher": "AP; The Guardian; Tom's Hardware/Gartner; Business Insider; DataCenter-Insider; heise",
+      "sourceUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187; https://www.theguardian.com/australia-news/2026/jul/16/albaneses-ai-blueprint-sparks-calls-for-datacentre-moratorium-until-new-regulations-in-place; https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7; https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/; https://www.heise.de/hintergrund/Rechenzentren-Weshalb-die-Einstufung-nach-elektrischer-Leistung-sinnvoll-ist-11297998.html",
+      "title": "News-Screening: Regulierung, Netzlast und Wasser ruecken in den Vordergrund",
+      "summary": "Breite Nachrichtensichtung zeigt eine zunehmende Regulierung grosser KI-/Hyperscale-Rechenzentren: Moratorien, Pflicht zu eigenen Strom-/Netzloesungen, Wasser- und Laermauflagen sowie volle Netzanschlusskosten werden international zum Standortthema.",
+      "relevance": "Fuer iAccess in Baden-Wuerttemberg staerkt das den Fokus auf kleine, modulare, wasserarme Edge-/Micro-Standorte mit klarer Netzzusage, niedriger Schallwirkung, lokaler Abwaermeoption und transparenter kommunaler Nutzenlogik.",
+      "action": "Standortbewertung um Regulierungs-/Akzeptanzfilter schaerfen: Leistungsbedarf klein halten, Strom- und Kuehlkonzept frueh belegen, Abwaermenutzung und Netzanschlusskosten offen kommunizieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "KI",
+        "Regulierung",
+        "Netzanschluss",
+        "Strom",
+        "Wasser",
+        "Akzeptanz",
+        "Abwaerme"
+      ],
+      "archiveNote": "Nachrichtensichtung erfolgreich: AP New York RZ-Moratorium, Guardian Australien RZ-Regulierungsrahmen, Tom's Hardware/Gartner Strombedarf, Business Insider NY Baupause, DataCenter-Insider Philippsburg 700 MW, heise RZ-Leistungsklassen."
     }
   ],
   "gridChecks": [
@@ -3840,8 +3889,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-15",
-    "lastResearchSummary": "2026-07-15: 20 weitere offene BW-Gemeinden Pfinztal bis Rastatt geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Netz/Strom/Akzeptanz ergaenzt.",
+    "lastRun": "2026-07-16",
+    "lastResearchSummary": "2026-07-16: 20 weitere offene BW-Gemeinden im Rastatt-/Neckar-Odenwald-Korridor geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Regulierung/Netz/Wasser ergaenzt.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3868,8 +3917,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-15",
-    "lastResearchSummary": "2026-07-15: 20 weitere offene BW-Gemeinden Pfinztal bis Rastatt geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Netz/Strom/Akzeptanz ergaenzt.",
+    "lastResearchRun": "2026-07-16",
+    "lastResearchSummary": "2026-07-16: 20 weitere offene BW-Gemeinden im Rastatt-/Neckar-Odenwald-Korridor geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Regulierung/Netz/Wasser ergaenzt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
