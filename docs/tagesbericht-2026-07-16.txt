@@ -67,6 +67,8 @@ Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
 - check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
 - check-links.py: checked 572, ok 553, blocked 19, broken 0.
 - sync_index_seed_once.py: index.html aus database.json synchronisiert.
+- GitHub Pages: publish-github.mjs erfolgreich; Tagesbericht und database.json anschliessend per HTTP 200 verifiziert.
+- Gmail-Versand: blockiert durch OAuth-Refresh-Fehler invalid_grant; SMTP-Fallback nicht moeglich, weil GMAIL_SMTP_USER/GMAIL_APP_PASSWORD in der Umgebung fehlen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
