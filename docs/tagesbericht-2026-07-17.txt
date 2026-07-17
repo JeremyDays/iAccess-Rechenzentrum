@@ -1,0 +1,66 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-17
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Waldbrunn (Neckar-Odenwald-Kreis): https://www.waldbrunn-odenwald.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, netz)
+  - Zwingenberg (Neckar-Odenwald-Kreis): https://www.zwingenberg-neckar.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, netz)
+  - Osterburken (Neckar-Odenwald-Kreis): https://www.osterburken.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, verkehr)
+  - Ravenstein (Neckar-Odenwald-Kreis): https://www.ravenstein.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, industrie, netz, server)
+  - Rosenberg (Neckar-Odenwald-Kreis): https://www.rosenberg-baden.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, entwässerung, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, wärme)
+  - Billigheim (Neckar-Odenwald-Kreis): https://www.billigheim.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, strom)
+  - Schefflenz (Neckar-Odenwald-Kreis): https://www.schefflenz.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, server, verkehr)
+  - Adelsheim (Neckar-Odenwald-Kreis): https://www.adelsheim.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, schall, server, sondergebiet)
+  - Seckach (Neckar-Odenwald-Kreis): https://www.seckach.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, glasfaser, industrie, netz, server, verkehr)
+  - Buchen (Odenwald) (Neckar-Odenwald-Kreis): https://www.buchen.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, verkehr, wärme)
+  - Schoenbrunn (Rhein-Neckar-Kreis): https://www.gemeinde-schoenbrunn.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, wärme)
+  - Eschelbronn (Rhein-Neckar-Kreis): https://www.eschelbronn.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, server, wärme)
+  - Lobbach (Rhein-Neckar-Kreis): https://www.lobbach.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, verkehr, wärme)
+  - Mauer (Rhein-Neckar-Kreis): https://www.gemeinde-mauer.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, netz, server, strom, wärme)
+  - Spechbach (Rhein-Neckar-Kreis): https://www.spechbach.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, entwässerung, gemeinderat, gewerbe, glasfaser, server, wärme)
+  - Hemsbach (Rhein-Neckar-Kreis): https://www.hemsbach.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bauleit, bebauungsplan, brandschutz, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server)
+  - Laudenbach (Rhein-Neckar-Kreis): https://www.gemeinde-laudenbach.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, strom, verkehr, wärme)
+  - Altlussheim (Rhein-Neckar-Kreis): https://www.altlussheim.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, ratsinfo, server, strom)
+  - Hockenheim (Rhein-Neckar-Kreis): https://www.hockenheim.de/,Lde/175604.html (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bauleit, bebauungsplan, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, schall, strom)
+  - Reilingen (Rhein-Neckar-Kreis): https://www.reilingen.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, strom, verkehr, wärme)
+
+Gepruefte Gemeinden
+- Waldbrunn, Zwingenberg, Osterburken, Ravenstein, Rosenberg, Billigheim, Schefflenz, Adelsheim, Seckach, Buchen (Odenwald), Schoenbrunn, Eschelbronn, Lobbach, Mauer, Spechbach, Hemsbach, Laudenbach, Altlussheim, Hockenheim, Reilingen.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 Gemeinden ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Adelsheim, Altlussheim, Buchen (Odenwald), Hemsbach, Hockenheim, Osterburken.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg/Denzlingen/Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: netz, rechenzentrum, server).
+- Google News RSS Data Center Germany: https://news.google.com/rss/search?q=data+center+Germany&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, data center, datacenter, netz, rechenzentrum, strom).
+- Bewertung: keine neue konkrete Flaeche im Prioritaetsraum; kleine, wasserarme Edge-/Micro-Standorte bleiben realistischer als Hyperscale-Projekte.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- Keine neuen belastbar RZ-relevanten PDF-Gutachten oder technischen Originalzeichnungen gefunden.
+- Keine neuen Bilder aufgenommen; kein visuell belastbarer neuer Standortfund.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen.
+
+Offene/verdachtige Fragen und Uploads
+- database.json researchQuestions: 0; manualUploads: 0; kein Fragen-PDF erstellt.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock und RSS-Newsmonitoring).
+
+Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
+- Validierungswerte werden nach den Folgeskripten ergaenzt.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
