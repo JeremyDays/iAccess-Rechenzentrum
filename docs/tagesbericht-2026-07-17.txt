@@ -1,7 +1,8 @@
 Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-17
 
 Neue Quellen
-- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+- Offizielle kommunale Primaerquellen fuer 40 weitere offene Coverage-Gemeinden:
+- Zusaetzlich in diesem Lauf geprueft: Bammental, Neckargemuend, Malsch, Muehlhausen, Rauenberg, Heiligkreuzsteinach, Schoenau, Wilhelmsfeld, Sinsheim, Zuzenhausen, Epfenbach, Helmstadt-Bargen, Neckarbischofsheim, Neidenstein, Reichartshausen, Waibstadt, Dielheim, Wiesloch, Bruehl, Dossenheim (20 weitere Rhein-Neckar-Gemeinden; kein belastbarer direkter RZ-Fund).
   - Waldbrunn (Neckar-Odenwald-Kreis): https://www.waldbrunn-odenwald.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, netz)
   - Zwingenberg (Neckar-Odenwald-Kreis): https://www.zwingenberg-neckar.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, netz)
   - Osterburken (Neckar-Odenwald-Kreis): https://www.osterburken.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, verkehr)
@@ -24,18 +25,24 @@ Neue Quellen
   - Reilingen (Rhein-Neckar-Kreis): https://www.reilingen.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, strom, verkehr, wärme)
 
 Gepruefte Gemeinden
-- Waldbrunn, Zwingenberg, Osterburken, Ravenstein, Rosenberg, Billigheim, Schefflenz, Adelsheim, Seckach, Buchen (Odenwald), Schoenbrunn, Eschelbronn, Lobbach, Mauer, Spechbach, Hemsbach, Laudenbach, Altlussheim, Hockenheim, Reilingen.
+- Waldbrunn, Zwingenberg, Osterburken, Ravenstein, Rosenberg, Billigheim, Schefflenz, Adelsheim, Seckach, Buchen (Odenwald), Schoenbrunn, Eschelbronn, Lobbach, Mauer, Spechbach, Hemsbach, Laudenbach, Altlussheim, Hockenheim, Reilingen, Bammental, Neckargemuend, Malsch, Muehlhausen, Rauenberg, Heiligkreuzsteinach, Schoenau, Wilhelmsfeld, Sinsheim, Zuzenhausen, Epfenbach, Helmstadt-Bargen, Neckarbischofsheim, Neidenstein, Reichartshausen, Waibstadt, Dielheim, Wiesloch, Bruehl, Dossenheim.
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- Alle 20 Gemeinden ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Adelsheim, Altlussheim, Buchen (Odenwald), Hemsbach, Hockenheim, Osterburken.
+- Alle 40 heute geprueften Gemeinden ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Adelsheim, Altlussheim, Buchen (Odenwald), Hemsbach, Hockenheim, Osterburken.
 
 Nachrichten-/Betreiber-Sichtung
+- Gezielte Fachquellen-Sichtung (Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale/kommunale Quellen): kein neuer konkreter Standort im Freiburg-Denzlingen-Emmendingen-Korridor.
+- DataCenter-Insider Lahr/Baden Cloud: regionaler 1-MW-Colocation-Standort mit ca. 600 qm IT-Flaeche, rund 230 Racks im Vollausbau, Dark-Fiber/100-Gbit-Verbund, regionalem Oekostrom, PV und Abwaerme/Fernwaerme-Pfad als gutes Edge-/Micro-DC-Vergleichsmodell.
+- DatacenterDynamics Philippsburg: 707 MW Netzanschluss als Hyperscale-Benchmark; fuer iAccess eher Benchmark fuer Netzanschluss-/Akzeptanzrisiken als Zielgroesse.
+- Golem/Heise/iX: Hitzewellen-, Leistungsdichte- und Netzanschlussberichte bestaetigen Strom, Kuehlung, PUE/WUE und Genehmigungsakzeptanz als harte Vorfilter.
+- Stadt Freiburg Glasfaserausbau: Mitte 2026 ca. 90 Prozent der Gewerbeflaechen mit Gigabit versorgt; Industriegebiet Nord, Haid, Hochdorf/Umkirch und weitere Gewerbeachsen bleiben als Carrier-Vorfilter relevant, aber ohne neuen RZ-Flaechenfund.
 - Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
 - Google News RSS Freiburg/Denzlingen/Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: netz, rechenzentrum, server).
 - Google News RSS Data Center Germany: https://news.google.com/rss/search?q=data+center+Germany&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, data center, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Edge Data Center Deutschland: https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
 - Bewertung: keine neue konkrete Flaeche im Prioritaetsraum; kleine, wasserarme Edge-/Micro-Standorte bleiben realistischer als Hyperscale-Projekte.
 
 Prioritaetsraum Freiburg/Denzlingen/Emmendingen
@@ -56,13 +63,13 @@ Offene/verdachtige Fragen und Uploads
 - database.json researchQuestions: 0; manualUploads: 0; kein Fragen-PDF erstellt.
 
 Veraenderte Statistiken
-- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
-- database.json: 2 neue Findings (Kommunalblock und RSS-Newsmonitoring).
+- Coverage: 40 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 4 neue Findings (zwei Kommunalbloecke, RSS-Newsmonitoring und Fachquellen-Sichtung).
 
 Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
-- archive-sources.py: 597 bekannte Quellen, 577 gesichert/uebersprungen, 18 fehlgeschlagen (vor allem bekannte datacenters.com-429-Blocker); alle 20 heutigen kommunalen Startquellen und 3 RSS-Quellen lokal gesichert.
+- archive-sources.py: 622 bekannte Quellen, 602 gesichert/uebersprungen, 18 fehlgeschlagen (vor allem bekannte datacenters.com-429-Blocker); alle 40 heutigen kommunalen Startquellen, 4 RSS-Quellen und die neuen Fachquellen lokal gesichert.
 - check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
-- check-links.py: checked 595, ok 576, blocked 19, broken 0.
+- check-links.py: checked 620, ok 601, blocked 19, broken 0.
 - sync_index_seed_once.py: index.html aus database.json synchronisiert.
 - GitHub Pages: publish-github.mjs erfolgreich; Pages-Konfiguration wegen fehlender Berechtigung unveraendert, bestehende Website bleibt aktiv.
 - Zustellung: ausschliesslich ueber den Hermes-Cron-Delivery-Kanal; keine Gmail-/SMTP-/OAuth-Aktion.
