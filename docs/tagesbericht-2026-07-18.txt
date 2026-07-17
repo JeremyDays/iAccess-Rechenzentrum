@@ -65,7 +65,8 @@ Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
 - check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
 - check-links.py: checked 620, ok 601, blocked 19, broken 0.
 - sync_index_seed_once.py: index.html aus database.json synchronisiert.
-- GitHub-Publish wird nachfolgend ausgefuehrt; Zustellung ausschliesslich ueber Hermes-Cron, keine Gmail-/SMTP-/OAuth-Aktion.
+- GitHub Pages: publish-github.mjs nach einmaligem transientem 409-SHA-Konflikt im Wiederholungslauf erfolgreich; Tagesbericht, database.json und Website anschliessend per HTTP 200 mit heutigem Inhalt verifiziert. Pages-Konfigurationsupdate wegen fehlender Berechtigung uebersprungen; bestehende Website bleibt aktiv.
+- Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
