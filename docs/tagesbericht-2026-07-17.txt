@@ -60,7 +60,12 @@ Veraenderte Statistiken
 - database.json: 2 neue Findings (Kommunalblock und RSS-Newsmonitoring).
 
 Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
-- Validierungswerte werden nach den Folgeskripten ergaenzt.
+- archive-sources.py: 597 bekannte Quellen, 577 gesichert/uebersprungen, 18 fehlgeschlagen (vor allem bekannte datacenters.com-429-Blocker); alle 20 heutigen kommunalen Startquellen und 3 RSS-Quellen lokal gesichert.
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- check-links.py: checked 595, ok 576, blocked 19, broken 0.
+- sync_index_seed_once.py: index.html aus database.json synchronisiert.
+- GitHub Pages: publish-github.mjs erfolgreich; Pages-Konfiguration wegen fehlender Berechtigung unveraendert, bestehende Website bleibt aktiv.
+- Zustellung: ausschliesslich ueber den Hermes-Cron-Delivery-Kanal; keine Gmail-/SMTP-/OAuth-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
