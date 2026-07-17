@@ -3641,6 +3641,50 @@
         "Abwaerme"
       ],
       "archiveNote": "Nachrichtensichtung erfolgreich: AP New York RZ-Moratorium, Guardian Australien RZ-Regulierungsrahmen, Tom's Hardware/Gartner Strombedarf, Business Insider NY Baupause, DataCenter-Insider Philippsburg 700 MW, heise RZ-Leistungsklassen."
+    },
+    {
+      "id": "id-2026-07-17-neckarodenwald-rheinneckar-20-screening",
+      "date": "2026-07-17",
+      "publishedDate": "2026-07-17",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.waldbrunn-odenwald.de/; https://www.zwingenberg-neckar.de/de/startseite; https://www.osterburken.de/startseite; https://www.ravenstein.de/startseite; https://www.rosenberg-baden.de/startseite; https://www.billigheim.de/de/startseite; https://www.schefflenz.de/; https://www.adelsheim.de/; https://www.seckach.de/startseite; https://www.buchen.de/; https://www.gemeinde-schoenbrunn.de/; https://www.eschelbronn.de/startseite; https://www.lobbach.de/startseite; https://www.gemeinde-mauer.de/; https://www.spechbach.de/startseite; https://www.hemsbach.de/; https://www.gemeinde-laudenbach.de/startseite; https://www.altlussheim.de/startseite; https://www.hockenheim.de/,Lde/175604.html; https://www.reilingen.de/de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=data+center+Germany&hl=de&gl=DE&ceid=DE:de",
+      "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Waldbrunn, Zwingenberg, Osterburken, Ravenstein, Rosenberg, Billigheim, Schefflenz, Adelsheim, Seckach, Buchen (Odenwald), Schoenbrunn, Eschelbronn, Lobbach, Mauer, Spechbach, Hemsbach, Laudenbach, Altlussheim, Hockenheim, Reilingen ueber offizielle kommunale Startseiten und automatisch entdeckte Infrastruktur- und Planungspfade. Kein belastbarer neuer Standorttreffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Adelsheim, Altlussheim, Buchen (Odenwald), Hemsbach, Hockenheim, Osterburken. Groessere Verkehrs-/Gewerbestandorte sind plausibler, aber ohne freie GE/GI-Flaeche, belastbare Netzzusage und Carrier-Redundanz keine harten iAccess-Kandidaten.",
+      "action": "Coverage mit den naechsten offenen Rhein-Neckar-Gemeinden fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkretem Netz-, Carrier- oder Flaechensignal sofort vorziehen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Neckar-Odenwald",
+        "Rhein-Neckar",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Offizielle kommunale Primaerquellen und Prioritaetsquellen zur lokalen Sicherung hinterlegt."
+    },
+    {
+      "id": "id-2026-07-17-rz-news-rss-monitoring",
+      "date": "2026-07-17",
+      "publishedDate": "2026-07-17",
+      "topic": "Nachrichten- und Marktmonitoring Rechenzentren",
+      "publisher": "Google News RSS / verlinkte Originalmedien",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=data+center+Germany&hl=de&gl=DE&ceid=DE:de",
+      "title": "News-Monitoring: keine neue konkrete Flaeche im Freiburger Prioritaetsraum",
+      "summary": "Aktuelle RSS-Sichtungen zu Rechenzentren in Baden-Wuerttemberg, im Raum Freiburg/Denzlingen/Emmendingen und in Deutschland wurden abgerufen. Im Prioritaetsraum ergab sich kein neuer belastbarer Flächen-, Netz- oder Carrier-Hinweis.",
+      "relevance": "Die belastbareren BW-Meldungen betreffen weiterhin grosse Vorhaben und Netzinfrastruktur ausserhalb des Prioritaetsraums. Fuer iAccess bleibt die kommunale Flaechen- und Anschlusspruefung kleiner Edge-/Micro-Standorte entscheidend.",
+      "action": "Prioritaetsraum weiter auf Bauleitplanung, Gewerbeflaechen, 110-kV-/Mittelspannungsnaehe, Glasfaserredundanz und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Freiburg",
+        "Netz",
+        "Carrier"
+      ]
     }
   ],
   "gridChecks": [
@@ -3889,8 +3933,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-16",
-    "lastResearchSummary": "2026-07-16: 20 weitere offene BW-Gemeinden im Rastatt-/Neckar-Odenwald-Korridor geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Regulierung/Netz/Wasser ergaenzt.",
+    "lastRun": "2026-07-17",
+    "lastResearchSummary": "2026-07-17: 20 weitere offene Gemeinden im Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft; kein neuer belastbarer RZ-Flaechenfund.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -3917,8 +3961,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-16",
-    "lastResearchSummary": "2026-07-16: 20 weitere offene BW-Gemeinden im Rastatt-/Neckar-Odenwald-Korridor geprueft; keine neuen belastbaren RZ-Flaechenfunde, Newsfilter zu Regulierung/Netz/Wasser ergaenzt.",
+    "lastResearchRun": "2026-07-17",
+    "lastResearchSummary": "2026-07-17: 20 weitere offene Gemeinden im Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft; kein neuer belastbarer RZ-Flaechenfund.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
