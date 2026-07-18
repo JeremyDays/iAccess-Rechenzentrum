@@ -1,21 +1,9 @@
 {
   "checked": 642,
-  "ok": 621,
+  "ok": 623,
   "blocked": 19,
-  "broken": 2,
+  "broken": 0,
   "results": [
-    {
-      "collection": "capacityMarkets",
-      "index": 1,
-      "field": "url",
-      "title": "Kommende unverbindliche Netzanschlussauskunft nach Â§ 17a EnWG-E",
-      "url": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
-      "status": 521,
-      "finalUrl": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
     {
       "collection": "drawings",
       "index": 3,
@@ -27,18 +15,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 85,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-moechte-weiteres-ki-rechenzentrum-in-nrw-bauen.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": false,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -276,6 +252,18 @@
       "url": "https://www.ewe-netz.de/einspeiser/strom/ihr-netzanschluss/reservierungsverfahren",
       "status": 200,
       "finalUrl": "https://www.ewe-netz.de/einspeiser/strom/ihr-netzanschluss/reservierungsverfahren",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "capacityMarkets",
+      "index": 1,
+      "field": "url",
+      "title": "Kommende unverbindliche Netzanschlussauskunft nach Â§ 17a EnWG-E",
+      "url": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
+      "status": 200,
+      "finalUrl": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5556,6 +5544,18 @@
       "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
       "status": 200,
       "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 85,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-moechte-weiteres-ki-rechenzentrum-in-nrw-bauen.html",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-plant-naechsten-grossen-ki-serverstandort-in-nrw.html",
       "ok": true,
       "blocked": false,
       "error": ""
