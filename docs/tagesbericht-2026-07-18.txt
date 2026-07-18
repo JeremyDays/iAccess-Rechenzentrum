@@ -51,14 +51,12 @@ PDFs/Gutachten/technische Unterlagen
 - PDF-Verfuegbarkeit: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
 
 Datenstand
-- Coverage: 20 weitere offene Gemeinden auf geprueft/kein RZ-Fund gesetzt.
-- Coverage gesamt: found 17, notSystematicallyChecked 394, checkedNoRZ 607; alte dritte Malsch-Dublette bleibt kein neuer Recherchefall.
-- database.json: 1 neuer Kommunalblock-Finding; researchQuestions 0, manualUploads 0.
-
-Lokale Sicherung / Linkpruefung / Website-Synchronisierung
-- archive-sources.py: 643 bekannte Quellen, 623 gesichert/uebersprungen, 18 fehlgeschlagen; alle 20 heutigen kommunalen Startquellen neu lokal gesichert. Die Fehler betreffen vor allem bekannte datacenters.com-429-Blocker.
-- check-links.py: checked 641, ok 622, blocked 19, broken 0.
-- sync_index_seed_once.py: index.html aus database.json synchronisiert.
+- Coverage: 20 weitere offene Gemeinden auf geprueft/kein RZ-Fund gesetzt; verbleibend 394 nicht systematisch geprueft; found unveraendert 17.
+- database.json: 1 neuer Kommunalblock-Finding; researchQuestions 0, manualUploads 0; index.html aus database.json synchronisiert.
+- Lokale Sicherung: 644 bekannte Quellen, 624 gesichert/uebersprungen, 18 bekannte Drittquellen-Fehler (vor allem datacenters.com 429); alle 20 heutigen kommunalen Startquellen und das Gechingen-PDF lokal vorhanden.
+- PDF-Verfuegbarkeit: 35 kuratierte PDFs, 17 lokal und alle 35 oeffentlich verfuegbar; keine blockiert oder nicht verfuegbar.
+- Linkpruefung nach Wiederholung: 642 URLs, 623 ok, 19 blockiert, 0 defekt.
+- GitHub-Publish: nach einem transienten 409-SHA-Konflikt im Wiederholungslauf erfolgreich.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
