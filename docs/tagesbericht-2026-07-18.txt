@@ -1,72 +1,66 @@
-Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-18
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-18 (zweiter Tageslauf)
 
 Neue Quellen
-- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
-  - Bammental (Rhein-Neckar-Kreis): https://www.bammental.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, strom, verkehr, wärme)
-  - Neckargemuend (Rhein-Neckar-Kreis): https://www.neckargemuend.de/start (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, strom, verkehr, wärme)
-  - Malsch (Rhein-Neckar-Kreis): https://www.malsch-weinort.de/buerger/aktuelles/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, industrie, netz, server, verkehr)
-  - Muehlhausen (Rhein-Neckar-Kreis): https://www.muehlhausen-kraichgau.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, ratsinfo, server, verkehr, wärme)
-  - Rauenberg (Rhein-Neckar-Kreis): https://www.rauenberg.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, strom, verkehr)
-  - Heiligkreuzsteinach (Rhein-Neckar-Kreis): https://www.heiligkreuzsteinach.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, cloud, gemeinderat, gewerbe, gewerbegebiet, netz, server, strom, verkehr)
-  - Schoenau (Rhein-Neckar-Kreis): https://www.stadt-schoenau.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, netz, ratsinfo, verkehr)
-  - Wilhelmsfeld (Rhein-Neckar-Kreis): https://www.wilhelmsfeld.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, flächennutzungsplan, gemeinderat, glasfaser, netz, ratsinfo, server, verkehr)
-  - Sinsheim (Rhein-Neckar-Kreis): https://www.sinsheim.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, brandschutz, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, verkehr)
-  - Zuzenhausen (Rhein-Neckar-Kreis): https://www.zuzenhausen.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, netz)
-  - Epfenbach (Rhein-Neckar-Kreis): https://www.epfenbach.de/startseite (6 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gemeinderat, gewerbe, server, sondergebiet, verkehr)
-  - Helmstadt-Bargen (Rhein-Neckar-Kreis): https://www.helmstadt-bargen.de/pb/132557.html (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gemeinderat, gewerbe, industrie, ratsinfo, schall, verkehr)
-  - Neckarbischofsheim (Rhein-Neckar-Kreis): https://www.neckarbischofsheim.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, industrie, netz, ratsinfo, verkehr)
-  - Neidenstein (Rhein-Neckar-Kreis): https://www.neidenstein.de/de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, industrie, netz, server, verkehr)
-  - Reichartshausen (Rhein-Neckar-Kreis): https://www.reichartshausen.de/ (6 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, netz, strom, verkehr, wärme)
-  - Waibstadt (Rhein-Neckar-Kreis): https://www.waibstadt.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, verkehr)
-  - Dielheim (Rhein-Neckar-Kreis): https://www.dielheim.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, verkehr, wärme)
-  - Wiesloch (Rhein-Neckar-Kreis): https://www.wiesloch.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, kommunale wärmeplanung, ratsinfo, strom, verkehr, wärme)
-  - Bruehl (Rhein-Neckar-Kreis): https://www.bruehl-baden.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: fernwärme, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, netz, strom, wärme)
-  - Dossenheim (Rhein-Neckar-Kreis): https://www.dossenheim.de/startseite (8 abrufbare kommunale Pfade; RZ-Worttreffer manuell entkraeftet: Cookie-/Datenschutztext nennt den externen IT-Dienstleister Kommunales Rechenzentrum Minden-Ravensberg/Lippe, keinen Standort in Dossenheim; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, rechenzentrum, server, strom, verkehr, wärme)
+- Offizielle kommunale Primaerquellen fuer 20 weitere wirklich offene Coverage-Gemeinden (Malsch-Dublette nicht erneut bearbeitet):
+  - Edingen-Neckarhausen (Rhein-Neckar-Kreis): https://www.edingen-neckarhausen.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, kommunale wärmeplanung, netz, schall, server, strom, verkehr, wärme)
+  - Eppelheim (Rhein-Neckar-Kreis): https://www.eppelheim.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz)
+  - Heddesheim (Rhein-Neckar-Kreis): https://www.heddesheim.de/willkommen (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, verkehr)
+  - Hirschberg an der Bergstrasse (Rhein-Neckar-Kreis): https://www.hirschberg-bergstrasse.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, server, wärme)
+  - Ilvesheim (Rhein-Neckar-Kreis): https://www.ilvesheim.de/startseite (8 abrufbare kommunale Pfade; RZ-Worttreffer im kommunalen Text, manuell nicht als Standortnachweis gewertet: rechenzentrum; Trefferfelder: amtsblatt, gemeinderat, glasfaser, kommunale wärmeplanung, netz, rechenzentrum, server, strom, verkehr, wärme)
+  - Ketsch (Rhein-Neckar-Kreis): https://www.ketsch.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, strom, verkehr, wärme)
+  - Ladenburg (Rhein-Neckar-Kreis): https://www.ladenburg.de/willkommen (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, cloud, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Leimen (Rhein-Neckar-Kreis): https://www.leimen.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, industriegebiet, kommunale wärmeplanung, ratsinfo, strom)
+  - Oftersheim (Rhein-Neckar-Kreis): https://www.oftersheim.de/start (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, kommunale wärmeplanung, strom, wärme)
+  - Plankstadt (Rhein-Neckar-Kreis): https://www.plankstadt.de/2235044 (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, verkehr)
+  - St. Leon-Rot (Rhein-Neckar-Kreis): https://www.st-leon-rot.de/startseite (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, netz, ratsinfo, server, verkehr, wärme)
+  - Schriesheim (Rhein-Neckar-Kreis): https://www.schriesheim.de/willkommen (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, kommunale wärmeplanung, netz, schall, verkehr, wärme)
+  - Schwetzingen (Rhein-Neckar-Kreis): https://www.schwetzingen.de/start (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, verkehr, wärme)
+  - Pforzheim (Pforzheim): https://www.pforzheim.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, netz, schall, verkehr)
+  - Altensteig (Calw): https://www.altensteig.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, industrie, strom, verkehr, wärme)
+  - Simmersfeld (Calw): https://www.simmersfeld.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, verkehr)
+  - Althengstett (Calw): https://www.althengstett.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, ratsinfo)
+  - Gechingen (Calw): https://www.gechingen.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server)
+  - Ostelsheim (Calw): https://www.ostelsheim.de/ (7 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, ratsinfo)
+  - Simmozheim (Calw): https://www.simmozheim.de/ (8 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gemeinderat, verkehr)
 
 Gepruefte Gemeinden
-- Bammental, Neckargemuend, Malsch, Muehlhausen, Rauenberg, Heiligkreuzsteinach, Schoenau, Wilhelmsfeld, Sinsheim, Zuzenhausen, Epfenbach, Helmstadt-Bargen, Neckarbischofsheim, Neidenstein, Reichartshausen, Waibstadt, Dielheim, Wiesloch, Bruehl, Dossenheim.
+- Edingen-Neckarhausen, Eppelheim, Heddesheim, Hirschberg an der Bergstrasse, Ilvesheim, Ketsch, Ladenburg, Leimen, Oftersheim, Plankstadt, St. Leon-Rot, Schriesheim, Schwetzingen, Pforzheim, Altensteig, Simmersfeld, Althengstett, Gechingen, Ostelsheim, Simmozheim.
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- Alle 20 Gemeinden ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bruehl, Dielheim, Dossenheim, Rauenberg, Sinsheim, Wiesloch.
-- Coverage-Bereinigung: zweiter Rosenberg-Datensatz als technische Dublette ausgeschlossen.
+- Alle 20 Gemeinden ohne direkten RZ-Nachweis. Mittlere Vorfilter: Altensteig, Edingen-Neckarhausen, Eppelheim, Heddesheim, Ladenburg, Leimen, Pforzheim, Schwetzingen.
 
 Nachrichten-/Betreiber-Sichtung
 - Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
 - Google News RSS Freiburg/Denzlingen/Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: netz, rechenzentrum, server).
-- Google News RSS Edge Data Center Deutschland: https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
-- Bewertung: keine neue konkrete Flaeche im Prioritaetsraum; kleine, wasserarme Edge-/Micro-Standorte bleiben realistischer als Hyperscale-Projekte.
+- Google News RSS Edge Micro Data Center Deutschland: https://news.google.com/rss/search?q=Edge+Micro+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, data center, datacenter, netz, server, wärme).
+- Kein neuer konkreter Standort im Prioritaetsraum erkannt.
 
 Prioritaetsraum Freiburg/Denzlingen/Emmendingen
-- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+- Bekannte Primaerquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
   - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
   - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
   - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
   - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
 
-Neue PDFs/Gutachten/Fotos/technische Zeichnungen
-- Keine neuen belastbar RZ-relevanten PDF-Gutachten oder technischen Originalzeichnungen gefunden.
-- Keine neuen Bilder aufgenommen; kein visuell belastbarer neuer Standortfund.
+PDFs/Gutachten/technische Unterlagen
+- 1 kommunale PDF-Links im automatischen Navigationsraster entdeckt; kein Dokument lieferte einen belastbaren direkten RZ-Standortnachweis.
+- PDF-Verfuegbarkeit: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
 
-Neue Partner
-- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen.
+Datenstand
+- Coverage: 20 weitere offene Gemeinden auf geprueft/kein RZ-Fund gesetzt.
+- Coverage gesamt: found 17, notSystematicallyChecked 394, checkedNoRZ 607; alte dritte Malsch-Dublette bleibt kein neuer Recherchefall.
+- database.json: 1 neuer Kommunalblock-Finding; researchQuestions 0, manualUploads 0.
 
-Offene/verdachtige Fragen und Uploads
-- Keine offenen Recherchefragen oder manuellen Uploads gemeldet; kein Fragen-PDF erstellt.
-
-Veraenderte Statistiken
-- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; eine Dublette bereinigt; found unveraendert.
-- database.json: 2 neue Findings (Kommunalblock und RSS-Newsmonitoring).
-
-Linkpruefung / PDF-Verfuegbarkeit / lokale Sicherung
-- archive-sources.py: 622 bekannte Quellen, 602 gesichert/uebersprungen, 18 fehlgeschlagen (vor allem bekannte Drittquellen-Blocker); alle 20 heutigen kommunalen Startquellen lokal gesichert.
-- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
-- check-links.py: checked 620, ok 601, blocked 19, broken 0.
+Lokale Sicherung / Linkpruefung / Website-Synchronisierung
+- archive-sources.py: 643 bekannte Quellen, 623 gesichert/uebersprungen, 18 fehlgeschlagen; alle 20 heutigen kommunalen Startquellen neu lokal gesichert. Die Fehler betreffen vor allem bekannte datacenters.com-429-Blocker.
+- check-links.py: checked 641, ok 622, blocked 19, broken 0.
 - sync_index_seed_once.py: index.html aus database.json synchronisiert.
-- GitHub Pages: publish-github.mjs nach einmaligem transientem 409-SHA-Konflikt im Wiederholungslauf erfolgreich; Tagesbericht, database.json und Website anschliessend per HTTP 200 mit heutigem Inhalt verifiziert. Pages-Konfigurationsupdate wegen fehlender Berechtigung uebersprungen; bestehende Website bleibt aktiv.
-- Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
