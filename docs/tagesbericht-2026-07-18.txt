@@ -46,7 +46,8 @@ Prioritaetsraum Freiburg/Denzlingen/Emmendingen
   - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
 
 PDFs/Gutachten/technische Unterlagen
-- 1 kommunale PDF-Links im automatischen Navigationsraster entdeckt; kein Dokument lieferte einen belastbaren direkten RZ-Standortnachweis.
+- 1 kommunaler PDF-Link im automatischen Navigationsraster entdeckt, lokal gesichert und mit pdftotext ausgelesen: Gechingen, Trinkwasser-Pruefbericht 2025 (4 Seiten; Labor-/Wasserqualitaetsdaten, kein Flaechen-, Netz-, Carrier- oder RZ-Nachweis).
+- Ergebnis: fuer die RZ-Standortsuche nicht belastbar relevant; keine neue technische Standortunterlage.
 - PDF-Verfuegbarkeit: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
 
 Datenstand
