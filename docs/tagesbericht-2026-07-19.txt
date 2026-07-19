@@ -1,0 +1,90 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-19
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Bad Herrenalb (Calw): https://www.badherrenalb.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, ratsinfo, verkehr)
+  - Dobel (Calw): https://www.dobel.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, strom, verkehr, wärme; PDF-Hinweise: 11)
+  - Bad Liebenzell (Calw): https://www.bad-liebenzell.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Unterreichenbach (Calw): https://www.unterreichenbach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, ratsinfo, server, strom, verkehr)
+  - Calw (Calw): https://www.calw.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Oberreichenbach (Calw): https://www.oberreichenbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, verkehr, wärme)
+  - Ebhausen (Calw): https://www.ebhausen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gemeinderat, gewerbe, netz, server, verkehr)
+  - Haiterbach (Calw): https://www.haiterbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, cloud, gemeinderat, gewerbe, netz, ratsinfo, server, verkehr)
+  - Nagold (Calw): https://www.nagold.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, server, verkehr, wärme)
+  - Bad Teinach-Zavelstein (Calw): https://www.bad-teinach-zavelstein.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, verkehr)
+  - Neubulach (Calw): https://www.neubulach.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server, verkehr)
+  - Neuweiler (Calw): https://www.neuweiler.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe, strom, verkehr)
+  - Bad Wildbad (Calw): https://www.bad-wildbad.de/de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, entwässerung, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Enzkloesterle (Calw): https://www.enzkloesterle.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, cloud, gemeinderat, gewerbe, netz, strom)
+  - Hoefen an der Enz (Calw): https://www.hoefen-enz.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, verkehr; PDF-Hinweise: 12)
+  - Schoemberg (Calw): https://www.schoemberg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, strom, verkehr)
+  - Wildberg (Calw): https://www.wildberg.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, sondergebiet, verkehr)
+  - Friolzheim (Enzkreis): https://www.friolzheim.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, server, strom, verkehr)
+  - Heimsheim (Enzkreis): https://www.heimsheim.de/startseite (Web-Open verifiziert; kein Direkt-RZ-Treffer; Trefferfelder: Wirtschaftsstandort, Gewerbegebiet Egelsee II, FNP, Bebauungsplaene, kommunale Waermeplanung, Laermaktionsplan, Ver-/Entsorgung, Gemeinderat/RIS, Amtsblatt, Trinkwasser, Breitband/Glasfaser).
+  - Wiernsheim (Enzkreis): https://www.wiernsheim.de/startseite (Web-Open verifiziert; kein Direkt-RZ-Treffer; Trefferfelder: oeffentliche Bekanntmachungen, Amtsblatt, Ratsinformationssystem, Standort, Firmenverzeichnis, Glasfaser, Bauland-/Immobilienportal, Wasserversorgung, Arbeitskreis Energie, Netze-BW-Netzmonitor).
+
+Lokal archivierte Quellen
+- archive-sources.py: 679 bekannte Quellen, 661 gesichert/uebersprungen, 18 fehlgeschlagen.
+- Heute neu lokal gesichert: kommunale Startseiten/Pfade fuer den Calw-/Enzkreis-Block, Dobel-/Hoefen-FNP-PDFs, Google-News-RSS, Tagesschau/SWR Philippsburg, Golem EnEfG/Hitzewelle/EU-Oekostrom, iX/heise und weitere Fachquellen, soweit technisch erreichbar.
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Neue kommunale PDF-Hinweise aus Dobel und Hoefen wurden zusaetzlich ueber den Linkcheck und die lokale Archivierung abgesichert; sie sind noch nicht als kuratierte pdfExtracts aufgenommen, weil keine RZ-relevante Volltextextraktion moeglich war.
+Gepruefte Gemeinden
+- Bad Herrenalb, Dobel, Bad Liebenzell, Unterreichenbach, Calw, Oberreichenbach, Ebhausen, Haiterbach, Nagold, Bad Teinach-Zavelstein, Neubulach, Neuweiler, Bad Wildbad, Enzkloesterle, Hoefen an der Enz, Schoemberg, Wildberg, Friolzheim, Heimsheim, Wiernsheim.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Liebenzell, Bad Wildbad, Calw, Haiterbach, Heimsheim, Nagold, Wiernsheim, Wildberg.
+
+Nachrichten-/Betreiber-Sichtung
+- Shell-DNS fiel nach dem kommunalen Crawl zeitweise aus; Fachquellen wurden deshalb zusaetzlich per Websuche/Web-Open geprueft.
+- DataCenter-Insider Lahr/Baden Cloud: 600 qm IT-Flaeche, ca. 230 Racks im Vollausbau, Start mit ca. 50 Racks, 1 MW Anschlussleistung, indirekte zweistufige Freikuehlung, 100-Gbit-Standortverbund, redundante Carrier-Raeume, Dark Fiber, regionaler Oekostrom, PV und Abwaerme/Fernwaerme. Relevanz: gutes Edge-/Micro-DC-Vergleichsmodell fuer iAccess.
+- DatacenterDynamics Philippsburg: Engrida/Hyperscale auf ca. 26 ha Industrieflaeche, 707 MW Netzanschluss mit TransnetBW vereinbart, Abwaerme fuer Haushalte geplant. Relevanz: Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken, kein iAccess-Zielmassstab.
+- Tagesschau/SWR Philippsburg: eigener 380-kV-Netzanschluss vom Kraftwerksgelaende und Abwaermenutzung geplant; Investor noch nicht gesichert.
+- Golem EU-Oekostromziele: EU-Effizienzlabel/PUE/WUE und Oekostrom-Anrechnung bleiben Regulierungsrisiko; strikte Vorgaben wurden dem Bericht zufolge entschaerft.
+- Golem EnEfG: Bundesregierung plant Entlastungen bei Rechenzentrumseffizienz/Modernisierung; Abwaerme- und PUE-Pfade bleiben fuer neue Anlagen trotzdem Due-Diligence-Themen.
+- Golem Hitzewelle: Kuehlleistung, Servereintrittstemperaturen, Wasserstress, Lastmanagement und Energieversorgung werden bei Extremwetterlagen zu harten Betriebsfiltern.
+- iX/heise: Strom wird zum Pruefstein grosser KI-Rechenzentren; Off-Grid-Kraftwerke und Moratorien zeigen Akzeptanzrisiken hoher Leistungsklassen.
+- CloudComputing-Insider wurde breit gesichtet; keine neue konkrete Flaeche im Raum Freiburg/Denzlingen/Emmendingen.
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum; kleine, wasserarme Edge-/Micro-Standorte bleiben realistischer als Hyperscale-Projekte.
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Netze BW Denzlingen 110-kV: per Web-Open verifiziert; Netzverstaerkung der bestehenden 110-kV-Hochspannungsleitung, Planfeststellungsverfahren beim RP Freiburg, wichtige Download-Unterlage sichtbar. Kein RZ-Flaechenfund.
+- Denzlingen Wirtschaftsstandort: bestehende kommunale Quelle bleibt Vergleichs-/Pruefpfad fuer Gewerbegebiet, Rat, Server-/IT-Worttreffer und Stromumfeld; heute kein neuer Flaechenfund.
+- Emmendingen FNP/Bauleitplanung: per Web-Open verifiziert; FNP/Bauleitplanung sichtbar, kein neuer RZ-Standort.
+- Freiburg Gewerbeflaechen/Wirtschaft: per Web-Open verifiziert; Gewerbeflaechen-/Wirtschaftspfad sichtbar, kein neuer konkreter RZ-Flaechenfund.
+- Ergebnis: Prioritaetsraum weiter beobachten, besonders freie Bestands-/GE-GI-Flaechen, Netzanschluss, redundante Glasfaser, Schall/Brandschutz, Wasser/Kuehlung und Abwaermeabnehmer.
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- Dobel: 11 FNP-/Bauleitplan-PDF-Hinweise im kommunalen Raster entdeckt; archive-sources.py sicherte u.a. FNP-Aufstellung, Entwurf/Begruendung und Abwaegungsunterlagen lokal.
+- Hoefen an der Enz: 12 FNP-/Bekanntmachungs-PDF-Hinweise entdeckt; mehrere Teilplaene/FNP-Fortschreibungen lokal gesichert.
+- Zusaetzliche lokale Arbeitskopien liegen unter assets/source-archive/pdf-screening-2026-07-19/. Die vendorte pypdf-Installation ist in dieser Umgebung nur als leerer Namespace sichtbar; Volltextextraktion war deshalb technisch nicht belastbar moeglich. Keine Aufnahme in pdfExtracts ohne RZ-Bezug.
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Calw/Enzkreis; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- check-links.py: checked 670, ok 651, blocked 19, broken 0.
+- Exitcode 1 entstand durch die per STDERR geloggte Startzeile in PowerShell; link-check-results.json meldet 0 echte Broken Links.
+Zustellung
+- Gmail-Versand: blockiert, OAuth-Refresh-Token ungueltig (`invalid_grant: Bad Request`).
+- Kein Fragen-PDF, weil researchQuestions=0, manualUploads=0 und pdfs/manual-uploads nur .gitkeep enthaelt.
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 679 bekannt, 18 fehlgeschlagen.
+- PDFs: 35/35 oeffentlich verfuegbar, 17 lokal vorhanden.
+- Links: 670 geprueft, 651 ok, 19 blockiert, 0 defekt.
+- Daten: database.json 97 Findings, Coverage found 17, checkedNoRZ 627, open 374.
+- Gmail-Versand: blockiert, OAuth-Refresh-Token ungueltig (`invalid_grant: Bad Request`).
