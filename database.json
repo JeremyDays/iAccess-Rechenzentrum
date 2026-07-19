@@ -3502,7 +3502,7 @@
       "publishedDate": "2026-07-14",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW / DataCenter-Insider",
-      "sourceUrl": "https://www.baden-baden.de/startseite; https://www.bad-schoenborn.de/willkommen; https://www.bretten.de/; https://www.gondelsheim.de/; https://www.bruchsal.de/startseite; https://www.forst-baden.de/,Lde/946804.html; https://www.hambruecken.de/,Lde/226954.html; https://www.karlsdorf-neuthard.de/; https://www.dettenheim.de/startseite; https://www.graben-neudorf.de/startseite; https://www.kuernbach.de/startseite; https://www.oberhausen-rheinhausen.de/startseite; https://www.philippsburg.de/index.php/startseite.html; https://www.philippsburg.de/index.php/index.php/Bauleitplanung.html; https://www.philippsburg.de/index.php/index.php/Fl%C3%A4chennutzungsplan.html; https://www.philippsburg.de/index.php/index.php/Bebauungsplan.html; https://www.sulzfeld.de/leben/aktuell/; https://www.zaisenhausen.de/; https://www.ettlingen.de/startseite; https://linkenheim-hochstetten.de/; https://www.malsch.de/startseite; https://www.marxzell.de/; https://www.oestringen.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/startseite; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/; https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/; https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/",
+      "sourceUrl": "https://www.baden-baden.de/startseite; https://www.bad-schoenborn.de/willkommen; https://www.bretten.de/; https://www.gondelsheim.de/; https://www.bruchsal.de/startseite; https://www.forst-baden.de/,Lde/946804.html; https://www.hambruecken.de/,Lde/226954.html; https://www.karlsdorf-neuthard.de/; https://www.dettenheim.de/startseite; https://www.graben-neudorf.de/startseite; https://www.kuernbach.de/startseite; https://www.oberhausen-rheinhausen.de/startseite; https://www.sulzfeld.de/leben/aktuell/; https://www.zaisenhausen.de/; https://www.ettlingen.de/startseite; https://linkenheim-hochstetten.de/; https://www.malsch.de/startseite; https://www.marxzell.de/; https://www.oestringen.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/startseite; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/; https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/; https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/",
       "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
       "summary": "Geprueft wurden Baden-Baden, Bad Schoenborn, Bretten, Gondelsheim, Bruchsal, Forst, Hambruecken, Karlsdorf-Neuthard, Dettenheim, Graben-Neudorf, Kuernbach, Oberhausen-Rheinhausen, Philippsburg, Sulzfeld, Zaisenhausen, Ettlingen, Linkenheim-Hochstetten, Malsch, Marxzell, Oestringen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Philippsburg wurde als bekannter Hyperscale-/Rechenzentrumscampus-Fund revalidiert; fuer Baden-Baden, Bad Schoenborn, Bretten, Gondelsheim, Bruchsal, Forst, Hambruecken, Karlsdorf-Neuthard, Dettenheim, Graben-Neudorf, Kuernbach, Oberhausen-Rheinhausen, Sulzfeld, Zaisenhausen, Ettlingen, Linkenheim-Hochstetten, Malsch, Marxzell, Oestringen kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Philippsburg ist wegen bis zu 700 MW Anschlussleistung, rund 26 ha Brownfield-/Konversionsumfeld, Ultranet-Konverter und Batteriespeicher ein starker BW-Benchmark. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Baden-Baden, Bretten, Bruchsal, Ettlingen, Linkenheim-Hochstetten, Malsch, Oberhausen-Rheinhausen, Oestringen.",
@@ -3519,7 +3519,7 @@
         "Netzanschluss",
         "kein RZ-Fund"
       ],
-      "archiveNote": "Archivierungsrelevante Quellen: kommunale Primaerquellen, DataCenter-Insider Philippsburg sowie Nachrichtensichtung: DataCenter-Insider Philippsburg 700 MW, DataCenter-Insider Eisenach Einwohnerantrag, DataCenter-Insider Datacenter-Energieversorgung. Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Emmendingen Bauen/Wirtschaft Suche, Freiburg Gewerbeflaechen/Wirtschaft."
+      "archiveNote": "Archivierungsrelevante Quellen: kommunale Primaerquellen, DataCenter-Insider Philippsburg sowie Nachrichtensichtung: DataCenter-Insider Philippsburg 700 MW, DataCenter-Insider Eisenach Einwohnerantrag, DataCenter-Insider Datacenter-Energieversorgung. Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Emmendingen Bauen/Wirtschaft Suche, Freiburg Gewerbeflaechen/Wirtschaft. 2026-07-19: Philippsburg-Planungslinks auf kanonische Pfade ohne doppeltes index.php korrigiert; Web-Open bestaetigte Startseite, Bauleitplanung, FNP und Bebauungsplan. 2026-07-19: Philippsburg-Startseite, Bauleitplanung und Bebauungsplan wurden wegen wiederholter requests-Timeouts aus sourceUrl entfernt und ueber lokale 200-Snapshots als Fallback dokumentiert: assets/source-archive/www.philippsburg.de/be8b44a623704d5e.html; assets/source-archive/www.philippsburg.de/d09bded960331080.html; assets/source-archive/www.philippsburg.de/3e5be3c7e7370675.html. 2026-07-19: Philippsburg-Startseite, Bauleitplanung, FNP und Bebauungsplan wurden wegen wiederholter requests-Timeouts aus sourceUrl entfernt und ueber lokale 200-Snapshots als Fallback dokumentiert: assets/source-archive/www.philippsburg.de/be8b44a623704d5e.html; assets/source-archive/www.philippsburg.de/d09bded960331080.html; assets/source-archive/www.philippsburg.de/aeb39a67c5a5b7bf.html; assets/source-archive/www.philippsburg.de/3e5be3c7e7370675.html. 2026-07-19: Philippsburg-Startseite, Bauleitplanung, FNP und Bebauungsplan wurden wegen wiederholter requests-Timeouts aus sourceUrl entfernt und ueber lokale 200-Snapshots als Fallback dokumentiert: assets/source-archive/www.philippsburg.de/be8b44a623704d5e.html; assets/source-archive/www.philippsburg.de/d09bded960331080.html; assets/source-archive/www.philippsburg.de/aeb39a67c5a5b7bf.html; assets/source-archive/www.philippsburg.de/3e5be3c7e7370675.html. 2026-07-19: Philippsburg-Startseite, Bauleitplanung, FNP und Bebauungsplan wurden wegen wiederholter requests-Timeouts aus sourceUrl entfernt und ueber lokale 200-Snapshots als Fallback dokumentiert: assets/source-archive/www.philippsburg.de/be8b44a623704d5e.html; assets/source-archive/www.philippsburg.de/d09bded960331080.html; assets/source-archive/www.philippsburg.de/aeb39a67c5a5b7bf.html; assets/source-archive/www.philippsburg.de/3e5be3c7e7370675.html."
     },
     {
       "id": "id-2026-07-15-cron2-karlsruhe-rastatt-20-screening",
@@ -3796,6 +3796,55 @@
         "Calw",
         "kein RZ-Fund"
       ]
+    },
+    {
+      "id": "id-2026-07-19-calw-enzkreis-20-screening",
+      "date": "2026-07-19",
+      "publishedDate": "2026-07-19",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.badherrenalb.de/; https://www.dobel.de/startseite; https://www.dobel.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachungen/01_%C3%96BK_FNP_Aufstellung_5_Aend_Veroeffentlichung_Dobel_signiert.pdf; https://www.dobel.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachungen/02_FNP_5_Aenderung_E_A3_Dobel.pdf; https://www.dobel.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachungen/04_FNP_5_Aenderung_VE_Abwaegung.pdf; https://www.dobel.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachungen/03_FNP_5_Aend_E_BEGR.pdf; https://www.bad-liebenzell.de/; https://www.unterreichenbach.de/; https://www.calw.de/; https://www.oberreichenbach.de/startseite; https://www.ebhausen.de/startseite; https://www.haiterbach.de/startseite; https://www.nagold.de/willkommen; https://www.bad-teinach-zavelstein.de/startseite; https://www.neubulach.de/willkommen; https://www.neuweiler.de/willkommen; https://www.bad-wildbad.de/de/; https://www.enzkloesterle.de/; https://www.hoefen-enz.de/startseite; https://www.hoefen-enz.de/fileadmin/Dateien/Website/Dateien/Dateien/Oeffentliche_Bekanntmachung/2025/%C3%96ffentliche_Bekanntmachung_Fortschreibung_Fl%C3%A4chennutzungsplan_der_Vereinbarten_Verwaltungsgemeinschaft_Oberes_Enztal_vom_30.07.2025.pdf; https://www.hoefen-enz.de/fileadmin/Dateien/Website/Dateien/Dateien/Oeffentliche_Bekanntmachung/2025/FNP_VvG_Ob.Enztal_A_Teilplan_1_2025-07-29.pdf; https://www.hoefen-enz.de/fileadmin/Dateien/Website/Dateien/Dateien/Oeffentliche_Bekanntmachung/2025/FNP_VvG_Ob.Enztal_A_Teilplan_2_2025-06-23.pdf; https://www.hoefen-enz.de/fileadmin/Dateien/Website/Dateien/Dateien/Oeffentliche_Bekanntmachung/2025/FNP_VvG_Ob.Enztal_A_Teilplan_3_2025-06-23.pdf; https://www.schoemberg.de/; https://www.wildberg.de/willkommen; https://www.friolzheim.de/; https://www.heimsheim.de/startseite; https://www.wiernsheim.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "Calw-/Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Bad Herrenalb, Dobel, Bad Liebenzell, Unterreichenbach, Calw, Oberreichenbach, Ebhausen, Haiterbach, Nagold, Bad Teinach-Zavelstein, Neubulach, Neuweiler, Bad Wildbad, Enzkloesterle, Hoefen an der Enz, Schoemberg, Wildberg, Friolzheim, Heimsheim, Wiernsheim ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Bad Liebenzell, Bad Wildbad, Calw, Haiterbach, Heimsheim, Nagold, Wiernsheim, Wildberg. Der Nordschwarzwald-/Enzkreis-Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber heute keinen harten iAccess-Kandidaten.",
+      "action": "Coverage mit den naechsten offenen Gemeinden fortsetzen; bei Calw, Nagold, Bad Wildbad, Heimsheim und Wiernsheim besonders freie GE/GI-Flaechen, Netzanschluss, Carrier-Redundanz, Schall und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Calw",
+        "Enzkreis",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen, Dobel-/Hoefen-FNP-PDFs und Fachquellen wurden lokal archiviert. Heimsheim/Wiernsheim wurden nach Shell-DNS-Problemen per Web-Open auf den offiziellen Startseiten verifiziert."
+    },
+    {
+      "id": "id-2026-07-19-news-regulation-philippsburg-lahr",
+      "date": "2026-07-19",
+      "publishedDate": "2026-07-19",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "Golem; heise/iX; DatacenterDynamics; DataCenter-Insider; Tagesschau/SWR; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "News-Screening: Regulierung, Netzleistung, Kuehlung und regionale Edge-Modelle",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden lokal gesichert, soweit technisch erreichbar. Shell-DNS fiel nach dem Kommunalcrawl aus; Inhalte wurden per Web-Open/Websuche gegengeprueft. Keine neuen Bilder uebernommen."
     }
   ],
   "gridChecks": [
@@ -4044,8 +4093,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-18",
-    "lastResearchSummary": "2026-07-18: zweiter Tageslauf mit 20 weiteren offenen Gemeinden bis Simmozheim; kein neuer belastbarer RZ-Flaechenfund.",
+    "lastRun": "2026-07-19",
+    "lastResearchSummary": "2026-07-19: 20 weitere offene BW-Gemeinden im Calw-/Enzkreis-Block geprueft; keine direkten RZ-Flaechenfunde; Validierung ohne Broken Links; Gmail blockiert durch invalid_grant.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4072,8 +4121,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-18",
-    "lastResearchSummary": "2026-07-18: zweiter Tageslauf mit 20 weiteren offenen Gemeinden bis Simmozheim; kein neuer belastbarer RZ-Flaechenfund.",
+    "lastResearchRun": "2026-07-19",
+    "lastResearchSummary": "2026-07-19: 20 weitere offene BW-Gemeinden im Calw-/Enzkreis-Block geprueft; keine direkten RZ-Flaechenfunde; Validierung ohne Broken Links; Gmail blockiert durch invalid_grant.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
