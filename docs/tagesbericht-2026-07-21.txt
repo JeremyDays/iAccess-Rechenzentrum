@@ -1,0 +1,101 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-21
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Wimsheim (Enzkreis): https://www.wimsheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, netz, ratsinfo, schall, strom)
+  - Wurmberg (Enzkreis): https://www.wurmberg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, industrie, ratsinfo, server)
+  - Eisingen (Enzkreis): https://www.eisingen-enzkreis.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, glasfaser, ratsinfo, server, strom, verkehr)
+  - Kaempfelbach (Enzkreis): https://www.kaempfelbach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, brandschutz, breitband, gemeinderat, gewerbe, ratsinfo, schall, server, verkehr; PDF-Hinweise: 12)
+  - Maulbronn (Enzkreis): https://www.maulbronn.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server, strom, verkehr)
+  - Sternenfels (Enzkreis): https://www.sternenfels.de/start.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, strom)
+  - Muehlacker (Enzkreis): https://www.muehlacker.de/stadt/index.php (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Oetisheim (Enzkreis): https://www.oetisheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, industrie, ratsinfo, server; PDF-Hinweise: 2)
+  - Neuenbuerg (Enzkreis): https://www.neuenbuerg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, ratsinfo, server)
+  - Kieselbronn (Enzkreis): https://www.kieselbronn.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, industrie, ratsinfo, strom, verkehr)
+  - Neulingen (Enzkreis): https://www.neulingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, industrie, ratsinfo, schall, server, verkehr; PDF-Hinweise: 1)
+  - Oelbronn-Duerrn (Enzkreis): https://www.oelbronn-duerrn.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale waermeplanung, kommunale wärmeplanung, netz, ratsinfo, server, strom, verkehr, waerme)
+  - Neuhausen (Enzkreis): https://www.neuhausen-enzkreis.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, ratsinfo, server, verkehr)
+  - Tiefenbronn (Enzkreis): https://www.tiefenbronn.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, ratsinfo, server, strom, verkehr; PDF-Hinweise: 3)
+  - Birkenfeld (Enzkreis): https://www.birkenfeld-enzkreis.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, schall, server, strom)
+  - Illingen (Enzkreis): https://www.illingen-online.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, entwässerung, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet)
+  - Knittlingen (Enzkreis): https://www.knittlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, entwässerung, gemeinderat, netz, ratsinfo, strom)
+  - Niefern-Oeschelbronn (Enzkreis): https://www.niefern-oeschelbronn.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, industrie, ratsinfo, strom)
+  - Remchingen (Enzkreis): https://www.remchingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, verkehr)
+  - Straubenhardt (Enzkreis): https://www.straubenhardt.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, strom, wärme)
+
+Lokal archivierte Quellen
+- archive-sources.py: 713 bekannte Quellen im Manifest, 18 fehlgeschlagen (bekannte Drittquellen-Blocker, vor allem datacenters.com mit HTTP 429).
+- Die heutigen kommunalen Start-/Unterseiten, Fachquellen und sechs lokal ausgelesenen PDF-Arbeitskopien wurden gesichert, soweit technisch erreichbar.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Zusaetzlich sechs heutige kommunale Arbeits-PDFs lokal unter assets/source-archive/pdf-screening-2026-07-21/ gesichert und ausgelesen; kein RZ-Direktbezug, daher keine Aufnahme in die kuratierte pdfExtracts-Sammlung.
+
+Gepruefte Gemeinden
+- Wimsheim, Wurmberg, Eisingen, Kaempfelbach, Maulbronn, Sternenfels, Muehlacker, Oetisheim, Neuenbuerg, Kieselbronn, Neulingen, Oelbronn-Duerrn, Neuhausen, Tiefenbronn, Birkenfeld, Illingen, Knittlingen, Niefern-Oeschelbronn, Remchingen, Straubenhardt.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Birkenfeld, Illingen, Maulbronn, Muehlacker, Niefern-Oeschelbronn, Remchingen, Straubenhardt, Wimsheim.
+- Sternenfels zeigt mit dem kommunalen Pfad zum Gewerbepark I/II/V einen konkreten Planungsindikator, aber keinen Nachweis einer freien, netzseitig geeigneten Flaeche; nur bei Verfuegbarkeits- oder Netzsignal vertiefen.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, netz, rechenzentrum, server, strom, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Kaempfelbach https://www.kaempfelbach.de/app/uploads/2026/03/20260202_Aufstellungsbeschluss_Bplan_Protokoll_oe_GR-Sitzung_01.12.2025.pdf (2 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/kaempfelbach-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Kaempfelbach https://www.kaempfelbach.de/app/uploads/2026/03/20260223_01_Umweltbericht_FWK_Kaempfelbach_260227_2.pdf (104 Seiten; Treffer: altlasten, bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, strom, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/kaempfelbach-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Oetisheim https://www.oetisheim.de/fileadmin/Dateien/Website/Dateien/Satzungen/Abwassersatzung_zum_01.01.2026.pdf_signed.pdf (1 Seiten; Treffer: gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/oetisheim-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Oetisheim https://www.oetisheim.de/fileadmin/Dateien/Website/Dateien/Satzungen/Abwassersatzung_zum_01.01.2025.pdf_signed.pdf (2 Seiten; Treffer: gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/oetisheim-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Tiefenbronn https://www.tiefenbronn.de/fileadmin/Dateien/Website/Dateien/Breitbandversorgung/SWP_TB.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/tiefenbronn-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Tiefenbronn https://www.tiefenbronn.de/fileadmin/Dateien/Website/Dateien/Breitbandversorgung/SWP_MH.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/tiefenbronn-06.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Enzkreis; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- check-links.py nach Wiederholung: 704 URLs geprueft, 683 ok, 19 blockiert, 2 derzeit nicht erreichbar.
+- Die zwei Fehler betreffen aeltere kommunale Quellen (Loewenstein und Assamstadt), beide im Wiederholungslauf HTTP 502; keine heutige Enzkreis-Quelle ist defekt.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 713 bekannte Quellen, 18 bekannte Abrufblocker.
+- PDFs: 35/35 kuratierte PDFs oeffentlich verfuegbar, 17 lokal vorhanden; zusaetzlich 6 heutige kommunale Arbeits-PDFs lokal ausgelesen.
+- Links: 704 geprueft, 683 ok, 19 blockiert, 2 aeltere kommunale Quellen mit HTTP 502; keine heutige Quelle defekt.
+- Daten: database.json 99 Findings; Coverage found 17, checkedNoRZ 647, open 354; heute 20 Gemeinden bearbeitet.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
