@@ -1,0 +1,102 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-21
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Dornstetten (Freudenstadt): https://www.dornstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, industrie, netz, strom, verkehr, wärme)
+  - Schopfloch (Freudenstadt): https://www.schopfloch.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, server, verkehr, wärme)
+  - Waldachtal (Freudenstadt): https://www.waldachtal.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, server, strom, verkehr; PDF-Hinweise: 2)
+  - Bad Rippoldsau-Schapbach (Freudenstadt): https://www.bad-rippoldsau-schapbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, industrie, server, strom, verkehr, wärme; PDF-Hinweise: 5)
+  - Freudenstadt (Freudenstadt): https://www.freudenstadt.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, entwässerung, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Seewald (Freudenstadt): https://www.seewald.eu/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server)
+  - Empfingen (Freudenstadt): https://www.empfingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz)
+  - Horb am Neckar (Freudenstadt): https://www.horb.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, netz)
+  - Groembach (Freudenstadt): https://www.groembach.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, verkehr; PDF-Hinweise: 1)
+  - Pfalzgrafenweiler (Freudenstadt): https://www.pfalzgrafenweiler.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Woernersberg (Freudenstadt): https://www.woernersberg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, brandschutz, breitband, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, löschwasser, netz, server)
+  - Alpirsbach (Freudenstadt): https://www.alpirsbach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, server, sondergebiet, verkehr, wärme; PDF-Hinweise: 12)
+  - Baiersbronn (Freudenstadt): https://www.gemeinde-baiersbronn.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, industrie, netz, ratsinfo, strom, verkehr)
+  - Dunningen (Rottweil): https://www.dunningen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, ratsinfo)
+  - Eschbronn (Rottweil): https://www.eschbronn.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, server, verkehr)
+  - Epfendorf (Rottweil): https://www.epfendorf.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, strom, trafo, verkehr; PDF-Hinweise: 3)
+  - Deisslingen (Rottweil): https://www.deisslingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, ratsinfo, verkehr, wärme)
+  - Dietingen (Rottweil): https://dietingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, sondergebiet, verkehr)
+  - Wellendingen (Rottweil): https://www.wellendingen.de/start (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, server, strom; PDF-Hinweise: 2)
+  - Zimmern ob Rottweil (Rottweil): https://zimmern-or.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, verkehr)
+
+Lokal archivierte Quellen
+- archive-sources.py: 751 bekannte Quellen im Manifest, 18 fehlgeschlagen (bekannte Drittquellen-Blocker, vor allem datacenters.com mit HTTP 429).
+- Die heutigen kommunalen Startseiten, relevanten Unterlagen und PDF-Arbeitskopien wurden lokal gesichert, soweit technisch erreichbar.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Acht heutige PDF-Arbeitskopien wurden lokal gesichert und ausgelesen; zusammen mit sechs Arbeitskopien aus dem ersten Tageslauf liegen 14 Dateien unter assets/source-archive/pdf-screening-2026-07-21/.
+
+Gepruefte Gemeinden
+- Dornstetten, Schopfloch, Waldachtal, Bad Rippoldsau-Schapbach, Freudenstadt, Seewald, Empfingen, Horb am Neckar, Groembach, Pfalzgrafenweiler, Woernersberg, Alpirsbach, Baiersbronn, Dunningen, Eschbronn, Epfendorf, Deisslingen, Dietingen, Wellendingen, Zimmern ob Rottweil.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Baiersbronn, Deisslingen, Dunningen, Empfingen, Freudenstadt, Horb am Neckar, Pfalzgrafenweiler, Zimmern ob Rottweil.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, netz, rechenzentrum, server, strom, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Waldachtal https://www.waldachtal.de/fileadmin/Dateien/Cross7/Root/de/Leben_in_der_Gemeinde/Informatives/Versorgung%2C_Verkehr/Anschreiben_Wasseranalyse_Verbandsmitglieder_2024_mit_Anhang.pdf (7 Seiten; Treffer: netz, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/waldachtal-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Waldachtal https://www.waldachtal.de/fileadmin/Dateien/Cross7/Root/de/Leben_in_der_Gemeinde/Informatives/Versorgung%2C_Verkehr/Messergebnisse_Wasser_28.04.2026.pdf (4 Seiten; Treffer: server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/waldachtal-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Bad Rippoldsau-Schapbach https://www.bad-rippoldsau-schapbach.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/05_PM_Beteiligung_Teilregionalplan-Windenergie_esign.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/bad-rippoldsau-schapbach-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Bad Rippoldsau-Schapbach https://www.bad-rippoldsau-schapbach.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/1._%C3%84nderung_des_Bebauungsplanes_Wohnen_mit_Wolftalpanoramablick_am_Polderberg_esign.pdf (16 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/bad-rippoldsau-schapbach-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Groembach https://www.groembach.de/fileadmin/user_upload/FNP_Groembach.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/groembach-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Alpirsbach https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf (13 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/alpirsbach-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Alpirsbach https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf (2 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/alpirsbach-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Epfendorf https://www.epfendorf.de/resources/02%20Datenobjekte/EWS-Solarpark%20Hohe%20Egert%20Trichtingen/Bebauungsplan%20Planzeichnung%20Trichtingen.pdf (1 Seiten; Treffer: bebauungsplan, gemeinderat, netz, server, sondergebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-21/epfendorf-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Freudenstadt/Rottweil; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- check-links.py: 742 URLs geprueft, 722 ok, 19 blockiert, 1 derzeit nicht erreichbar.
+- Der einzige Fehler ist ein aelterer Buggingen-Link (HTTP 502); keine heutige Freudenstadt-/Rottweil-Quelle ist defekt.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 751 bekannte Quellen, 18 bekannte Abrufblocker.
+- PDFs: 35/35 kuratierte PDFs oeffentlich verfuegbar, 17 lokal vorhanden; acht heutige kommunale Arbeits-PDFs in diesem Zusatzlauf ausgelesen.
+- Links: 742 geprueft, 722 ok, 19 blockiert, 1 aelterer Buggingen-Link mit HTTP 502; keine heutige Quelle defekt.
+- Daten: database.json 101 Findings; Coverage found 17, checkedNoRZ 667, open 334; in diesem Zusatzlauf 20 Gemeinden bearbeitet.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
