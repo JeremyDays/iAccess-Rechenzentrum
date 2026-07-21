@@ -3845,6 +3845,54 @@
         "Abwaerme"
       ],
       "archiveNote": "Fach- und Nachrichtenseiten wurden lokal gesichert, soweit technisch erreichbar. Shell-DNS fiel nach dem Kommunalcrawl aus; Inhalte wurden per Web-Open/Websuche gegengeprueft. Keine neuen Bilder uebernommen."
+    },
+    {
+      "id": "id-2026-07-21-enzkreis-20-screening",
+      "date": "2026-07-21",
+      "publishedDate": "2026-07-21",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.wimsheim.de/; https://www.wurmberg.de/; https://www.eisingen-enzkreis.de/startseite; https://www.kaempfelbach.de/; https://www.kaempfelbach.de/app/uploads/2026/03/BP-Feuerwehr-16-E.pdf; https://www.kaempfelbach.de/app/uploads/2026/03/20260202_Aufstellungsbeschluss_Bplan_Protokoll_oe_GR-Sitzung_01.12.2025.pdf; https://www.kaempfelbach.de/app/uploads/2026/03/20260223_01_Umweltbericht_FWK_Kaempfelbach_260227_2.pdf; https://www.kaempfelbach.de/app/uploads/2025/06/Bekanntmachung_ueber_die_erneute_oeffentliche_Auslegung_des_Bebauungsplan_Bell.pdf; https://www.maulbronn.de/de/startseite; https://www.sternenfels.de/start.html; https://www.muehlacker.de/stadt/index.php; https://www.oetisheim.de/startseite; https://www.oetisheim.de/fileadmin/Dateien/Website/Dateien/Satzungen/Abwassersatzung_zum_01.01.2026.pdf_signed.pdf; https://www.oetisheim.de/fileadmin/Dateien/Website/Dateien/Satzungen/Abwassersatzung_zum_01.01.2025.pdf_signed.pdf; https://www.neuenbuerg.de/startseite; https://www.kieselbronn.de/; https://www.neulingen.de/; https://www.neulingen.de/tools/downloads/?archiv=185&cb=1784616805357; https://www.oelbronn-duerrn.de/de/startseite; https://www.neuhausen-enzkreis.de/startseite; https://www.tiefenbronn.de/startseite; https://www.tiefenbronn.de/fileadmin/Dateien/Website/Dateien/Breitbandversorgung/SWP_TB.pdf; https://www.tiefenbronn.de/fileadmin/Dateien/Website/Dateien/Breitbandversorgung/SWP_MH.pdf; https://www.tiefenbronn.de/fileadmin/Dateien/Website/Dateien/Breitbandversorgung/SWP_LH.pdf; https://www.birkenfeld-enzkreis.de/; https://www.illingen-online.de/; https://www.knittlingen.de/; https://www.niefern-oeschelbronn.de/startseite; https://www.remchingen.de/; https://www.straubenhardt.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Wimsheim, Wurmberg, Eisingen, Kaempfelbach, Maulbronn, Sternenfels, Muehlacker, Oetisheim, Neuenbuerg, Kieselbronn, Neulingen, Oelbronn-Duerrn, Neuhausen, Tiefenbronn, Birkenfeld, Illingen, Knittlingen, Niefern-Oeschelbronn, Remchingen, Straubenhardt ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Birkenfeld, Illingen, Maulbronn, Muehlacker, Niefern-Oeschelbronn, Remchingen, Straubenhardt, Wimsheim. Der Enzkreis-Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber heute keinen harten iAccess-Kandidaten.",
+      "action": "Coverage mit den naechsten offenen Gemeinden fortsetzen; bei Muehlacker, Niefern-Oeschelbronn, Remchingen und Straubenhardt besonders freie GE/GI-Flaechen, Netzanschluss, Carrier-Redundanz, Schall und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Enzkreis",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-21-news-monitoring",
+      "date": "2026-07-21",
+      "publishedDate": "2026-07-21",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "Golem; heise/iX; DatacenterDynamics; DataCenter-Insider; Tagesschau/SWR; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "News-Screening: Regulierung, Netzleistung, Kuehlung und regionale Edge-Modelle",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     }
   ],
   "gridChecks": [
@@ -4093,8 +4141,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-19",
-    "lastResearchSummary": "2026-07-19: 20 weitere offene BW-Gemeinden im Calw-/Enzkreis-Block geprueft; keine direkten RZ-Flaechenfunde; Validierung ohne Broken Links; Gmail blockiert durch invalid_grant.",
+    "lastRun": "2026-07-21",
+    "lastResearchSummary": "2026-07-21: 20 weitere offene BW-Gemeinden im Enzkreis-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Prioritaetsraum und Newsfilter revalidiert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4121,8 +4169,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-19",
-    "lastResearchSummary": "2026-07-19: 20 weitere offene BW-Gemeinden im Calw-/Enzkreis-Block geprueft; keine direkten RZ-Flaechenfunde; Validierung ohne Broken Links; Gmail blockiert durch invalid_grant.",
+    "lastResearchRun": "2026-07-21",
+    "lastResearchSummary": "2026-07-21: 20 weitere offene BW-Gemeinden im Enzkreis-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Prioritaetsraum und Newsfilter revalidiert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
