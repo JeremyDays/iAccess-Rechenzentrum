@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { Script } from "node:vm";
 
 const owner = "JeremyDays";
 const repo = "iAccess-Rechenzentrum";
@@ -92,6 +93,30 @@ async function enablePages(branch) {
     return "updated";
   }
 }
+
+async function validateIndexHtml() {
+  const filename = "index.html";
+  const html = await fs.readFile(filename, "utf8");
+  const scripts = [...html.matchAll(/<script\b[^>]*>([\s\S]*?)<\/script>/gi)];
+
+  if (scripts.length === 0) {
+    throw new Error(`${filename}: no inline scripts found; refusing to publish an unvalidated app.`);
+  }
+
+  for (const [index, match] of scripts.entries()) {
+    const source = match[1].trim();
+    if (!source) continue;
+    try {
+      new Script(source, { filename: `${filename} inline script ${index + 1}` });
+    } catch (error) {
+      throw new Error(`${filename}: JavaScript syntax validation failed in inline script ${index + 1}: ${error.message}`);
+    }
+  }
+
+  console.log(`${filename}: JavaScript syntax validation passed (${scripts.length} inline scripts).`);
+}
+
+await validateIndexHtml();
 
 const repoInfo = await ensureRepo();
 const branch = repoInfo.default_branch || "main";
