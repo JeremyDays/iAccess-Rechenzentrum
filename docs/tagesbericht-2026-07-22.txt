@@ -1,0 +1,103 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-22
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Schenkenzell (Rottweil): https://schenkenzell.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gemeinderat, industrie, ratsinfo, strom, verkehr)
+  - Aichhalden (Rottweil): https://www.aichhalden.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: entwässerung, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, wärme)
+  - Hardt (Rottweil): https://www.hardt-online.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, server, strom, verkehr, waerme; PDF-Hinweise: 5)
+  - Lauterbach (Rottweil): https://www.lauterbach-schwarzwald.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, strom)
+  - Sulz am Neckar (Rottweil): https://www.sulz.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, server, strom, verkehr, wärme)
+  - Voehringen (Rottweil): https://www.voehringen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gewerbe, industrie, industriegebiet, ratsinfo, verkehr)
+  - Boesingen (Rottweil): https://www.boesingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, ratsinfo)
+  - Dornhan (Rottweil): https://www.dornhan.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, strom, verkehr; PDF-Hinweise: 12)
+  - Braeunlingen (Schwarzwald-Baar-Kreis): https://braeunlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, sondergebiet, strom, waerme; PDF-Hinweise: 4)
+  - Donaueschingen (Schwarzwald-Baar-Kreis): https://www.donaueschingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, strom, verkehr, wärme)
+  - Furtwangen im Schwarzwald (Schwarzwald-Baar-Kreis): https://www.furtwangen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flaechennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, verkehr)
+  - Guetenbach (Schwarzwald-Baar-Kreis): https://www.guetenbach.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, entwässerung, gemeinderat, gewerbe, gewerbegebiet, netz, schall, strom, wärme; PDF-Hinweise: 1)
+  - Schonach im Schwarzwald (Schwarzwald-Baar-Kreis): https://www.schonach.de/schonach/index.html (2 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe; PDF-Hinweise: 1)
+  - Schoenwald im Schwarzwald (Schwarzwald-Baar-Kreis): https://www.schoenwald.net/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, glasfaser, server, wärme)
+  - Brigachtal (Schwarzwald-Baar-Kreis): https://www.brigachtal.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale waermeplanung, kommunale wärmeplanung, netz, ratsinfo, waerme, wärme; PDF-Hinweise: 1)
+  - Dauchingen (Schwarzwald-Baar-Kreis): https://www.dauchingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, glasfaser, netz, schall, verkehr)
+  - Moenchweiler (Schwarzwald-Baar-Kreis): https://moenchweiler.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, verkehr, wärme)
+  - Niedereschach (Schwarzwald-Baar-Kreis): https://www.niedereschach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bebauungsplan, gemeinderat, gewerbe, netz, wärme)
+  - Tuningen (Schwarzwald-Baar-Kreis): https://www.tuningen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, sondergebiet, verkehr, wärme)
+  - Unterkirnach (Schwarzwald-Baar-Kreis): https://www.unterkirnach.de/de/startseite (2 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: server)
+
+Lokal archivierte Quellen
+- archive-sources.py: 786 bekannte Quellen im Manifest, 759 gespeichert/uebersprungen und 18 fehlgeschlagen; die bekannten Fehler betreffen vor allem datacenters.com mit HTTP 429.
+- Die heutigen kommunalen Startseiten, Fachquellen und Planungs-/Energie-PDFs wurden lokal gesichert, soweit technisch erreichbar.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Zusaetzlich acht heutige kommunale Arbeits-PDFs lokal unter assets/source-archive/pdf-screening-2026-07-22/ gesichert und ausgelesen; kein RZ-Direktbezug, daher keine Aufnahme in die kuratierte pdfExtracts-Sammlung.
+
+Gepruefte Gemeinden
+- Schenkenzell, Aichhalden, Hardt, Lauterbach, Sulz am Neckar, Voehringen, Boesingen, Dornhan, Braeunlingen, Donaueschingen, Furtwangen im Schwarzwald, Guetenbach, Schonach im Schwarzwald, Schoenwald im Schwarzwald, Brigachtal, Dauchingen, Moenchweiler, Niedereschach, Tuningen, Unterkirnach.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Braeunlingen, Brigachtal, Donaueschingen, Furtwangen im Schwarzwald, Niedereschach, Sulz am Neckar, Tuningen, Unterkirnach.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, netz, rechenzentrum, server, strom, umspannwerk, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Hardt https://www.hardt-online.de/fileadmin/Website/Dateien/Wohnen_und_Leben/Bauen_in_Hardt/Bebauungspl%C3%A4ne/GEIINord_Begruendung.pdf (14 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, schall, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/hardt-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hardt https://www.hardt-online.de/fileadmin/Website/Dateien/Wohnen_und_Leben/Bauen_in_Hardt/Bebauungspl%C3%A4ne/GEIINord_Textteil.pdf (15 Seiten; Treffer: bebauungsplan, gewerbe, gewerbegebiet, schall, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/hardt-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Dornhan https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_6.PunktuelleAnderung_Flachsacker.pdf (4 Seiten; Treffer: bebauungsplan, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, strom; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/dornhan-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Dornhan https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_5.PunktuelleAnderung_HungerbuhlIV.pdf (4 Seiten; Treffer: bebauungsplan, entwässerung, flächennutzungsplan, gemeinderat, gewerbe; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/dornhan-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Braeunlingen https://braeunlingen.de/images/uploads/pages/%C3%96ffentliche-Bekanntmachung-1.-%C3%84nderung-Sondergebiet-Palmhof-signed.pdf (2 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, sondergebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/braeunlingen-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Braeunlingen https://braeunlingen.de/images/uploads/pages/BLP002-DOK3.40-Umweltbericht.pdf (32 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, netz, sondergebiet, strom; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/braeunlingen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Guetenbach https://www.guetenbach.de/fileadmin/Dateien/Dateien/202211_Energieeffizienz1.pdf (1 Seiten; Treffer: strom; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/guetenbach-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Schonach im Schwarzwald https://www.schonach.de/site/Schonach/get/documents_E-462136808/schonach/Dateien_Schonach/B%C3%BCrgerservice/%C3%96ffentliche%20Bekanntmachungen/17%20FNP%C3%84%20-Ochsencamp%20-%20und%20-%20Sommerberg%20-%20Vorlage%20LA.pdf (2 Seiten; Treffer: bebauungsplan, flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/schonach-im-schwarzwald-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- Coverage-Datenfehler bereinigt: Der offene Eintrag Malsch/Mannheim ist ein Duplikat des bereits am 2026-07-18 geprueften Malsch im Rhein-Neckar-Kreis und wird nicht mehr als offene Gemeinde gezaehlt.
+- database.json: 2 neue Findings (Kommunalblock Rottweil/Schwarzwald-Baar; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- check-links.py: 777 eindeutige URLs geprueft, 758 ok, 19 blockiert, 0 defekt.
+- Keine heutige kommunale Quelle ist defekt.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 786 bekannte Quellen; 759 gespeichert/uebersprungen; 18 bekannte Abrufblocker.
+- PDFs: 35/35 kuratierte PDFs oeffentlich verfuegbar, 17 lokal vorhanden; zusaetzlich acht heutige kommunale Arbeits-PDFs ausgelesen.
+- Links: 777 geprueft, 758 ok, 19 blockiert, 0 defekt.
+- Daten: database.json 103 Findings; Coverage found 17, checkedNoRZ 687, offen 313 plus ein deduplizierter Malsch-Fehleintrag; heute 20 echte offene Gemeinden bearbeitet.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
