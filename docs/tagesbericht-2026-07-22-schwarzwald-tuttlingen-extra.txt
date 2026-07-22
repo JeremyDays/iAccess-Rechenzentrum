@@ -1,0 +1,102 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-22
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Villingen-Schwenningen (Schwarzwald-Baar-Kreis): https://www.villingen-schwenningen.de/home/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Bad Duerrheim (Schwarzwald-Baar-Kreis): https://www.badduerrheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: wärme)
+  - Blumberg (Schwarzwald-Baar-Kreis): https://www.stadt-blumberg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, server, wärme; PDF-Hinweise: 1)
+  - Koenigsfeld im Schwarzwald (Schwarzwald-Baar-Kreis): https://www.koenigsfeld.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, gewerbegebiet)
+  - St. Georgen im Schwarzwald (Schwarzwald-Baar-Kreis): https://www.st-georgen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, brandschutz, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, server, sondergebiet, strom, verkehr; PDF-Hinweise: 12)
+  - Voehrenbach (Schwarzwald-Baar-Kreis): https://www.voehrenbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, sondergebiet, strom)
+  - Baerenthal (Tuttlingen): https://www.baerenthal.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, cloud, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, server)
+  - Buchheim (Tuttlingen): https://www.buchheim.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Fridingen an der Donau (Tuttlingen): https://www.fridingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, industrie, netz, server, verkehr)
+  - Muehlheim an der Donau (Tuttlingen): https://muehlheim-donau.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gewerbe, gewerbegebiet, verkehr; PDF-Hinweise: 1)
+  - Renquishausen (Tuttlingen): https://www.renquishausen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, wärme)
+  - Bubsheim (Tuttlingen): https://www.bubsheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, netz)
+  - Deilingen (Tuttlingen): https://www.deilingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, server, verkehr; PDF-Hinweise: 6)
+  - Gosheim (Tuttlingen): https://www.gosheim.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, ratsinfo)
+  - Koenigsheim (Tuttlingen): https://www.gemeinde-koenigsheim.de/startseite (5 abrufbare kommunale Pfade; RZ-Worttreffer nicht als Standortfund gewertet: rechenzentrum; Trefferfelder: breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, rechenzentrum, strom)
+  - Reichenbach am Heuberg (Tuttlingen): https://www.reichenbach-heuberg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, brandschutz, breitband, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, kommunale wärmeplanung)
+  - Geisingen (Tuttlingen): https://www.geisingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, wärme)
+  - Immendingen (Tuttlingen): https://www.immendingen.de/startseite.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, kommunale wärmeplanung, netz, verkehr, wärme)
+  - Aldingen (Tuttlingen): https://www.aldingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, verkehr; PDF-Hinweise: 4)
+  - Balgheim (Tuttlingen): https://www.balgheim.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, ratsinfo)
+
+Lokal archivierte Quellen
+- archive-sources.py: 820 bekannte Quellen im Manifest, 793 gespeichert/uebersprungen und 18 fehlgeschlagen; die bekannten Fehler betreffen vor allem datacenters.com mit HTTP 429.
+- Die heutigen kommunalen Startseiten sowie Planungs-/Breitband-/Laerm-PDFs wurden lokal gesichert, soweit technisch erreichbar.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
+- Zusaetzlich sieben heutige kommunale Arbeits-PDFs lokal unter assets/source-archive/pdf-screening-2026-07-22/ gesichert und ausgelesen; kein RZ-Direktbezug, daher keine Aufnahme in die kuratierte pdfExtracts-Sammlung.
+
+Gepruefte Gemeinden
+- Villingen-Schwenningen, Bad Duerrheim, Blumberg, Koenigsfeld im Schwarzwald, St. Georgen im Schwarzwald, Voehrenbach, Baerenthal, Buchheim, Fridingen an der Donau, Muehlheim an der Donau, Renquishausen, Bubsheim, Deilingen, Gosheim, Koenigsheim, Reichenbach am Heuberg, Geisingen, Immendingen, Aldingen, Balgheim.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Aldingen, Bad Duerrheim, Blumberg, Geisingen, Gosheim, Immendingen, St. Georgen im Schwarzwald, Villingen-Schwenningen.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, netz, rechenzentrum, server, strom, umspannwerk, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Blumberg https://www.stadt-blumberg.de/fileadmin/Dateien/Website/PDF/Bauamt/Flyer_Breitband.pdf (8 Seiten; Treffer: breitband, fernwärme, glasfaser, netz, server, strom, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/blumberg-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: St. Georgen im Schwarzwald https://www.st-georgen.de/resources/02%20Datenobjekte/Bekanntmachungen/Fl%C3%A4chennutzungsplan/2026_05_29%20Oeffentliche%20Bekanntmachung%20Genehmigung%20und%20Wirksamkeit%2018.%20Aenderung%20Flaechennutzungplan%202000%20der%20Stadt%20St.%20Georgen.pdf (3 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/st-georgen-im-schwarzwald-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: St. Georgen im Schwarzwald https://www.st-georgen.de/resources/02%20Datenobjekte/Bekanntmachungen/Bebauungspl%C3%A4ne/Solarpark%20Brogen/2026_05_29%20Oeffentliche%20Bekanntmachung%20Inkrafttreten%20Bebauungsplan%20Sondergebiet%20Solarpark%20Brogen.pdf (3 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gewerbe, sondergebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/st-georgen-im-schwarzwald-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Deilingen https://www.deilingen.de/wp-content/uploads/2024/04/Begruendung-1.-Aenderung-Bebauungsplan-Im-Doerfle.pdf (2 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/deilingen-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Deilingen https://www.deilingen.de/wp-content/uploads/2024/04/oertliche-Bebauungsvorschriften-1.-Aenderung-Bebauungsplan-Im-Doerfle.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/deilingen-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Aldingen https://www.aldingen.de/resources/02%20Datenobjekte/E-B%C3%BCrgerservice/Bebauungspl%C3%A4ne/LAP_4Stufe_Bericht.pdf (24 Seiten; Treffer: netz, schall, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/aldingen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Aldingen https://www.aldingen.de/resources/02%20Datenobjekte/E-B%C3%BCrgerservice/Bebauungspl%C3%A4ne/LAP_4Stufe_Geschwindigkeit.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-22/aldingen-07.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Schwarzwald-Baar/Tuttlingen; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- check-links.py: 811 eindeutige URLs geprueft, 792 ok, 19 blockiert, 0 defekt.
+- Keine heutige kommunale Primaerquelle ist defekt; ein beim Crawl gefundener veralteter Unterpfad in Baerenthal lieferte HTTP 404, wurde aber nicht als Evidenzquelle uebernommen.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 820 bekannte Quellen; 793 gespeichert/uebersprungen; 18 bekannte Abrufblocker.
+- PDFs: 35/35 kuratierte PDFs oeffentlich verfuegbar, 17 lokal vorhanden; zusaetzlich sieben heutige kommunale Arbeits-PDFs ausgelesen.
+- Links: 811 geprueft, 792 ok, 19 blockiert, 0 defekt.
+- Daten: database.json 105 Findings; Coverage found 17, checkedNoRZ 707, offen 293; heute im Zusatzlauf 20 echte offene Gemeinden bearbeitet.
+- Coverage-Korrektur: Villingen-Schwenningen, Bad Duerrheim, Blumberg, Koenigsfeld, St. Georgen und Voehrenbach dem Schwarzwald-Baar-Kreis statt Rottweil zugeordnet.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
