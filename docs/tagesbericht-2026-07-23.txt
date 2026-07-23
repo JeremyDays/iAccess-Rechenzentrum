@@ -90,7 +90,7 @@ Linkpruefung
 - Der wiederholt timeoutende Malsch-Weinort-Aktuelles-Link aus zwei aelteren Rhein-Neckar-Findings wurde aus sourceUrl entfernt; lokaler 200-Snapshot als Fallback: assets/source-archive/www.malsch-weinort.de/dce314856b31cb9c.html.
 
 Zustellung
-- Gmail-API-Versand an hornick@iaccess.de wird im Abschlusslauf ausgefuehrt; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
+- Gmail-Versand blockiert: scripts/gmail-api.py send scheiterte mit OAuth invalid_grant; SMTP-Fallback scheiterte wegen fehlender Umgebungsvariable GMAIL_SMTP_USER. Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -103,4 +103,4 @@ Validierungsblock
 - Daten: database.json 108 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 727, offen 273; heute 20 echte offene Gemeinden bearbeitet.
 - Website-Daten: index.html nach der Talheim-Korrektur erneut aus database.json synchronisiert.
 - Publish-Skript: Syntax mit node --check erfolgreich validiert.
-- Zustellung: Gmail-API-Versand an hornick@iaccess.de im Abschlusslauf.
+- Zustellung: E-Mail nicht gesendet; Gmail-OAuth muss neu autorisiert werden oder SMTP-Env muss gesetzt werden.
