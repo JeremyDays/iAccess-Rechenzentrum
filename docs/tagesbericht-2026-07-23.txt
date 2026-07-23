@@ -1,0 +1,105 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-23
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Boettingen (Tuttlingen): https://www.boettingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, netz, ratsinfo, verkehr)
+  - Denkingen (Tuttlingen): https://www.denkingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, umspannwerk, verkehr, wärme)
+  - Duerbheim (Tuttlingen): https://www.duerbheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, netz, server, strom, verkehr, wärme; PDF-Hinweise: 7)
+  - Frittlingen (Tuttlingen): https://www.frittlingen.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, sondergebiet; PDF-Hinweise: 12)
+  - Hausen ob Verena (Tuttlingen): https://www.hausen-ob-verena.de/index.php?id=87 (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, fernwärme, flächennutzungsplan, gemeinderat, industrie, industriegebiet, kommunale wärmeplanung, netz, server, waerme, wärme; PDF-Hinweise: 6)
+  - Mahlstetten (Tuttlingen): https://www.mahlstetten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz)
+  - Spaichingen (Tuttlingen): https://www.spaichingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bebauungsplan, brandschutz, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, netz, ratsinfo, server)
+  - Durchhausen (Tuttlingen): https://www.durchhausen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, ratsinfo, verkehr, wärme; PDF-Hinweise: 8)
+  - Gunningen (Tuttlingen): https://www.gunningen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz; PDF-Hinweise: 1)
+  - Talheim (Tuttlingen): https://gemeinde-talheim.de/home (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, ratsinfo, schall, server, strom, wärme; PDF-Hinweise: 12)
+  - Emmingen-Liptingen (Tuttlingen): https://emmingen-liptingen.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, netz, server, sondergebiet; PDF-Hinweise: 12)
+  - Neuhausen ob Eck (Tuttlingen): https://www.neuhausen-ob-eck.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, glasfaser, industrie, netz, ratsinfo, strom, verkehr)
+  - Rietheim-Weilheim (Tuttlingen): https://www.rietheim-weilheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, kommunale wärmeplanung, verkehr, wärme; PDF-Hinweise: 1)
+  - Seitingen-Oberflacht (Tuttlingen): https://www.seitingen-oberflacht.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Tuttlingen (Tuttlingen): https://www.tuttlingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, brandschutz, cloud, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo)
+  - Wurmlingen (Tuttlingen): https://www.wurmlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, ratsinfo, server, strom, wärme; PDF-Hinweise: 8)
+  - Aach (Konstanz): https://www.aach.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, schall, wärme)
+  - Buesingen am Hochrhein (Konstanz): https://www.buesingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, ratsinfo)
+  - Gailingen am Hochrhein (Konstanz): https://www.gailingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, ratsinfo, server, strom; PDF-Hinweise: 12)
+  - Gottmadingen (Konstanz): https://www.gottmadingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, strom, verkehr, wärme; PDF-Hinweise: 10)
+
+Lokal archivierte Quellen
+- archive-sources.py: 0 bekannte Quellen im Manifest, 0 gespeichert/uebersprungen und 0 fehlgeschlagen; bekannte Fehler betreffen weiterhin vor allem blockierende Drittseiten.
+- Heutige kommunale Start-/Fachseiten und erreichbare Planungs-PDFs wurden lokal gesichert; das grosse Durchhausen-Umweltbericht-PDF wurde archiviert, aber wegen der 7,5-MB-Grenze nicht im Tagescrawler textuell ausgelesen.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 40, localAvailable 23, publicAvailable 40, publicBlocked 0, publicUnavailable 0.
+- Zusaetzlich acht heutige kommunale Arbeits-PDFs gesichtet: sieben lokal gespeichert und mit pypdf ausgelesen; ein 10,5-MB-Umweltbericht nur archiviert/technisch geprueft.
+
+Gepruefte Gemeinden
+- Boettingen, Denkingen, Duerbheim, Frittlingen, Hausen ob Verena, Mahlstetten, Spaichingen, Durchhausen, Gunningen, Talheim, Emmingen-Liptingen, Neuhausen ob Eck, Rietheim-Weilheim, Seitingen-Oberflacht, Tuttlingen, Wurmlingen, Aach, Buesingen am Hochrhein, Gailingen am Hochrhein, Gottmadingen.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Emmingen-Liptingen, Gottmadingen, Neuhausen ob Eck, Rietheim-Weilheim, Spaichingen, Tuttlingen.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, gemeinderat, netz, rechenzentrum, server, strom, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Duerbheim https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/Amtl._Bekanntmachung_9._%C3%84nderungssatzung_Abwasserbeseitigung_2026.pdf (3 Seiten; Treffer: gemeinderat, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/duerbheim-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Duerbheim https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/8._%C3%84nderungssatzung_Abwasser.pdf (2 Seiten; Treffer: gemeinderat, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/duerbheim-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Frittlingen https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Amtl._Bekanntmachung_fruehzeitige_FNP_2030_-_9.punktuelle_AEnderung.pdf (2 Seiten; Treffer: flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/frittlingen-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Frittlingen https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9A_FNP_Spaichingen_Vorentwurf_-_Planungsunterlag.pdf (33 Seiten; Treffer: bauleit, flächennutzungsplan, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/frittlingen-04.pdf).
+- PDF lokal geprueft/uebersprungen: Durchhausen https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Norma/5.%20Umweltbericht.pdf (too large for daily text extraction, 10483159 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Durchhausen https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/%C3%96ffentl.%20Bekanntmachung%20FNP%202020%20-%206.%20Fortschreibung%20-%20Sonderbaufl%C3%A4che%20Lebensmittelmarkt%20Gem.%20Durchhausen.pdf (3 Seiten; Treffer: bauleit, flächennutzungsplan, netz; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/durchhausen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Talheim https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Satzung_Bebauungsplan_Faugelen_II.pdf (3 Seiten; Treffer: bauleit, bebauungsplan, gemeinderat, schall; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/talheim-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Talheim https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Zeichnerischer_Teil_Bebauungsplan_Faugelen_II.pdf (2 Seiten; Treffer: bebauungsplan, gemeinderat, trafo, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-23/talheim-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 echte offene Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 108 Findings und 40 kuratierte PDF-Extracts; heute 2 Findings ergaenzt.
+- Coverage aktuell: found 17, checkedNoRZ 727, offen 273.
+- Dublettenfehler vermieden: Talheim/Tuttlingen kreisscharf ueber gemeinde-talheim.de geprueft; Talheim/Heilbronn bleibt auf dem dokumentierten Stand vom 2026-07-09.
+
+Linkpruefung
+- check-links.py: 876 eindeutige URLs geprueft, 856 ok, 19 blockiert, 1 nicht erreichbar.
+- Einziger nicht erreichbarer Link ist die aeltere Malsch-Weinort-Aktuelles-Seite; drei separate GET-Retries mit 30/60/90 Sekunden liefen in Connect-Timeouts. Keine heutige kommunale Quelle ist defekt.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 0 bekannte Quellen; 0 gespeichert/uebersprungen; 0 bekannte Abrufblocker.
+- PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; sieben heutige Arbeits-PDFs ausgelesen, ein grosses PDF nur archiviert.
+- Links: 876 geprueft, 856 ok, 19 blockiert, 1 nicht erreichbar (aelterer Malsch-Timeout, kein heutiger Link).
+- Daten: database.json 108 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 727, offen 273; heute 20 echte offene Gemeinden bearbeitet.
+- Website-Daten: index.html nach der Talheim-Korrektur erneut aus database.json synchronisiert.
+- Publish-Skript: Syntax mit node --check erfolgreich validiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
