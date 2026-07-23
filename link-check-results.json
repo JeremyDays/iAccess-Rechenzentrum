@@ -1,8 +1,8 @@
 {
-  "checked": 876,
+  "checked": 875,
   "ok": 856,
   "blocked": 19,
-  "broken": 1,
+  "broken": 0,
   "results": [
     {
       "collection": "drawings",
@@ -15,18 +15,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 90,
-      "field": "sourceUrl",
-      "title": "Weitere 20 Rhein-Neckar-Gemeinden geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.malsch-weinort.de/buerger/aktuelles/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": false,
-      "error": "HTTPSConnectionPool(host='www.malsch-weinort.de', port=443): Max retries exceeded with url: /buerger/aktuelles/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.malsch-weinort.de', port=443) at 0x1dd8cfed310>, 'Connection to www.malsch-weinort.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
