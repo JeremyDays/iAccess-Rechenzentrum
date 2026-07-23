@@ -24,7 +24,7 @@ Neue Quellen
   - Gottmadingen (Konstanz): https://www.gottmadingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, strom, verkehr, wärme; PDF-Hinweise: 10)
 
 Lokal archivierte Quellen
-- archive-sources.py: 0 bekannte Quellen im Manifest, 0 gespeichert/uebersprungen und 0 fehlgeschlagen; bekannte Fehler betreffen weiterhin vor allem blockierende Drittseiten.
+- archive-sources.py: 887 bekannte Quellen im Manifest, 858 gespeichert/uebersprungen und 18 fehlgeschlagen; bekannte Fehler betreffen weiterhin vor allem blockierende Drittseiten.
 - Heutige kommunale Start-/Fachseiten und erreichbare Planungs-PDFs wurden lokal gesichert; das grosse Durchhausen-Umweltbericht-PDF wurde archiviert, aber wegen der 7,5-MB-Grenze nicht im Tagescrawler textuell ausgelesen.
 
 PDF-Verfuegbarkeit
@@ -97,7 +97,7 @@ Website
 - GitHub-Publish nach einem SHA-Konflikt im begrenzten Retry erfolgreich; Dateien auf den Default-Branch hochgeladen. Das erneute Setzen der bereits vorhandenen Pages-Konfiguration wurde mangels Pages-Adminberechtigung mit HTTP 403 uebersprungen.
 
 Validierungsblock
-- Archiv: 0 bekannte Quellen; 0 gespeichert/uebersprungen; 0 bekannte Abrufblocker.
+- Archiv: 887 bekannte Quellen; 858 gespeichert/uebersprungen; 18 bekannte Abrufblocker.
 - PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; sieben heutige Arbeits-PDFs ausgelesen, ein grosses PDF nur archiviert.
 - Links: 875 geprueft, 856 ok, 19 blockiert, 0 echte Broken Links; Malsch-Weinort aus aelteren Findings per lokalem Snapshot-Fallback dokumentiert.
 - Daten: database.json 108 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 727, offen 273; heute 20 echte offene Gemeinden bearbeitet.
