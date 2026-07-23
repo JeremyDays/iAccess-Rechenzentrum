@@ -1164,14 +1164,14 @@
     {
       "id": "id-2026-06-09-voerstetten-langacker2",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-07-22",
       "municipality": "Vörstetten",
       "state": "Baden-Wuerttemberg",
       "planName": "Bebauungsplan \"Langacker II\"",
       "status": "in Prüfung",
       "dataCenter": "Potenzialflaeche fuer kleines/modulares RZ",
-      "documents": "Bekanntmachung/PDF: https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201 ; FNP-Begruendung: https://www.voerstetten.de/eip/eip_media.php?d=79a&f=3_Begrundung_Langacker+II_FNP.pdf&fl=43452927&i=2&m=4726",
-      "notes": "Ca. 1,75 ha am westlichen Rand von Voerstetten, Anschluss an bestehende Gewerbegebiete Langacker/Grub. Gemeinde nennt anhaltende Nachfrage nach gewerblichen Bauflaechen.",
+      "documents": "Bekanntmachung/PDF und FNP-Begründung aus offiziellen Vörstetten-Bekanntmachungen.",
+      "notes": "Ca. 1,7-1,75 ha am westlichen Rand von Vörstetten, Anschluss an bestehende Gewerbegebiete Langacker/Grub. Heute wurde die falsche Coverage-Quelle korrigiert und die Original-PDFs lokal gesichert; kein direkter RZ-Fund.",
       "source": "Gemeinde Vörstetten",
       "sourceUrl": "https://www.voerstetten.de/de/aktuelles/show.php?id=11"
     },
@@ -1206,16 +1206,16 @@
     {
       "id": "id-2026-06-09-boetzingen-frohmatten2",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-07-22",
       "municipality": "Bötzingen",
       "state": "Baden-Wuerttemberg",
       "planName": "Bebauungsplan \"Gewerbegebiet Frohmatten II\"",
       "status": "Satzung/rechtskräftig",
       "dataCenter": "Potenzialflaeche fuer kleines/Edge-RZ",
-      "documents": "Planseite: https://www.boetzingen.de/start/gemeinde/rechtskraeftige%2Bbebauungsplaene.html",
-      "notes": "Planseite verlinkt Begruendung, Umweltbericht, schalltechnische Untersuchung, Geruchsgutachten und geotechnischen Bericht fuer Frohmatten II. Das ist fuer technische Standortpruefung ueberdurchschnittlich wertvoll.",
+      "documents": "Planseite und Original-PDFs: https://www.boetzingen.de/start/Gemeinde/rechtskraeftige%2Bbebauungsplaene.html",
+      "notes": "Planseite verlinkt Planzeichnung, Begründung, Umweltbericht, schalltechnische Untersuchung, Geruchsgutachten und geotechnischen Bericht für Frohmatten II. Heute wurden die wichtigsten Original-PDFs lokal gesichert und ausgelesen; kein direkter RZ-Fund.",
       "source": "Gemeinde Bötzingen",
-      "sourceUrl": "https://www.boetzingen.de/start/wirtschaft.html"
+      "sourceUrl": "https://www.boetzingen.de/start/Gemeinde/rechtskraeftige%2Bbebauungsplaene.html"
     },
     {
       "id": "id-2026-06-09-waldkirch-inried",
@@ -1671,17 +1671,17 @@
     {
       "id": "id-2026-06-09-pdf-voerstetten-langacker2",
       "created": "2026-06-09",
-      "updated": "2026-06-09",
+      "updated": "2026-07-22",
       "municipality": "Vörstetten",
       "dataCenter": "Potenzialflaeche Langacker II",
       "documentTitle": "Bekanntmachung / Offenlage \"Langacker II\"",
       "documentType": "Bebauungsplan",
-      "pages": "unbekannt",
-      "keyFacts": "Die Bekanntmachung beschreibt Langacker II als ca. 1,75 ha grosses Gewerbegebiet am westlichen Rand von Voerstetten im Anschluss an bestehende Gewerbegebiete.",
-      "technicalFacts": "Die Unterlagen verweisen auf Begruendung und Umweltbericht; fuer RZ-Screening relevant sind Flaechengroesse, Nachbarschaft zu bestehendem Gewerbe und moegliche Erschliessung.",
-      "planningFacts": "Die Gemeinde begruendet das Verfahren mit anhaltender Nachfrage nach gewerblichen Bauflaechen ortsansaessiger Unternehmen.",
+      "pages": "2",
+      "keyFacts": "Bekanntmachung/Offenlage Langacker II als Gewerbeflächenverfahren am westlichen Rand von Vörstetten im Anschluss an Langacker/Grub; kein direkter RZ-Bezug.",
+      "technicalFacts": "Für eine spätere Micro-/Edge-DC-Prüfung sind Erschließung, Schall, Löschwasser, Entwässerung, Netzanschluss und Carrier-Redundanz separat zu klären.",
+      "planningFacts": "Die Planung begründet den Flächenbedarf mit Nachfrage nach gewerblichen Bauflächen ortsansässiger Unternehmen.",
       "sourceUrl": "https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201",
-      "localFile": "",
+      "localFile": "pdfs/voerstetten-langacker-ii-offenlage-bekanntmachung.pdf",
       "tags": "Vörstetten, Bebauungsplan, Gewerbegebiet, PDF-offen"
     },
     {
@@ -1923,6 +1923,86 @@
       "sourceUrl": "https://www.kuchen.de/media/files/hp-kw-49-auswirkungsanalyse-im-gewerbepark-03.pdf",
       "localFile": "pdfs/kuchen-oestlicher-gewerbepark-auswirkungsanalyse.pdf",
       "tags": "PDF lokal gesichert, Kuchen, Oestlicher Gewerbepark, Bebauungsplan, kein RZ-Fund"
+    },
+    {
+      "id": "id-2026-07-22-pdf-voerstetten-langacker2-fnp-begruendung",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "municipality": "Vörstetten",
+      "dataCenter": "Potenzialfläche Langacker II",
+      "documentTitle": "FNP-Begründung Langacker II",
+      "documentType": "Flächennutzungsplan",
+      "pages": "11",
+      "keyFacts": "FNP-Unterlage zu Langacker II als kleine gewerbliche Erweiterung im bestehenden Gewerbekorridor.",
+      "technicalFacts": "Nutzbar für Grobfilter Fläche/Lage; technische RZ-Eignung bleibt offen.",
+      "planningFacts": "Gemeindeverwaltungsverband Stand: 24.05.2023 Denzlingen, Vörstetten und Reute 2. Flächennutzungsplanänderung „Langacker II” Begründung Seite 1 von 11 INHALT 1 ALLGEMEINES ............................................................................................ 2 1.1 Anlass, Ziele und Zwecke der Planung ............................................................................................. 2 1.2 Abgrenzung, Lage und Größe des Plangebietes .................................................",
+      "sourceUrl": "https://www.voerstetten.de/eip/eip_media.php?d=79a&f=3_Begrundung_Langacker+II_FNP.pdf&fl=43452927&i=2&m=4726",
+      "localFile": "pdfs/voerstetten-langacker-ii-fnp-begruendung.pdf",
+      "tags": "Langacker II, Vörstetten, FNP, Gewerbegebiet, PDF"
+    },
+    {
+      "id": "id-2026-07-22-pdf-boetzingen-frohmatten2-planzeichnung",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "municipality": "Bötzingen",
+      "dataCenter": "Potenzialfläche Frohmatten II",
+      "documentTitle": "Frohmatten II - Zeichnerischer Teil",
+      "documentType": "Planzeichnung",
+      "pages": "1",
+      "keyFacts": "Originale Bauleitplanzeichnung für Gewerbegebiet Frohmatten II.",
+      "technicalFacts": "Nur als planungsrechtlicher Lage-/Nutzungsnachweis verwenden; keine RZ-technische Zeichnung.",
+      "planningFacts": "Originale Bauleitplanzeichnung für Gewerbegebiet Frohmatten II.",
+      "sourceUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E1663538204_Dattachment/3930613/a%29%20Zeichnerischer%20Teil.pdf",
+      "localFile": "pdfs/boetzingen-frohmatten-ii-zeichnerischer-teil.pdf",
+      "tags": "Bötzingen, Frohmatten II, Planzeichnung, Gewerbegebiet, PDF"
+    },
+    {
+      "id": "id-2026-07-22-pdf-boetzingen-frohmatten2-begruendung",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "municipality": "Bötzingen",
+      "dataCenter": "Potenzialfläche Frohmatten II",
+      "documentTitle": "Frohmatten II - Begründung Bebauungsplan",
+      "documentType": "Bebauungsplan-Begründung",
+      "pages": "22",
+      "keyFacts": "Begründung des Gewerbegebiets Frohmatten II; relevant für Nutzungsart, Erschließung und Konfliktprüfung.",
+      "technicalFacts": "Für RZ-Screening mit Schall, Verkehr, Wasser/Entwässerung und Netz-/Carrier-Fragen verschneiden.",
+      "planningFacts": "Begründung des Gewerbegebiets Frohmatten II; relevant für Nutzungsart, Erschließung und Konfliktprüfung.",
+      "sourceUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E898755540_Dattachment/3930616/d%29%20Begr%C3%BCndung%20Bebauungsplan.pdf",
+      "localFile": "pdfs/boetzingen-frohmatten-ii-begruendung.pdf",
+      "tags": "Bötzingen, Frohmatten II, Begründung, Gewerbegebiet, PDF"
+    },
+    {
+      "id": "id-2026-07-22-pdf-boetzingen-frohmatten2-schall",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "municipality": "Bötzingen",
+      "dataCenter": "Potenzialfläche Frohmatten II",
+      "documentTitle": "Frohmatten II - Schalltechnische Untersuchung",
+      "documentType": "Schallgutachten",
+      "pages": "88",
+      "keyFacts": "Schallgutachten zu Frohmatten II; zentral für spätere Prüfung von Notstrom, Rückkühlern und 24/7-Betrieb.",
+      "technicalFacts": "Schallkontingente gegen RZ-Lüftung/Kühlung/Generatoren prüfen, bevor Fläche als Edge-/Micro-DC-Kandidat vertieft wird.",
+      "planningFacts": "Schallgutachten zu Frohmatten II; zentral für spätere Prüfung von Notstrom, Rückkühlern und 24/7-Betrieb.",
+      "sourceUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-430140521_Dattachment/3930622/f%29%20Schalltechnische%20Untersuchung.pdf",
+      "localFile": "pdfs/boetzingen-frohmatten-ii-schalltechnische-untersuchung.pdf",
+      "tags": "Bötzingen, Frohmatten II, Schall, Gutachten, PDF"
+    },
+    {
+      "id": "id-2026-07-22-pdf-boetzingen-frohmatten2-geotechnik",
+      "created": "2026-07-22",
+      "updated": "2026-07-22",
+      "municipality": "Bötzingen",
+      "dataCenter": "Potenzialfläche Frohmatten II",
+      "documentTitle": "Frohmatten II - Geotechnischer Bericht",
+      "documentType": "Geotechnik",
+      "pages": "44",
+      "keyFacts": "Geotechnischer Bericht zu Frohmatten II; relevant für Gründung, Baugrund, Wasser und Medienführung.",
+      "technicalFacts": "Baugrund-/Grundwasserhinweise bei Containerfundamenten, Trafostandort und Entwässerung berücksichtigen.",
+      "planningFacts": "Geotechnischer Bericht zu Frohmatten II; relevant für Gründung, Baugrund, Wasser und Medienführung.",
+      "sourceUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf",
+      "localFile": "pdfs/boetzingen-frohmatten-ii-geotechnischer-bericht.pdf",
+      "tags": "Bötzingen, Frohmatten II, Geotechnik, Gutachten, PDF"
     }
   ],
   "media": [
@@ -4039,6 +4119,81 @@
         "Abwaerme"
       ],
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
+      "id": "id-2026-07-22-priority-corrections-breisgau-netz",
+      "date": "2026-07-22",
+      "publishedDate": "2026-07-22",
+      "topic": "Prioritätsraum Breisgau und Netzinfrastruktur",
+      "publisher": "Gemeinde Vörstetten; Gemeinde Bötzingen; Gemeinde Denzlingen; Netze BW; SWLB",
+      "sourceUrl": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen; https://www.voerstetten.de/de/aktuelles/show.php?id=11; https://www.boetzingen.de/start/Gemeinde/rechtskraeftige%2Bbebauungsplaene.html; https://denzlingen.de/de/aktuelles/; https://www.netze-bw.de/news/netze-bw-bau-regionalzentrums-in-oestringen; https://www.swlb.de/de/Unternehmen/Aktuelles/1/Presse/Pressemeldungen-2026-2027/Glasfaserausbau-in-Asperg-Ein-Meilenstein-ist-gesetzt.html",
+      "title": "Prioritätsquellen Vörstetten/Bötzingen korrigiert und Netzsignale geschärft",
+      "summary": "Die Coverage-Quellen für Vörstetten und Bötzingen wurden auf offizielle Gemeindeseiten zurückgeführt. Langacker II und Frohmatten II bleiben planungsseitig relevante Gewerbeflächen-Signale für kleine Edge-/Micro-DCs, aber ohne direkten RZ-Fund. Denzlingen meldete im Juni 2026 Umspannwerks-/Stromausfall, Erschließung im Gewerbegebiet Langacker/Weidenacker und eine neue Energieversorgungsführung; Netze BW Östringen und der SWLB-PoP-Container in Asperg dienen als aktuelle Infrastruktur-Benchmarks.",
+      "relevance": "Für den Raum Freiburg/Denzlingen/Emmendingen bleiben kleine Leistungsfenster, Netzzusage, Glasfaser/PoP-Nähe, Schall, Löschwasser, Entwässerung und ein kommunaler Wärme-/Abwärmenutzen die harten Filter. Bötzingen liefert mit Schall- und Geotechnik-PDFs ein gutes Prüfungsraster, aber noch keinen konkreten Betreiber- oder Flächenzugriff.",
+      "action": "Vörstetten Langacker II und Bötzingen Frohmatten II nur bei konkreter Flächenverfügbarkeit vertiefen; Denzlingen-Netzereignisse und Gewerbegebiet Langacker/Weidenacker weiter beobachten; keine RZ-technischen Zeichnungen ergänzen, solange nur Bauleitplan-Originale vorliegen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Vörstetten",
+        "Bötzingen",
+        "Denzlingen",
+        "Frohmatten II",
+        "Langacker II",
+        "Netze BW",
+        "SWLB",
+        "PoP",
+        "Gewerbegebiet",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Original-PDFs wurden lokal in pdfs/ gesichert; weitere Webseiten gehen in archive-sources.py ein."
+    },
+    {
+      "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
+      "date": "2026-07-23",
+      "publishedDate": "2026-07-23",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.boettingen.de/startseite; https://www.denkingen.de/willkommen; https://www.duerbheim.de/startseite; https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/Amtl._Bekanntmachung_9._%C3%84nderungssatzung_Abwasserbeseitigung_2026.pdf; https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/8._%C3%84nderungssatzung_Abwasser.pdf; https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Ortsrecht/Grund-_und_Gewerbesteuer_Hebesatzsatzung_ab_2025.pdf; https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/7._%C3%84nderungssatzung_Abwasser.pdf; https://www.frittlingen.de/de/startseite; https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Amtl._Bekanntmachung_fruehzeitige_FNP_2030_-_9.punktuelle_AEnderung.pdf; https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9A_FNP_Spaichingen_Vorentwurf_-_Planungsunterlag.pdf; https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Anlage_2a_-_Legende__FNP_Spaichingen_-__Planungsunterlag.pdf; https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9Aenderung__FNP_Spaichingen-A4-Lageplan_-_Planungsunterlag.pdf; https://www.hausen-ob-verena.de/index.php?id=87; https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1727&cHash=cdcd0ff11387fa5c62e4764e96da2110; https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1690&cHash=fe192ee212a1ffc2f6a5a7b41406f3fe; https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1522&cHash=6360b3e8dc6fd8eeef117b0ba3fdbd5f; https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1261&cHash=4129063cf528905c64576f87ab56c9b9; https://www.mahlstetten.de/startseite; https://www.spaichingen.de/willkommen; https://www.durchhausen.de/; https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Norma/5.%20Umweltbericht.pdf; https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/%C3%96ffentl.%20Bekanntmachung%20FNP%202020%20-%206.%20Fortschreibung%20-%20Sonderbaufl%C3%A4che%20Lebensmittelmarkt%20Gem.%20Durchhausen.pdf; https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Begr%C3%BCndung%20und%20Umweltbericht%20zum%20FNP%206.%20Fortschreibung%20Lebensmittelmarkt%20Durchhausen%20vom%2030.01.2026.pdf; https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/5%20Anlage%202%20Umweltbericht%20UB%20-%20Beschluss%20zur%20Fr%C3%BChzeitige%20Beteiligung%20vom%2023.07.2025%20-%20Stand%20250618.pdf; https://www.gunningen.de/startseite; https://www.gunningen.de/fileadmin/Dateien/Webseite/Dateien/BBP_Oehmdwiesen_A4.pdf; https://gemeinde-talheim.de/home; https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Bekanntmachung_Faugelen_Satzungsbeschluss_17.07.2024_01.pdf; https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Satzung_Bebauungsplan_Faugelen_II.pdf; https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Zeichnerischer_Teil_Bebauungsplan_Faugelen_II.pdf; https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Festsetzungen_zum_Bebauungsplan_Faugelen_II.pdf; https://emmingen-liptingen.de/; https://emmingen-liptingen.de/fileadmin/user_upload/pdf/Gewerberecht/Vorlage_Anzeige_vor%C3%BC_Gastst%C3%A4tte.pdf; https://emmingen-liptingen.de/fileadmin/user_upload/VG_2026-06-02_%C3%B6ffentliche_Bekanntmachung_Gen._24_25_FNP-%C3%84nd.pdf; https://emmingen-liptingen.de/fileadmin/user_upload/20251028_Oberwasserburgerhof_Umweltbericht_Entwurf.pdf; https://emmingen-liptingen.de/fileadmin/user_upload/20251013_Entwurf_BPlan_Wehstetten.pdf; https://www.neuhausen-ob-eck.de/; https://www.rietheim-weilheim.de/startseite; https://www.rietheim-weilheim.de/fileadmin/Dateien/Dateien/Gewerbe_Einverst%C3%A4ndniserkl%C3%A4rung_und_Datenblatt.pdf; https://www.seitingen-oberflacht.de/startseite; https://www.tuttlingen.de/willkommen; https://www.wurmlingen.de/; https://www.wurmlingen.de/de-wAssets/bebauungsplaene/obere-hauptstrasse/Obere-Hauptstrasse-64.pdf; https://www.wurmlingen.de/de-wAssets/docs/rathaus/bekanntmachungen/20260513_sonderrechnung-2023.pdf; https://www.wurmlingen.de/de-wAssets/bebauungsplaene/erbsenberg/20260408_bplan_erbsenberg.pdf; https://www.wurmlingen.de/de/aktuelles/bekanntmachungen/20260325_Satzungsbeschluss_BP.pdf; https://www.aach.de/willkommen; https://www.buesingen.de/willkommen; https://www.gailingen.de/startseite; https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_schriftlich_Bei_der_Erlenwies.pdf; https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_zeichnerisch_Bei_der_Erlenwies.pdf; https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Eble_Faulen_schriftlich_28.11.1980.pdf; https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Ebele_Faulen-zeichnerisch.pdf; https://www.gottmadingen.de/startseite; https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Faltfahrplan_2026.pdf; https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/403_g%C3%BCltig_ab_14.12.2025.pdf; https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/404_g%C3%BCltig_ab_14.12.2025.pdf; https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Tarife_Preise_Zonen_2026.pdf; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Boettingen, Denkingen, Duerbheim, Frittlingen, Hausen ob Verena, Mahlstetten, Spaichingen, Durchhausen, Gunningen, Talheim, Emmingen-Liptingen, Neuhausen ob Eck, Rietheim-Weilheim, Seitingen-Oberflacht, Tuttlingen, Wurmlingen, Aach, Buesingen am Hochrhein, Gailingen am Hochrhein, Gottmadingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Emmingen-Liptingen, Gottmadingen, Neuhausen ob Eck, Rietheim-Weilheim, Spaichingen, Tuttlingen. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Coverage mit den naechsten offenen Gemeinden im Landkreis Konstanz fortsetzen; bei Spaichingen, Tuttlingen, Emmingen-Liptingen, Neuhausen ob Eck, Rietheim-Weilheim und Gottmadingen besonders freie GE/GI-Flaechen, Netzanschluss, Carrier-Redundanz, Schall und Abwaermeabnehmer beobachten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Tuttlingen",
+        "Konstanz",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-23-news-monitoring",
+      "date": "2026-07-23",
+      "publishedDate": "2026-07-23",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "Golem; heise/iX; DatacenterDynamics; DataCenter-Insider; Tagesschau/SWR; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "News-Screening: Regulierung, Netzleistung, Kuehlung und regionale Edge-Modelle",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     }
   ],
   "gridChecks": [
@@ -4287,8 +4442,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-22",
-    "lastResearchSummary": "2026-07-22 Zusatzlauf: 20 weitere offene BW-Gemeinden im Schwarzwald-Baar-/Tuttlingen-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Kreiszuordnungen korrigiert; Prioritaetsraum und Newsfilter revalidiert.",
+    "lastRun": "2026-07-23",
+    "lastResearchSummary": "2026-07-23: 20 weitere offene BW-Gemeinden im Tuttlingen-/Konstanz-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Prioritaetsraum und Newsfilter revalidiert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4315,8 +4470,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-22",
-    "lastResearchSummary": "2026-07-22 Zusatzlauf: 20 weitere offene BW-Gemeinden im Schwarzwald-Baar-/Tuttlingen-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Kreiszuordnungen korrigiert; Prioritaetsraum und Newsfilter revalidiert.",
+    "lastResearchRun": "2026-07-23",
+    "lastResearchSummary": "2026-07-23: 20 weitere offene BW-Gemeinden im Tuttlingen-/Konstanz-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Prioritaetsraum und Newsfilter revalidiert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
