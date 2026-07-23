@@ -24,12 +24,12 @@ Neue Quellen
   - Balgheim (Tuttlingen): https://www.balgheim.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, ratsinfo)
 
 Lokal archivierte Quellen
-- archive-sources.py: 820 bekannte Quellen im Manifest, 793 gespeichert/uebersprungen und 18 fehlgeschlagen; die bekannten Fehler betreffen vor allem datacenters.com mit HTTP 429.
-- Die heutigen kommunalen Startseiten sowie Planungs-/Breitband-/Laerm-PDFs wurden lokal gesichert, soweit technisch erreichbar.
+- archive-sources.py: 829 bekannte Quellen im Manifest, 800 gespeichert/uebersprungen und 18 fehlgeschlagen; bekannte Fehler betreffen weiterhin vor allem blockierende Drittseiten.
+- Neu gesichert: Vörstetten-Bekanntmachungen, Denzlingen-Aktuelles, Netze-BW-Östringen und SWLB-Asperg-PoP; die kuratierten Original-PDFs liegen zusätzlich in pdfs/.
 
 PDF-Verfuegbarkeit
-- check-pdf-availability.py: total 35, localAvailable 17, publicAvailable 35, publicBlocked 0, publicUnavailable 0.
-- Zusaetzlich sieben heutige kommunale Arbeits-PDFs lokal unter assets/source-archive/pdf-screening-2026-07-22/ gesichert und ausgelesen; kein RZ-Direktbezug, daher keine Aufnahme in die kuratierte pdfExtracts-Sammlung.
+- check-pdf-availability.py: total 40, localAvailable 23, publicAvailable 40, publicBlocked 0, publicUnavailable 0.
+- Die sechs kuratierten Prioritäts-PDFs für Vörstetten/Bötzingen sind lokal vorhanden und öffentlich erreichbar.
 
 Gepruefte Gemeinden
 - Villingen-Schwenningen, Bad Duerrheim, Blumberg, Koenigsfeld im Schwarzwald, St. Georgen im Schwarzwald, Voehrenbach, Baerenthal, Buchheim, Fridingen an der Donau, Muehlheim an der Donau, Renquishausen, Bubsheim, Deilingen, Gosheim, Koenigsheim, Reichenbach am Heuberg, Geisingen, Immendingen, Aldingen, Balgheim.
@@ -79,24 +79,40 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
-- database.json: 2 neue Findings (Kommunalblock Schwarzwald-Baar/Tuttlingen; News-/Fachquellenmonitoring).
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; Vörstetten und Bötzingen als Prioritätsquellen korrigiert; found unveraendert.
+- database.json: 106 Findings, 40 PDF-Extracts; Nachtrag +1 Finding und +5 neue PDF-Extracts sowie 1 aktualisiertes Vörstetten-PDF.
+- Coverage aktuell: found 17, checkedNoRZ 707, offen 293.
 
 Linkpruefung
-- check-links.py: 811 eindeutige URLs geprueft, 792 ok, 19 blockiert, 0 defekt.
-- Keine heutige kommunale Primaerquelle ist defekt; ein beim Crawl gefundener veralteter Unterpfad in Baerenthal lieferte HTTP 404, wurde aber nicht als Evidenzquelle uebernommen.
+- check-links.py: 818 eindeutige URLs geprueft, 799 ok, 19 blockiert, 0 defekt.
+- Der zwischenzeitliche Obersulm-DNS-Fehler wurde gezielt mit HTTP 200 revalidiert und trat im Retry nicht mehr als Broken Link auf.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- GitHub-Pages-Publish: durch Freigabe-Reviewer blockiert, weil neue lokale Daten/PDFs oeffentlich auf GitHub veroeffentlicht wuerden; erfordert ausdrueckliche Zustimmung nach Risikohinweis.
+- Gmail-Versand: versucht, aber OAuth-Refresh schlug mit invalid_grant fehl; keine E-Mail gesendet.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 820 bekannte Quellen; 793 gespeichert/uebersprungen; 18 bekannte Abrufblocker.
-- PDFs: 35/35 kuratierte PDFs oeffentlich verfuegbar, 17 lokal vorhanden; zusaetzlich sieben heutige kommunale Arbeits-PDFs ausgelesen.
-- Links: 811 geprueft, 792 ok, 19 blockiert, 0 defekt.
-- Daten: database.json 105 Findings; Coverage found 17, checkedNoRZ 707, offen 293; heute im Zusatzlauf 20 echte offene Gemeinden bearbeitet.
-- Coverage-Korrektur: Villingen-Schwenningen, Bad Duerrheim, Blumberg, Koenigsfeld, St. Georgen und Voehrenbach dem Schwarzwald-Baar-Kreis statt Rottweil zugeordnet.
+- Archiv: 829 bekannte Quellen; 800 gespeichert/uebersprungen; 18 bekannte Abrufblocker.
+- PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; zusaetzlich sieben kommunale Arbeits-PDFs aus dem Zusatzlauf und sechs kuratierte Prioritäts-PDFs ausgelesen.
+- Links: 818 geprueft, 799 ok, 19 blockiert, 0 defekt.
+- Daten: database.json 106 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 707, offen 293; heute im Zusatzlauf 20 echte offene Gemeinden bearbeitet plus Vörstetten/Bötzingen korrigiert.
+- Coverage-Korrektur: Villingen-Schwenningen, Bad Duerrheim, Blumberg, Koenigsfeld, St. Georgen und Voehrenbach dem Schwarzwald-Baar-Kreis statt Rottweil zugeordnet; Vörstetten/Bötzingen auf offizielle Quellen zurückgeführt.
 - Website-Daten: index.html aus database.json synchronisiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Zustellung: GitHub-Publish nicht ausgefuehrt wegen Freigabe-Blocker; Gmail nicht gesendet wegen ungueltigem OAuth-Refresh-Token.
+Nachtrag Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Vörstetten korrigiert: Coverage-Quelle zeigte faelschlich auf Häusern; heute auf offizielle Vörstetten-Bekanntmachungen und Langacker-II-Unterlagen gesetzt. Kein direkter RZ-Fund.
+- Bötzingen korrigiert: Coverage-Quelle zeigte faelschlich auf Bernau; heute auf offizielle Bötzingen-Bebauungsplanseite Frohmatten II gesetzt. Kein direkter RZ-Fund.
+- Denzlingen-Aktuelles neu bewertet: Stromausfall/Umspannwerk am 23.06.2026, Bau-/Verkehrshinweis Gewerbegebiet Langacker/Weidenacker am 18.06.2026 und Energieversorgung/Waermegesellschaft am 11.06.2026 sind relevante Netz-/Erschliessungsindikatoren, aber kein RZ-Standortnachweis.
+- Netze BW Östringen (37.000 qm Regionalzentrum) und SWLB Asperg (32-t-PoP-Container) als aktuelle Netz-/PoP-Benchmarks aufgenommen; beide sind keine Freiburger RZ-Flaechenfunde.
+
+Zusaetzlich kuratierte Original-PDFs
+- Bekanntmachung / Offenlage Langacker II: https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201 (2 Seiten; Treffer: gewerbe, gewerbegebiet, bebauungsplan, geotechn, grundwasser, boden; lokal: pdfs/voerstetten-langacker-ii-offenlage-bekanntmachung.pdf).
+- FNP-Begründung Langacker II: https://www.voerstetten.de/eip/eip_media.php?d=79a&f=3_Begrundung_Langacker+II_FNP.pdf&fl=43452927&i=2&m=4726 (11 Seiten; Treffer: gewerbe, gewerbegebiet, flaechennutzungsplan, bebauungsplan, boden, strom, netz, verkehr; lokal: pdfs/voerstetten-langacker-ii-fnp-begruendung.pdf).
+- Frohmatten II - Zeichnerischer Teil: https://www.boetzingen.de/site/Boetzingen/get/params_E1663538204_Dattachment/3930613/a%29%20Zeichnerischer%20Teil.pdf (1 Seiten; Treffer: keine Rastertreffer; lokal: pdfs/boetzingen-frohmatten-ii-zeichnerischer-teil.pdf).
+- Frohmatten II - Begründung Bebauungsplan: https://www.boetzingen.de/site/Boetzingen/get/params_E898755540_Dattachment/3930616/d%29%20Begr%C3%BCndung%20Bebauungsplan.pdf (22 Seiten; Treffer: keine Rastertreffer; lokal: pdfs/boetzingen-frohmatten-ii-begruendung.pdf).
+- Frohmatten II - Schalltechnische Untersuchung: https://www.boetzingen.de/site/Boetzingen/get/params_E-430140521_Dattachment/3930622/f%29%20Schalltechnische%20Untersuchung.pdf (88 Seiten; Treffer: keine Rastertreffer; lokal: pdfs/boetzingen-frohmatten-ii-schalltechnische-untersuchung.pdf).
+- Frohmatten II - Geotechnischer Bericht: https://www.boetzingen.de/site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf (44 Seiten; Treffer: keine Rastertreffer; lokal: pdfs/boetzingen-frohmatten-ii-geotechnischer-bericht.pdf).
+- Keine neuen Fotos aufgenommen; die Bötzingen-Planzeichnung ist ein originales Bauleitplan-PDF, keine erfundene oder RZ-technische Zeichnung.
