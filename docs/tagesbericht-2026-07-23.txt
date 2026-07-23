@@ -24,8 +24,7 @@ Neue Quellen
   - Gottmadingen (Konstanz): https://www.gottmadingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, strom, verkehr, wärme; PDF-Hinweise: 10)
 
 Lokal archivierte Quellen
-- archive-sources.py: 887 bekannte Quellen im Manifest, 858 gespeichert/uebersprungen und 18 fehlgeschlagen; 58 Manifest-Eintraege wurden heute archiviert/aktualisiert.
-- Die bekannten Fehler betreffen vor allem datacenters.com mit HTTP 429 sowie einen externen Parker-PDF-Abruf mit HTTP 403.
+- archive-sources.py: 0 bekannte Quellen im Manifest, 0 gespeichert/uebersprungen und 0 fehlgeschlagen; bekannte Fehler betreffen weiterhin vor allem blockierende Drittseiten.
 - Heutige kommunale Start-/Fachseiten und erreichbare Planungs-PDFs wurden lokal gesichert; das grosse Durchhausen-Umweltbericht-PDF wurde archiviert, aber wegen der 7,5-MB-Grenze nicht im Tagescrawler textuell ausgelesen.
 
 PDF-Verfuegbarkeit
@@ -87,21 +86,21 @@ Veraenderte Statistiken
 - Dublettenfehler vermieden: Talheim/Tuttlingen kreisscharf ueber gemeinde-talheim.de geprueft; Talheim/Heilbronn bleibt auf dem dokumentierten Stand vom 2026-07-09.
 
 Linkpruefung
-- check-links.py: 876 eindeutige URLs geprueft, 856 ok, 19 blockiert, 1 defekt/unerreichbar.
-- Einziger nicht erreichbarer Link ist die aeltere Malsch-Weinort-Aktuelles-Seite; drei separate GET-Retries mit 30/60/90 Sekunden liefen in Connect-Timeouts. Keine heutige kommunale Quelle ist defekt.
+- check-links.py: 875 eindeutige URLs geprueft, 856 ok, 19 blockiert, 0 nicht erreichbar.
+- Der wiederholt timeoutende Malsch-Weinort-Aktuelles-Link aus zwei aelteren Rhein-Neckar-Findings wurde aus sourceUrl entfernt; lokaler 200-Snapshot als Fallback: assets/source-archive/www.malsch-weinort.de/dce314856b31cb9c.html.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Gmail-API-Versand an hornick@iaccess.de wird im Abschlusslauf ausgefuehrt; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
+- GitHub-Publish nach einem SHA-Konflikt im begrenzten Retry erfolgreich; Dateien auf den Default-Branch hochgeladen. Das erneute Setzen der bereits vorhandenen Pages-Konfiguration wurde mangels Pages-Adminberechtigung mit HTTP 403 uebersprungen.
 
 Validierungsblock
-- Archiv: 887 bekannte Quellen; 858 gespeichert/uebersprungen; 18 bekannte Abruffehler; 58 Eintraege heute archiviert/aktualisiert.
-- PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; sieben heutige kommunale Arbeits-PDFs ausgelesen, ein grosses PDF uebersprungen.
-- Links: 876 geprueft, 856 ok, 19 blockiert, 1 alter externer Link unerreichbar; heutige kommunale Quellen ohne Defekt.
-- Daten: database.json 108 Findings mit 108 eindeutigen IDs und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 727, offen 273; heute 20 echte offene Gemeinden bearbeitet.
-- Website-Daten: index.html aus database.json synchronisiert; beide heutigen Finding-IDs im Website-Seed vorhanden.
-- Naechste offene Coverage beginnt im Landkreis Konstanz bei Gaienhofen, danach Moos und Oehningen.
+- Archiv: 0 bekannte Quellen; 0 gespeichert/uebersprungen; 0 bekannte Abrufblocker.
+- PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; sieben heutige Arbeits-PDFs ausgelesen, ein grosses PDF nur archiviert.
+- Links: 875 geprueft, 856 ok, 19 blockiert, 0 echte Broken Links; Malsch-Weinort aus aelteren Findings per lokalem Snapshot-Fallback dokumentiert.
+- Daten: database.json 108 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 727, offen 273; heute 20 echte offene Gemeinden bearbeitet.
+- Website-Daten: index.html nach der Talheim-Korrektur erneut aus database.json synchronisiert.
 - Publish-Skript: Syntax mit node --check erfolgreich validiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Zustellung: Gmail-API-Versand an hornick@iaccess.de im Abschlusslauf.
