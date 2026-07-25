@@ -3654,7 +3654,7 @@
       "publishedDate": "2026-07-15",
       "topic": "Nachrichten- und Marktmonitoring Rechenzentren",
       "publisher": "WELT/dpa; Tom's Hardware/Gartner; Business Insider; AP",
-      "sourceUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/netzwelt/article6a44d8a28fb3fff12ac4344c/microsoft-moechte-weiteres-ki-rechenzentrum-in-nrw-bauen.html; https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7; https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts; https://www.businessinsider.com/data-center-protests-ai-trade-markets-sei-be-morgan-stanley-2026-7; https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
       "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
       "summary": "Breite Nachrichtensichtung bestaetigt den Trend: neue KI-/Cloud-Rechenzentren werden vor allem durch Netzanschluss, Strom-/Wasserbilanz, Genehmigung und kommunale Akzeptanz begrenzt. Microsofts Grevenbroich-Plan ist ein aktueller deutscher Brownfield-/Strukturwandel-Benchmark; Gartner-Strombedarfsdaten und US-Pushback-Meldungen schaerfen die Risikofilter.",
       "relevance": "Fuer kleine Edge-/Micro-DC in Baden-Wuerttemberg spricht weiterhin ein kleinerer, netzvertraeglicher, wasserarmer und abwaermefaehiger Ansatz. Fuer Freiburg/Denzlingen/Emmendingen muessen Netzzusage, Kuehlung/Wasser, Schall, Brandschutz/Loeschwasser und lokale Nutzenargumente frueh belegbar sein.",
@@ -4196,6 +4196,54 @@
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     },
     {
+      "id": "id-2026-07-25-loerrach-20-screening",
+      "date": "2026-07-25",
+      "publishedDate": "2026-07-25",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.rheinfelden.de/; https://schwoerstadt.de/startseite; https://schwoerstadt.de/site/Schwoerstadt_Internet/get/documents_E594710840/schwoerstadt/Objekte/06%20Bekanntmachungen/2026/Bekanntmach%20West%20II.pdf; https://www.gemeinde-bad-bellingen.de/willkommen; https://www.schliengen.de/startseite; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-132988831/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%281%29%2026-04-23%20FNP%C3%84%20Cover%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-1210131189/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.1%29%2026-03-16%20FNP%C3%84%20Deckblatt%201%20%2826-02-10%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E58084431/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.2%29%2026-04-23%20FNP%C3%84%20Deckblatt%202%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-582061607/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%283%29%2026-04-23%20FNP%C3%84%20Begr%C3%BCndung%20%2826-04-10%29.pdf; https://www.aitern.de/pb/1497752.html; https://schoenau-im-schwarzwald.de/pb/-/463832/gemeindeverwaltungsverband-schoenau-im-schwarzwald/oe6008367; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E875279492/gvvschoenau/Inhalte/PDF/GVV/satzung_abwasserbeseitigung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E661242477/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E1927922063/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen%20-%20Erkl%C3%A4rung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E-1339525958/gvvschoenau/Inhalte/PDF/GVV/fnp_4%C3%A4nd_zus-erkl%C3%A4rung230712_1.pdf; https://www.froehnd.de/pb/463041.html; https://www.schoenau-im-schwarzwald.de/; https://www.schoenenberg.de/; https://www.gemeinde-tunau.de/pb/505248.html; https://www.wembach.de/pb/505281.htm; https://www.gemeinde-hasel.de/30756.html; https://www.hausen-im-wiesental.de/; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-535811735_Dattachment/3647830/FNP-%C3%84nd.%20Golfplatz%20%C3%96-Bekanmntmachung%20z.%20Voranh%C3%B6rung.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E1681946218_Dattachment/3647831/Hausen%20FNP%20Entwurf%20Teil%C3%A4nd.%20Golfplatz%20mit%20Anlagen.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-1404296001_Dattachment/2672965/Verkehrskonzept%20Hausen%20im%20Wiesental%20_%20Erl%C3%A4uterungsbericht_%20dwd%2006.07.2021.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E813461952_Dattachment/2672966/Verkehrskonzept_Pr%C3%A4sentation_06.07.2021.pdf; https://www.maulburg.de/willkommen; https://www.schopfheim.de/willkommen; https://www.binzen.de/startseite; https://www.eimeldingen.de/startseite; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Gesundheite___Soziales/Verkehrskonzept_Eimeldingen_GR%C3%B6_13April2021.pdf; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Verordnungen/Polizeiverordnung-1.pdf; https://www.fischingen.de/startseite; https://www.fischingen.de/fileadmin/Website/Gemeinde_Fischingen/Dateien/Leben___Wohnen/Bauen/BPL_Dorfstra%C3%9Fe_AmBaechle_sign_inkl_Gutachten.pdf; https://www.ruemmingen.de/startseite; https://www.schallbach.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.denzlingen.de/de/aktuelles/; https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Rheinfelden (Baden), Schwoerstadt, Bad Bellingen, Schliengen, Aitern, Boellen, Froehnd, Schoenau im Schwarzwald, Schoenenberg, Tunau, Wembach, Hasel, Hausen im Wiesental, Maulburg, Schopfheim, Binzen, Eimeldingen, Fischingen, Ruemmingen, Schallbach ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Binzen, Eimeldingen, Maulburg, Rheinfelden (Baden), Schliengen, Schopfheim. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Coverage im Landkreis Loerrach fortsetzen; Rheinfelden, Schopfheim, Maulburg, Binzen, Eimeldingen und Schliengen nur bei konkreten GE/GI-, Netz-, Waerme- oder Carrier-Signalen vertiefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Loerrach",
+        "Hochrhein",
+        "Wiesental",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-25-news-monitoring",
+      "date": "2026-07-25",
+      "publishedDate": "2026-07-25",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "DataCenter-Insider; CloudComputing-Insider; Tagesschau/SWR; Golem; heise/iX; DatacenterDynamics; Google News RSS",
+      "sourceUrl": "https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "News-Screening: Standortbedingungen, Abwaerme und souveräne Cloud",
+      "summary": "Breite Sichtung bestaetigt: Der Ausbau in Deutschland stockt trotz Nachfrage nach inlaendischen Rechenzentren; fuer kleine Edge-/Micro-Standorte bleiben schnelle Verfahren, belastbarer Netzanschluss, Abwaermeabnehmer und regionale Cloud-/Souveraenitaetsanforderungen die zentralen Filter. Die Tagesschau/SWR-Abwaerme-Sichtung zu Stoedtlen zeigt erneut, dass Waermenetze und Finanzierung frueh geklaert werden muessen.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Fuer iAccess-Flaechen im Suedwesten Abwaermeabnehmer und Waermenetz-Partner parallel zur Netzvoranfrage pruefen; kommunale Unterstuetzung wird zum harten Standortkriterium.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Loerrach",
+        "Abwaerme",
+        "Souveraene Cloud",
+        "Netzanschluss",
+        "Edge"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
       "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
       "date": "2026-07-23",
       "publishedDate": "2026-07-23",
@@ -4491,8 +4539,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-24",
-    "lastResearchSummary": "2026-07-24: 20 weitere offene BW-Gemeinden im Konstanz-/Lörrach-Block geprüft; keine neuen direkten RZ-Flächenfunde; Prioritätsraum und Newsfilter revalidiert.",
+    "lastRun": "2026-07-25",
+    "lastResearchSummary": "2026-07-25: 20 weitere offene BW-Gemeinden im Landkreis Loerrach geprueft; keine neuen direkten RZ-Flaechenfunde; Newsfilter um Abwaerme/Cloud-Souveraenitaet erweitert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4519,8 +4567,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-24",
-    "lastResearchSummary": "2026-07-24: 20 weitere offene BW-Gemeinden im Konstanz-/Lörrach-Block geprüft; keine neuen direkten RZ-Flächenfunde; Prioritätsraum und Newsfilter revalidiert.",
+    "lastResearchRun": "2026-07-25",
+    "lastResearchSummary": "2026-07-25: 20 weitere offene BW-Gemeinden im Landkreis Loerrach geprueft; keine neuen direkten RZ-Flaechenfunde; Newsfilter um Abwaerme/Cloud-Souveraenitaet erweitert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
