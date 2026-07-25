@@ -93,7 +93,7 @@ Linkpruefung
 - Ein transienter Connection-Reset auf https://www.satteldorf.de/ wurde gegengeprueft und als blockiert/transient klassifiziert; lokales Archiv-Fallback ist vorhanden.
 
 Zustellung
-- Gmail-Versand wird mit scripts/gmail-api.py send an hornick@iaccess.de ausgefuehrt; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
+- Tagesbericht wird nach Live-Pruefung mit scripts/gmail-api.py send an hornick@iaccess.de gesendet; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -105,4 +105,4 @@ Validierungsblock
 - Daten: database.json 112 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 767, offen 233; heute 20 echte offene Gemeinden bearbeitet; keine doppelten Finding-IDs.
 - Website-Daten: index.html aus database.json synchronisiert.
 - Python-Checks: rz_loerrach_screen_20260725.py, check-links.py und archive-sources.py kompilieren fehlerfrei.
-- Publish-Skript, GitHub-Pages-Publish und Gmail-Zustellung werden im Anschluss an diese Berichtsversion ausgefuehrt.
+- GitHub-Pages-Publish ausgefuehrt; Startseite und Tagesbericht liefern HTTP 200; Gmail-Zustellung erfolgt direkt nach dieser Berichtsversion.
