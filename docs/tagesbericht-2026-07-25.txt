@@ -24,8 +24,9 @@ Neue Quellen
   - Schallbach (Loerrach): https://www.schallbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, schall, server)
 
 Lokal archivierte Quellen
-- archive-sources.py: 955 bekannte Quellen im Manifest, 925 gespeichert/uebersprungen und 21 fehlgeschlagen; bekannte Fehler betreffen vor allem HTTP-429-Blockaden von datacenters.com.
-- Heutige kommunale Start-/Fachseiten und erreichbare Planungs-PDFs wurden lokal gesichert.
+- archive-sources.py: 950 aktuelle URLs eingesammelt, 932 gespeichert/uebersprungen und 18 fehlgeschlagen; bekannte Fehler betreffen HTTP-429-Blockaden von datacenters.com sowie HTTP 403 bei Parker.
+- Manifest: assets/source-archive/manifest.json enthaelt 967 bekannte Archivdatensaetze.
+- Heutige kommunale Start-/Fachseiten, erreichbare Planungs-PDFs und Fachquellen wurden lokal gesichert; Denzlingen Aktuelles wurde nach dem Crawler-Timeout erfolgreich archiviert.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 40, localAvailable 23, publicAvailable 40, publicBlocked 0, publicUnavailable 0.
@@ -61,7 +62,7 @@ Prioritaetsraum Freiburg/Denzlingen/Emmendingen
   - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
   - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
   - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
-  - Denzlingen Aktuelles/Stromausfall Umspannwerk: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.denzlingen.de', port=443): Read timed out. (read timeout=10))
+  - Denzlingen Aktuelles/Stromausfall Umspannwerk: Crawler-Timeout bei 10s, danach per archive-sources.py erfolgreich lokal archiviert (Status 200): https://www.denzlingen.de/de/aktuelles/
 
 Neue PDFs/Gutachten/Fotos/technische Zeichnungen
 - PDF lokal gesichert und mit pypdf ausgelesen: Schliengen https://www.schliengen.de/site/Schliengen-2024/get/documents_E-132988831/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%281%29%2026-04-23%20FNP%C3%84%20Cover%20%2826-04-13%29.pdf (1 Seiten; Treffer: flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/schliengen-01.pdf).
@@ -83,25 +84,25 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage: 20 echte offene Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
-- database.json: 112 Findings und 40 kuratierte PDF-Extracts; heute 2 Findings ergaenzt; alle Finding-IDs eindeutig.
-- Coverage aktuell: found 17, checkedNoRZ 767, offen 233.
+- Coverage: generatedAt 2026-07-25; found 17 unveraendert; checkedNoRZ 767; offen/nicht systematisch geprueft 233.
+- database.json: 112 Findings und 40 kuratierte PDF-Extracts; heute 2 Findings ergaenzt; researchQuestions 0; manualUploads 0; alle Finding-IDs eindeutig.
+- Neue lokale PDF-Screening-Dateien heute: 5 in assets/source-archive/pdf-screening-2026-07-25/.
 
 Linkpruefung
-- check-links.py: 950 eindeutige URLs geprueft, 931 ok, 19 blockiert, 0 nicht erreichbar.
-- Keine heutige kommunale Quelle ist als defekt ausgewiesen; zwei vorherige Einzelläufe hatten wechselnde, nicht reproduzierbare Connection-Resets auf Altquellen, der vollstaendige Abschlusslauf war fehlerfrei.
+- check-links.py: 950 eindeutige URLs geprueft, 930 ok, 20 blockiert/Rate-Limits, 0 echte Broken Links.
+- Ein transienter Connection-Reset auf https://www.satteldorf.de/ wurde gegengeprueft und als blockiert/transient klassifiziert; lokales Archiv-Fallback ist vorhanden.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Gmail-Versand wird mit scripts/gmail-api.py send an hornick@iaccess.de ausgefuehrt; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 955 bekannte Quellen; 925 gespeichert/uebersprungen; 21 bekannte Abrufblocker.
+- Archiv: 967 bekannte Archivdatensaetze im Manifest; heutiger Lauf 932 gespeichert/uebersprungen, 18 bekannte Abrufblocker.
 - PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; fuenf heutige Arbeits-PDFs ausgelesen, zwei grosse PDFs nur technisch geprueft.
-- Links: 950 geprueft, 931 ok, 19 blockiert, 0 echte Broken Links.
+- Links: 950 geprueft, 930 ok, 20 blockiert/Rate-Limits, 0 echte Broken Links.
 - Daten: database.json 112 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 767, offen 233; heute 20 echte offene Gemeinden bearbeitet; keine doppelten Finding-IDs.
 - Website-Daten: index.html aus database.json synchronisiert.
-- Publish-Skript: Syntax mit node --check erfolgreich validiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Python-Checks: rz_loerrach_screen_20260725.py, check-links.py und archive-sources.py kompilieren fehlerfrei.
+- Publish-Skript, GitHub-Pages-Publish und Gmail-Zustellung werden im Anschluss an diese Berichtsversion ausgefuehrt.
