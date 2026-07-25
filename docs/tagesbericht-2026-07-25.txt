@@ -1,0 +1,107 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-25
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Rheinfelden (Baden) (Loerrach): https://www.rheinfelden.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: ratsinfo, wärme)
+  - Schwoerstadt (Loerrach): https://schwoerstadt.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, server, verkehr; PDF-Hinweise: 1)
+  - Bad Bellingen (Loerrach): https://www.gemeinde-bad-bellingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, schall, server)
+  - Schliengen (Loerrach): https://www.schliengen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, schall, sondergebiet; PDF-Hinweise: 12)
+  - Aitern (Loerrach): https://www.aitern.de/pb/1497752.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, ratsinfo)
+  - Boellen (Loerrach): https://schoenau-im-schwarzwald.de/pb/-/463832/gemeindeverwaltungsverband-schoenau-im-schwarzwald/oe6008367 (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, glasfaser, industrie, netz, server, verkehr; PDF-Hinweise: 7)
+  - Froehnd (Loerrach): https://www.froehnd.de/pb/463041.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, ratsinfo)
+  - Schoenau im Schwarzwald (Loerrach): https://www.schoenau-im-schwarzwald.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, netz, ratsinfo)
+  - Schoenenberg (Loerrach): https://www.gemeinde-schoenenberg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, ratsinfo)
+  - Tunau (Loerrach): https://www.gemeinde-tunau.de/pb/505248.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, ratsinfo)
+  - Wembach (Loerrach): https://www.wembach.de/pb/505281.htm (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, glasfaser, netz, ratsinfo)
+  - Hasel (Loerrach): https://www.gemeinde-hasel.de/30756.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe)
+  - Hausen im Wiesental (Loerrach): https://www.hausen-im-wiesental.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, cloud, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, server, verkehr, wärme; PDF-Hinweise: 4)
+  - Maulburg (Loerrach): https://www.maulburg.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, industrie, kommunale wärmeplanung, verkehr, wärme)
+  - Schopfheim (Loerrach): https://www.schopfheim.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, glasfaser, netz, ratsinfo, server, strom, verkehr, wärme)
+  - Binzen (Loerrach): https://www.binzen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, brandschutz, gemeinderat, gewerbe, gewerbegebiet, netz, sondergebiet, verkehr, wärme)
+  - Eimeldingen (Loerrach): https://www.eimeldingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, netz, ratsinfo, server, strom, verkehr, wärme; PDF-Hinweise: 2)
+  - Fischingen (Loerrach): https://www.fischingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, ratsinfo, server, verkehr; PDF-Hinweise: 1)
+  - Ruemmingen (Loerrach): https://www.ruemmingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, schall, server, wärme)
+  - Schallbach (Loerrach): https://www.schallbach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, schall, server)
+
+Lokal archivierte Quellen
+- archive-sources.py: 955 bekannte Quellen im Manifest, 925 gespeichert/uebersprungen und 21 fehlgeschlagen; bekannte Fehler betreffen vor allem HTTP-429-Blockaden von datacenters.com.
+- Heutige kommunale Start-/Fachseiten und erreichbare Planungs-PDFs wurden lokal gesichert.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 40, localAvailable 23, publicAvailable 40, publicBlocked 0, publicUnavailable 0.
+- Zusaetzlich sieben heutige kommunale Arbeits-PDFs gesichtet: fuenf lokal gespeichert und mit pypdf ausgelesen; zwei grosse PDFs nur technisch geprueft.
+
+Gepruefte Gemeinden
+- Rheinfelden (Baden), Schwoerstadt, Bad Bellingen, Schliengen, Aitern, Boellen, Froehnd, Schoenau im Schwarzwald, Schoenenberg, Tunau, Wembach, Hasel, Hausen im Wiesental, Maulburg, Schopfheim, Binzen, Eimeldingen, Fischingen, Ruemmingen, Schallbach.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Binzen, Eimeldingen, Maulburg, Rheinfelden (Baden), Schliengen, Schopfheim.
+
+Nachrichten-/Betreiber-Sichtung
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- Tagesschau/SWR Abwaerme aus KI-Rechenzentren: https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html (Status 200; Treffer: abwaerme, abwärme, waerme, wärme).
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Tagesschau/SWR Philippsburg: https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html (Status 200; Treffer: abwärme, cloud, netz, rechenzentrum, server, strom, verkehr, wärme).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Status 200; Treffer: keine Rastertreffer).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt regionales Edge-/Micro-DC-Vergleichsmodell; Philippsburg bleibt Hyperscale-Benchmark; Stoedtlen zeigt Abwaerme-Finanzierungs- und Waermenetzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - Denzlingen Aktuelles/Stromausfall Umspannwerk: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.denzlingen.de', port=443): Read timed out. (read timeout=10))
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Schliengen https://www.schliengen.de/site/Schliengen-2024/get/documents_E-132988831/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%281%29%2026-04-23%20FNP%C3%84%20Cover%20%2826-04-13%29.pdf (1 Seiten; Treffer: flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/schliengen-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Schliengen https://www.schliengen.de/site/Schliengen-2024/get/documents_E-1210131189/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.1%29%2026-03-16%20FNP%C3%84%20Deckblatt%201%20%2826-02-10%29.pdf (1 Seiten; Treffer: flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/schliengen-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Boellen https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E875279492/gvvschoenau/Inhalte/PDF/GVV/satzung_abwasserbeseitigung.pdf (10 Seiten; Treffer: bebauungsplan, entwässerung, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/boellen-03.pdf).
+- PDF lokal geprueft/uebersprungen: Boellen https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E661242477/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen.pdf (too large for daily text extraction, 16493798 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hausen im Wiesental https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-535811735_Dattachment/3647830/FNP-%C3%84nd.%20Golfplatz%20%C3%96-Bekanmntmachung%20z.%20Voranh%C3%B6rung.pdf (2 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/hausen-im-wiesental-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hausen im Wiesental https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E1681946218_Dattachment/3647831/Hausen%20FNP%20Entwurf%20Teil%C3%A4nd.%20Golfplatz%20mit%20Anlagen.pdf (49 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-25/hausen-im-wiesental-06.pdf).
+- PDF lokal geprueft/uebersprungen: Eimeldingen https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Gesundheite___Soziales/Verkehrskonzept_Eimeldingen_GR%C3%B6_13April2021.pdf (too large for daily text extraction, 7769869 Bytes).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell; Energieagentur Suedwest/Eimeldingen wird als Waermenetz-Vorfilter beobachtet, nicht als neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 echte offene Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 112 Findings und 40 kuratierte PDF-Extracts; heute 2 Findings ergaenzt; alle Finding-IDs eindeutig.
+- Coverage aktuell: found 17, checkedNoRZ 767, offen 233.
+
+Linkpruefung
+- check-links.py: 950 eindeutige URLs geprueft, 931 ok, 19 blockiert, 0 nicht erreichbar.
+- Keine heutige kommunale Quelle ist als defekt ausgewiesen; zwei vorherige Einzelläufe hatten wechselnde, nicht reproduzierbare Connection-Resets auf Altquellen, der vollstaendige Abschlusslauf war fehlerfrei.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 955 bekannte Quellen; 925 gespeichert/uebersprungen; 21 bekannte Abrufblocker.
+- PDFs: 40/40 kuratierte PDFs oeffentlich verfuegbar, 23 lokal vorhanden; fuenf heutige Arbeits-PDFs ausgelesen, zwei grosse PDFs nur technisch geprueft.
+- Links: 950 geprueft, 931 ok, 19 blockiert, 0 echte Broken Links.
+- Daten: database.json 112 Findings und 40 PDF-Extracts; Coverage found 17, checkedNoRZ 767, offen 233; heute 20 echte offene Gemeinden bearbeitet; keine doppelten Finding-IDs.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Publish-Skript: Syntax mit node --check erfolgreich validiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
