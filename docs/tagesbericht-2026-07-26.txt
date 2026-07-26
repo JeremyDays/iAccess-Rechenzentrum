@@ -25,13 +25,13 @@ Neue Quellen
   - Stuehlingen (Waldshut): https://www.stuehlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, verkehr, wärme)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1.013 aktuelle URLs eingesammelt, 913 gespeichert/uebersprungen und 23 fehlgeschlagen; bekannte Fehler betreffen vor allem HTTP-429-Blockaden von datacenters.com, die defekte urspruengliche Domain von Haeg-Ehrsberg und HTTP 403 bei Parker. Die offizielle Ersatzpraesenz unter hinterhag.de wurde dagegen erfolgreich geprueft.
+- archive-sources.py: 1.014 bekannte Quellen im Manifest; 972 gespeichert/uebersprungen und 23 fehlgeschlagen.
 - Manifest: assets/source-archive/manifest.json enthaelt 1.014 bekannte Archivdatensaetze.
-- Heutige kommunale Start-/Fachseiten, erreichbare Planungs-PDFs, die LINK2AIR-/Lahr-Quellen sowie die Denzlinger 110-kV-Quellen wurden lokal gesichert. Todtnau ist inhaltlich geprueft, bleibt aber wegen der fehlerhaften Zertifikatskette im allgemeinen Linkchecker technisch blockiert.
+- Heutige kommunale Start-/Fachseiten, erreichbare Planungs-PDFs, die LINK2AIR-/Lahr-Quellen sowie die Denzlinger 110-kV-Quellen wurden lokal gesichert. Todtnau ist inhaltlich geprueft, bleibt aber wegen der fehlerhaften Zertifikatskette im allgemeinen Linkchecker technisch blockiert; lokale Fallback-PDFs liegen vor.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
-- Zehn lokale Tages-Screening-PDFs liegen in assets/source-archive/pdf-screening-2026-07-26; sieben kommunale Arbeits-PDFs sind im Bericht einzeln dokumentiert, hinzu kommt der dauerhaft kuratierte Denzlinger 110-kV-Extract.
+- Zwoelf lokale Tages-Screening-PDFs liegen in assets/source-archive/pdf-screening-2026-07-26; neun kommunale Arbeits-PDFs sind im Bericht einzeln dokumentiert, hinzu kommt der dauerhaft kuratierte Denzlinger 110-kV-Extract.
 
 Gepruefte Gemeinden
 - Wittlingen, Haeg-Ehrsberg, Zell im Wiesental, Efringen-Kirchen, Grenzach-Wyhlen, Kleines Wiesental, Steinen, Todtnau, Weil am Rhein, Todtmoos, Dogern, Lauchringen, Waldshut-Tiengen, Weilheim, Eggingen, Wutoeschingen, Albbruck, Goerwihl, Klettgau, Laufenburg (Baden), Stuehlingen.
@@ -98,17 +98,17 @@ Linkpruefung
 - Die Todtnau-URLs wurden wegen der unvollstaendigen Zertifikatskette korrekt als technisch blockiert statt als inhaltlich defekt klassifiziert; der Tagescrawler hat die offizielle Rathaus-Site separat erfolgreich mit Status 200 geprueft.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Gmail-Versand mit scripts/gmail-api.py send an hornick@iaccess.de versucht; Blocker: OAuth invalid_grant/Bad Request beim Refresh des Gmail-Tokens. Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1.014 bekannte Archivdatensaetze im Manifest; heutiger Lauf 913 gespeichert/uebersprungen, 23 bekannte Abrufblocker.
+- Archiv: 1.014 bekannte Archivdatensaetze im Manifest; heutiger Lauf 972 gespeichert/uebersprungen, 23 bekannte Abrufblocker.
 - PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; Denzlinger 110-kV-Bekanntmachung mit 4 Seiten dauerhaft gesichert und extrahiert.
 - Links: 995 geprueft, 971 ok, 24 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
 - Daten: database.json 115 Findings, 22 Sites, 21 Companies, 6 ConnectivityChecks und 41 PDF-Extracts; keine doppelten Finding-IDs; researchQuestions 0; manualUploads 0.
 - Coverage: found 17, checkedNoRZ 788, offen 212; 21 echte offene Gemeinden bearbeitet. Haeg-Ehrsberg wurde ueber die offizielle, funktionierende Ersatzpraesenz hinterhag.de geprueft.
 - Website-Daten: index.html aus database.json synchronisiert.
 - Python-Checks: Tagescrawler, Archiv-, PDF-, Link- und Sync-Skripte kompilieren bzw. liefen erfolgreich.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Zustellung: Gmail-Versand versucht, aber durch OAuth invalid_grant/Bad Request blockiert.
