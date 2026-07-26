@@ -648,6 +648,21 @@
         "Benchmark"
       ],
       "updatedAt": "2026-07-14"
+    },
+    {
+      "id": "id-2026-07-26-site-baden-cloud-lahr",
+      "created": "2026-07-26",
+      "updated": "2026-07-26",
+      "city": "Lahr/Schwarzwald",
+      "postalCode": "77933",
+      "address": "Einsteinallee 14",
+      "operator": "LEITWERK AG / BADEN CLOUD / Q-FOX Gruppe",
+      "name": "BADEN CLOUD Rechenzentrum Lahr",
+      "status": "Bau / Inbetriebnahmevorbereitung, als regionaler Edge-/Colocation-Praxisanker beobachtet",
+      "link": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
+      "tags": "Lahr, Baden Cloud, Leitwerk, Q-FOX, 1 MW, Edge, Colocation, Ortenau, Vergleichsstandort",
+      "source": "LINK2AIR Eventseite; DataCenter-Insider; Stadt Lahr",
+      "notes": "LINK2AIR nennt oeffentliche Baustellentermine fuer das neue hochverfuegbare Rechenzentrum in Lahr an der Einsteinallee 14. Nicht als neue Flaeche im Raum Freiburg/Denzlingen werten, aber als sehr guter Vergleich fuer 1-MW-Edge-/Micro-DC-Anforderungen."
     }
   ],
   "companies": [
@@ -910,6 +925,19 @@
       "notes": "Kein Standortpartner. Fuer iAccess als Technik-/Lieferantenoption fuer Peak Shaving, Insel-/Netzparallelbetrieb, BESS-Brandschutz und MS-Anschluss vormerken.",
       "tags": "Socomec, BESS, Batteriespeicher, Mittelspannung, Container, Micro-DC",
       "source": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/"
+    },
+    {
+      "id": "id-2026-07-26-company-link2air-leitwerk",
+      "created": "2026-07-26",
+      "updated": "2026-07-26",
+      "name": "LINK2AIR / LEITWERK AG / BADEN CLOUD",
+      "role": "Regionaler Glasfaser-/Richtfunk-/IP-Transit- und Rechenzentrumsakteur",
+      "region": "Ortenau / Suedbaden, insbesondere Appenweier und Lahr",
+      "contact": "https://www.link2air.de/",
+      "references": "Baden-Cloud-Rechenzentrum Lahr mit oeffentlichen Baustellenterminen; LINK2AIR-Angebote fuer Glasfaser, Richtfunk, IP-Transit und Standortvernetzung.",
+      "notes": "Als Partnerkandidat fuer regionale Carrier-, Redundanz- und Betriebsmodelle pruefen; kein automatischer iAccess-Partnerstatus.",
+      "tags": "Leitwerk, LINK2AIR, Baden Cloud, Glasfaser, IP-Transit, Edge, Ortenau",
+      "source": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort"
     }
   ],
   "planning": [
@@ -2003,6 +2031,22 @@
       "sourceUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf",
       "localFile": "pdfs/boetzingen-frohmatten-ii-geotechnischer-bericht.pdf",
       "tags": "Bötzingen, Frohmatten II, Geotechnik, Gutachten, PDF"
+    },
+    {
+      "id": "id-2026-07-26-pdf-denzlingen-110kv-bekanntmachung",
+      "date": "2026-07-26",
+      "municipality": "Denzlingen / Voerstetten",
+      "documentTitle": "RP Freiburg Bekanntmachung 110-kV-Leitung Anschluss Denzlingen",
+      "documentType": "Planfeststellung / Bekanntmachung",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
+      "localFile": "pdfs/rp-freiburg-denzlingen-110kv-bekanntmachung.pdf",
+      "pages": "4",
+      "relevance": "Starker Netzindikator fuer den Denzlingen-Voerstetten-Korridor, aber keine Netzanschlusszusage fuer ein Rechenzentrum.",
+      "keyFacts": "Ersatzneubau mit Leistungserhoehung: Beginn am noerdlichen Ortsrand von Voerstetten, Verlauf um Denzlingen bis zum Umspannwerk; 19 Mastneubauten plus leistungsstaerkere Leiterseile.",
+      "planningFacts": "Planfeststellungsverfahren nach EnWG; Auslegung Februar/Maerz 2025, Planänderung Mai 2026 laut RP-Seite. Standortbezogene UVP-Vorpruefung laut Bekanntmachung ohne UVP-Pflicht.",
+      "riskNotes": "Nicht als freie Bezugsleistung interpretieren. Fuer Micro-/Edge-DC weiter standortgenaue MS-/HS-Anfrage, Trassenlage, Schutzstreifen, Schall und Redundanz pruefen.",
+      "tags": "Denzlingen, Voerstetten, 110 kV, Netze BW, Planfeststellung, Umspannwerk, Netzindikator",
+      "summary": "1 Bekanntmachung 110-kV-Leitung Anschluss Denzlingen (Anlage 3590) Ersatzneubau mit Leistungserhöhung Einleitung des Planfeststellungsverfahrens durch das Regierungspräsidium Frei- burg und Möglichkeit zur Einsichtnahme in die Planunterlagen Die Netze BW GmbH hat die Feststellung des Planes nach § 43 Energiewirtschaftsgesetz (EnWG) i. V. m. §§ 72 ff. Landesverwaltungsverfahrensgesetz (LVwVfG) für den o.g. Er- satzneubau der Anlage 3590 in Denzlingen beantragt. 1. Der geplante Ersatzneubau beginnt am nördlichen Ortsrand von Vörstetten, führt nach Nordosten, kreuzt die B 3 und umrundet Denzlingen im Norden bis zum Umspannwerk. Um die zu erwartenden Einspeisungen durch erneuerbare Energien auch in Zukunft in der Region zuverlässig aufnehmen und verteilen zu können sowie die Versorgungssi- cherheit und Netzstabilität zu gewährleisten, will Netze BW die Leitungsanlage mit einer höheren Übertr"
     }
   ],
   "media": [
@@ -4244,6 +4288,81 @@
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     },
     {
+      "id": "id-2026-07-26-loerrach-waldshut-20-screening",
+      "date": "2026-07-26",
+      "publishedDate": "2026-07-26",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.wittlingen.de/; https://www.hinterhag.de/; https://www.zell-im-wiesental.de/; https://www.efringen-kirchen.de/; https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Hauptamt/Bekanntmachung%20Carsharing-Ausschreibung%20des%20Netzwerks%20f%C3%BCr%20nachhaltige%20Mobilit%C3%A4r%20%28NEMO%29.pdf; https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Hauptamt/Satzung%20zur%20%C3%84nderung%20der%20Polizeiverordnung%20gegen%20umweltsch%C3%A4dliches%20Verha....pdf; https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Hauptamt/%C3%96ffentlich%20rechtliche%20Vereinbarung%20Mobilit%C3%A4tsnetzwerk.pdf; https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Rechnungsamt/Bekanntmachung%20Stromkonzessionsvertrag.pdf; https://www.grenzach-wyhlen.de/; https://www.kleines-wiesental.de/; https://www.kleines-wiesental.de/resources/01%20Website/Startseite/Top-Themen/Pressemitteilung%20Gewerbeakademie%20Standort%20soll%20erhalten%20bleiben%20-%20%20-%20Verkuendung.pdf; https://www.steinen.de/startseite; https://stadt.todtnau.de/; https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf; https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf; https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf; https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf; https://www.weil-am-rhein.de/start; https://www.weil-am-rhein.de/site/weil-am-rhein-2020/get/documents_E145188931/weil-am-rhein/Objekte/Formulare%20und%20Online-Dienste/Antrag_neu_Anwohnerparkausweis.pdf; https://www.todtmoos.net/; https://www.todtmoos.net/eip/eip_media.php?f=Bebauungsplananderung_Kirchenberg-Maettlematt.pdf&m=714&i=0&fl=52084471&d=afd; https://www.todtmoos.net/eip/eip_media.php?f=Bebauungsplananderung+Kirchenberg-Mattlematt.pdf&m=714&i=1&fl=52084471&d=fde; https://www.todtmoos.net/eip/eip_media.php?f=Bebauungsplananderung+Vordertodtmoos.pdf&m=714&i=2&fl=52084471&d=0e9; https://www.todtmoos.net/eip/eip_media.php?f=BPan-Anderung+Vordertodtmoos+Bereich+Kir.pdf&m=714&i=3&fl=52084471&d=563; https://www.dogern.de/de/startseite; https://www.lauchringen.de/startseite; https://www.waldshut-tiengen.de/; https://www.weilheim-baden.de/; https://eggingen.de/; https://www.wutoeschingen.de/; https://www.albbruck.de/startseite; https://www.goerwihl.de/startseite; https://www.goerwihl.de/site/Goerwihl/get/documents_E729504756/goerwihl/dictionaries/Wasserversorgung/Untersuchungsbefund%20Wassernetz%20vom%2019.11.2024.pdf; https://www.goerwihl.de/site/Goerwihl/get/documents_E-1550264879/goerwihl/dictionaries/Breitband/Info%20f%C3%BCr%20Selbstgraber.pdf; https://www.goerwihl.de/site/Goerwihl/get/documents_E877249275/goerwihl/dictionaries/Breitband/Lieferschein-fuer-Materialabholung-0519.pdf; https://www.goerwihl.de/site/Goerwihl/get/documents_E1172164129/goerwihl/dictionaries/Breitband/Skizze-Hausanschluss.pdf; https://www.klettgau.de/startseite; https://www.laufenburg.de/startseite; https://www.stuehlingen.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.denzlingen.de/de/aktuelles/; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene; https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort; https://www.lahr.de/reden-grussworte.11097.htm; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "summary": "Geprueft wurden Wittlingen, Haeg-Ehrsberg, Zell im Wiesental, Efringen-Kirchen, Grenzach-Wyhlen, Kleines Wiesental, Steinen, Todtnau, Weil am Rhein, Todtmoos, Dogern, Lauchringen, Waldshut-Tiengen, Weilheim, Eggingen, Wutoeschingen, Albbruck, Goerwihl, Klettgau, Laufenburg (Baden), Stuehlingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Albbruck, Efringen-Kirchen, Grenzach-Wyhlen, Klettgau, Lauchringen, Laufenburg (Baden), Stuehlingen, Waldshut-Tiengen, Weil am Rhein, Zell im Wiesental. Der Block liegt im suedwestlichen BW-Randraum; direkte Prioritaet bleibt Freiburg/Denzlingen/Emmendingen.",
+      "action": "Coverage mit den naechsten offenen Gemeinden ab Wehr/Bad Urach weiterarbeiten. Grenzach-Wyhlen, Weil am Rhein, Waldshut-Tiengen, Lauchringen, Albbruck, Klettgau, Laufenburg und Stuehlingen nur bei konkreten GE/GI-, Netz-, Waerme- oder Carrier-Signalen vertiefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Wuerttemberg",
+        "Loerrach",
+        "Waldshut",
+        "Hochrhein",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-26-news-monitoring",
+      "date": "2026-07-26",
+      "publishedDate": "2026-07-26",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "LINK2AIR; DataCenter-Insider; CloudComputing-Insider; DatacenterDynamics; TransnetBW; RP Freiburg; Golem; heise/iX; Google News RSS",
+      "sourceUrl": "https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort; https://www.lahr.de/reden-grussworte.11097.htm; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "title": "News-Screening: Lahr als Edge-Praxisanker, Denzlingen als Netzindikator",
+      "summary": "Die breite Sichtung liefert keinen neuen konkreten RZ-Standort im Raum Freiburg/Denzlingen/Emmendingen. Neu belastbar ist aber die LINK2AIR-Eventseite mit oeffentlichen Baustellenterminen fuer das Baden-Cloud-Rechenzentrum Lahr an der Einsteinallee 14. Parallel bestaetigen RP Freiburg und Netze BW die Relevanz des 110-kV-Denzlingen-Verfahrens als Netzindikator; TransnetBW zeigt mit der Badischen Rheinschiene den uebergeordneten 380-kV-Ausbaupfad bis Eichstetten.",
+      "relevance": "Fuer iAccess bleiben kleine modulare Standorte im Freiburger Umland nur dann interessant, wenn Flaechen, Mittelspannungs-/Hochspannungsnaehe, Carrier-Redundanz, Schall/Brandschutz, wasserarme Kuehlung und ein lokaler Nutzen parallel plausibel sind. Lahr ist ein Vergleichsmodell, keine automatisch passende Zielgemeinde fuer Denzlingen.",
+      "action": "Denzlingen/Voerstetten/Reute weiter gegen 110-kV-/MS-Nahe, Schutzstreifen und Gewerbeflaechen verschneiden; LINK2AIR/Leitwerk als regionalen Praxis- und Carrierkontakt fuer Anforderungen und Besichtigung separat pruefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Lahr",
+        "Denzlingen",
+        "Baden Cloud",
+        "Netzanschluss",
+        "Edge",
+        "Glasfaser",
+        "110 kV",
+        "380 kV"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
+      "id": "id-2026-07-26-site-baden-cloud-lahr-finding",
+      "date": "2026-07-26",
+      "publishedDate": "2026-07-26",
+      "topic": "Regionaler Edge-/Micro-DC-Praxisanker",
+      "publisher": "LINK2AIR / LEITWERK / Stadt Lahr",
+      "sourceUrl": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort; https://www.lahr.de/reden-grussworte.11097.htm; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "Baden Cloud Lahr jetzt als eigener Standort- und Carrieranker erfasst",
+      "summary": "LINK2AIR bewirbt oeffentliche Baustellentermine fuer das neue hochverfuegbare Rechenzentrum Lahr an der Einsteinallee 14. Zusammen mit DataCenter-Insider und der Stadt Lahr bestaetigt das den Standort als regionalen 1-MW-/Edge-/Colocation-Vergleichsfall.",
+      "relevance": "Fuer iAccess ist Lahr kein neuer Flaechenfund im Kernraum Denzlingen, aber ein nahes Realbeispiel fuer Leistungsklasse, Betreiber-/Carrierverbund, Baufortschritt, Standortkommunikation und moegliche Besichtigungs-/Partnergespraeche.",
+      "action": "LINK2AIR/Leitwerk/Baden Cloud als Praxispartner fuer technische Anforderungen, Carrier-Redundanz, Betriebskonzepte und Lessons Learned pruefen; nicht ohne Freigabe kontaktieren.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Lahr",
+        "Baden Cloud",
+        "LINK2AIR",
+        "Leitwerk",
+        "Colocation",
+        "Edge",
+        "Carrier",
+        "Praxisanker"
+      ],
+      "archiveNote": "Eventseite, Stadt-Lahr-Quelle und DataCenter-Insider-Artikel wurden fuer lokale Archivierung in sourceUrl aufgenommen."
+    },
+    {
       "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
       "date": "2026-07-23",
       "publishedDate": "2026-07-23",
@@ -4464,6 +4583,21 @@
       "notes": "Kommunale Meldung zur Absage der Deutschen Glasfaser ist ein klares Negativsignal fuer Micro-DC ohne objektkonkrete Alternativcarrier-Pruefung.",
       "source": "https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html",
       "tags": "Schlat, Glasfaser, Deutsche Glasfaser, Negativsignal, Micro-DC"
+    },
+    {
+      "id": "id-2026-07-26-connectivity-baden-cloud-lahr",
+      "created": "2026-07-26",
+      "updated": "2026-07-26",
+      "site": "BADEN CLOUD Rechenzentrum Lahr",
+      "carrier": "LINK2AIR / LEITWERK / Q-FOX; weitere Provider objektkonkret pruefen",
+      "serviceType": "Glasfaser, IP-Transit, Standortvernetzung, Richtfunk-Redundanz",
+      "bandwidth": "Nicht auf der Eventseite genannt; fuer iAccess 2 x 10 Gbit/s bis 100 Gbit/s und Dark-Fiber-Optionen abfragen",
+      "routeDiversity": "Eventseite belegt Standort und Baustellenzugang, aber keine physisch getrennten Trassen.",
+      "status": "Praxisanker, Anfrage noetig",
+      "contact": "https://www.link2air.de/",
+      "notes": "Lahrer Standort dient als Vergleich fuer regionale Edge-/Colocation-Umsetzung im Suedwesten. Fuer eigene Flaechen bleiben Carrier-Diversitaet, SLA, Hauseinfuehrung und Wegeredundanz separat zu klaeren.",
+      "source": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
+      "tags": "Lahr, Baden Cloud, Glasfaser, IP-Transit, Carrier, Redundanz"
     }
   ],
   "capacityMarkets": [
@@ -4539,8 +4673,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-25",
-    "lastResearchSummary": "2026-07-25: 20 weitere offene BW-Gemeinden im Landkreis Loerrach geprueft; keine neuen direkten RZ-Flaechenfunde; Newsfilter um Abwaerme/Cloud-Souveraenitaet erweitert.",
+    "lastRun": "2026-07-26",
+    "lastResearchSummary": "2026-07-26: 21 offene BW-Gemeinden im Loerrach-/Waldshut-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Baden Cloud Lahr als Standort-/Carrieranker und RP-Denzlingen-110-kV-PDF ergaenzt.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4567,8 +4701,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-25",
-    "lastResearchSummary": "2026-07-25: 20 weitere offene BW-Gemeinden im Landkreis Loerrach geprueft; keine neuen direkten RZ-Flaechenfunde; Newsfilter um Abwaerme/Cloud-Souveraenitaet erweitert.",
+    "lastResearchRun": "2026-07-26",
+    "lastResearchSummary": "2026-07-26: 21 offene BW-Gemeinden im Loerrach-/Waldshut-Block geprueft; keine neuen direkten RZ-Flaechenfunde; Baden Cloud Lahr als Standort-/Carrieranker und RP-Denzlingen-110-kV-PDF ergaenzt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
