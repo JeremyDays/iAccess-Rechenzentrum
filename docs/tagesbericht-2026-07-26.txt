@@ -1,0 +1,114 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-26
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 21 weitere offene Coverage-Gemeinden:
+  - Wittlingen (Loerrach): https://www.wittlingen.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, netz, server, verkehr)
+  - Haeg-Ehrsberg (Loerrach): https://www.hinterhag.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Zell im Wiesental (Loerrach): https://www.zell-im-wiesental.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe)
+  - Efringen-Kirchen (Loerrach): https://www.efringen-kirchen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, schall, server, strom; PDF-Hinweise: 12)
+  - Grenzach-Wyhlen (Loerrach): https://www.grenzach-wyhlen.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe)
+  - Kleines Wiesental (Loerrach): https://www.kleines-wiesental.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, ratsinfo; PDF-Hinweise: 1)
+  - Steinen (Loerrach): https://www.steinen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, netz, ratsinfo, strom, verkehr, wärme)
+  - Todtnau (Loerrach): https://stadt.todtnau.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, ratsinfo, verkehr, wärme; PDF-Hinweise: 6)
+  - Weil am Rhein (Loerrach): https://www.weil-am-rhein.de/start (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, server, verkehr, wärme; PDF-Hinweise: 1)
+  - Todtmoos (Waldshut): https://www.todtmoos.net/ (5 abrufbare kommunale Pfade; RZ-Worttreffer nicht als Standortfund gewertet: rechenzentrum; Trefferfelder: amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, ratsinfo, rechenzentrum, server; PDF-Hinweise: 5)
+  - Dogern (Waldshut): https://www.dogern.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Lauchringen (Waldshut): https://www.lauchringen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, kommunale wärmeplanung, server, strom, verkehr, wärme)
+  - Waldshut-Tiengen (Waldshut): https://www.waldshut-tiengen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gewerbe, gewerbegebiet, kommunale wärmeplanung, verkehr, wärme)
+  - Weilheim (Waldshut): https://www.weilheim-baden.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, wärme)
+  - Eggingen (Waldshut): https://eggingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, kommunale wärmeplanung, netz, ratsinfo, server, verkehr)
+  - Wutoeschingen (Waldshut): https://www.wutoeschingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, verkehr)
+  - Albbruck (Waldshut): https://www.albbruck.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, ratsinfo, server, strom, verkehr, wärme)
+  - Goerwihl (Waldshut): https://www.goerwihl.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, glasfaser, netz, ratsinfo, server, strom; PDF-Hinweise: 6)
+  - Klettgau (Waldshut): https://www.klettgau.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, strom, verkehr, wärme)
+  - Laufenburg (Baden) (Waldshut): https://www.laufenburg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, ratsinfo, server, strom, verkehr, wärme)
+  - Stuehlingen (Waldshut): https://www.stuehlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, verkehr, wärme)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.013 aktuelle URLs eingesammelt, 913 gespeichert/uebersprungen und 23 fehlgeschlagen; bekannte Fehler betreffen vor allem HTTP-429-Blockaden von datacenters.com, die defekte urspruengliche Domain von Haeg-Ehrsberg und HTTP 403 bei Parker. Die offizielle Ersatzpraesenz unter hinterhag.de wurde dagegen erfolgreich geprueft.
+- Manifest: assets/source-archive/manifest.json enthaelt 1.014 bekannte Archivdatensaetze.
+- Heutige kommunale Start-/Fachseiten, erreichbare Planungs-PDFs, die LINK2AIR-/Lahr-Quellen sowie die Denzlinger 110-kV-Quellen wurden lokal gesichert. Todtnau ist inhaltlich geprueft, bleibt aber wegen der fehlerhaften Zertifikatskette im allgemeinen Linkchecker technisch blockiert.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- Zehn lokale Tages-Screening-PDFs liegen in assets/source-archive/pdf-screening-2026-07-26; sieben kommunale Arbeits-PDFs sind im Bericht einzeln dokumentiert, hinzu kommt der dauerhaft kuratierte Denzlinger 110-kV-Extract.
+
+Gepruefte Gemeinden
+- Wittlingen, Haeg-Ehrsberg, Zell im Wiesental, Efringen-Kirchen, Grenzach-Wyhlen, Kleines Wiesental, Steinen, Todtnau, Weil am Rhein, Todtmoos, Dogern, Lauchringen, Waldshut-Tiengen, Weilheim, Eggingen, Wutoeschingen, Albbruck, Goerwihl, Klettgau, Laufenburg (Baden), Stuehlingen.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 21 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Albbruck, Efringen-Kirchen, Grenzach-Wyhlen, Klettgau, Lauchringen, Laufenburg (Baden), Stuehlingen, Waldshut-Tiengen, Weil am Rhein, Zell im Wiesental.
+
+Nachrichten-/Betreiber-Sichtung
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- LINK2AIR Baden Cloud Lahr Baustellentermine: https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Status 200; Treffer: cloud, glasfaser, netz, rechenzentrum).
+- Stadt Lahr OB-Rede Rechenzentrum startkLahr: https://www.lahr.de/reden-grussworte.11097.htm (Status 200; Treffer: altlasten, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, ratsinfo, rechenzentrum).
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, umspannwerk).
+- RP Freiburg 110-kV-Denzlingen Planfeststellung: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. LINK2AIR/Lahr bestaetigt aber einen nahen 1-MW-/Edge-/Colocation-Praxisanker; Denzlingen bleibt wegen 110-kV-Planfeststellung und Umspannwerksbezug ein Netzindikator, nicht ein Anschlussnachweis.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - RP Freiburg 110-kV-Denzlingen Planfeststellung: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Denzlingen Aktuelles/Umspannwerk und Energie: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.denzlingen.de', port=443): Read timed out. (read timeout=10))
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, umspannwerk)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Efringen-Kirchen https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Hauptamt/Bekanntmachung%20Carsharing-Ausschreibung%20des%20Netzwerks%20f%C3%BCr%20nachhaltige%20Mobilit%C3%A4r%20%28NEMO%29.pdf (1 Seiten; Treffer: netz, schall; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/efringen-kirchen-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Efringen-Kirchen https://www.efringen-kirchen.de/resources/01%20Website/Unterseiten/01_Aktuelles/Bekanntmachungen/Hauptamt/Satzung%20zur%20%C3%84nderung%20der%20Polizeiverordnung%20gegen%20umweltsch%C3%A4dliches%20Verha....pdf (4 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/efringen-kirchen-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Kleines Wiesental https://www.kleines-wiesental.de/resources/01%20Website/Startseite/Top-Themen/Pressemitteilung%20Gewerbeakademie%20Standort%20soll%20erhalten%20bleiben%20-%20%20-%20Verkuendung.pdf (2 Seiten; Treffer: gewerbe; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/kleines-wiesental-03.pdf).
+- PDF lokal per TLS-Bypass gesichert und mit pypdf ausgelesen: Todtnau Waermeleitplanung Bekanntmachung (1 Seite; keine RZ-Rastertreffer; lokal: assets/source-archive/pdf-screening-2026-07-26/todtnau-04-kwp-bekanntmachung.pdf).
+- PDF lokal per TLS-Bypass gesichert und mit pypdf ausgelesen: Todtnau Ergebnisbericht Fachgutachten kommunale Waermeplanung 2025 (113 Seiten; Treffer: kommunale Waermeplanung, Waerme, Strom, Netz; lokal: assets/source-archive/pdf-screening-2026-07-26/todtnau-05-kwp-fachgutachten.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Todtmoos https://www.todtmoos.net/eip/eip_media.php?f=Bebauungsplananderung_Kirchenberg-Maettlematt.pdf&m=714&i=0&fl=52084471&d=afd (58 Seiten; Treffer: bebauungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/todtmoos-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Todtmoos https://www.todtmoos.net/eip/eip_media.php?f=Bebauungsplananderung+Kirchenberg-Mattlematt.pdf&m=714&i=1&fl=52084471&d=fde (13 Seiten; Treffer: bebauungsplan, entwässerung, gemeinderat, netz, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/todtmoos-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Goerwihl https://www.goerwihl.de/site/Goerwihl/get/documents_E729504756/goerwihl/dictionaries/Wasserversorgung/Untersuchungsbefund%20Wassernetz%20vom%2019.11.2024.pdf (24 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-26/goerwihl-08.pdf).
+- PDF dauerhaft lokal gesichert und als kuratierter Extract erfasst: Denzlingen/Voerstetten 110-kV-Bekanntmachung (4 Seiten; lokal: pdfs/rp-freiburg-denzlingen-110kv-bekanntmachung.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. LINK2AIR/LEITWERK/Baden Cloud wurde als neuer regionaler Praxis- und Carrierkontakt erfasst; kein automatischer iAccess-Partnerstatus und keine Kontaktaufnahme ohne Freigabe.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 21 echte offene Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 115 Findings und 41 kuratierte PDF-Extracts; heute 3 Findings, 1 Site-Datensatz, 1 Partner-/Company-Datensatz, 1 ConnectivityCheck und 1 kuratierter PDF-Extract ergaenzt.
+
+Linkpruefung
+- check-links.py: 995 eindeutige URLs geprueft, 971 ok, 24 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
+- Die Todtnau-URLs wurden wegen der unvollstaendigen Zertifikatskette korrekt als technisch blockiert statt als inhaltlich defekt klassifiziert; der Tagescrawler hat die offizielle Rathaus-Site separat erfolgreich mit Status 200 geprueft.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.014 bekannte Archivdatensaetze im Manifest; heutiger Lauf 913 gespeichert/uebersprungen, 23 bekannte Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; Denzlinger 110-kV-Bekanntmachung mit 4 Seiten dauerhaft gesichert und extrahiert.
+- Links: 995 geprueft, 971 ok, 24 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
+- Daten: database.json 115 Findings, 22 Sites, 21 Companies, 6 ConnectivityChecks und 41 PDF-Extracts; keine doppelten Finding-IDs; researchQuestions 0; manualUploads 0.
+- Coverage: found 17, checkedNoRZ 788, offen 212; 21 echte offene Gemeinden bearbeitet. Haeg-Ehrsberg wurde ueber die offizielle, funktionierende Ersatzpraesenz hinterhag.de geprueft.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Python-Checks: Tagescrawler, Archiv-, PDF-, Link- und Sync-Skripte kompilieren bzw. liefen erfolgreich.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
