@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-07-25",
-  "total": 40,
-  "localAvailable": 23,
-  "publicAvailable": 40,
+  "checkedAt": "2026-07-26",
+  "total": 41,
+  "localAvailable": 24,
+  "publicAvailable": 41,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -683,6 +683,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Denzlingen / Voerstetten",
+      "documentTitle": "RP Freiburg Bekanntmachung 110-kV-Leitung Anschluss Denzlingen",
+      "documentType": "Planfeststellung / Bekanntmachung",
+      "pages": "4",
+      "publicUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
+      "currentSourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
+      "localFile": "pdfs/rp-freiburg-denzlingen-110kv-bekanntmachung.pdf",
+      "localExists": true,
+      "localBytes": 162416,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
       "contentType": "application/pdf",
       "error": ""
     }
