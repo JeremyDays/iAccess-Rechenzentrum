@@ -100,7 +100,7 @@ Linkpruefung
 - Bereinigter check-links.py-Lauf: 1.041 eindeutige URLs geprueft, 1.015 ok, 26 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
 
 Zustellung
-- Gmail-Versand wird mit scripts/gmail-api.py send an hornick@iaccess.de versucht; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
+- Gmail-Versand mit scripts/gmail-api.py send an hornick@iaccess.de versucht; Blocker: OAuth invalid_grant/Bad Request beim Refresh des Gmail-Tokens. Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -113,3 +113,4 @@ Validierungsblock
 - Coverage: found 17, checkedNoRZ 808, offen 192; heute 20 echte offene Gemeinden bearbeitet.
 - Website-Daten: index.html aus database.json synchronisiert.
 - Python-Checks: Tagescrawler, Archiv-, PDF-, Link-, Fragen- und Gmail-Skripte kompilieren; Fragenreport-Skript meldet keine Fragen/Uploads.
+- Zustellung: GitHub Pages veroeffentlicht und live mit HTTP 200 geprueft; Gmail-Versand durch OAuth invalid_grant blockiert.
