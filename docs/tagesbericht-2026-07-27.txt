@@ -1,0 +1,115 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-27
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Wehr (Waldshut): https://www.wehr.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, wärme; PDF-Hinweise: 9)
+  - Bad Urach (Reutlingen): https://www.bad-urach.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, ratsinfo)
+  - Grabenstetten (Reutlingen): https://www.grabenstetten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, netz, verkehr)
+  - Römerstein (Reutlingen): https://www.roemerstein.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, glasfaser, ratsinfo)
+  - Engstingen (Reutlingen): https://www.engstingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, netz, schall, server, sondergebiet, verkehr; PDF-Hinweise: 12)
+  - Grafenberg (Reutlingen): https://www.grafenberg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, glasfaser, netz, ratsinfo)
+  - Metzingen (Reutlingen): https://www.metzingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gewerbe, gewerbegebiet, industrie, industriegebiet)
+  - Riederich (Reutlingen): https://www.riederich.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt)
+  - Mehrstetten (Reutlingen): https://www.mehrstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, industriegebiet, netz, server, sondergebiet)
+  - Walddorfhäslach (Reutlingen): https://www.walddorfhaeslach.com/unsere-gemeinde.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, entwässerung, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz; PDF-Hinweise: 1)
+  - Hayingen (Reutlingen): https://www.hayingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, netz, ratsinfo, server; PDF-Hinweise: 12)
+  - Pfronstetten (Reutlingen): https://pfronstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, industrie, ratsinfo, server, strom, verkehr; PDF-Hinweise: 2)
+  - Zwiefalten (Reutlingen): https://www.zwiefalten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, strom)
+  - Dettingen an der Erms (Reutlingen): https://www.dettingen-erms.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, glasfaser, netz, ratsinfo)
+  - Eningen unter Achalm (Reutlingen): https://www.eningen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, verkehr, wärme)
+  - Lichtenstein (Reutlingen): https://www.gemeinde-lichtenstein.de/buerger/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, glasfaser, schall, strom; PDF-Hinweise: 4)
+  - St. Johann (Reutlingen): https://www.st-johann.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Sonnenbühl (Reutlingen): https://www.sonnenbuehl.de/,Lde/start (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, gewerbe)
+  - Trochtelfingen (Reutlingen): https://www.trochtelfingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, sondergebiet)
+  - Wannweil (Reutlingen): https://www.wannweil.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, verkehr, wärme; PDF-Hinweise: 7)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.060 bekannte Quellen im Manifest; 1.018 gespeichert/uebersprungen und 27 fehlgeschlagen.
+- Manifest: assets/source-archive/manifest.json wurde aktualisiert.
+- Heutige kommunale Start-/Fachseiten, erreichbare Planungs-PDFs aus Wehr/Engstingen/Hayingen/Lichtenstein/Wannweil sowie die Kernraum-/Fachquellen Freiburg, SWE Emmendingen, Bitkom, eco, BNetzA, Amprion und DatacenterDynamics wurden lokal gesichert, soweit technisch/rechtlich moeglich.
+- Bekannte Abrufblocker: 17 Datacenters.com-Rate-Limits, 5 Todtnau-TLS-Fehler, 3 401/403-Quellen und 2 heute bereinigte Wannweil-404-Links.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- Die sieben heutigen Arbeitsdateien liegen in assets/source-archive/pdf-screening-2026-07-27; sechs davon waren als PDF/Planungsdokument auslesbar, der Walddorfhaeslach-Link lieferte HTML statt PDF.
+
+Gepruefte Gemeinden
+- Wehr, Bad Urach, Grabenstetten, Römerstein, Engstingen, Grafenberg, Metzingen, Riederich, Mehrstetten, Walddorfhäslach, Hayingen, Pfronstetten, Zwiefalten, Dettingen an der Erms, Eningen unter Achalm, Lichtenstein, St. Johann, Sonnenbühl, Trochtelfingen, Wannweil.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Urach, Dettingen an der Erms, Eningen unter Achalm, Lichtenstein, Metzingen, Trochtelfingen, Walddorfhäslach, Wehr.
+
+Nachrichten-/Betreiber-Sichtung
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter, strom).
+- DCD Philippsburg Engrida: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- DataCenter-Insider Bitkom Cloud Report 2026: https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- Bitkom Cloud Report 2026: https://www.bitkom.org/Bitkom/Publikationen/Cloud-Report-2026 (Status 200; Treffer: cloud, strom).
+- eco Netzanschluss Rechenzentren/FCA: https://www.eco.de/news/zwischen-ausbauzielen-und-netzrealitaet-der-anschluss-von-rechenzentren-auf-dem-pruefstand/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, strom, umspannwerk, wärme).
+- Bundesnetzagentur FCA-Begriffe: https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Netzanschluss/FAQ_FCA/FCA_table.html (Status 200; Treffer: amtsblatt, breitband, netz, strom).
+- Amprion Reifegradverfahren Speicher/Grossverbraucher: https://www.amprion.net/Strommarkt/Netzkunden/Netzanschluss/Speicheranlagen.html (Status 200; Treffer: netz, strom).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem Energieeffizienzgesetz Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Freiburg-Glasfaser, SWE-Emmendingen-Netzdaten und 110-kV-Denzlingen schaerfen aber den Kernraum-Pruefpfad; Bitkom/eco/BNetzA/Amprion bestaetigen Standortnachfrage und Netzanschluss-Reifegrad als harte Vorfilter.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen Aktuelles/Umspannwerk und Energie: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.denzlingen.de', port=443): Read timed out. (read timeout=10))
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen Planfeststellung: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten Verteilnetz: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+  - TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, umspannwerk)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Wehr https://www.wehr.de/fileadmin/Dateien/Cross7/Startseite/Unsere_Stadt/Amtsblatt_%22Wehratalkurier%22/250815-mediadaten-gewerbe-2025.pdf (102 Seiten; Treffer: gewerbe, schall; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/wehr-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Wehr https://www.wehr.de/fileadmin/Dateien/Cross7/Startseite/Rathaus/Amtliche_Bekanntmachungen/Bebauungsplanverfahren/Offentliche_Bekanntmachung_BP-Staerkung-Innenstadt.pdf (8 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/wehr-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Engstingen https://www.engstingen.de/site/Engstingen-2024/get/documents_E-1639331322/engstingen/Engstingen_Objekte/PdfDokumente/9.%20%C3%84nderung%20FP%20Engstingen-Hohenstein/Umweltbericht%20vom%2025.03.2026.pdf (10 Seiten; Treffer: bebauungsplan, flächennutzungsplan, schall, verkehr, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/engstingen-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Engstingen https://www.engstingen.de/site/Engstingen-2024/get/documents_E-1539600458/engstingen/Engstingen_Objekte/PdfDokumente/10.%20%C3%84nderung%20FP%20Engstingen-Hohenstein/Umweltbericht%20vom%2026.03.2026.pdf (10 Seiten; Treffer: bebauungsplan, flächennutzungsplan, schall, sondergebiet, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/engstingen-04.pdf).
+- PDF-Link lokal gesichert, aber nicht als PDF auslesbar: Walddorfhäslach https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf (Server lieferte HTML/ungueltigen PDF-Header; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/walddorfhaeslach-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hayingen https://www.hayingen.de/media/pages/Zeichnerischer%20Teil%20Bebauungsplan%202.%20%C3%84nderung%20und%20Erweiterung%20Breite%20Wiese.pdf (1 Seiten; Treffer: bebauungsplan, gemeinderat, sondergebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/hayingen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hayingen https://www.hayingen.de/media/pages/Schriftlicher%20Teil%20Bebauungsplan%202.%20%C3%84nderung%20und%20Erweiterung%20Breite%20Wiese%20.pdf (8 Seiten; Treffer: bebauungsplan, gewerbe, mittelspannung, sondergebiet, strom, trafo, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-27/hayingen-07.pdf).
+- PDF-Screening fehlgeschlagen: Pfronstetten https://pfronstetten.de/wp-content/uploads/2018/10/fnp_11_aenderung_begruendung.pdf (401 Client Error: Unauthorized for url: https://pfronstetten.de/wp-content/uploads/2018/10/fnp_11_aenderung_begruendung.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen; Stadt Freiburg, Stadtwerke Emmendingen, TransnetBW/Netze BW, Amprion/BNetzA/eco wurden als Infrastruktur- und Bewertungsquellen ergaenzt, nicht als iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: generatedAt 2026-07-27; found 17 unveraendert; checkedNoRZ 808; offen/nicht systematisch geprueft 192.
+- database.json: 117 Findings, 22 Sites, 21 Companies, 7 GridChecks, 7 ConnectivityChecks, 6 CapacityMarkets und 41 kuratierte PDF-Extracts; researchQuestions 0; manualUploads 0; keine doppelten Finding-IDs.
+- Heute ergaenzt: 2 Findings, 1 GridCheck SWE Emmendingen/Denzlingen, 1 ConnectivityCheck Freiburg-Gewerbegebiete und 1 CapacityMarket/Bewertungsanker UeNB-Reifegrad/FCA.
+
+Linkpruefung
+- Erster check-links.py-Lauf fand vier echte Problem-URLs: zwei Pfronstetten-PDFs mit 401 und zwei Wannweil-Bus-PDFs mit 404. Diese nicht belastbaren/irrelevanten Links wurden aus der heutigen database.json-Quellenliste entfernt.
+- Bereinigter check-links.py-Lauf: 1.041 eindeutige URLs geprueft, 1.015 ok, 26 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
+
+Zustellung
+- Gmail-Versand wird mit scripts/gmail-api.py send an hornick@iaccess.de versucht; Fragen-PDF entfaellt, weil keine neuen/freigegebenen Fragen oder Uploads vorliegen.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.060 bekannte Archivdatensaetze im Manifest; heutiger Lauf 1.018 gespeichert/uebersprungen, 27 bekannte Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; heutige Arbeits-PDFs aus Wehr, Engstingen und Hayingen ausgelesen; Walddorfhaeslach als HTML-statt-PDF dokumentiert.
+- Links: nach Bereinigung 1.041 geprueft, 1.015 ok, 26 blockiert/technisch eingeschraenkt, 0 echte Broken Links.
+- Daten: database.json 117 Findings, 22 Sites, 21 Companies, 7 GridChecks, 7 ConnectivityChecks, 6 CapacityMarkets und 41 PDF-Extracts; keine doppelten Finding-IDs; researchQuestions 0; manualUploads 0.
+- Coverage: found 17, checkedNoRZ 808, offen 192; heute 20 echte offene Gemeinden bearbeitet.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Python-Checks: Tagescrawler, Archiv-, PDF-, Link-, Fragen- und Gmail-Skripte kompilieren; Fragenreport-Skript meldet keine Fragen/Uploads.
