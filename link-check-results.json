@@ -1,21 +1,9 @@
 {
   "checked": 1080,
   "ok": 1033,
-  "blocked": 25,
-  "broken": 22,
+  "blocked": 47,
+  "broken": 0,
   "results": [
-    {
-      "collection": "drawings",
-      "index": 5,
-      "field": "notes",
-      "title": "ASHRAE Data Centers and Telecommunications Facilities",
-      "url": "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='handbook.ashrae.org', port=443): Max retries exceeded with url: /Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
-    },
     {
       "collection": "drawings",
       "index": 3,
@@ -37,7 +25,31 @@
       "status": 502,
       "finalUrl": "https://www.altenriet.de/",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 62,
+      "field": "sourceUrl",
+      "title": "20 offene BW-Gemeinden im Filstal/Albvorland geprueft: kein direkter RZ-Fund",
+      "url": "https://www.gingen.de/startseite",
+      "status": 502,
+      "finalUrl": "https://www.gingen.de/startseite",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 73,
+      "field": "sourceUrl",
+      "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
+      "url": "https://www.alfdorf.de/startseite",
+      "status": 502,
+      "finalUrl": "https://www.alfdorf.de/startseite",
+      "ok": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -49,7 +61,7 @@
       "status": 502,
       "finalUrl": "https://www.auenwald.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -61,7 +73,7 @@
       "status": 502,
       "finalUrl": "https://www.sulzbach-murr.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -73,7 +85,7 @@
       "status": 502,
       "finalUrl": "https://www.eppingen.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -85,7 +97,7 @@
       "status": 502,
       "finalUrl": "https://www.siegelsbach.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -97,7 +109,7 @@
       "status": 502,
       "finalUrl": "https://www.gemeinde-breitnau.de/leben-wohnen/bauen-wohnen/bebauungsplaene-oertliche-bauleitplanung",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -109,7 +121,7 @@
       "status": 502,
       "finalUrl": "https://www.gemeinde-breitnau.de/leben-wohnen/ver-entsorgung/breitbandversorgung",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -121,7 +133,7 @@
       "status": 502,
       "finalUrl": "https://www.kirchberg-jagst.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -133,7 +145,31 @@
       "status": 502,
       "finalUrl": "https://www.gemeinde-weissbach.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 77,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.gerabronn.de/startseite",
+      "status": 502,
+      "finalUrl": "https://www.gerabronn.de/startseite",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 77,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.ilshofen.de/startseite",
+      "status": 502,
+      "finalUrl": "https://www.ilshofen.de/startseite",
+      "ok": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -145,7 +181,7 @@
       "status": 502,
       "finalUrl": "https://www.eberstadt.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -157,7 +193,7 @@
       "status": 502,
       "finalUrl": "https://www.untergruppenbach.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -169,7 +205,7 @@
       "status": 502,
       "finalUrl": "https://www.emmendingen.de/",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -181,7 +217,7 @@
       "status": 502,
       "finalUrl": "https://www.dettenheim.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -193,7 +229,7 @@
       "status": 502,
       "finalUrl": "https://www.emmendingen.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -205,19 +241,19 @@
       "status": 502,
       "finalUrl": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/bebauungsplaene",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
       "collection": "findings",
-      "index": 97,
-      "field": "sourceUrl",
-      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.neuhausen-enzkreis.de/startseite",
+      "index": 41,
+      "field": "source",
+      "title": "Emmendingen schaltet Wirtschaftsfoerderung und Gewerbeflaechensuche sichtbar frei",
+      "url": "https://www.emmendingen.de/bauen-wirtschaft/wirtschaftsfoerderung/wirtschaftsfoerderung",
       "status": 502,
-      "finalUrl": "https://www.neuhausen-enzkreis.de/startseite",
+      "finalUrl": "https://www.emmendingen.de/bauen-wirtschaft/wirtschaftsfoerderung/wirtschaftsfoerderung",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -229,7 +265,7 @@
       "status": 502,
       "finalUrl": "https://www.seewald.eu/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -294,50 +330,14 @@
     },
     {
       "collection": "findings",
-      "index": 110,
+      "index": 86,
       "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.lauchringen.de/startseite",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan",
       "status": 502,
-      "finalUrl": "https://www.lauchringen.de/startseite",
+      "finalUrl": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan",
       "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.steinen.de/startseite",
-      "status": 502,
-      "finalUrl": "https://www.steinen.de/startseite",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 101,
-      "field": "sourceUrl",
-      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.furtwangen.de/startseite",
-      "status": 502,
-      "finalUrl": "https://www.furtwangen.de/startseite",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 101,
-      "field": "sourceUrl",
-      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.tuningen.de/startseite",
-      "status": 502,
-      "finalUrl": "https://www.tuningen.de/startseite",
-      "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -349,7 +349,7 @@
       "status": 502,
       "finalUrl": "https://www.dossenheim.de/startseite",
       "ok": false,
-      "blocked": false,
+      "blocked": true,
       "error": ""
     },
     {
@@ -936,6 +936,18 @@
       "url": "https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html",
       "status": 200,
       "finalUrl": "https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "drawings",
+      "index": 5,
+      "field": "notes",
+      "title": "ASHRAE Data Centers and Telecommunications Facilities",
+      "url": "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
+      "status": 200,
+      "finalUrl": "https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -1581,18 +1593,6 @@
       "index": 62,
       "field": "sourceUrl",
       "title": "20 offene BW-Gemeinden im Filstal/Albvorland geprueft: kein direkter RZ-Fund",
-      "url": "https://www.gingen.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.gingen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 62,
-      "field": "sourceUrl",
-      "title": "20 offene BW-Gemeinden im Filstal/Albvorland geprueft: kein direkter RZ-Fund",
       "url": "https://www.holzmaden.de/startseite",
       "status": 200,
       "finalUrl": "https://www.holzmaden.de/startseite",
@@ -2052,18 +2052,6 @@
       "url": "https://www.vaihingen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.vaihingen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 73,
-      "field": "sourceUrl",
-      "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
-      "url": "https://www.alfdorf.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.alfdorf.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4221,30 +4209,6 @@
       "index": 77,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.gerabronn.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.gerabronn.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 77,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.ilshofen.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.ilshofen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 77,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.kressberg.de/home",
       "status": 200,
       "finalUrl": "https://www.kressberg.de/home",
@@ -5178,18 +5142,6 @@
     },
     {
       "collection": "findings",
-      "index": 41,
-      "field": "source",
-      "title": "Emmendingen schaltet Wirtschaftsfoerderung und Gewerbeflaechensuche sichtbar frei",
-      "url": "https://www.emmendingen.de/bauen-wirtschaft/wirtschaftsfoerderung/wirtschaftsfoerderung",
-      "status": 200,
-      "finalUrl": "https://www.emmendingen.de/bauen-wirtschaft/wirtschaftsfoerderung/wirtschaftsfoerderung",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 54,
       "field": "sourceUrl",
       "title": "EnEfG-Novelle k?nnte Rechenzentrumsauflagen lockern",
@@ -5388,6 +5340,18 @@
       "url": "https://www.neuenbuerg.de/startseite",
       "status": 200,
       "finalUrl": "https://www.neuenbuerg.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 97,
+      "field": "sourceUrl",
+      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.neuhausen-enzkreis.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.neuhausen-enzkreis.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7113,9 +7077,33 @@
       "index": 110,
       "field": "sourceUrl",
       "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.lauchringen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.lauchringen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.laufenburg.de/startseite",
       "status": 200,
       "finalUrl": "https://www.laufenburg.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.steinen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.steinen.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8613,18 +8601,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan",
-      "status": 200,
-      "finalUrl": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.fahrenbach.de/",
       "status": 200,
       "finalUrl": "https://www.fahrenbach.de/",
@@ -9105,6 +9081,18 @@
       "index": 101,
       "field": "sourceUrl",
       "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.furtwangen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.furtwangen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 101,
+      "field": "sourceUrl",
+      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.guetenbach.de/de/startseite",
       "status": 200,
       "finalUrl": "https://www.guetenbach.de/de/startseite",
@@ -9252,6 +9240,18 @@
       "url": "https://www.sulz.de/startseite",
       "status": 200,
       "finalUrl": "https://www.sulz.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 101,
+      "field": "sourceUrl",
+      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.tuningen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.tuningen.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
