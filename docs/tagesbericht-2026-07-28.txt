@@ -1,0 +1,102 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-28
+
+Neue Quellen
+- 20 offene Coverage-Gemeinden angesetzt; 19 belastbar geprüft, Jungingen technisch offen:
+  - Bodelshausen (Tübingen): https://www.bodelshausen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, sondergebiet, verkehr, waerme; PDF-Hinweise: 12)
+  - Mössingen (Tübingen): https://www.moessingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, cloud, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz)
+  - Ofterdingen (Tübingen): https://www.ofterdingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, kommunale waermeplanung, kommunale wärmeplanung, netz, verkehr, waerme, wärme)
+  - Hirrlingen (Tübingen): https://www.hirrlingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, glasfaser, ratsinfo)
+  - Rottenburg am Neckar (Tübingen): https://www.rottenburg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, amtsblatt, bauleit, bebauungsplan, breitband, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung)
+  - Starzach (Tübingen): https://www.starzach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet; PDF-Hinweise: 5)
+  - Dußlingen (Tübingen): https://www.dusslingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, netz, ratsinfo, server, verkehr, wärme)
+  - Gomaringen (Tübingen): https://www.gomaringen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gemeinderat, industrie, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Nehren (Tübingen): https://www.nehren.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server, sondergebiet, strom, verkehr; PDF-Hinweise: 12)
+  - Ammerbuch (Tübingen): https://www.ammerbuch.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, kommunale waermeplanung, kommunale wärmeplanung, netz, ratsinfo, verkehr, waerme, wärme)
+  - Dettenhausen (Tübingen): https://www.dettenhausen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, fernwärme, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, ratsinfo, server, wärme)
+  - Kusterdingen (Tübingen): https://www.kusterdingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, ratsinfo, schall, server, verkehr)
+  - Albstadt (Tübingen): https://www.albstadt.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, server, umspannwerk, verkehr; PDF-Hinweise: 12)
+  - Bitz (Tübingen): https://www.bitz.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, industrie, netz, ratsinfo, server, strom, wärme)
+  - Balingen (Tübingen): https://www.balingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, fernwärme, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz, strom, verkehr, wärme)
+  - Bisingen (Tübingen): https://www.gemeinde-bisingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Grosselfingen (Tübingen): https://www.grosselfingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, server, wärme; PDF-Hinweise: 12)
+  - Hechingen (Tübingen): https://www.hechingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, server, sondergebiet, verkehr, wärme)
+  - Jungingen (Tübingen): https://www.gemeinde-jungingen.de/ (im Abschlusslauf HTTP 502; kein Negativfund; bleibt offen)
+  - Meßstetten (Tübingen): https://www.stadt-messstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe, netz, ratsinfo, server, verkehr)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.099 bekannte Quellen im Manifest; 1.057 gespeichert/übersprungen, 24 fehlgeschlagen.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Belastbar geprüft: Bodelshausen, Mössingen, Ofterdingen, Hirrlingen, Rottenburg am Neckar, Starzach, Dußlingen, Gomaringen, Nehren, Ammerbuch, Dettenhausen, Kusterdingen, Albstadt, Bitz, Balingen, Bisingen, Grosselfingen, Hechingen, Meßstetten.
+- Technisch offen: Jungingen (HTTP 502 im Abschlusslauf).
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 19 belastbar geprüften Gemeinden bleiben ohne direkten RZ-Nachweis; Jungingen ist kein Negativfund und bleibt offen. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Albstadt, Ammerbuch, Balingen, Bisingen, Bodelshausen, Dußlingen, Hechingen, Kusterdingen, Meßstetten, Mössingen, Rottenburg am Neckar.
+
+Nachrichten-/Betreiber-Sichtung
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, rechenzentrum, server).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter, strom).
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen Planfeststellung: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: blockiert/fehlgeschlagen (502 Server Error: Bad Gateway for url: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan)
+  - Stadtwerke Emmendingen Netzdaten Verteilnetz: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Bodelshausen https://www.bodelshausen.de/site/Bodelshausen-Internet-BFO/get/documents_E-945446277/bodelshausen/Objekte_Bodelshausen/%C3%96ffentliche%20Bekanntmachungen/Bebauungsplan%20Solarpark/Bekanntmachungstext_B-Plan_Solarpark-Bodelshausen%20%28002%29.pdf (4 Seiten; Treffer: bebauungsplan, entwässerung, gemeinderat, netz, sondergebiet, strom, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/bodelshausen-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Bodelshausen https://www.bodelshausen.de/site/Bodelshausen-Internet-BFO/get/documents_E-636830407/bodelshausen/Objekte_Bodelshausen/%C3%96ffentliche%20Bekanntmachungen/Bebauungsplan%20Solarpark/1_260520_Lageplan_BPlan_Solarpark-Bodelshausen_Entwurf.pdf (1 Seiten; Treffer: bebauungsplan, gemeinderat, sondergebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/bodelshausen-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Starzach https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf (2 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/starzach-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Starzach https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf (2 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/starzach-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Nehren https://www.nehren.de/fileadmin/Dateien/Cross7/Root/de/Burger/Leben_%26_Wohnen/Bebauungsplane/Ubersichtsplan_Bebauungsplane_Nehren.pdf (1 Seiten; Treffer: gewerbe, gewerbegebiet, industrie; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/nehren-05.pdf).
+- PDF lokal geprueft/uebersprungen: Nehren https://www.nehren.de/fileadmin/Dateien/Cross7/Root/de/Burger/Leben_%26_Wohnen/Bebauungsplane/1_Schriftlicher_Teil_BBP_BBP_1._Anderung_Neufassung_Auchtert-%2CSchul-%2C_Luppach-%2C_Kappelstrasse-1693317388.pdf (too large for daily text extraction, 9724690 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Albstadt https://www.albstadt.de/uploads_new/Oeffentl_Bekanntmachungen/2026-06-06-abwasser-verband-zweckverband-oberes-eyachtal-veroeffentlichung-wirtschaftsplan-2026_sig.pdf (2 Seiten; Treffer: server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/albstadt-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Albstadt https://www.albstadt.de/uploads_new/Oeffentl_Bekanntmachungen/2026-02-28-amt-61-bebauungsplan-umfeld-riedschule-albstadt-onstmettingen-aufstellungsbeschluss-gem.-2-abs.-1-baugb_sig.pdf (2 Seiten; Treffer: bebauungsplan, gemeinderat, gewerbe, industrie; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-28/albstadt-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 19 Gemeinden von offen auf geprüft/kein RZ-Fund gesetzt; Jungingen bleibt offen; found unverändert.
+- database.json: 2 neue Findings (Kommunalblock Tübingen/Zollernalb; News-/Fachquellenmonitoring); keine neue Site oder Company.
+
+Linkpruefung
+- check-links.py: 1.080 eindeutige URLs geprüft; 1.033 ok, 25 blockiert/technisch eingeschränkt, 22 HTTP-502-Antworten. Die 502 betreffen historische Kommunalquellen; Jungingen bleibt wegen der eigenen Abrufblockade heute ausdrücklich offen.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.099 bekannte Quellen; 1.057 gespeichert/übersprungen, 24 bekannte Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs öffentlich verfügbar, 24 lokal vorhanden; sieben heutige PDFs aus Bodelshausen, Starzach, Nehren und Albstadt ausgelesen, ein Nehren-PDF wegen >7,5 MB im Tagesextract übersprungen.
+- Links: 1.080 geprüft, 1.033 ok, 25 blockiert, 22 HTTP-502-Antworten; keine historische Quelle stillschweigend gelöscht.
+- Daten: database.json 119 Findings, 22 Sites, 21 Companies, 7 GridChecks, 7 ConnectivityChecks, 6 CapacityMarkets und 41 PDF-Extracts; researchQuestions 0; manualUploads 0.
+- Coverage: found 17, checkedNoRZ 827, offen 173; heute 19 abgeschlossen, Jungingen offen.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschließlich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
