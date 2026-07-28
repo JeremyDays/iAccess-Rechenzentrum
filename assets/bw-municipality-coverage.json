@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-07-28",
-  "source": "Automatisierte Webrecherche; 2026-07-28 pruefte 19 offene Gemeinden im Tuebingen-/Zollernalb-Block ohne belastbaren direkten RZ-Fund; Jungingen bleibt nach HTTP-502-Blockade offen.",
+  "source": "Automatisierte Webrecherche; 2026-07-28 pruefte 19 Gemeinden im Tuebingen-/Zollernalb-Block ohne belastbaren direkten RZ-Fund; Jungingen bleibt wegen HTTP 502 technisch offen.",
   "total": 1101,
   "found": 17,
   "notSystematicallyChecked": 173,
