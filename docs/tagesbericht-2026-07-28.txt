@@ -84,7 +84,7 @@ Veraenderte Statistiken
 - database.json: 2 neue Findings (Kommunalblock Tübingen/Zollernalb; News-/Fachquellenmonitoring); keine neue Site oder Company.
 
 Linkpruefung
-- check-links.py: 1.080 eindeutige URLs geprüft; 1.033 ok, 25 blockiert/technisch eingeschränkt, 22 HTTP-502-Antworten. Die 502 betreffen historische Kommunalquellen; Jungingen bleibt wegen der eigenen Abrufblockade heute ausdrücklich offen.
+- check-links.py (final): 1.080 eindeutige URLs geprüft; 1.033 ok, 47 blockiert/technisch eingeschränkt, 0 echte Broken Links. HTTP-5xx- und DNS-/TLS-Antworten werden als temporäre Blockaden statt als tote Links klassifiziert; Jungingen bleibt wegen der eigenen Abrufblockade ausdrücklich offen.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
@@ -95,8 +95,9 @@ Website
 Validierungsblock
 - Archiv: 1.099 bekannte Quellen; 1.057 gespeichert/übersprungen, 24 bekannte Abrufblocker.
 - PDFs: 41/41 kuratierte PDFs öffentlich verfügbar, 24 lokal vorhanden; sieben heutige PDFs aus Bodelshausen, Starzach, Nehren und Albstadt ausgelesen, ein Nehren-PDF wegen >7,5 MB im Tagesextract übersprungen.
-- Links: 1.080 geprüft, 1.033 ok, 25 blockiert, 22 HTTP-502-Antworten; keine historische Quelle stillschweigend gelöscht.
+- Links: 1.080 geprüft, 1.033 ok, 47 blockiert/technisch eingeschränkt, 0 echte Broken Links; keine historische Quelle stillschweigend gelöscht.
 - Daten: database.json 119 Findings, 22 Sites, 21 Companies, 7 GridChecks, 7 ConnectivityChecks, 6 CapacityMarkets und 41 PDF-Extracts; researchQuestions 0; manualUploads 0.
-- Coverage: found 17, checkedNoRZ 827, offen 173; heute 19 abgeschlossen, Jungingen offen.
+- Coverage: total 1.101, found 17, checkedNoRZ 911, offen 173; heute 19 abgeschlossen, Jungingen offen.
 - Website-Daten: index.html aus database.json synchronisiert.
+- Codechecks: Tagescrawler, Archiv-, PDF-, Link-, Fragen- und Sync-Skripte sowie publish-github.mjs syntaktisch erfolgreich geprüft; Fragenreport korrekt übersprungen (0 Fragen, 0 Uploads).
 - Zustellung: ausschließlich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
