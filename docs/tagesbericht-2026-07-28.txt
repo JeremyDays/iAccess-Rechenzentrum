@@ -91,6 +91,7 @@ Zustellung
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
+- GitHub-Inhaltspublish erfolgreich; heutiger Bericht und finaler Linkcheck aktualisiert. Bestehende Pages-Site live mit HTTP 200 geprüft. Das erneute Setzen der Pages-Konfiguration wurde mangels Pages-Adminberechtigung mit 403 übersprungen, blockiert den bestehenden Live-Publish aber nicht.
 
 Validierungsblock
 - Archiv: 1.099 bekannte Quellen; 1.057 gespeichert/übersprungen, 24 bekannte Abrufblocker.
