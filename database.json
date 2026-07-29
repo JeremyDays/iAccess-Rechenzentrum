@@ -4513,6 +4513,54 @@
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     },
     {
+      "id": "id-2026-07-29-albdonau-2-screening",
+      "date": "2026-07-29",
+      "publishedDate": "2026-07-29",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.illerrieden.de/start; https://www.beimerstetten.de/startseite; https://www.beimerstetten.de/fileadmin/Dateien/Dateien/Bauen/Breitbandausbau/Einladung_Mitteilungsblatt_KW_04.pdf; https://www.beimerstetten.de/fileadmin/Dateien/Dateien/Bauen/Breitbandausbau/Pr%C3%A4sentation_Infoveranstaltung_Breitbandausbau_27.01.2025.pdf; https://www.dornstadt.de/startseite; https://www.westerstetten.de/startseite; https://www.westerstetten.de/fileadmin/Dateien/Website/Dateien/Glasfaserausbau/tarife.pdf; https://www.westerstetten.de/fileadmin/Dateien/Website/Dateien/Glasfaserausbau/glasfaserausbau_westerstetten_kosten___kontaktinformationen_1.pdf; https://www.westerstetten.de/fileadmin/Dateien/Website/Dateien/Glasfaserausbau/flyer_hausanschluss.pdf; https://www.ehingen.de/; https://www.griesingen.de/; https://www.oberdischingen.de/; https://www.oberdischingen.de/fileadmin/Dateien/Dateien/Umweltecke/2022_11_Flyer_Blackout_Druckdatei.pdf; https://www.oberdischingen.de/fileadmin/Dateien/Dateien/Stromstoerung_Anleitung_So_melden_Sie_sich_an.pdf; https://www.oepfingen.de/startseite; https://www.huettisheim.de/de/startseite; https://www.illerkirchberg.de/; https://www.schnuerpflingen.de/; https://www.staig.de/; https://www.heroldstatt.de/startseite; https://www.laichingen.de/; https://www.merklingen.de/; https://www.nellingen.de/; https://www.westerheim.de/startseite; https://www.altheim-alb.de/; https://www.altheim-alb.de/fileadmin/user_upload/Downloads/Gemeinde_DokumenteFormulare/Bebauungsplaene/3_B201101_GEN.pdf; https://www.altheim-alb.de/fileadmin/user_upload/Downloads/Gemeinde_DokumenteFormulare/Bebauungsplaene/2_T201101_Gen.pdf; https://www.altheim-alb.de/fileadmin/user_upload/Downloads/Gemeinde_DokumenteFormulare/Bebauungsplaene/1_P201101_GEN.pdf; https://www.altheim-alb.de/fileadmin/user_upload/Downloads/Gemeinde_DokumenteFormulare/Bebauungsplaene/Buerzel_Flaechen.pdf; https://www.asselfingen.de/; https://www.bernstadt-wuertt.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
+      "summary": "Geprueft wurden Illerrieden, Beimerstetten, Dornstadt, Westerstetten, Ehingen (Donau), Griesingen, Oberdischingen, Öpfingen, Hüttisheim, Illerkirchberg, Schnürpflingen, Staig, Heroldstatt, Laichingen, Merklingen, Nellingen, Westerheim, Altheim (Alb), Asselfingen, Bernstadt ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Dornstadt, Ehingen (Donau), Illerkirchberg, Laichingen, Merklingen. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis ab Breitingen fortsetzen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Württemberg",
+        "Alb-Donau",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-29-albdonau-2-news-monitoring",
+      "date": "2026-07-29",
+      "publishedDate": "2026-07-29",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "DataCenter-Insider; DatacenterDynamics; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "News-Screening II: keine neue konkrete RZ-Fläche im Freiburger Prioritätsraum",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
       "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
       "date": "2026-07-23",
       "publishedDate": "2026-07-23",
@@ -4868,7 +4916,7 @@
     "formspreeEndpoint": "",
     "autoDaily": true,
     "lastRun": "2026-07-29",
-    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Zollernalb-/Alb-Donau-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
+    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Alb-Donau-Block II geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4896,7 +4944,7 @@
   },
   "metadata": {
     "lastResearchRun": "2026-07-29",
-    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Zollernalb-/Alb-Donau-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
+    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Alb-Donau-Block II geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
