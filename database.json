@@ -4464,6 +4464,55 @@
       "archiveNote": "2026-07-28 erweitert: zusaetzliche Fach-, Betreiber- und Regionalquellen fuer lokale Archivierung aufgenommen; keine Bilder oder technischen Zeichnungen uebernommen."
     },
     {
+      "id": "id-2026-07-29-zollernalb-albdonau-screening",
+      "date": "2026-07-29",
+      "publishedDate": "2026-07-29",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.gemeinde-jungingen.de/startseite; https://www.obernheim.de/startseite; https://www.gemeinde-dautmergen.de/; https://www.dormettingen.de/; https://www.dotternhausen.de/; https://hausen-am-tann.de/; https://www.ratshausen.de/; https://www.stadt-schoemberg.de/startseite/; https://www.weilen-udr.de/; https://www.zimmern-udb.de/; https://www.strassberg.de/; https://www.winterlingen.de/startseite; https://www.haigerloch.de/willkommen; https://www.rosenfeld.de/rosenfeld/startseite.html; https://allmendingen.de/; https://altheim-info.de/; https://www.berghuelen.de/; https://www.blaubeuren.de/willkommen; https://www.balzheim.de/startseite; https://www.dietenheim.de/startseite; https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E-1230927448/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Nesselbosch%20II/003-1705-2026-02-23-BPlan%20Nesselbosch%20II-1%20gesiegelt.pdf; https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E298537982/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Nesselbosch%20II/1705%202026-02-23%20BP-ST%2B%C3%96B-3_gesiegelt.pdf; https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E539124821/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Nesselbosch%20II/1705-2026-02-23-BP%20Begr%C3%BC-5_gesiegelt.pdf; https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E-1656353914/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Nesselbosch%20II/Stellungnahmer%20und%20Behandlung%20der%20Stellungnahme%20gesiegelt.pdf; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E1107568317/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Gie%C3%9Fen%20S%C3%BCd-West/1881-2026-02-23-002%20BPlan%20Gie%C3%9Fen%20SW-1%C3%84nd%20gesiegelt.pdf",
+      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "summary": "Geprueft wurden Jungingen, Obernheim, Dautmergen, Dormettingen, Dotternhausen, Hausen am Tann, Ratshausen, Schömberg, Weilen unter den Rinnen, Zimmern unter der Burg, Straßberg, Winterlingen, Haigerloch, Rosenfeld, Allmendingen, Altheim, Berghülen, Blaubeuren, Balzheim, Dietenheim ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Allmendingen, Blaubeuren, Dietenheim, Haigerloch, Rosenfeld, Schömberg, Winterlingen. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis fortsetzen. Größere Gewerbestandorte nur bei konkretem Flächen-, Netz- oder Carrier-Signal vertiefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Württemberg",
+        "Zollernalb",
+        "Alb-Donau",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-07-29-news-monitoring",
+      "date": "2026-07-29",
+      "publishedDate": "2026-07-29",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "DataCenter-Insider; DatacenterDynamics; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/",
+      "title": "News-Screening: keine neue konkrete RZ-Fläche im Freiburger Prioritätsraum",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
       "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
       "date": "2026-07-23",
       "publishedDate": "2026-07-23",
@@ -4818,8 +4867,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-28",
-    "lastResearchSummary": "2026-07-28: 19 Gemeinden im Tuebingen-/Zollernalb-Block systematisch geprueft; Jungingen wegen HTTP 502 offen; keine neuen direkten RZ-Flaechenfunde; News-Sichtung um Heise/iX, Golem, SWR und Betreiberquellen erweitert.",
+    "lastRun": "2026-07-29",
+    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Zollernalb-/Alb-Donau-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4846,8 +4895,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-28",
-    "lastResearchSummary": "2026-07-28: 19 Gemeinden im Tuebingen-/Zollernalb-Block systematisch geprueft; Jungingen wegen HTTP 502 offen; keine neuen direkten RZ-Flaechenfunde; News-Sichtung um Heise/iX, Golem, SWR und Betreiberquellen erweitert.",
+    "lastResearchRun": "2026-07-29",
+    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Zollernalb-/Alb-Donau-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
