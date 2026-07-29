@@ -1,0 +1,98 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-07-29
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Jungingen (Tübingen): https://www.gemeinde-jungingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, ratsinfo, server, verkehr)
+  - Obernheim (Tübingen): https://www.obernheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, industrie, löschwasser, netz, server)
+  - Dautmergen (Tübingen): https://www.gemeinde-dautmergen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, glasfaser, netz, verkehr)
+  - Dormettingen (Tübingen): https://www.dormettingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet)
+  - Dotternhausen (Tübingen): https://www.dotternhausen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, fernwärme, gemeinderat, gewerbe, gewerbegebiet, glasfaser, kommunale wärmeplanung, netz, verkehr, waerme, wärme)
+  - Hausen am Tann (Tübingen): https://hausen-am-tann.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, server)
+  - Ratshausen (Tübingen): https://www.ratshausen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, server)
+  - Schömberg (Tübingen): https://www.stadt-schoemberg.de/startseite/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, industrie, verkehr)
+  - Weilen unter den Rinnen (Tübingen): https://www.weilen-udr.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, glasfaser, netz)
+  - Zimmern unter der Burg (Tübingen): https://www.zimmern-udb.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe)
+  - Straßberg (Tübingen): https://www.strassberg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, server, strom, verkehr)
+  - Winterlingen (Tübingen): https://www.winterlingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gewerbe, gewerbegebiet, industrie, netz)
+  - Haigerloch (Tübingen): https://www.haigerloch.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - Rosenfeld (Tübingen): https://www.rosenfeld.de/rosenfeld/startseite.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gewerbe, gewerbegebiet, netz, server, sondergebiet, verkehr)
+  - Allmendingen (Ulm): https://allmendingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server)
+  - Altheim (Ulm): https://altheim-info.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, gewerbegebiet, ratsinfo)
+  - Berghülen (Ulm): https://www.berghuelen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, gemeinderat, gewerbe, verkehr)
+  - Blaubeuren (Ulm): https://www.blaubeuren.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gemeinderat, industrie, kommunale waermeplanung, kommunale wärmeplanung, netz, ratsinfo, waerme, wärme)
+  - Balzheim (Ulm): https://www.balzheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, server, strom, verkehr)
+  - Dietenheim (Ulm): https://www.dietenheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, schall, server, strom; PDF-Hinweise: 12)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.130 bekannte Quellen im Manifest; 1.088 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- Kommunale HTML-/PDF-Quellen und die beiden Dietenheimer B-Plan-Arbeitskopien wurden lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Jungingen, Obernheim, Dautmergen, Dormettingen, Dotternhausen, Hausen am Tann, Ratshausen, Schömberg, Weilen unter den Rinnen, Zimmern unter der Burg, Straßberg, Winterlingen, Haigerloch, Rosenfeld, Allmendingen, Altheim, Berghülen, Blaubeuren, Balzheim, Dietenheim.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 20 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Allmendingen, Blaubeuren, Dietenheim, Haigerloch, Rosenfeld, Schömberg, Winterlingen.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter, strom).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Dietenheim https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E-1230927448/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Nesselbosch%20II/003-1705-2026-02-23-BPlan%20Nesselbosch%20II-1%20gesiegelt.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-29/dietenheim-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Dietenheim https://www.dietenheim.de/site/Dietenheim-2017/get/documents_E1107568317/dietenheim/Mediathek_Dietenheim/Ver%C3%B6ffentlichungen/Gie%C3%9Fen%20S%C3%BCd-West/1881-2026-02-23-002%20BPlan%20Gie%C3%9Fen%20SW-1%C3%84nd%20gesiegelt.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-07-29/dietenheim-02.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found 17, checkedNoRZ 847, offen 153.
+- database.json: 121 Findings; zwei Tagesfindings (Kommunalblock Zollernalb/Alb-Donau und News-/Fachquellenmonitoring); keine neue Site oder Company.
+
+Linkpruefung
+- check-links.py: 1.111 eindeutige URLs geprueft, 1.086 ok, 25 blockiert/transient, 0 echte Broken Links.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.130 bekannte Quellen; 1.088 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; zwei heutige Dietenheim-PDFs lokal gespeichert und ausgelesen.
+- Links: 1.111 geprueft, 1.086 ok, 25 blockiert/transient, 0 broken.
+- Daten: database.json 121 Findings; Coverage found 17, checkedNoRZ 847, offen 153; heute 20 Gemeinden abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprüft: 20; technisch offen und nicht als Negativfund gewertet: keine.
