@@ -1,20 +1,20 @@
 {
-  "checked": 1142,
-  "ok": 1116,
-  "blocked": 26,
+  "checked": 1177,
+  "ok": 1144,
+  "blocked": 33,
   "broken": 0,
   "results": [
     {
       "collection": "companies",
-      "index": 8,
+      "index": 20,
       "field": "contact",
-      "title": "Telemaxx Telekommunikation GmbH",
-      "url": "https://www.telemaxx.de",
+      "title": "LINK2AIR / LEITWERK AG / BADEN CLOUD",
+      "url": "https://www.link2air.de/",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.telemaxx.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.telemaxx.de', port=443) at 0x1d3815e9610>, 'Connection to www.telemaxx.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x24a795792d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -24,6 +24,54 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 65,
+      "field": "sourceUrl",
+      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
+      "url": "https://www.bad-boll.de/",
+      "status": 503,
+      "finalUrl": "https://www.bad-boll.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 119,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.illerkirchberg.de/",
+      "status": 503,
+      "finalUrl": "https://www.illerkirchberg.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 81,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.schwaebisch-gmuend.de/startseite.html",
+      "status": 403,
+      "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 49,
+      "field": "source",
+      "title": "Herrischried zeigt Gewerbegebiet, Bebauungsplaene und Breitbandpfad",
+      "url": "https://www.herrischried.de/",
+      "status": 503,
+      "finalUrl": "https://www.herrischried.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -89,6 +137,30 @@
       "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
     },
     {
+      "collection": "findings",
+      "index": 88,
+      "field": "sourceUrl",
+      "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.gemeinde-mauer.de/",
+      "status": 503,
+      "finalUrl": "https://www.gemeinde-mauer.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "status": 403,
+      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -99,6 +171,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 21,
+      "field": "link",
+      "title": "BADEN CLOUD Rechenzentrum Lahr",
+      "url": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x24a79e5e050>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -522,18 +606,6 @@
     },
     {
       "collection": "companies",
-      "index": 20,
-      "field": "contact",
-      "title": "LINK2AIR / LEITWERK AG / BADEN CLOUD",
-      "url": "https://www.link2air.de/",
-      "status": 200,
-      "finalUrl": "https://www.link2air.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "companies",
       "index": 9,
       "field": "contact",
       "title": "Microsoft Azure",
@@ -600,6 +672,18 @@
       "url": "https://www.socomec.com/",
       "status": 200,
       "finalUrl": "https://www.socomec.com/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "companies",
+      "index": 8,
+      "field": "contact",
+      "title": "Telemaxx Telekommunikation GmbH",
+      "url": "https://www.telemaxx.de",
+      "status": 200,
+      "finalUrl": "https://www.telemaxx.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -1044,18 +1128,6 @@
       "url": "https://www.albershausen.de/de/startseite",
       "status": 200,
       "finalUrl": "https://www.albershausen.de/de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 65,
-      "field": "sourceUrl",
-      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
-      "url": "https://www.bad-boll.de/",
-      "status": 200,
-      "finalUrl": "https://www.bad-boll.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -2685,18 +2757,6 @@
       "index": 119,
       "field": "sourceUrl",
       "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.illerkirchberg.de/",
-      "status": 200,
-      "finalUrl": "https://www.illerkirchberg.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 119,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.illerrieden.de/start",
       "status": 200,
       "finalUrl": "https://www.illerrieden.de/start",
@@ -2868,6 +2928,426 @@
       "url": "https://www.westerstetten.de/startseite",
       "status": 200,
       "finalUrl": "https://www.westerstetten.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://gemeinde-lauterach.de/",
+      "status": 200,
+      "finalUrl": "https://gemeinde-lauterach.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf",
+      "status": 200,
+      "finalUrl": "https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf",
+      "status": 200,
+      "finalUrl": "https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://grundsheim.de/",
+      "status": 200,
+      "finalUrl": "https://grundsheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://nerenstetten.de/",
+      "status": 200,
+      "finalUrl": "https://nerenstetten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://oellingen.de/",
+      "status": 200,
+      "finalUrl": "https://oellingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://rechtenstein.de/",
+      "status": 200,
+      "finalUrl": "https://rechtenstein.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf",
+      "status": 200,
+      "finalUrl": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf",
+      "status": 200,
+      "finalUrl": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf",
+      "status": 200,
+      "finalUrl": "https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://rottenacker.de/",
+      "status": 200,
+      "finalUrl": "https://rottenacker.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://ts.domainname.de/emeringen.de",
+      "status": 200,
+      "finalUrl": "https://ts.domainname.de/emeringen.de",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://untermarchtal.de/",
+      "status": 200,
+      "finalUrl": "https://untermarchtal.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://weidenstetten.de/",
+      "status": 200,
+      "finalUrl": "https://weidenstetten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.amstetten.de/",
+      "status": 200,
+      "finalUrl": "https://www.amstetten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf",
+      "status": 200,
+      "finalUrl": "https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf",
+      "status": 200,
+      "finalUrl": "https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf",
+      "status": 200,
+      "finalUrl": "https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf",
+      "status": 200,
+      "finalUrl": "https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.breitingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.breitingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.emerkingen.de/start",
+      "status": 200,
+      "finalUrl": "https://www.emerkingen.de/start",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.hausen-am-bussen.de/",
+      "status": 200,
+      "finalUrl": "https://www.hausen-am-bussen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.holzkirch.de/",
+      "status": 200,
+      "finalUrl": "https://www.holzkirch.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.langenau.de/willkommen",
+      "status": 200,
+      "finalUrl": "https://www.langenau.de/willkommen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.lonsee.de/",
+      "status": 200,
+      "finalUrl": "https://www.lonsee.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.munderkingen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.munderkingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.neenstetten.de/",
+      "status": 200,
+      "finalUrl": "https://www.neenstetten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.oberstadion.de/de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.oberstadion.de/de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf",
+      "status": 200,
+      "finalUrl": "https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.setzingen.info/",
+      "status": 200,
+      "finalUrl": "https://www.setzingen.info/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf",
+      "status": 200,
+      "finalUrl": "https://www.weidenstetten.de/wp-content/uploads/2019/08/Fl%C3%A4chennutzungsplan.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -3576,18 +4056,6 @@
       "url": "https://www.schechingen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.schechingen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 81,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.schwaebisch-gmuend.de/startseite.html",
-      "status": 200,
-      "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6606,18 +7074,6 @@
     },
     {
       "collection": "findings",
-      "index": 49,
-      "field": "source",
-      "title": "Herrischried zeigt Gewerbegebiet, Bebauungsplaene und Breitbandpfad",
-      "url": "https://www.herrischried.de/",
-      "status": 200,
-      "finalUrl": "https://www.herrischried.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 70,
       "field": "sourceUrl",
       "title": "Hitzewelle legt HPC-Standort zeitweise lahm: Kuehlreserve wird Standortfilter",
@@ -8385,18 +8841,6 @@
       "index": 88,
       "field": "sourceUrl",
       "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.gemeinde-mauer.de/",
-      "status": 200,
-      "finalUrl": "https://www.gemeinde-mauer.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 88,
-      "field": "sourceUrl",
-      "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gemeinde-schoenbrunn.de/",
       "status": 200,
       "finalUrl": "https://www.gemeinde-schoenbrunn.de/",
@@ -9060,18 +9504,6 @@
       "url": "https://www.gaggenau.de/startseite.1.htm",
       "status": 200,
       "finalUrl": "https://www.gaggenau.de/startseite.1.htm",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
-      "status": 200,
-      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10194,7 +10626,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/",
@@ -10206,7 +10638,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251013_Entwurf_BPlan_Wehstetten.pdf",
@@ -10218,7 +10650,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251028_Oberwasserburgerhof_Umweltbericht_Entwurf.pdf",
@@ -10230,7 +10662,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/VG_2026-06-02_%C3%B6ffentliche_Bekanntmachung_Gen._24_25_FNP-%C3%84nd.pdf",
@@ -10242,7 +10674,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/pdf/Gewerberecht/Vorlage_Anzeige_vor%C3%BC_Gastst%C3%A4tte.pdf",
@@ -10254,7 +10686,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Bekanntmachung_Faugelen_Satzungsbeschluss_17.07.2024_01.pdf",
@@ -10266,7 +10698,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Festsetzungen_zum_Bebauungsplan_Faugelen_II.pdf",
@@ -10278,7 +10710,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Satzung_Bebauungsplan_Faugelen_II.pdf",
@@ -10290,7 +10722,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Zeichnerischer_Teil_Bebauungsplan_Faugelen_II.pdf",
@@ -10302,7 +10734,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/home",
@@ -10314,7 +10746,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aach.de/willkommen",
@@ -10326,7 +10758,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.boettingen.de/startseite",
@@ -10338,7 +10770,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.buesingen.de/willkommen",
@@ -10350,7 +10782,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.denkingen.de/willkommen",
@@ -10362,7 +10794,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/7._%C3%84nderungssatzung_Abwasser.pdf",
@@ -10374,7 +10806,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/8._%C3%84nderungssatzung_Abwasser.pdf",
@@ -10386,7 +10818,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/Amtl._Bekanntmachung_9._%C3%84nderungssatzung_Abwasserbeseitigung_2026.pdf",
@@ -10398,7 +10830,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Ortsrecht/Grund-_und_Gewerbesteuer_Hebesatzsatzung_ab_2025.pdf",
@@ -10410,7 +10842,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/startseite",
@@ -10422,7 +10854,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/",
@@ -10434,7 +10866,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/%C3%96ffentl.%20Bekanntmachung%20FNP%202020%20-%206.%20Fortschreibung%20-%20Sonderbaufl%C3%A4che%20Lebensmittelmarkt%20Gem.%20Durchhausen.pdf",
@@ -10446,7 +10878,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/5%20Anlage%202%20Umweltbericht%20UB%20-%20Beschluss%20zur%20Fr%C3%BChzeitige%20Beteiligung%20vom%2023.07.2025%20-%20Stand%20250618.pdf",
@@ -10458,7 +10890,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Begr%C3%BCndung%20und%20Umweltbericht%20zum%20FNP%206.%20Fortschreibung%20Lebensmittelmarkt%20Durchhausen%20vom%2030.01.2026.pdf",
@@ -10470,7 +10902,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Norma/5.%20Umweltbericht.pdf",
@@ -10482,7 +10914,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/de/startseite",
@@ -10494,7 +10926,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9A_FNP_Spaichingen_Vorentwurf_-_Planungsunterlag.pdf",
@@ -10506,7 +10938,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9Aenderung__FNP_Spaichingen-A4-Lageplan_-_Planungsunterlag.pdf",
@@ -10518,7 +10950,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Amtl._Bekanntmachung_fruehzeitige_FNP_2030_-_9.punktuelle_AEnderung.pdf",
@@ -10530,7 +10962,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Anlage_2a_-_Legende__FNP_Spaichingen_-__Planungsunterlag.pdf",
@@ -10542,7 +10974,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_schriftlich_Bei_der_Erlenwies.pdf",
@@ -10554,7 +10986,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_zeichnerisch_Bei_der_Erlenwies.pdf",
@@ -10566,7 +10998,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Ebele_Faulen-zeichnerisch.pdf",
@@ -10578,7 +11010,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Eble_Faulen_schriftlich_28.11.1980.pdf",
@@ -10590,7 +11022,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/startseite",
@@ -10602,7 +11034,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/403_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -10614,7 +11046,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/404_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -10626,7 +11058,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Faltfahrplan_2026.pdf",
@@ -10638,7 +11070,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Tarife_Preise_Zonen_2026.pdf",
@@ -10650,7 +11082,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/startseite",
@@ -10662,7 +11094,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/fileadmin/Dateien/Webseite/Dateien/BBP_Oehmdwiesen_A4.pdf",
@@ -10674,7 +11106,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/startseite",
@@ -10686,7 +11118,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=87",
@@ -10698,7 +11130,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1261&cHash=4129063cf528905c64576f87ab56c9b9",
@@ -10710,7 +11142,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1522&cHash=6360b3e8dc6fd8eeef117b0ba3fdbd5f",
@@ -10722,7 +11154,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1690&cHash=fe192ee212a1ffc2f6a5a7b41406f3fe",
@@ -10734,7 +11166,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1727&cHash=cdcd0ff11387fa5c62e4764e96da2110",
@@ -10746,7 +11178,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.mahlstetten.de/startseite",
@@ -10758,7 +11190,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.neuhausen-ob-eck.de/",
@@ -10770,7 +11202,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/fileadmin/Dateien/Dateien/Gewerbe_Einverst%C3%A4ndniserkl%C3%A4rung_und_Datenblatt.pdf",
@@ -10782,7 +11214,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/startseite",
@@ -10794,7 +11226,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.seitingen-oberflacht.de/startseite",
@@ -10806,7 +11238,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.spaichingen.de/willkommen",
@@ -10818,7 +11250,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.tuttlingen.de/willkommen",
@@ -10830,7 +11262,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/",
@@ -10842,7 +11274,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/erbsenberg/20260408_bplan_erbsenberg.pdf",
@@ -10854,7 +11286,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/obere-hauptstrasse/Obere-Hauptstrasse-64.pdf",
@@ -10866,7 +11298,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/docs/rathaus/bekanntmachungen/20260513_sonderrechnung-2023.pdf",
@@ -10878,7 +11310,7 @@
     },
     {
       "collection": "findings",
-      "index": 121,
+      "index": 123,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de/aktuelles/bekanntmachungen/20260325_Satzungsbeschluss_BP.pdf",
@@ -11747,7 +12179,7 @@
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.metzingen.de/willkommen",
       "status": 200,
-      "finalUrl": "https://www.metzingen.de/willkommen",
+      "finalUrl": "https://www.metzingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13104,18 +13536,6 @@
       "url": "https://www.gesetze-im-internet.de/",
       "status": 200,
       "finalUrl": "https://www.gesetze-im-internet.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 21,
-      "field": "link",
-      "title": "BADEN CLOUD Rechenzentrum Lahr",
-      "url": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
-      "status": 200,
-      "finalUrl": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
       "ok": true,
       "blocked": false,
       "error": ""
