@@ -24,28 +24,36 @@ Neue Quellen
   - Ummendorf (Biberach): https://www.ummendorf.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, strom)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1.226 bekannte Quellen im Manifest; 1.184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
-- 35 neue kommunale HTML-/PDF-Quellen aus beiden heutigen Recherchebloecken lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+- archive-sources.py: 1228 bekannte Quellen im Manifest; 1184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- Neu lokal gesichert: amtliche Allmannsweiler- und Kanzach-Seiten plus heutige kommunale HTML-/PDF-Arbeitsquellen; keine Secrets oder Zugangsdaten verschoben.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
 
 Gepruefte Gemeinden
-- Belastbar geprüft: Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Dürnau, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riß, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf.
-- Technisch offen: Kanzach (Domain-Parking statt amtlicher Website).
+- Belastbar geprueft im zweiten Block: Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Duernau, Kanzach, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riss, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf.
+- Technisch offen im zweiten Block: keine. Setzingen bleibt aus dem ersten heutigen Alb-Donau-Block technisch offen.
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- 19 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Kanzach. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Schussenried, Biberach an der Riß, Blaustein, Eberhardzell, Schelklingen, Ummendorf.
+- 20 belastbar gepruefte Gemeinden ohne direkten RZ-Nachweis im zweiten Block; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Schussenried, Biberach an der Riss, Blaustein, Eberhardzell, Schelklingen, Ummendorf.
 
 Nachrichten-/Betreiber-Sichtung
 - Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
 - Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
 - DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Quelle aufgenommen; Linkcheck ok/blockerklassifiziert, kein neuer Standortfund).
 - DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
-- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Quelle aufgenommen; Hyperscale-/Netzbenchmark).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwaerme, cloud, data center, datacenter, fernwaerme, industrie, netz, rechenzentrum, server, strom, waerme).
+- LINK2AIR Baden Cloud Lahr Baustellentermine: https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Betreiber-/Praxisanker Lahr, bereits lokal archiviert).
+- Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Quelle aufgenommen; Markt-/Technikfilter).
+- iX 06/2026 Inhalt Cloud-Souveraenitaet: https://www.heise.de/select/ix/2026/6 (Quelle aufgenommen; Souveraenitaets-/Cloudfilter).
+- Golem Hitzewelle RZ-Kuehlung: https://www.golem.de/news/hitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html (Quelle aufgenommen; Kuehlungs-/Hitzerisikofilter).
+- Tagesschau SWR Philippsburg: https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-philippsburg-plant-neues-rechenzentrum-100.html (Quelle aufgenommen; regionaler Hyperscale-Kontext).
+- TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Netzbetreiberkontext fuer Suedbaden/Eichstetten-Korridor).
 - Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
 
 Prioritaetsraum Freiburg/Denzlingen/Emmendingen
@@ -76,11 +84,11 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 906, offen 94; insgesamt 39 Gemeinden heute belastbar abgeschlossen; Kanzach offen.
-- database.json: 127 Findings; vier heutige Findings aus zwei Kommunalbloecken und zwei News-/Fachquellenmonitorings; keine neue Site oder Company.
+- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 907, offen 93; insgesamt 39 Gemeinden heute belastbar abgeschlossen; Setzingen bleibt technisch offen.
+- database.json: 127 Findings; vier heutige Findings aus zwei Kommunalbloecken und zwei News-/Fachquellenmonitorings; Allmannsweiler/Kanzach-Quellen korrigiert und 8 zusaetzliche News-/Betreiber-/Netzquellen aufgenommen; keine neue Site oder Company.
 
 Linkpruefung
-- check-links.py: 1.207 eindeutige URLs geprueft, 1.174 ok, 33 blockiert/transient, 0 echte Broken Links.
+- check-links.py: 1207 eindeutige URLs geprueft, 1174 ok, 33 blockiert/transient, 0 echte Broken Links.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
@@ -89,13 +97,13 @@ Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1.226 bekannte Quellen; 1.184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- Archiv: 1228 bekannte Quellen; 1184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
 - PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; elf heutige Arbeits-PDFs aus beiden Bloecken lokal gespeichert und ausgelesen.
-- Links: 1.207 geprueft, 1.174 ok, 33 blockiert/transient, 0 broken.
-- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 906, offen 94; heute 39 Gemeinden belastbar abgeschlossen, Kanzach offen.
+- Links: 1207 geprueft, 1174 ok, 33 blockiert/transient, 0 broken.
+- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 907, offen 93; heute 39 Gemeinden belastbar abgeschlossen, Setzingen offen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
 - Website-Daten: index.html aus database.json synchronisiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Zustellung: Gmail-Versand wird separat versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
 
 Technischer Abschluss
-- Belastbar geprüft: 19; technisch offen und nicht als Negativfund gewertet: Kanzach.
+- Zweiter Block: 20 belastbar geprueft, technisch offen keine. Gesamter heutiger Stand: 39 belastbar geprueft; Setzingen aus dem ersten Block bleibt technisch offen und nicht als Negativfund gewertet.
