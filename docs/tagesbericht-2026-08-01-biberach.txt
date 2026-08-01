@@ -91,7 +91,7 @@ Linkpruefung
 - check-links.py: 1207 eindeutige URLs geprueft, 1174 ok, 33 blockiert/transient, 0 echte Broken Links.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Gmail-Versand versucht, aber blockiert: Gmail API RefreshError invalid_grant; SMTP-Fallback ohne GMAIL_SMTP_USER. Bericht ist ueber GitHub Pages veroeffentlicht und wird ueber Hermes/Codex gemeldet.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -103,7 +103,7 @@ Validierungsblock
 - Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 907, offen 93; heute 39 Gemeinden belastbar abgeschlossen, Setzingen offen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
 - Website-Daten: index.html aus database.json synchronisiert.
-- Zustellung: Gmail-Versand wird separat versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+- Zustellung: Gmail-Versand blockiert (OAuth invalid_grant; SMTP-Credentials fehlen); kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
 
 Technischer Abschluss
 - Zweiter Block: 20 belastbar geprueft, technisch offen keine. Gesamter heutiger Stand: 39 belastbar geprueft; Setzingen aus dem ersten Block bleibt technisch offen und nicht als Negativfund gewertet.
