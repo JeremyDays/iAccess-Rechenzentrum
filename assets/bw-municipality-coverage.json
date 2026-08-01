@@ -1,9 +1,9 @@
 {
   "generatedAt": "2026-08-01",
-  "source": "Automatisierte Webrecherche; 2026-08-01 Alb-Donau/Biberach-Block: 19 belastbar geprüft, Kanzach wegen Domain-Parking technisch offen.",
+  "source": "Automatisierte Webrecherche; 2026-08-01 Alb-Donau/Biberach-Block; Allmannsweiler/Kanzach-Domains nachvalidiert; technisch offene Gemeinden nicht als Negativfund gewertet.",
   "total": 1101,
   "found": 17,
-  "notSystematicallyChecked": 94,
+  "notSystematicallyChecked": 93,
   "items": [
     {
       "name": "Stuttgart",
@@ -11316,12 +11316,12 @@
       "name": "Kanzach",
       "district": "Biberach",
       "code": "064",
-      "status": "noch nicht systematisch geprüft",
+      "status": "2026-08-01 geprueft - Gemeindeseite/Kommunalpfade, kein RZ-Fund",
       "priority": "normal",
-      "evidence": "",
-      "source": "",
-      "notes": "2026-08-01 technisch versucht; kanzach.de leitete auf einen Domain-Marktplatz statt auf eine amtliche Gemeindeseite. Kein Negativfund.",
-      "nextAction": "Amtliche Gemeinde-, Verwaltungsverbands- oder Bauleitplanungsquelle ermitteln und erneut systematisch prüfen.",
+      "evidence": "Offizielle kommunale Quelle plus Rathaus-, Gemeinderats-, Bekanntmachungs-, Mitteilungsblatt- und Servicepfade geprueft; kein belastbarer direkter Standorttreffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "source": "https://www.gemeinde-kanzach.de/startseite",
+      "notes": "Geprueft: https://www.gemeinde-kanzach.de/startseite; offizielle Gemeindeseite mit Aktuelles, Gemeinderat, Mitteilungsblatt, oeffentlichen Bekanntmachungen, Satzungen und Verwaltung. Suchraster: Rechenzentrum/Datacenter/Serverfarm, Server, Sondergebiet, GE/GI, Bauleitplanung/FNP, RIS/Rat, Amtsblatt, Glasfaser/Breitband, Waerme/Abwaerme, Strom/Netz/Umspannwerk, Schall, Verkehr, Entwaesserung, Brandschutz.",
+      "nextAction": "Nur bei konkretem Flaechenanlass vertiefen; Prioritaetsraum Freiburg/Denzlingen/Emmendingen und klare Netz-/GE-GI-Signale vorziehen.",
       "lastCheckedAt": "2026-08-01"
     },
     {
@@ -12724,7 +12724,7 @@
     }
   ],
   "lastCheckedAt": "2026-08-01",
-  "checkedNoRZ": 906,
+  "checkedNoRZ": 907,
   "todayChecked": [
     "Unterstadion",
     "Blaustein",
@@ -12732,14 +12732,15 @@
     "Alleshausen",
     "Allmannsweiler",
     "Betzenweiler",
-    "Dürnau",
+    "Duernau",
+    "Kanzach",
     "Moosburg",
     "Seekirch",
     "Tiefenbach",
     "Bad Schussenried",
     "Ingoldingen",
     "Attenweiler",
-    "Biberach an der Riß",
+    "Biberach an der Riss",
     "Eberhardzell",
     "Hochdorf",
     "Maselheim",
