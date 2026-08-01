@@ -4561,6 +4561,103 @@
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
     },
     {
+      "id": "id-2026-08-01-albdonau-screening",
+      "date": "2026-08-01",
+      "publishedDate": "2026-08-01",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://www.breitingen.de/; https://www.holzkirch.de/; https://www.langenau.de/willkommen; https://www.neenstetten.de/; https://nerenstetten.de/; https://oellingen.de/; https://www.setzingen.info/; https://weidenstetten.de/; https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf; https://www.amstetten.de/; https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf; https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf; https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf; https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf; https://www.lonsee.de/; https://ts.domainname.de/emeringen.de; https://www.emerkingen.de/start; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf; https://grundsheim.de/; https://www.hausen-am-bussen.de/; https://gemeinde-lauterach.de/; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf; https://www.munderkingen.de/startseite; https://www.oberstadion.de/de/startseite; https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf; https://rechtenstein.de/; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf; https://rottenacker.de/; https://untermarchtal.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "summary": "Geprueft wurden Breitingen, Holzkirch, Langenau, Neenstetten, Nerenstetten, Öllingen, Setzingen, Weidenstetten, Amstetten, Lonsee, Emeringen, Emerkingen, Grundsheim, Hausen am Bussen, Lauterach, Munderkingen, Oberstadion, Rechtenstein, Rottenacker, Untermarchtal ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Amstetten, Langenau, Lonsee, Munderkingen, Rottenacker. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis ab Unterstadion fortsetzen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Württemberg",
+        "Alb-Donau",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-08-01-news-monitoring",
+      "date": "2026-08-01",
+      "publishedDate": "2026-08-01",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "DataCenter-Insider; DatacenterDynamics; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "News-Screening: keine neue konkrete RZ-Fläche im Freiburger Prioritätsraum",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
+      "id": "id-2026-08-01-albdonau-biberach-screening",
+      "date": "2026-08-01",
+      "publishedDate": "2026-08-01",
+      "topic": "Kommunalrecherche Baden-Wuerttemberg",
+      "publisher": "Kommunale Primaerquellen BW",
+      "sourceUrl": "https://unterstadion.de/; https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf; https://www.blaustein.de/; https://www.schelklingen.de/startseite; https://www.alleshausen.de/startseite; https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/06_Schmitteaecker_3_Textteil.pdf; https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/06_Schmitteaecker_3_B-Plan.pdf; https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/Bebauungsplan-OErtliche_Bauvorschriften__25_09_13.pdf; https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/2627Beb-Schmitteaecker4-Stand_29-10-2013.pdf; https://www.allmannsweiler.de/; https://www.betzenweiler.de/startseite; https://www.duernau-bc.de/index.php?id=4; https://www.domainmarkt.de/www.kanzach.de; https://www.moosburg-bc.de/; https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-ffentliche_Bekanntmachung.pdf; https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Begrndung.pdf; https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-FFH_-_Vorprfung_compressed_1.pdf; https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Planzeichnung.pdf; https://www.seekirch.de/; https://www.tiefenbach-federsee.de/de/startseite; https://www.bad-schussenried.de/de/startseite; https://www.ingoldingen.de/startseite; https://www.attenweiler.de/de/startseite; https://www.biberach-riss.de/; https://www.eberhardzell.de/startseite; https://www.gemeinde-hochdorf.de/startseite; https://www.gemeinde-hochdorf.de/fileadmin/Dateien/Website/Dateien/Rathaus_Service/Formulare/Anzeige_nach__2_Abs._2_LGastG.pdf; https://www.maselheim.de/de/startseite; https://www.mittelbiberach.de/; https://www.ummendorf.de/de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "Alb-Donau/Biberach-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "summary": "Geprueft wurden Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Dürnau, Kanzach, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riß, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+      "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Bad Schussenried, Biberach an der Riß, Blaustein, Eberhardzell, Schelklingen, Ummendorf. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Landkreis Biberach ab Berkheim fortsetzen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Kommunalrecherche",
+        "Baden-Württemberg",
+        "Alb-Donau",
+        "Biberach",
+        "Gewerbe",
+        "Glasfaser",
+        "kein RZ-Fund"
+      ],
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+    },
+    {
+      "id": "id-2026-08-01-news-monitoring-b",
+      "date": "2026-08-01",
+      "publishedDate": "2026-08-01",
+      "topic": "Nachrichten- und Fachquellenmonitoring Rechenzentren",
+      "publisher": "DataCenter-Insider; DatacenterDynamics; Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "title": "News-Screening: keine neue konkrete RZ-Fläche im Freiburger Prioritätsraum",
+      "summary": "Breite Sichtung bestaetigt zwei gegensaetzliche Muster in Baden-Wuerttemberg und Deutschland: Philippsburg steht fuer sehr grosse Hyperscale-Projekte mit hunderten Megawatt Hochspannungsbedarf, waehrend Lahr/Appenweier/Baden Cloud das fuer iAccess naehere Modell kleiner regionaler Colocation- und Edge-Standorte mit 1-MW-Klasse, Dark Fiber, Oekostrom, PV und Abwaermebezug liefert. Golem/heise/iX schaerfen zugleich EU-/EnEfG-, PUE/WUE-, Strom- und Hitzewellenfilter.",
+      "relevance": "Fuer kleine modulare Edge-/Micro-Data-Center in Suedbaden bleiben wasserarme Kuehlung, niedrige Leistungsklassen, belastbare Netzzusage, Carrier-Redundanz, Schall/Brandschutz und kommunaler Nutzen wichtiger als maximale Flaechengroesse.",
+      "action": "Standortbewertung weiter gegen kleine Leistungsfenster, transparente Netzanschlusskosten, freie GE/GI- oder Bestandsflaechen, Abwaermeabnehmer und wasserarme Kuehlkonzepte ausrichten.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Rechenzentrum",
+        "Baden-Wuerttemberg",
+        "Philippsburg",
+        "Lahr",
+        "Edge",
+        "Regulierung",
+        "Netzanschluss",
+        "Kuehlung",
+        "Abwaerme"
+      ],
+      "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
       "id": "id-2026-07-23-tuttlingen-konstanz-20-screening",
       "date": "2026-07-23",
       "publishedDate": "2026-07-23",
@@ -4915,8 +5012,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-07-29",
-    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Alb-Donau-Block II geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
+    "lastRun": "2026-08-01",
+    "lastResearchSummary": "2026-08-01: 20 Gemeinden im Alb-Donau/Biberach-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -4943,8 +5040,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-07-29",
-    "lastResearchSummary": "2026-07-29: 20 Gemeinden im Alb-Donau-Block II geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
+    "lastResearchRun": "2026-08-01",
+    "lastResearchSummary": "2026-08-01: 20 Gemeinden im Alb-Donau/Biberach-Block geprüft; 0 technisch offen; keine neuen direkten RZ-Flächenfunde; Prioritätsraum revalidiert.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
