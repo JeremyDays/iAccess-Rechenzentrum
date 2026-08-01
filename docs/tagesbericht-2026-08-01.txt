@@ -1,0 +1,103 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-01
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Breitingen (Ulm): https://www.breitingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, netz, server, strom, verkehr)
+  - Holzkirch (Ulm): https://www.holzkirch.de/ (2 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe)
+  - Langenau (Ulm): https://www.langenau.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, strom, waerme, wärme)
+  - Neenstetten (Ulm): https://www.neenstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, ratsinfo, strom)
+  - Nerenstetten (Ulm): https://nerenstetten.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, verkehr)
+  - Öllingen (Ulm): https://oellingen.de/ (2 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, netz, ratsinfo)
+  - Setzingen (Ulm): https://www.setzingen.info/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, netz, server)
+  - Weidenstetten (Ulm): https://weidenstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz; PDF-Hinweise: 1)
+  - Amstetten (Ulm): https://www.amstetten.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flaechennutzungsplan, gemeinderat, gewerbe, ratsinfo, sondergebiet, verkehr; PDF-Hinweise: 12)
+  - Lonsee (Ulm): https://www.lonsee.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, fernwärme, gemeinderat, gewerbe, kommunale wärmeplanung, ratsinfo, server, strom, wärme)
+  - Emeringen (Ulm): https://ts.domainname.de/emeringen.de (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Emerkingen (Ulm): https://www.emerkingen.de/start (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, ratsinfo; PDF-Hinweise: 12)
+  - Grundsheim (Ulm): https://grundsheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gewerbe, netz, strom)
+  - Hausen am Bussen (Ulm): https://www.hausen-am-bussen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, verkehr)
+  - Lauterach (Ulm): https://gemeinde-lauterach.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe; PDF-Hinweise: 2)
+  - Munderkingen (Ulm): https://www.munderkingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, server, verkehr)
+  - Oberstadion (Ulm): https://www.oberstadion.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, ratsinfo; PDF-Hinweise: 1)
+  - Rechtenstein (Ulm): https://rechtenstein.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gewerbe, netz; PDF-Hinweise: 3)
+  - Rottenacker (Ulm): https://rottenacker.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Untermarchtal (Ulm): https://untermarchtal.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.196 bekannte Quellen im Manifest; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- 35 neue kommunale HTML-/PDF-Quellen aus beiden heutigen Recherchebloecken lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Breitingen, Holzkirch, Langenau, Neenstetten, Nerenstetten, Öllingen, Setzingen, Weidenstetten, Amstetten, Lonsee, Emeringen, Emerkingen, Grundsheim, Hausen am Bussen, Lauterach, Munderkingen, Oberstadion, Rechtenstein, Rottenacker, Untermarchtal.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 20 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Amstetten, Langenau, Lonsee, Munderkingen, Rottenacker.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Weidenstetten https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/weidenstetten-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Amstetten https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf (2 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, schall; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/amstetten-02.pdf).
+- PDF lokal geprueft/uebersprungen: Amstetten https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf (too large for daily text extraction, 13468333 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Emerkingen https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf (16 Seiten; Treffer: bauleit, entwässerung, gemeinderat, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/emerkingen-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Emerkingen https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf (2 Seiten; Treffer: bebauungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/emerkingen-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Lauterach https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf (4 Seiten; Treffer: gewerbe, netz; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/lauterach-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Lauterach https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf (4 Seiten; Treffer: gewerbe, industrie, netz; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/lauterach-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Oberstadion https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf (2 Seiten; Treffer: fernwärme, strom, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/oberstadion-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 907, offen 93; insgesamt 40 Gemeinden heute abgeschlossen.
+- database.json: 127 Findings; vier heutige Findings aus zwei Kommunalbloecken und zwei News-/Fachquellenmonitorings; keine neue Site oder Company.
+
+Linkpruefung
+- check-links.py: 1.177 eindeutige URLs geprueft, 1.144 ok, 33 blockiert/transient, 0 echte Broken Links.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.196 bekannte Quellen; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; elf heutige Arbeits-PDFs aus beiden Bloecken lokal gespeichert und ausgelesen.
+- Links: 1.177 geprueft, 1.144 ok, 33 blockiert/transient, 0 broken.
+- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 907, offen 93; heute 40 Gemeinden abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprüft: 20; technisch offen und nicht als Negativfund gewertet: keine.
