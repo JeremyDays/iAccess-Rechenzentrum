@@ -1,0 +1,100 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-01
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Unterstadion (Ulm): https://unterstadion.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gewerbe, netz; PDF-Hinweise: 1)
+  - Blaustein (Ulm): https://www.blaustein.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, verkehr, wärme)
+  - Schelklingen (Ulm): https://www.schelklingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server)
+  - Alleshausen (Biberach): https://www.alleshausen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, strom; PDF-Hinweise: 12)
+  - Allmannsweiler (Biberach): https://www.allmannsweiler.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Betzenweiler (Biberach): https://www.betzenweiler.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet)
+  - Dürnau (Biberach): https://www.duernau-bc.de/index.php?id=4 (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, netz, server, strom, verkehr)
+  - Kanzach (Biberach): https://www.domainmarkt.de/www.kanzach.de (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Moosburg (Biberach): https://www.moosburg-bc.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, netz, server; PDF-Hinweise: 12)
+  - Seekirch (Biberach): https://www.seekirch.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, server)
+  - Tiefenbach (Biberach): https://www.tiefenbach-federsee.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, server, wärme)
+  - Bad Schussenried (Biberach): https://www.bad-schussenried.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, strom)
+  - Ingoldingen (Biberach): https://www.ingoldingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, server, strom, verkehr)
+  - Attenweiler (Biberach): https://www.attenweiler.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, ratsinfo, schall, server, verkehr)
+  - Biberach an der Riß (Biberach): https://www.biberach-riss.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, cloud, entwässerung, gemeinderat, gewerbe, industrie, ratsinfo, server, verkehr)
+  - Eberhardzell (Biberach): https://www.eberhardzell.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, netz, ratsinfo, strom)
+  - Hochdorf (Biberach): https://www.gemeinde-hochdorf.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, cloud, gemeinderat, gewerbe, server, wärme; PDF-Hinweise: 1)
+  - Maselheim (Biberach): https://www.maselheim.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gewerbe, industrie, industriegebiet, netz, ratsinfo, server, verkehr, wärme)
+  - Mittelbiberach (Biberach): https://www.mittelbiberach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, verkehr)
+  - Ummendorf (Biberach): https://www.ummendorf.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, strom)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.196 bekannte Quellen im Manifest; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- 35 neue kommunale HTML-/PDF-Quellen aus beiden heutigen Recherchebloecken lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Dürnau, Kanzach, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riß, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 20 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Schussenried, Biberach an der Riß, Blaustein, Eberhardzell, Schelklingen, Ummendorf.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Unterstadion https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf (1 Seiten; Treffer: breitband, glasfaser; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/unterstadion-01.pdf).
+- PDF lokal geprueft/uebersprungen: Alleshausen https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/06_Schmitteaecker_3_Textteil.pdf (too large for daily text extraction, 8526252 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Alleshausen https://www.alleshausen.de/fileadmin/Dateien/Website/Bilder/DorfVerwaltung/Bebauungsplaene/06_Schmitteaecker_3_B-Plan.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/alleshausen-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Moosburg https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-ffentliche_Bekanntmachung.pdf (3 Seiten; Treffer: bauleit, bebauungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/moosburg-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Moosburg https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Begrndung.pdf (4 Seiten; Treffer: flächennutzungsplan, schall; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-01/moosburg-05.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 907, offen 93; insgesamt 40 Gemeinden heute abgeschlossen.
+- database.json: 127 Findings; vier heutige Findings aus zwei Kommunalbloecken und zwei News-/Fachquellenmonitorings; keine neue Site oder Company.
+
+Linkpruefung
+- check-links.py: 1.177 eindeutige URLs geprueft, 1.144 ok, 33 blockiert/transient, 0 echte Broken Links.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.196 bekannte Quellen; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; elf heutige Arbeits-PDFs aus beiden Bloecken lokal gespeichert und ausgelesen.
+- Links: 1.177 geprueft, 1.144 ok, 33 blockiert/transient, 0 broken.
+- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 907, offen 93; heute 40 Gemeinden abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprüft: 20; technisch offen und nicht als Negativfund gewertet: keine.
