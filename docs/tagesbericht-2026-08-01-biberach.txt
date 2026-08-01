@@ -6,10 +6,10 @@ Neue Quellen
   - Blaustein (Ulm): https://www.blaustein.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gewerbe, glasfaser, kommunale wärmeplanung, netz, server, verkehr, wärme)
   - Schelklingen (Ulm): https://www.schelklingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server)
   - Alleshausen (Biberach): https://www.alleshausen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, strom; PDF-Hinweise: 12)
-  - Allmannsweiler (Biberach): https://www.allmannsweiler.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Allmannsweiler (Biberach): https://www.allmannsweiler-bc.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtliche Bekanntmachungen, Bauen, Gemeinderat, Gewerbe/Firmen, Energiemonitor)
   - Betzenweiler (Biberach): https://www.betzenweiler.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet)
   - Dürnau (Biberach): https://www.duernau-bc.de/index.php?id=4 (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, netz, server, strom, verkehr)
-  - Kanzach (Biberach): https://www.domainmarkt.de/www.kanzach.de (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Kanzach (Biberach): https://www.gemeinde-kanzach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtliche Bekanntmachungen, Gemeinderat, Mitteilungsblatt, Satzungen, Service-BW)
   - Moosburg (Biberach): https://www.moosburg-bc.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, netz, server; PDF-Hinweise: 12)
   - Seekirch (Biberach): https://www.seekirch.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, server)
   - Tiefenbach (Biberach): https://www.tiefenbach-federsee.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, server, wärme)
@@ -24,20 +24,21 @@ Neue Quellen
   - Ummendorf (Biberach): https://www.ummendorf.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, strom)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1.196 bekannte Quellen im Manifest; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- archive-sources.py: 1.226 bekannte Quellen im Manifest; 1.184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
 - 35 neue kommunale HTML-/PDF-Quellen aus beiden heutigen Recherchebloecken lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
 
 Gepruefte Gemeinden
-- Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Dürnau, Kanzach, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riß, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf.
+- Belastbar geprüft: Unterstadion, Blaustein, Schelklingen, Alleshausen, Allmannsweiler, Betzenweiler, Dürnau, Moosburg, Seekirch, Tiefenbach, Bad Schussenried, Ingoldingen, Attenweiler, Biberach an der Riß, Eberhardzell, Hochdorf, Maselheim, Mittelbiberach, Ummendorf.
+- Technisch offen: Kanzach (Domain-Parking statt amtlicher Website).
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- 20 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Schussenried, Biberach an der Riß, Blaustein, Eberhardzell, Schelklingen, Ummendorf.
+- 19 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Kanzach. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Schussenried, Biberach an der Riß, Blaustein, Eberhardzell, Schelklingen, Ummendorf.
 
 Nachrichten-/Betreiber-Sichtung
 - Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
@@ -75,11 +76,11 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 907, offen 93; insgesamt 40 Gemeinden heute abgeschlossen.
+- Coverage nach beiden heutigen Bloecken: found 17, checkedNoRZ 906, offen 94; insgesamt 39 Gemeinden heute belastbar abgeschlossen; Kanzach offen.
 - database.json: 127 Findings; vier heutige Findings aus zwei Kommunalbloecken und zwei News-/Fachquellenmonitorings; keine neue Site oder Company.
 
 Linkpruefung
-- check-links.py: 1.177 eindeutige URLs geprueft, 1.144 ok, 33 blockiert/transient, 0 echte Broken Links.
+- check-links.py: 1.207 eindeutige URLs geprueft, 1.174 ok, 33 blockiert/transient, 0 echte Broken Links.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
@@ -88,13 +89,13 @@ Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1.196 bekannte Quellen; 1.154 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- Archiv: 1.226 bekannte Quellen; 1.184 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
 - PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; elf heutige Arbeits-PDFs aus beiden Bloecken lokal gespeichert und ausgelesen.
-- Links: 1.177 geprueft, 1.144 ok, 33 blockiert/transient, 0 broken.
-- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 907, offen 93; heute 40 Gemeinden abgeschlossen.
+- Links: 1.207 geprueft, 1.174 ok, 33 blockiert/transient, 0 broken.
+- Daten: database.json 127 Findings; Coverage found 17, checkedNoRZ 906, offen 94; heute 39 Gemeinden belastbar abgeschlossen, Kanzach offen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
 - Website-Daten: index.html aus database.json synchronisiert.
 - Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
 
 Technischer Abschluss
-- Belastbar geprüft: 20; technisch offen und nicht als Negativfund gewertet: keine.
+- Belastbar geprüft: 19; technisch offen und nicht als Negativfund gewertet: Kanzach.
