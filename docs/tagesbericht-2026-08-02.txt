@@ -24,8 +24,8 @@ Neue Quellen
   - Schwendi (Biberach): https://www.schwendi.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, ratsinfo)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1.268 bekannte Quellen im Manifest; 1.224 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
-- 40 neue kommunale HTML-/PDF-Quellen aus dem heutigen Biberach-Block lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+- archive-sources.py: 1272 bekannte Quellen im Manifest; 1228 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- Neu hinzugekommen sind die heutigen kommunalen HTML-/PDF-Arbeitsquellen aus dem Biberach-Block sowie Lahr/Baden-Cloud-/Newsquellen; keine Bilder uebernommen.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
@@ -50,8 +50,8 @@ Nachrichten-/Betreiber-Sichtung
 - DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
 - Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
 - iX 06/2026 Cloud-Souveraenitaet: https://www.heise.de/select/ix/2026/6 (Status 200; Treffer: cloud, industrie, netz, rechenzentrum).
-- Golem EnEfG Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
-- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Golem EnEfG Rechenzentren: https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
 - Datacenter-Insider Eisenach Akzeptanzrisiko: https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/ (Status 200; Treffer: bebauungsplan, cloud, data center, datacenter, flächennutzungsplan, industrie, netz, rechenzentrum, server, strom, umspannwerk).
 - Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
 
@@ -62,7 +62,7 @@ Prioritaetsraum Freiburg/Denzlingen/Emmendingen
   - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
   - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
   - Freiburg Glasfaserausbau Gewerbegebiete: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.freiburg.de', port=443): Read timed out. (read timeout=10))
-  - Emmendingen FNP/Bauleitplanung: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.emmendingen.de', port=443): Read timed out. (read timeout=10))
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Shell-Crawler timeout; Webfallback abrufbar; Treffer: bauleit, bebauungsplan, flaechennutzungsplan)
   - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
   - Lahr Rechenzentrum OB-Grusswort: https://www.lahr.de/sixcms.php/detail.php/11097 (Status 200; Treffer: altlasten, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz)
 
@@ -87,26 +87,28 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage: found 17, checkedNoRZ 927, offen 73; 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt.
-- database.json: 129 Findings; zwei neue Findings (Kommunalblock Landkreis Biberach; News-/Fachquellenmonitoring); keine neue Site oder Company.
+- Coverage: found 17, checkedNoRZ 927, offen 73; heute 20 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt.
+- database.json: 129 Findings nach Dublettenbereinigung; +2 kuratierte heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
+- Neue Arbeits-PDFs: 8 lokal gesichert und ausgelesen; keine neuen Fotos oder technischen Zeichnungen aufgenommen.
 
 Linkpruefung
-- check-links.py: 1.251 eindeutige URLs geprueft, 1.219 ok, 32 blockiert/transient, 0 echte Broken Links.
+- check-links.py: 1251 eindeutige URLs geprueft, 1221 ok, 30 blockiert/transient, 0 echte Broken Links.
+- Hinweis: PowerShell protokollierte stderr als NativeCommandError, das Skript schrieb aber vollstaendige Ergebnisse mit 0 broken.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1.268 bekannte Quellen; 1.224 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
-- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; acht heutige Arbeits-PDFs lokal gespeichert und mit pypdf ausgelesen.
-- Links: 1.251 geprueft, 1.219 ok, 32 blockiert/transient, 0 broken.
-- Daten: database.json 129 Findings; Coverage found 17, checkedNoRZ 927, offen 73; heute 20 Gemeinden belastbar abgeschlossen.
+- Archiv: 1272 bekannte Quellen; 1228 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 8 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
+- Links: 1251 geprueft, 1221 ok, 30 blockiert/transient, 0 broken.
+- Daten: database.json 129 Findings; Coverage found 17, checkedNoRZ 927, offen 73; heute 20 Gemeinden abgeschlossen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
-- Website-Daten: index.html aus database.json synchronisiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Website-Daten: index.html wird aus database.json synchronisiert.
+- Zustellung: Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
 
 Technischer Abschluss
 - Belastbar geprueft: 20; technisch offen: keine.
