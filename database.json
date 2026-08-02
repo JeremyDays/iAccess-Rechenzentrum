@@ -5061,7 +5061,7 @@
     "formspreeEndpoint": "",
     "autoDaily": true,
     "lastRun": "2026-08-02",
-    "lastResearchSummary": "2026-08-02: 20 offene Gemeinden im Landkreis Biberach belastbar geprüft; keine direkten RZ-Flächenfunde; Prioritätsraum und breite Fach-/Newsquellen revalidiert.",
+    "lastResearchSummary": "2026-08-02: 20 offene Gemeinden im Biberach-Block ab Berkheim geprueft; keine neuen direkten RZ-Flaechenfunde; 8 Arbeits-PDFs lokal ausgelesen; Linkcheck ohne echte Broken Links.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -5089,7 +5089,7 @@
   },
   "metadata": {
     "lastResearchRun": "2026-08-02",
-    "lastResearchSummary": "2026-08-02: 20 offene Gemeinden im Landkreis Biberach belastbar geprüft; keine direkten RZ-Flächenfunde; Prioritätsraum und breite Fach-/Newsquellen revalidiert.",
+    "lastResearchSummary": "2026-08-02: 20 offene Gemeinden im Biberach-Block ab Berkheim geprueft; keine neuen direkten RZ-Flaechenfunde; 8 Arbeits-PDFs lokal ausgelesen; Linkcheck ohne echte Broken Links.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
