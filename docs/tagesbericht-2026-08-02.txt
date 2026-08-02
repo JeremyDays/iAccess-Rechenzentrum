@@ -1,0 +1,112 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-02
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Berkheim (Biberach): https://www.gemeinde-berkheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, netz, ratsinfo, schall, strom, wärme; PDF-Hinweise: 12)
+  - Dettingen an der Iller (Biberach): https://www.dettingen-iller.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, glasfaser, netz; PDF-Hinweise: 4)
+  - Erolzheim (Biberach): https://www.erolzheim.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, glasfaser, netz, strom, verkehr)
+  - Kirchberg an der Iller (Biberach): https://www.kirchberg-iller.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, netz, ratsinfo, server, strom)
+  - Kirchdorf an der Iller (Biberach): https://www.kirchdorf-iller.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, glasfaser, industrie, industriegebiet, netz, ratsinfo, strom, verkehr; PDF-Hinweise: 1)
+  - Achstetten (Biberach): https://www.achstetten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, ratsinfo, server)
+  - Burgrieden (Biberach): https://www.burgrieden.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, glasfaser, netz, ratsinfo)
+  - Mietingen (Biberach): https://www.mietingen.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, netz, server, verkehr)
+  - Erlenmoos (Biberach): https://www.erlenmoos.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, ratsinfo, server, verkehr)
+  - Gutenzell-Huerbel (Biberach): https://www.gutenzell-huerbel.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, industrie, ratsinfo, server, verkehr)
+  - Ochsenhausen (Biberach): https://www.ochsenhausen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, ratsinfo, server, verkehr; PDF-Hinweise: 2)
+  - Steinhausen an der Rottum (Biberach): https://www.steinhausen-rottum.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, gewerbe, industrie, ratsinfo, server)
+  - Altheim (Biberach): https://www.gemeinde-altheim.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo; PDF-Hinweise: 4)
+  - Duermentingen (Biberach): https://www.duermentingen.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: abwärme, bauleit, breitband, fernwärme, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, strom, verkehr; PDF-Hinweise: 1)
+  - Langenenslingen (Biberach): https://www.langenenslingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, gemeinderat, gewerbe, netz, ratsinfo, server, verkehr)
+  - Unlingen (Biberach): https://www.unlingen.de/startseite (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, verkehr, wärme)
+  - Uttenweiler (Biberach): https://www.uttenweiler.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, brandschutz, breitband, gemeinderat, gewerbe, industrie, netz, ratsinfo, schall, strom, wärme)
+  - Rot an der Rot (Biberach): https://rot.de/Startseite.html (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, ratsinfo)
+  - Tannheim (Biberach): https://www.gemeinde-tannheim.de/Startseite.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, schall; PDF-Hinweise: 12)
+  - Schwendi (Biberach): https://www.schwendi.de/ (10 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, ratsinfo)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1.268 bekannte Quellen im Manifest; 1.224 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- 40 neue kommunale HTML-/PDF-Quellen aus dem heutigen Biberach-Block lokal gesichert; keine Secrets oder Zugangsdaten verschoben.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Berkheim, Dettingen an der Iller, Erolzheim, Kirchberg an der Iller, Kirchdorf an der Iller, Achstetten, Burgrieden, Mietingen, Erlenmoos, Gutenzell-Huerbel, Ochsenhausen, Steinhausen an der Rottum, Altheim, Duermentingen, Langenenslingen, Unlingen, Uttenweiler, Rot an der Rot, Tannheim, Schwendi.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- Alle 20 heute geprueften Gemeinden bleiben ohne direkten RZ-Nachweis; keine technisch offenen Gemeinden im heutigen Block. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Achstetten, Burgrieden, Erolzheim, Kirchdorf an der Iller, Ochsenhausen, Schwendi, Uttenweiler.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- LINK2AIR Baden Cloud Lahr Baustellentermine: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2139463f7d0>, 'Connection to www.link2air.de timed out. (connect timeout=10)'))).
+- Baden Cloud Status: https://badencloud-status.de/de/ (Status 200; Treffer: cloud, netz, rechenzentrum, server).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
+- iX 06/2026 Cloud-Souveraenitaet: https://www.heise.de/select/ix/2026/6 (Status 200; Treffer: cloud, industrie, netz, rechenzentrum).
+- Golem EnEfG Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fenergieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- Datacenter-Insider Eisenach Akzeptanzrisiko: https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/ (Status 200; Treffer: bebauungsplan, cloud, data center, datacenter, flächennutzungsplan, industrie, netz, rechenzentrum, server, strom, umspannwerk).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.freiburg.de', port=443): Read timed out. (read timeout=10))
+  - Emmendingen FNP/Bauleitplanung: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.emmendingen.de', port=443): Read timed out. (read timeout=10))
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+  - Lahr Rechenzentrum OB-Grusswort: https://www.lahr.de/sixcms.php/detail.php/11097 (Status 200; Treffer: altlasten, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, kommunale wärmeplanung, netz)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Berkheim https://www.gemeinde-berkheim.de/site/assets/files/3743/bekanntmachung_3__anderung_bebauungsplan_illerbachen-sud.pdf (2 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/berkheim-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Berkheim https://www.gemeinde-berkheim.de/site/assets/files/3743/02_260316_5553_3-anderung_bplan_textteil.pdf (17 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, sondergebiet, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/berkheim-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Dettingen an der Iller https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/Bebauungsplan_Wolfurt_III_Satzung.pdf (34 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, server, strom, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/dettingen-an-der-iller-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Kirchdorf an der Iller https://www.kirchdorf-iller.de/fileadmin/Dateien/Website/Dateien/Bauen_Wohnen/Ver_Entsorgung/Kirchdorf_ad_Iller_Projektbeschreibung_Breitbandausbau_weisse_Flecken.pdf (3 Seiten; Treffer: breitband, gewerbe, glasfaser, netz, strom; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/kirchdorf-an-der-iller-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Ochsenhausen https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II.pdf (1 Seiten; Treffer: bebauungsplan, gemeinderat, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/ochsenhausen-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Ochsenhausen https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II_Textteil.pdf (47 Seiten; Treffer: bebauungsplan, gemeinderat, gewerbe; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/ochsenhausen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Duermentingen https://www.duermentingen.de/fileadmin/Dateien/Dateien/Satzungen/Energieleitbild.pdf (1 Seiten; Treffer: amtsblatt, gemeinderat, gewerbe, netz, strom, verkehr, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/duermentingen-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Tannheim https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E159566257/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/Amtliche%20Bekanntmachung.pdf (1 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-02/tannheim-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: found 17, checkedNoRZ 927, offen 73; 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt.
+- database.json: 129 Findings; zwei neue Findings (Kommunalblock Landkreis Biberach; News-/Fachquellenmonitoring); keine neue Site oder Company.
+
+Linkpruefung
+- check-links.py: 1.251 eindeutige URLs geprueft, 1.219 ok, 32 blockiert/transient, 0 echte Broken Links.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1.268 bekannte Quellen; 1.224 gespeichert/uebersprungen; 23 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; acht heutige Arbeits-PDFs lokal gespeichert und mit pypdf ausgelesen.
+- Links: 1.251 geprueft, 1.219 ok, 32 blockiert/transient, 0 broken.
+- Daten: database.json 129 Findings; Coverage found 17, checkedNoRZ 927, offen 73; heute 20 Gemeinden belastbar abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html aus database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprueft: 20; technisch offen: keine.
