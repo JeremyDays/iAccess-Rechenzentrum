@@ -1,7 +1,7 @@
 {
-  "checked": 1207,
-  "ok": 1174,
-  "blocked": 33,
+  "checked": 1251,
+  "ok": 1221,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1f7c4be7fd0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x17119a14710>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -30,48 +30,12 @@
     },
     {
       "collection": "findings",
-      "index": 65,
-      "field": "sourceUrl",
-      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
-      "url": "https://www.bad-boll.de/",
-      "status": 503,
-      "finalUrl": "https://www.bad-boll.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 119,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.illerkirchberg.de/",
-      "status": 503,
-      "finalUrl": "https://www.illerkirchberg.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.schwaebisch-gmuend.de/startseite.html",
       "status": 403,
       "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 49,
-      "field": "source",
-      "title": "Herrischried zeigt Gewerbegebiet, Bebauungsplaene und Breitbandpfad",
-      "url": "https://www.herrischried.de/",
-      "status": 503,
-      "finalUrl": "https://www.herrischried.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -138,24 +102,24 @@
     },
     {
       "collection": "findings",
-      "index": 88,
-      "field": "sourceUrl",
-      "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.gemeinde-mauer.de/",
-      "status": 503,
-      "finalUrl": "https://www.gemeinde-mauer.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 101,
+      "field": "sourceUrl",
+      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.dornhan.de/startseite",
+      "status": 500,
+      "finalUrl": "https://www.dornhan.de/startseite",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -182,7 +146,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1f7c4be5c90>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x17118f42390>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -302,7 +266,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.doyma.de', port=443): Max retries exceeded with url: /referenzen/sap-rechenzentrum-wdf51 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.doyma.de', port=443) at 0x1f7c4be78d0>, 'Connection to www.doyma.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.doyma.de', port=443): Max retries exceeded with url: /referenzen/sap-rechenzentrum-wdf51 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.doyma.de', port=443) at 0x17118f41f50>, 'Connection to www.doyma.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -1128,6 +1092,18 @@
       "url": "https://www.albershausen.de/de/startseite",
       "status": 200,
       "finalUrl": "https://www.albershausen.de/de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 65,
+      "field": "sourceUrl",
+      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
+      "url": "https://www.bad-boll.de/",
+      "status": 200,
+      "finalUrl": "https://www.bad-boll.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -2757,6 +2733,18 @@
       "index": 119,
       "field": "sourceUrl",
       "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.illerkirchberg.de/",
+      "status": 200,
+      "finalUrl": "https://www.illerkirchberg.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 119,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.illerrieden.de/start",
       "status": 200,
       "finalUrl": "https://www.illerrieden.de/start",
@@ -3744,6 +3732,54 @@
       "url": "https://www.bad-saeckingen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.bad-saeckingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 127,
+      "field": "sourceUrl",
+      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
+      "url": "https://badencloud-status.de/de/",
+      "status": 200,
+      "finalUrl": "https://badencloud-status.de/de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 127,
+      "field": "sourceUrl",
+      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
+      "url": "https://rot.de/Startseite.html",
+      "status": 200,
+      "finalUrl": "https://rot.de/Startseite.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 127,
+      "field": "sourceUrl",
+      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
+      "url": "https://www.gemeinde-tannheim.de/Startseite.html",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-tannheim.de/Startseite.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 127,
+      "field": "sourceUrl",
+      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
+      "url": "https://www.lahr.de/sixcms.php/detail.php/11097",
+      "status": 200,
+      "finalUrl": "https://www.lahr.de/sixcms.php/detail.php/11097",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7434,6 +7470,18 @@
     },
     {
       "collection": "findings",
+      "index": 49,
+      "field": "source",
+      "title": "Herrischried zeigt Gewerbegebiet, Bebauungsplaene und Breitbandpfad",
+      "url": "https://www.herrischried.de/",
+      "status": 200,
+      "finalUrl": "https://www.herrischried.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 70,
       "field": "sourceUrl",
       "title": "Hitzewelle legt HPC-Standort zeitweise lahm: Kuehlreserve wird Standortfilter",
@@ -7956,6 +8004,486 @@
       "url": "https://www.kuchen.de/gewerbepark-schwaebische-alb.html",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/gewerbepark-schwaebische-alb.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.achstetten.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.achstetten.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.burgrieden.de/",
+      "status": 200,
+      "finalUrl": "https://www.burgrieden.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/01_211201_BP_Dettingen_Nord_II_ZT.pdf",
+      "status": 200,
+      "finalUrl": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/01_211201_BP_Dettingen_Nord_II_ZT.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/02_211201_BP_Dettingen_Nord_II_Textteil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/02_211201_BP_Dettingen_Nord_II_Textteil.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/BBP_WolfurtIII-_Zeichnerischer_Teil_-AEnderung_Stand_16-04-2020.pdf",
+      "status": 200,
+      "finalUrl": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/BBP_WolfurtIII-_Zeichnerischer_Teil_-AEnderung_Stand_16-04-2020.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/Bebauungsplan_Wolfurt_III_Satzung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.dettingen-iller.de/fileadmin/Dateien/Dateien/Dateien/Bauen/Bebauungsplan_Wolfurt_III_Satzung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.dettingen-iller.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.dettingen-iller.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.duermentingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.duermentingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.duermentingen.de/fileadmin/Dateien/Dateien/Satzungen/Energieleitbild.pdf",
+      "status": 200,
+      "finalUrl": "https://www.duermentingen.de/fileadmin/Dateien/Dateien/Satzungen/Energieleitbild.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.erlenmoos.de/",
+      "status": 200,
+      "finalUrl": "https://www.erlenmoos.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.erolzheim.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.erolzheim.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-altheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-altheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-10.A-PV-Rublander_Gruningen-Entwurf-BK.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-10.A-PV-Rublander_Gruningen-Entwurf-BK.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-11.A.-SO-Spitzloch-Altheim-Entwurf-BK_BK.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-11.A.-SO-Spitzloch-Altheim-Entwurf-BK_BK.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-12.A.-Eschweg-Gruningen-Entwurf-BK.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-12.A.-Eschweg-Gruningen-Entwurf-BK.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-5.Anderung-GE_Burgau-Aufstelllung-BK.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-altheim.de/fileadmin/Dateien/Cross7/Startseite/Gemeinde_Altheim/Bekanntmachungen/26.07.17-5.Anderung-GE_Burgau-Aufstelllung-BK.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-berkheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-berkheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-berkheim.de/site/assets/files/3566/offentliche_bekanntmachung_inkrafttreten_der_2__anderung_des_bebauungsplanes_illerbachen_ost_ii_im_vereinfachten_verfahren.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-berkheim.de/site/assets/files/3566/offentliche_bekanntmachung_inkrafttreten_der_2__anderung_des_bebauungsplanes_illerbachen_ost_ii_im_vereinfachten_verfahren.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-berkheim.de/site/assets/files/3743/01_260316_5553_3-anderung_bplan_zeichnteil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-berkheim.de/site/assets/files/3743/01_260316_5553_3-anderung_bplan_zeichnteil.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-berkheim.de/site/assets/files/3743/02_260316_5553_3-anderung_bplan_textteil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-berkheim.de/site/assets/files/3743/02_260316_5553_3-anderung_bplan_textteil.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-berkheim.de/site/assets/files/3743/bekanntmachung_3__anderung_bebauungsplan_illerbachen-sud.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-berkheim.de/site/assets/files/3743/bekanntmachung_3__anderung_bebauungsplan_illerbachen-sud.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-tannheim.de/Startseite",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-tannheim.de/Startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-1805502052/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/Satzung%20%C3%BCber%20B-Plan%20und%20%C3%B6rtlichen%20Bauvorschriften%20sowie%20Ergebnisse%20der%20%C3%96ffentlichkeits-%20und%20Beh%C3%B6rdenbeteiligung.pdf",
+      "status": 304,
+      "finalUrl": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-1805502052/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/Satzung%20%C3%BCber%20B-Plan%20und%20%C3%B6rtlichen%20Bauvorschriften%20sowie%20Ergebnisse%20der%20%C3%96ffentlichkeits-%20und%20Beh%C3%B6rdenbeteiligung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-1922976032/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/B-Plan.pdf",
+      "status": 304,
+      "finalUrl": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-1922976032/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/B-Plan.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-506699719/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/B-Plan%20mit%20Planzeichenerkl%C3%A4rung.pdf",
+      "status": 304,
+      "finalUrl": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E-506699719/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/B-Plan%20mit%20Planzeichenerkl%C3%A4rung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E159566257/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/Amtliche%20Bekanntmachung.pdf",
+      "status": 304,
+      "finalUrl": "https://www.gemeinde-tannheim.de/site/Tannheim/get/documents_E159566257/tannheim/Mediathek_Tannheim/Baupl%C3%A4tze/Berkheimer%20Weg/Bebauungsplan%20Berkheimer%20Weg%20-%20Stand%2026.03.2020/Amtliche%20Bekanntmachung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.gutenzell-huerbel.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.gutenzell-huerbel.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.kirchberg-iller.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.kirchberg-iller.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.kirchdorf-iller.de/fileadmin/Dateien/Website/Dateien/Bauen_Wohnen/Ver_Entsorgung/Kirchdorf_ad_Iller_Projektbeschreibung_Breitbandausbau_weisse_Flecken.pdf",
+      "status": 200,
+      "finalUrl": "https://www.kirchdorf-iller.de/fileadmin/Dateien/Website/Dateien/Bauen_Wohnen/Ver_Entsorgung/Kirchdorf_ad_Iller_Projektbeschreibung_Breitbandausbau_weisse_Flecken.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.kirchdorf-iller.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.kirchdorf-iller.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.langenenslingen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.langenenslingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.mietingen.de/de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.mietingen.de/de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II.pdf",
+      "status": 200,
+      "finalUrl": "https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II_Textteil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.ochsenhausen.de/fileadmin/Dateien/Dateien/Bauen/Bebauungsplaene/Reinstetten/Gigelberg_II_Textteil.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.ochsenhausen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.ochsenhausen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.rot.de/9571659.html",
+      "status": 200,
+      "finalUrl": "https://www.rot.de/9571659.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.schwendi.de/",
+      "status": 200,
+      "finalUrl": "https://www.schwendi.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.steinhausen-rottum.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.steinhausen-rottum.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.unlingen.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.unlingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Landkreis Biberach: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.uttenweiler.de/",
+      "status": 200,
+      "finalUrl": "https://www.uttenweiler.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -9201,6 +9729,18 @@
       "index": 88,
       "field": "sourceUrl",
       "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.gemeinde-mauer.de/",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-mauer.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 88,
+      "field": "sourceUrl",
+      "title": "Neckar-Odenwald-/Rhein-Neckar-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gemeinde-schoenbrunn.de/",
       "status": 200,
       "finalUrl": "https://www.gemeinde-schoenbrunn.de/",
@@ -10305,18 +10845,6 @@
       "index": 101,
       "field": "sourceUrl",
       "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.dornhan.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.dornhan.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 101,
-      "field": "sourceUrl",
-      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.furtwangen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.furtwangen.de/startseite",
@@ -10986,7 +11514,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/",
@@ -10998,7 +11526,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251013_Entwurf_BPlan_Wehstetten.pdf",
@@ -11010,7 +11538,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251028_Oberwasserburgerhof_Umweltbericht_Entwurf.pdf",
@@ -11022,7 +11550,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/VG_2026-06-02_%C3%B6ffentliche_Bekanntmachung_Gen._24_25_FNP-%C3%84nd.pdf",
@@ -11034,7 +11562,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/pdf/Gewerberecht/Vorlage_Anzeige_vor%C3%BC_Gastst%C3%A4tte.pdf",
@@ -11046,7 +11574,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Bekanntmachung_Faugelen_Satzungsbeschluss_17.07.2024_01.pdf",
@@ -11058,7 +11586,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Festsetzungen_zum_Bebauungsplan_Faugelen_II.pdf",
@@ -11070,7 +11598,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Satzung_Bebauungsplan_Faugelen_II.pdf",
@@ -11082,7 +11610,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Zeichnerischer_Teil_Bebauungsplan_Faugelen_II.pdf",
@@ -11094,7 +11622,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/home",
@@ -11106,7 +11634,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aach.de/willkommen",
@@ -11118,7 +11646,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.boettingen.de/startseite",
@@ -11130,7 +11658,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.buesingen.de/willkommen",
@@ -11142,7 +11670,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.denkingen.de/willkommen",
@@ -11154,7 +11682,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/7._%C3%84nderungssatzung_Abwasser.pdf",
@@ -11166,7 +11694,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/8._%C3%84nderungssatzung_Abwasser.pdf",
@@ -11178,7 +11706,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/Amtl._Bekanntmachung_9._%C3%84nderungssatzung_Abwasserbeseitigung_2026.pdf",
@@ -11190,7 +11718,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Ortsrecht/Grund-_und_Gewerbesteuer_Hebesatzsatzung_ab_2025.pdf",
@@ -11202,7 +11730,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/startseite",
@@ -11214,7 +11742,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/",
@@ -11226,7 +11754,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/%C3%96ffentl.%20Bekanntmachung%20FNP%202020%20-%206.%20Fortschreibung%20-%20Sonderbaufl%C3%A4che%20Lebensmittelmarkt%20Gem.%20Durchhausen.pdf",
@@ -11238,7 +11766,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/5%20Anlage%202%20Umweltbericht%20UB%20-%20Beschluss%20zur%20Fr%C3%BChzeitige%20Beteiligung%20vom%2023.07.2025%20-%20Stand%20250618.pdf",
@@ -11250,7 +11778,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Begr%C3%BCndung%20und%20Umweltbericht%20zum%20FNP%206.%20Fortschreibung%20Lebensmittelmarkt%20Durchhausen%20vom%2030.01.2026.pdf",
@@ -11262,7 +11790,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Norma/5.%20Umweltbericht.pdf",
@@ -11274,7 +11802,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/de/startseite",
@@ -11286,7 +11814,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9A_FNP_Spaichingen_Vorentwurf_-_Planungsunterlag.pdf",
@@ -11298,7 +11826,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9Aenderung__FNP_Spaichingen-A4-Lageplan_-_Planungsunterlag.pdf",
@@ -11310,7 +11838,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Amtl._Bekanntmachung_fruehzeitige_FNP_2030_-_9.punktuelle_AEnderung.pdf",
@@ -11322,7 +11850,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Anlage_2a_-_Legende__FNP_Spaichingen_-__Planungsunterlag.pdf",
@@ -11334,7 +11862,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_schriftlich_Bei_der_Erlenwies.pdf",
@@ -11346,7 +11874,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_zeichnerisch_Bei_der_Erlenwies.pdf",
@@ -11358,7 +11886,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Ebele_Faulen-zeichnerisch.pdf",
@@ -11370,7 +11898,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Eble_Faulen_schriftlich_28.11.1980.pdf",
@@ -11382,7 +11910,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/startseite",
@@ -11394,7 +11922,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/403_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -11406,7 +11934,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/404_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -11418,7 +11946,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Faltfahrplan_2026.pdf",
@@ -11430,7 +11958,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Tarife_Preise_Zonen_2026.pdf",
@@ -11442,7 +11970,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/startseite",
@@ -11454,7 +11982,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/fileadmin/Dateien/Webseite/Dateien/BBP_Oehmdwiesen_A4.pdf",
@@ -11466,7 +11994,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/startseite",
@@ -11478,7 +12006,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=87",
@@ -11490,7 +12018,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1261&cHash=4129063cf528905c64576f87ab56c9b9",
@@ -11502,7 +12030,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1522&cHash=6360b3e8dc6fd8eeef117b0ba3fdbd5f",
@@ -11514,7 +12042,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1690&cHash=fe192ee212a1ffc2f6a5a7b41406f3fe",
@@ -11526,7 +12054,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1727&cHash=cdcd0ff11387fa5c62e4764e96da2110",
@@ -11538,7 +12066,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.mahlstetten.de/startseite",
@@ -11550,7 +12078,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.neuhausen-ob-eck.de/",
@@ -11562,7 +12090,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/fileadmin/Dateien/Dateien/Gewerbe_Einverst%C3%A4ndniserkl%C3%A4rung_und_Datenblatt.pdf",
@@ -11574,7 +12102,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/startseite",
@@ -11586,7 +12114,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.seitingen-oberflacht.de/startseite",
@@ -11598,7 +12126,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.spaichingen.de/willkommen",
@@ -11610,7 +12138,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.tuttlingen.de/willkommen",
@@ -11622,7 +12150,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/",
@@ -11634,7 +12162,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/erbsenberg/20260408_bplan_erbsenberg.pdf",
@@ -11646,7 +12174,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/obere-hauptstrasse/Obere-Hauptstrasse-64.pdf",
@@ -11658,7 +12186,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/docs/rathaus/bekanntmachungen/20260513_sonderrechnung-2023.pdf",
@@ -11670,7 +12198,7 @@
     },
     {
       "collection": "findings",
-      "index": 125,
+      "index": 129,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de/aktuelles/bekanntmachungen/20260325_Satzungsbeschluss_BP.pdf",
