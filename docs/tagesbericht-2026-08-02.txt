@@ -96,7 +96,7 @@ Linkpruefung
 - Hinweis: PowerShell protokollierte stderr als NativeCommandError, das Skript schrieb aber vollstaendige Ergebnisse mit 0 broken.
 
 Zustellung
-- Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+- Gmail-Versand blockiert: OAuth RefreshError invalid_grant; kein SMTP-Fallback genutzt. Bericht ist auf GitHub Pages veroeffentlicht und via Codex gemeldet.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -108,7 +108,7 @@ Validierungsblock
 - Daten: database.json 129 Findings; Coverage found 17, checkedNoRZ 927, offen 73; heute 20 Gemeinden abgeschlossen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
 - Website-Daten: index.html wird aus database.json synchronisiert.
-- Zustellung: Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+- Zustellung: Gmail-Versand blockiert: OAuth RefreshError invalid_grant; kein SMTP-Fallback genutzt. Bericht ist auf GitHub Pages veroeffentlicht und via Codex gemeldet.
 
 Technischer Abschluss
 - Belastbar geprueft: 20; technisch offen: keine.
