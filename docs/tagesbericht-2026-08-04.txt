@@ -1,0 +1,117 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-04
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Hagnau am Bodensee (Bodenseekreis):  (0 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Boms (Ravensburg): https://www.boms.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, schall, wärme)
+  - Ebenweiler (Ravensburg): https://www.ebenweiler.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, server, waerme, wärme; PDF-Hinweise: 12)
+  - Ebersbach-Musbach (Ravensburg): https://www.ebersbach-musbach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, netz, server; PDF-Hinweise: 12)
+  - Fleischwangen (Ravensburg): https://www.fleischwangen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, brandschutz, flächennutzungsplan, gemeinderat, gewerbe, schall, server; PDF-Hinweise: 7)
+  - Guggenhausen (Ravensburg): https://www.guggenhausen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat)
+  - Hoßkirch (Ravensburg): https://hosskirch.de/en-gb (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Riedhausen (Ravensburg): https://www.riedhausen.de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, server; PDF-Hinweise: 5)
+  - Unterwaldhausen (Ravensburg): https://ts.domainname.de/unterwaldhausen.de (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Bad Waldsee (Ravensburg): https://www.bad-waldsee.de/buerger/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, server, strom, verkehr, wärme)
+  - Bergatreute (Ravensburg): https://www.bergatreute.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, glasfaser, server, strom, verkehr, wärme)
+  - Wolpertswende (Ravensburg): https://www.wolpertswende.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flaechennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, verkehr)
+  - Bodnegg (Ravensburg): https://bodnegg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, flächennutzungsplan, gemeinderat, ratsinfo, verkehr)
+  - Schlier (Ravensburg): https://www.schlier.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, schall, server; PDF-Hinweise: 11)
+  - Waldburg (Ravensburg): https://www.gemeinde-waldburg.de/vorseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, kommunale wärmeplanung, netz, server, verkehr, wärme)
+  - Aichstetten (Ravensburg): https://www.aichstetten.de/Startseite.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, server, verkehr)
+  - Aitrach (Ravensburg): https://www.aitrach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, industriegebiet, netz, verkehr)
+  - Leutkirch im Allgäu (Ravensburg): https://www.leutkirch.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, ratsinfo, server)
+  - Baienfurt (Ravensburg): https://www.baienfurt.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, ratsinfo)
+  - Baindt (Ravensburg): https://www.baindt.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom, umspannwerk, verkehr)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1356 bekannte Quellen im Manifest; 1331 gespeichert/uebersprungen; 25 aktuelle Abrufblocker.
+- Neu hinzugekommen sind die heutigen kommunalen HTML-/PDF-Arbeitsquellen aus dem Hagnau-/Ravensburg-Block sowie Fach-/News- und Netzquellen; keine Bilder uebernommen.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Boms, Ebenweiler, Ebersbach-Musbach, Fleischwangen, Guggenhausen, Hoßkirch, Riedhausen, Unterwaldhausen, Bad Waldsee, Bergatreute, Wolpertswende, Bodnegg, Schlier, Waldburg, Aichstetten, Aitrach, Leutkirch im Allgäu, Baienfurt, Baindt.
+- Technisch versucht, aber nicht als Negativfund gewertet: Hagnau am Bodensee.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 19 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Hagnau am Bodensee. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Aichstetten, Aitrach, Bad Waldsee, Baienfurt, Baindt, Bergatreute, Bodnegg, Leutkirch im Allgäu, Schlier, Waldburg, Wolpertswende.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, glasfaser, industrie, netz, rechenzentrum, server, strom).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
+- Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Golem EnEfG Rechenzentren: https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html (Status 200; Treffer: rechenzentrum).
+- Golem EU-Oekostromziele Rechenzentren: https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html (Status 200; Treffer: strom).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DataCenter-Insider Eisenach Akzeptanzrisiko: https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/ (Status 200; Treffer: bebauungsplan, cloud, data center, datacenter, flächennutzungsplan, industrie, netz, rechenzentrum, server, strom, umspannwerk).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Denzlingen Stromausfall Umspannwerk: https://www.denzlingen.de/de/aktuelles/show.php?id=1964 (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, netz, ratsinfo, server, strom, umspannwerk, verkehr).
+- Energieversorgung Denzlingen Netz: https://www.denzlingen.de/p/evd-netz (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, netz, ratsinfo, server, strom, verkehr).
+- TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, trafo, umspannwerk).
+- RP Freiburg Netzverstaerkung Meissenheim-Ringsheim: https://rpf.baden-wuerttemberg.de/en/service/presse/medienmitteilungen/artikel/teilgenehmigung-fuer-die-netzverstaerkung-der-stromleitung-zwischen-meissenheim-und-ringsheim-erteilt/ (Status 200; Treffer: netz, strom, umspannwerk).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Ebenweiler https://www.ebenweiler.de/wp-content/uploads/Bauplaene/Buchaecker/Buchaecker_Bebauungsplan_zeichnTeil.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/ebenweiler-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Ebenweiler https://www.ebenweiler.de/wp-content/uploads/Bauplaene/Buchaecker/Buchaecker_Umweltbericht.pdf (25 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/ebenweiler-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Ebersbach-Musbach https://www.ebersbach-musbach.de/fileadmin/Dateien/Cross7/Startseite/Bauen%2C_Wirtschaft_und_Energie/Bauen/Mietspiegel_des_GVV-Altshausen/Mietspiegel-freigegeben-31.07.2023.pdf (15 Seiten; Treffer: entwässerung, gewerbe, server; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/ebersbach-musbach-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Ebersbach-Musbach https://www.ebersbach-musbach.de/fileadmin/Dateien/Cross7/Startseite/Bauen%2C_Wirtschaft_und_Energie/Bauen/Bauplatz-Verkauf/Baugebiet_Holzmuhleacker_IV_Lageplan.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/ebersbach-musbach-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Fleischwangen https://www.fleischwangen.de/de/PDF/1-Aenderungssatzung-der-Abwassersatzung-04.10.2023.pdf (1 Seiten; Treffer: gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/fleischwangen-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Riedhausen https://www.riedhausen.de/files/Kirchsteigaecker-IBebauungsplanTEXTrechtsgueltig.pdf (84 Seiten; Treffer: bebauungsplan; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/riedhausen-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Riedhausen https://www.riedhausen.de/files/Kirchsteigaecker-IBebauungsplanPLANrechtsgueltig.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/riedhausen-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Schlier https://www.schlier.de/fileadmin/Dateien/Webseite/Dateien/Bekanntmachungen/2024_06_04_Abwassersatzung_2024_ab_01.10.2024.PDF (23 Seiten; Treffer: entwässerung, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-04/schlier-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: found 17, checkedNoRZ 965, offen 35; heute 19 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt, 1 technisch offen.
+- database.json: 133 Findings; +2 heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
+- Neue Arbeits-PDFs: 8 lokal gesichert und ausgelesen; keine neuen Fotos oder technischen Zeichnungen aufgenommen.
+
+Linkpruefung
+- check-links.py: 1333 eindeutige URLs geprueft, 1301 ok, 32 blockiert/transient, 0 echte Broken Links.
+- Echte Broken Links wurden vor Publish bereinigt oder als blockiert/transient bewertet.
+
+Zustellung
+- Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1356 bekannte Quellen; 1331 gespeichert/uebersprungen; 25 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 8 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
+- Links: 1333 geprueft, 1301 ok, 32 blockiert/transient, 0 broken.
+- Daten: database.json 133 Findings; Coverage found 17, checkedNoRZ 965, offen 35; heute 19 Gemeinden abgeschlossen, Hagnau am Bodensee offen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0; pdfs/manual-uploads nur .gitkeep.
+- Website-Daten: index.html wird nach database.json synchronisiert.
+- Zustellung: Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+
+Technischer Abschluss
+- Belastbar geprueft: 19; technisch offen und nicht als Negativfund gewertet: Hagnau am Bodensee.
