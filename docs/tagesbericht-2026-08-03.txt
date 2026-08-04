@@ -1,0 +1,97 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-03
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Schemmerhofen (Biberach): https://www.schemmerhofen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, server, sondergebiet)
+  - Kressbronn am Bodensee (Bodenseekreis): https://www.kressbronn.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, server; PDF-Hinweise: 1)
+  - Friedrichshafen (Bodenseekreis): https://www.friedrichshafen.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Immenstaad am Bodensee (Bodenseekreis): https://www.immenstaad.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gemeinderat, gewerbe, server, strom, verkehr)
+  - Bermatingen (Bodenseekreis): https://www.bermatingen.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, bauleit, breitband, flächennutzungsplan, gewerbe, gewerbegebiet, ratsinfo, server; PDF-Hinweise: 7)
+  - Deggenhausertal (Bodenseekreis): https://www.deggenhausertal.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz, ratsinfo, server; PDF-Hinweise: 12)
+  - Markdorf (Bodenseekreis): https://www.markdorf.de/ (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, kommunale wärmeplanung, netz, ratsinfo, server, verkehr, wärme)
+  - Daisendorf (Bodenseekreis): https://www.daisendorf.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, server, verkehr; PDF-Hinweise: 6)
+  - Hagnau am Bodensee (Bodenseekreis):  (0 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: keine)
+  - Meersburg (Bodenseekreis): https://www.meersburg.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: flächennutzungsplan, netz, server, verkehr)
+  - Stetten (Bodenseekreis): https://www.gemeinde-stetten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, ratsinfo, server, verkehr; PDF-Hinweise: 3)
+  - Uhldingen-Mühlhofen (Bodenseekreis): https://www.uhldingen-muehlhofen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, flächennutzungsplan, gemeinderat, gewerbe, ratsinfo, strom, verkehr, wärme)
+  - Frickingen (Bodenseekreis): https://www.frickingen.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe, glasfaser, ratsinfo, server, strom, verkehr)
+  - Heiligenberg (Bodenseekreis): https://www.heiligenberg.de/de/vorseite (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, verkehr)
+  - Salem (Bodenseekreis): https://www.salem-baden.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, ratsinfo, verkehr, wärme)
+  - Neukirch (Bodenseekreis): https://www.neukirch-gemeinde.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, gemeinderat, gewerbe, gewerbegebiet, netz, server, verkehr)
+  - Tettnang (Bodenseekreis): https://www.tettnang.de/de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, gemeinderat, glasfaser, industrie, kommunale wärmeplanung, netz, server, verkehr, waerme, wärme)
+  - Owingen (Bodenseekreis): https://www.owingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server, verkehr; PDF-Hinweise: 7)
+  - Meckenbeuren (Bodenseekreis): https://www.meckenbeuren.de/de/ (4 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Altshausen (Ravensburg): https://www.altshausen.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, server; PDF-Hinweise: 3)
+
+Lokal archivierte Quellen
+- Wird nach archive-sources.py im Validierungsblock aktualisiert.
+
+PDF-Verfuegbarkeit
+- Wird nach check-pdf-availability.py im Validierungsblock aktualisiert.
+
+Gepruefte Gemeinden
+- Schemmerhofen, Kressbronn am Bodensee, Friedrichshafen, Immenstaad am Bodensee, Bermatingen, Deggenhausertal, Markdorf, Daisendorf, Hagnau am Bodensee, Meersburg, Stetten, Uhldingen-Mühlhofen, Frickingen, Heiligenberg, Salem, Neukirch, Tettnang, Owingen, Meckenbeuren, Altshausen.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 19 belastbar geprüfte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Hagnau am Bodensee. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Altshausen, Friedrichshafen, Immenstaad am Bodensee, Markdorf, Meckenbeuren, Salem, Schemmerhofen, Tettnang.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Caused by NameResolutionError("HTTPSConnection(host='news.google.com', port=443): Failed to resolve 'news.google.com' ([Errno 11001] getaddrinfo failed)"))).
+- DataCenter-Insider Startseite: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.datacenter-insider.de', port=443): Failed to resolve 'www.datacenter-insider.de' ([Errno 11001] getaddrinfo failed)"))).
+- DatacenterDynamics Startseite: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Max retries exceeded with url: /en/ (Caused by NameResolutionError("HTTPSConnection(host='www.datacenterdynamics.com', port=443): Failed to resolve 'www.datacenterdynamics.com' ([Errno 11001] getaddrinfo failed)"))).
+- DataCenter-Insider Lahr Baden Cloud: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Max retries exceeded with url: /richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Caused by NameResolutionError("HTTPSConnection(host='www.datacenter-insider.de', port=443): Failed to resolve 'www.datacenter-insider.de' ([Errno 11001] getaddrinfo failed)"))).
+- TransnetBW Badische Rheinschiene: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.transnetbw.de', port=443): Max retries exceeded with url: /de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Caused by NameResolutionError("HTTPSConnection(host='www.transnetbw.de', port=443): Failed to resolve 'www.transnetbw.de' ([Errno 11001] getaddrinfo failed)"))).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.netze-bw.de', port=443): Max retries exceeded with url: /unsernetz/netzausbau/hochspannung/denzlingen (Caused by NameResolutionError("HTTPSConnection(host='www.netze-bw.de', port=443): Failed to resolve 'www.netze-bw.de' ([Errno 11001] getaddrinfo failed)")))
+  - Denzlingen Wirtschaftsstandort: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /p/wirtschaftsstandort-denzlingen (Caused by NameResolutionError("HTTPSConnection(host='www.denzlingen.de', port=443): Failed to resolve 'www.denzlingen.de' ([Errno 11001] getaddrinfo failed)")))
+  - RP Freiburg 110-kV-Denzlingen: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='rpf.baden-wuerttemberg.de', port=443): Max retries exceeded with url: /abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Caused by NameResolutionError("HTTPSConnection(host='rpf.baden-wuerttemberg.de', port=443): Failed to resolve 'rpf.baden-wuerttemberg.de' ([Errno 11001] getaddrinfo failed)")))
+  - Freiburg Gewerbeflaechen/Wirtschaft: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.freiburg.de', port=443): Max retries exceeded with url: /pb/%2CLde/205243.html (Caused by NameResolutionError("HTTPSConnection(host='www.freiburg.de', port=443): Failed to resolve 'www.freiburg.de' ([Errno 11001] getaddrinfo failed)")))
+  - Freiburg Glasfaserausbau Gewerbegebiete: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.freiburg.de', port=443): Max retries exceeded with url: /pb/%2CLde_DE/1075533.html (Caused by NameResolutionError("HTTPSConnection(host='www.freiburg.de', port=443): Failed to resolve 'www.freiburg.de' ([Errno 11001] getaddrinfo failed)")))
+  - Emmendingen FNP/Bauleitplanung: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='www.emmendingen.de', port=443): Max retries exceeded with url: /bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Caused by NameResolutionError("HTTPSConnection(host='www.emmendingen.de', port=443): Failed to resolve 'www.emmendingen.de' ([Errno 11001] getaddrinfo failed)")))
+  - Stadtwerke Emmendingen Netzdaten: blockiert/fehlgeschlagen (HTTPSConnectionPool(host='netz.swe-emmendingen.de', port=443): Max retries exceeded with url: /veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Caused by NameResolutionError("HTTPSConnection(host='netz.swe-emmendingen.de', port=443): Failed to resolve 'netz.swe-emmendingen.de' ([Errno 11001] getaddrinfo failed)")))
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Kressbronn am Bodensee https://www.kressbronn.de/fileadmin/benutzerdaten/kressbronn-de/Bilder_und_PDF/1._Aktuelles/Baupl%C3%A4tze/Ziele_der_Gemeinde_f%C3%BCr_ein_Gewerbegebiet.pdf (1 Seiten; Treffer: gewerbe, gewerbegebiet, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-03/kressbronn-am-bodensee-01.pdf).
+- PDF-Screening fehlgeschlagen: Bermatingen https://www.bermatingen.de/fileadmin/Dateien/Dateien/Bebauungsplan/Infoblatt_Digitaler_Bautantrag_GVV_Markdorf.pdf (('Connection broken: IncompleteRead(3599512 bytes read, 3670331 more expected)', IncompleteRead(3599512 bytes read, 3670331 more expected))).
+- PDF-Screening fehlgeschlagen: Bermatingen https://www.bermatingen.de/fileadmin/Dateien/Dateien/Bebauungsplan/Erlaeuterungen_zum_Einreichen_von_Antraegen_ueber_das_Virtuelle_Bauamt.pdf (HTTPSConnectionPool(host='www.bermatingen.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Dateien/Bebauungsplan/Erlaeuterungen_zum_Einreichen_von_Antraegen_ueber_das_Virtuelle_Bauamt.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.bermatingen.de', port=443): Failed to resolve 'www.bermatingen.de' ([Errno 11001] getaddrinfo failed)"))).
+- PDF-Screening fehlgeschlagen: Deggenhausertal https://www.deggenhausertal.de/fileadmin/Dateien/Cross7/Root/de/Leben_%26_Wohnen/Bauen_%26_Wohnen/Bebauungsplane/00_-_BBP_Mennwangen_Sud_-_Abwagungsvorschlag_3%282%29_4%282%29_%2815-06-2.pdf (HTTPSConnectionPool(host='www.deggenhausertal.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Cross7/Root/de/Leben_%26_Wohnen/Bauen_%26_Wohnen/Bebauungsplane/00_-_BBP_Mennwangen_Sud_-_Abwagungsvorschlag_3%282%29_4%282%29_%2815-06-2.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.deggenhausertal.de', port=443): Failed to resolve 'www.deggenhausertal.de' ([Errno 11001] getaddrinfo failed)"))).
+- PDF-Screening fehlgeschlagen: Deggenhausertal https://www.deggenhausertal.de/fileadmin/Dateien/Cross7/Root/de/Leben_%26_Wohnen/Bauen_%26_Wohnen/Bebauungsplane/01_-_BBP_Mennwangen_Sud_-_Abgrenzungsplan_%2815-06-2026%29_A4-M2.000.pdf (HTTPSConnectionPool(host='www.deggenhausertal.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Cross7/Root/de/Leben_%26_Wohnen/Bauen_%26_Wohnen/Bebauungsplane/01_-_BBP_Mennwangen_Sud_-_Abgrenzungsplan_%2815-06-2026%29_A4-M2.000.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.deggenhausertal.de', port=443): Failed to resolve 'www.deggenhausertal.de' ([Errno 11001] getaddrinfo failed)"))).
+- PDF-Screening fehlgeschlagen: Daisendorf https://www.daisendorf.de/fileadmin/Dateien/Dateien/Buergerservice/Downloads/Grund_und_Gewerbesteuer.pdf_signed.pdf (HTTPSConnectionPool(host='www.daisendorf.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Dateien/Buergerservice/Downloads/Grund_und_Gewerbesteuer.pdf_signed.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.daisendorf.de', port=443): Failed to resolve 'www.daisendorf.de' ([Errno 11001] getaddrinfo failed)"))).
+- PDF-Screening fehlgeschlagen: Daisendorf https://www.daisendorf.de/fileadmin/Dateien/Dateien/Buergerservice/SatzungenVerordnungen/2025_03_11_Satzung_ueber_die_Erhebung_der_Grundsteuer_und_der_Gewerbesteuer_signiert.pdf (HTTPSConnectionPool(host='www.daisendorf.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Dateien/Buergerservice/SatzungenVerordnungen/2025_03_11_Satzung_ueber_die_Erhebung_der_Grundsteuer_und_der_Gewerbesteuer_signiert.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.daisendorf.de', port=443): Failed to resolve 'www.daisendorf.de' ([Errno 11001] getaddrinfo failed)"))).
+- PDF-Screening fehlgeschlagen: Stetten https://www.gemeinde-stetten.de/fileadmin/Dateien/Webseite/Bilder/Rathaus/GVV_Unterlagen/10._Teil%C3%A4nderung_Klosterwald/Ver%C3%B6ffentlichung_Mai_2026/260402_Entwurf_10_Teilaenderung_FNP.pdf (HTTPSConnectionPool(host='www.gemeinde-stetten.de', port=443): Max retries exceeded with url: /fileadmin/Dateien/Webseite/Bilder/Rathaus/GVV_Unterlagen/10._Teil%C3%A4nderung_Klosterwald/Ver%C3%B6ffentlichung_Mai_2026/260402_Entwurf_10_Teilaenderung_FNP.pdf (Caused by NameResolutionError("HTTPSConnection(host='www.gemeinde-stetten.de', port=443): Failed to resolve 'www.gemeinde-stetten.de' ([Errno 11001] getaddrinfo failed)"))).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: 20 weitere Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Schemmerhofen/Bodenseekreis/Altshausen; News-/Fachquellenmonitoring).
+
+Linkpruefung
+- Wird nach check-links.py im Validierungsblock aktualisiert.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Noch offen.
+
+Technischer Abschluss
+- Belastbar geprüft: 19; technisch offen und nicht als Negativfund gewertet: Hagnau am Bodensee.
