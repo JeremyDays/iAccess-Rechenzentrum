@@ -99,7 +99,7 @@ Linkpruefung
 - Echte Broken Links wurden vor Publish bereinigt oder als blockiert/transient bewertet.
 
 Zustellung
-- Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+- Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
@@ -111,7 +111,7 @@ Validierungsblock
 - Daten: database.json 133 Findings; Coverage found 17, checkedNoRZ 965, offen 35; heute 19 Gemeinden abgeschlossen, Hagnau am Bodensee offen.
 - Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0; pdfs/manual-uploads nur .gitkeep.
 - Website-Daten: index.html wird nach database.json synchronisiert.
-- Zustellung: Gmail-Versand wird nach Website-Publish versucht; kein Fragen-PDF, weil keine Fragen/Uploads vorlagen.
+- Zustellung: Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
 
 Technischer Abschluss
 - Belastbar geprueft: 19; technisch offen und nicht als Negativfund gewertet: Hagnau am Bodensee.
