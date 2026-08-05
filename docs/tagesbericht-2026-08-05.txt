@@ -1,0 +1,120 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-05
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 20 weitere offene Coverage-Gemeinden:
+  - Hagnau am Bodensee (Bodenseekreis): https://gemeinde-hagnau.ris-portal.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, ratsinfo)
+  - Ravensburg (Ravensburg): https://www.ravensburg.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gewerbe, netz, verkehr, wärme)
+  - Weingarten (Ravensburg): https://www.stadt-weingarten.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, brandschutz, gemeinderat, gewerbe, kommunale wärmeplanung, verkehr, wärme)
+  - Vogt (Ravensburg): https://www.gemeinde-vogt.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, entwässerung, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, verkehr, wärme; PDF-Hinweise: 12)
+  - Wolfegg (Ravensburg): https://www.wolfegg.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, ratsinfo; PDF-Hinweise: 12)
+  - Achberg (Ravensburg): https://www.achberg.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, gemeinderat, gewerbe, verkehr)
+  - Amtzell (Ravensburg): https://www.amtzell.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, industriegebiet, netz, ratsinfo)
+  - Wangen im Allgaeu (Ravensburg): https://www.wangen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, ratsinfo, verkehr)
+  - Horgenzell (Ravensburg): https://www.horgenzell.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gewerbe, ratsinfo, server, verkehr)
+  - Wilhelmsdorf (Ravensburg): https://www.gemeinde-wilhelmsdorf.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, gemeinderat, gewerbe, ratsinfo, verkehr, wärme)
+  - Argenbuehl (Ravensburg): https://www.argenbuehl.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, strom)
+  - Aulendorf (Ravensburg): https://www.aulendorf.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, gemeinderat, gewerbe, netz, ratsinfo, server, strom, trafo, verkehr, wärme; PDF-Hinweise: 6)
+  - Bad Wurzach (Ravensburg): https://www.bad-wurzach.de/stadt/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server, strom, verkehr)
+  - Kisslegg (Ravensburg): https://www.kisslegg.de/buerger/startseite-buerger (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, kommunale wärmeplanung, netz, server, verkehr, wärme)
+  - Gammertingen (Sigmaringen): https://www.gammertingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, brandschutz, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz)
+  - Hettingen (Sigmaringen): https://www.hettingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, verkehr; PDF-Hinweise: 4)
+  - Neufra (Sigmaringen): https://www.neufra.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, glasfaser, netz, verkehr; PDF-Hinweise: 1)
+  - Veringenstadt (Sigmaringen): https://www.veringenstadt.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, strom, verkehr, wärme; PDF-Hinweise: 2)
+  - Messkirch (Sigmaringen, Ersatz fuer Scheer-Abbruch): https://www.messkirch.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, netz, server)
+  - Leibertingen (Sigmaringen): https://www.leibertingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, server, strom, waerme, wärme; PDF-Hinweise: 3)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1412 bekannte Quellen im Manifest; 1363 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- Heutige kommunale HTML-/PDF-Arbeitsquellen aus Ravensburg/Sigmaringen sowie Fach-/Netzquellen lokal archiviert; keine Bilder uebernommen.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Hagnau am Bodensee, Ravensburg, Weingarten, Vogt, Wolfegg, Achberg, Amtzell, Wangen im Allgaeu, Horgenzell, Wilhelmsdorf, Argenbuehl, Aulendorf, Bad Wurzach, Kisslegg, Gammertingen, Hettingen, Neufra, Veringenstadt, Leibertingen, Messkirch.
+- Technisch versucht, aber nicht als Negativfund gewertet: Scheer.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 20 belastbar gepruefte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Scheer. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Aulendorf, Bad Wurzach, Gammertingen, Kisslegg, Messkirch, Ravensburg, Veringenstadt, Wangen im Allgaeu, Weingarten.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, glasfaser, industrie, netz, rechenzentrum, server, strom).
+- DataCenter-Insider Flexible Netzanschluesse: https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, umspannwerk).
+- DataCenter-Insider Bitkom Cloud Report 2026: https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom, wärme).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- CloudComputing-Insider Startseite: https://www.cloudcomputing-insider.de/ (Status 200; Treffer: cloud, server).
+- CloudComputing-Insider DACH Edge: https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/ (Status 200; Treffer: cloud, netz, rechenzentrum, server).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
+- DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
+- Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
+- iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
+- Golem Rechenzentrum Special: https://www.golem.de/specials/rechenzentrum/ (Status 200; Treffer: rechenzentrum).
+- Golem OpenAI-Standortdebatte Deutschland: https://www.golem.de/news/branchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html (Status 200; Treffer: rechenzentrum).
+- Golem Bitkom Cloud-Ausfall: https://www.golem.de/news/bitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html (Status 200; Treffer: cloud).
+- Uni Freiburg RZ-Stromausfall: blockiert/fehlgeschlagen (500 Server Error: Internal Server Error for url: https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums).
+- Denzlingen Stromausfall Umspannwerk: https://www.denzlingen.de/de/aktuelles/show.php?id=1964 (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, netz, ratsinfo, server, strom, umspannwerk, verkehr).
+- TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, trafo, umspannwerk).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, brandschutz, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+  - VVG Denzlingen FNP: https://www.denzlingen.de/p/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, strom)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal gesichert und mit pypdf ausgelesen: Vogt https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/Bekanntmachung_zur_fruehzeitigen_Unterrichtung_02.07.2026.pdf (1 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/vogt-01.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Vogt https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/Lageplan_Grund_02.07.2026.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/vogt-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Wolfegg https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/230227_BP_Wolfegg_Alttann_Begr%C3%BCndung_Umweltbericht_Arten_extra.pdf (27 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/wolfegg-03.pdf).
+- PDF lokal geprueft/uebersprungen: Wolfegg https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/220831_Begr%C3%BCndung_FNP%C3%A4_Wolfegg_Alttann__002_.pdf (too large for daily text extraction, 10160824 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Aulendorf https://www.aulendorf.de/fileadmin/Dateien/Dateien/Rathausformulare/Gewerbe_Anmeldung_mit_Hinweisen_ab_2020.pdf (3 Seiten; Treffer: gewerbe, industrie, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/aulendorf-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Aulendorf https://www.aulendorf.de/fileadmin/Dateien/Dateien/Rathausformulare/Gewerbeabmeldung.pdf (1 Seiten; Treffer: gewerbe, industrie; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/aulendorf-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hettingen https://www.hettingen.de/fileadmin/Dateien/Website/Dateien/Bauen/Bebauungsplan_Langensteig_V_Wohnen_Hettingen_1._%C3%84nderung_gesamt.pdf (19 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/hettingen-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Hettingen https://www.hettingen.de/fileadmin/Dateien/Website/Dateien/Bauen/Bebauungsplan_Ka__ppelebru__hl_III_gesamt.pdf (43 Seiten; Treffer: bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, schall, server, strom, verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-05/hettingen-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen, technisch offen: Scheer.
+- database.json: 135 Findings; +2 heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
+- Neue Arbeits-PDFs: 7 lokal gesichert und ausgelesen; ein weiteres uebergrosses PDF geprueft, aber nicht lokal uebernommen.
+
+Linkpruefung
+- check-links.py: 1389 eindeutige URLs geprueft, 1357 ok, 32 blockiert/transient, 0 echte Broken Links.
+- Keine echten Broken Links vor Publish.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP- oder Google-OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1412 bekannte Quellen; 1363 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 7 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
+- Links: 1389 geprueft, 1357 ok, 32 blockiert/transient, 0 broken.
+- Daten: database.json 135 Findings; Coverage found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html wurde nach database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprueft: 20; technisch offen und nicht als Negativfund gewertet: Scheer.
