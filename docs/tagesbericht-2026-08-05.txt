@@ -24,8 +24,8 @@ Neue Quellen
   - Leibertingen (Sigmaringen): https://www.leibertingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, server, strom, waerme, wärme; PDF-Hinweise: 3)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1412 bekannte Quellen im Manifest; 1363 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
-- Heutige kommunale HTML-/PDF-Arbeitsquellen aus Ravensburg/Sigmaringen sowie Fach-/Netzquellen lokal archiviert; keine Bilder uebernommen.
+- archive-sources.py: 1412 bekannte Quellen im Manifest; 1386 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- Neu hinzugekommen sind die heutigen kommunalen HTML-/PDF-Arbeitsquellen aus Ravensburg/Sigmaringen sowie Fach-/News- und Netzquellen; keine Bilder uebernommen.
 
 PDF-Verfuegbarkeit
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
@@ -93,28 +93,28 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage: found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen, technisch offen: Scheer.
+- Coverage: found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt, Scheer technisch versucht/offen.
 - database.json: 135 Findings; +2 heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
-- Neue Arbeits-PDFs: 7 lokal gesichert und ausgelesen; ein weiteres uebergrosses PDF geprueft, aber nicht lokal uebernommen.
+- Neue Arbeits-PDFs: 7 lokal gesichert und ausgelesen; 1 grosses Wolfegg-FNP-PDF wegen Groesse nur als Hinweis gefuehrt; keine neuen Fotos oder technischen Zeichnungen aufgenommen.
 
 Linkpruefung
 - check-links.py: 1389 eindeutige URLs geprueft, 1357 ok, 32 blockiert/transient, 0 echte Broken Links.
-- Keine echten Broken Links vor Publish.
+- Echte Broken Links wurden vor Publish nicht festgestellt.
 
 Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP- oder Google-OAuth-Aktion.
+- Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1412 bekannte Quellen; 1363 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- Archiv: 1412 bekannte Quellen; 1386 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
 - PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 7 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
 - Links: 1389 geprueft, 1357 ok, 32 blockiert/transient, 0 broken.
-- Daten: database.json 135 Findings; Coverage found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen.
-- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
-- Website-Daten: index.html wurde nach database.json synchronisiert.
-- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+- Daten: database.json 135 Findings; Coverage found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen, Scheer technisch offen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0; pdfs/manual-uploads nur .gitkeep.
+- Website-Daten: index.html wird nach database.json synchronisiert.
+- Zustellung: Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
 
 Technischer Abschluss
 - Belastbar geprueft: 20; technisch offen und nicht als Negativfund gewertet: Scheer.
