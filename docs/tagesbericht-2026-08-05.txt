@@ -20,25 +20,24 @@ Neue Quellen
   - Hettingen (Sigmaringen): https://www.hettingen.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, verkehr; PDF-Hinweise: 4)
   - Neufra (Sigmaringen): https://www.neufra.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, breitband, gemeinderat, gewerbe, glasfaser, netz, verkehr; PDF-Hinweise: 1)
   - Veringenstadt (Sigmaringen): https://www.veringenstadt.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, strom, verkehr, wärme; PDF-Hinweise: 2)
-  - Messkirch (Sigmaringen, Ersatz fuer Scheer-Abbruch): https://www.messkirch.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, netz, server)
+  - Scheer (Sigmaringen): https://www.stadt-scheer.de/de/stadtverwaltung/index.php (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: altlasten, amtsblatt, bauleit, bebauungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, verkehr; PDF-Hinweise: 12)
   - Leibertingen (Sigmaringen): https://www.leibertingen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gewerbe, industrie, netz, server, strom, waerme, wärme; PDF-Hinweise: 3)
+  - Messkirch (Sigmaringen, Ersatz fuer Scheer-Abbruch): https://www.messkirch.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, industrie, netz, ratsinfo, server, sondergebiet, verkehr)
 
 Lokal archivierte Quellen
-- archive-sources.py: 1412 bekannte Quellen im Manifest; 1386 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
-- Neu hinzugekommen sind die heutigen kommunalen HTML-/PDF-Arbeitsquellen aus Ravensburg/Sigmaringen sowie Fach-/News- und Netzquellen; keine Bilder uebernommen.
+- Wird nach archive-sources.py im Validierungsblock aktualisiert.
 
 PDF-Verfuegbarkeit
-- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- Wird nach check-pdf-availability.py im Validierungsblock aktualisiert.
 
 Gepruefte Gemeinden
-- Hagnau am Bodensee, Ravensburg, Weingarten, Vogt, Wolfegg, Achberg, Amtzell, Wangen im Allgaeu, Horgenzell, Wilhelmsdorf, Argenbuehl, Aulendorf, Bad Wurzach, Kisslegg, Gammertingen, Hettingen, Neufra, Veringenstadt, Leibertingen, Messkirch.
-- Technisch versucht, aber nicht als Negativfund gewertet: Scheer.
+- Hagnau am Bodensee, Ravensburg, Weingarten, Vogt, Wolfegg, Achberg, Amtzell, Wangen im Allgaeu, Horgenzell, Wilhelmsdorf, Argenbuehl, Aulendorf, Bad Wurzach, Kisslegg, Gammertingen, Hettingen, Neufra, Veringenstadt, Leibertingen, Messkirch; Scheer technisch versucht und offen.
 
 Gemeinden mit RZ-Fund
 - Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
 
 Gemeinden ohne Fund/nur offen
-- 20 belastbar gepruefte Gemeinden ohne direkten RZ-Nachweis; technisch offen: Scheer. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Aulendorf, Bad Wurzach, Gammertingen, Kisslegg, Messkirch, Ravensburg, Veringenstadt, Wangen im Allgaeu, Weingarten.
+- 20 belastbar gepruefte Gemeinden ohne direkten RZ-Nachweis; technisch offen: keine. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Aulendorf, Bad Wurzach, Gammertingen, Kisslegg, Messkirch, Ravensburg, Veringenstadt, Wangen im Allgaeu, Weingarten.
 
 Nachrichten-/Betreiber-Sichtung
 - Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
@@ -53,10 +52,10 @@ Nachrichten-/Betreiber-Sichtung
 - DatacenterDynamics Philippsburg: https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/ (Status 200; Treffer: cloud, data center, datacenter, server).
 - Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
 - iX Strom wird Pruefstein von KI-Rechenzentren: https://www.heise.de/select/ix/2026/4/2604212384521858866 (Status 200; Treffer: netz, rechenzentrum, strom).
-- Golem Rechenzentrum Special: https://www.golem.de/specials/rechenzentrum/ (Status 200; Treffer: rechenzentrum).
-- Golem OpenAI-Standortdebatte Deutschland: https://www.golem.de/news/branchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html (Status 200; Treffer: rechenzentrum).
-- Golem Bitkom Cloud-Ausfall: https://www.golem.de/news/bitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html (Status 200; Treffer: cloud).
-- Uni Freiburg RZ-Stromausfall: blockiert/fehlgeschlagen (500 Server Error: Internal Server Error for url: https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums).
+- Golem Rechenzentrum Special: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fspecials%2Frechenzentrum%2F (Status 200; Treffer: rechenzentrum).
+- Golem OpenAI-Standortdebatte Deutschland: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbranchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html (Status 200; Treffer: rechenzentrum).
+- Golem Bitkom Cloud-Ausfall: https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html (Status 200; Treffer: cloud).
+- Uni Freiburg RZ-Stromausfall: blockiert/fehlgeschlagen (503 Server Error: Service Unavailable for url: https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums).
 - Denzlingen Stromausfall Umspannwerk: https://www.denzlingen.de/de/aktuelles/show.php?id=1964 (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, netz, ratsinfo, server, strom, umspannwerk, verkehr).
 - TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, trafo, umspannwerk).
 - Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
@@ -93,28 +92,20 @@ Verarbeitete Uploads
 - database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
 
 Veraenderte Statistiken
-- Coverage: found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt, Scheer technisch versucht/offen.
-- database.json: 135 Findings; +2 heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
-- Neue Arbeits-PDFs: 7 lokal gesichert und ausgelesen; 1 grosses Wolfegg-FNP-PDF wegen Groesse nur als Hinweis gefuehrt; keine neuen Fotos oder technischen Zeichnungen aufgenommen.
+- Coverage: 20 Gemeinden von offen auf geprueft/kein RZ-Fund gesetzt; Scheer technisch versucht und weiter offen; found unveraendert.
+- database.json: 2 neue Findings (Kommunalblock Ravensburg/Sigmaringen; News-/Fachquellenmonitoring).
 
 Linkpruefung
-- check-links.py: 1389 eindeutige URLs geprueft, 1357 ok, 32 blockiert/transient, 0 echte Broken Links.
-- Echte Broken Links wurden vor Publish nicht festgestellt.
+- Wird nach check-links.py im Validierungsblock aktualisiert.
 
 Zustellung
-- Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
+- Ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Validierungsblock
-- Archiv: 1412 bekannte Quellen; 1386 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
-- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 7 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
-- Links: 1389 geprueft, 1357 ok, 32 blockiert/transient, 0 broken.
-- Daten: database.json 135 Findings; Coverage found 17, checkedNoRZ 985, offen 15; heute 20 Gemeinden abgeschlossen, Scheer technisch offen.
-- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0; pdfs/manual-uploads nur .gitkeep.
-- Website-Daten: index.html wird nach database.json synchronisiert.
-- Zustellung: Gmail-Versand blockiert: OAuth RefreshError invalid_grant; Tagesbericht ist auf GitHub Pages veroeffentlicht, aber keine E-Mail wurde versandt.
+- Noch offen.
 
 Technischer Abschluss
-- Belastbar geprueft: 20; technisch offen und nicht als Negativfund gewertet: Scheer.
+- Belastbar geprueft: 20; technisch offen und nicht als Negativfund gewertet: keine.
