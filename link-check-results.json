@@ -1,6 +1,6 @@
 {
-  "checked": 1389,
-  "ok": 1357,
+  "checked": 1433,
+  "ok": 1401,
   "blocked": 32,
   "broken": 0,
   "results": [
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x19a319cc750>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2229f9c7f50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -39,6 +39,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 83,
+      "field": "sourceUrl",
+      "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
+      "url": "https://www.bischweier.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "findings",
@@ -114,18 +126,6 @@
     },
     {
       "collection": "findings",
-      "index": 132,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
-      "url": "https://www.golem.de/news/branchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', ConnectionAbortedError(10053, 'Eine bestehende Verbindung wurde softwaregesteuert\\r\\ndurch den Hostcomputer abgebrochen'))"
-    },
-    {
-      "collection": "findings",
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
@@ -141,12 +141,12 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums",
-      "status": 503,
-      "finalUrl": "https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums",
+      "url": "https://www.scheer-online.de/",
+      "status": null,
+      "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": ""
+      "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
     },
     {
       "collection": "findings",
@@ -182,7 +182,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x19a319f6c10>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2229f9d6c50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -6201,18 +6201,6 @@
       "index": 83,
       "field": "sourceUrl",
       "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
-      "url": "https://www.bischweier.de/",
-      "status": 200,
-      "finalUrl": "https://www.bischweier.de/startseite.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 83,
-      "field": "sourceUrl",
-      "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
       "url": "https://www.buehl.de/",
       "status": 200,
       "finalUrl": "https://www.buehl.de/willkommen",
@@ -10377,9 +10365,57 @@
       "index": 132,
       "field": "sourceUrl",
       "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums",
+      "status": 200,
+      "finalUrl": "https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-05-22-17-10-folgemeldung-auswirkungen-stromausfall-auf-zentrale-systeme-des-rechenzentrums",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
+      "status": 200,
+      "finalUrl": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
+      "status": 200,
+      "finalUrl": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
       "url": "https://www.golem.de/news/bitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html",
       "status": 200,
       "finalUrl": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://www.golem.de/news/branchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html",
+      "status": 200,
+      "finalUrl": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbranchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11142,7 +11178,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.aulendorf.de/fileadmin/Dateien/Dateien/Rathausformulare/ANZEIGE_Formular_nach_LGastG.pdf",
@@ -11166,7 +11202,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.aulendorf.de/fileadmin/Dateien/Dateien/Rathausformulare/Gewerbe_Ummeldung_mit_Hinweisen_2020.pdf",
@@ -11217,30 +11253,6 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
-      "status": 200,
-      "finalUrl": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.denzlingen.de/p/flaechennutzungsplan",
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/p/flaechennutzungsplan",
@@ -11274,7 +11286,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/01_2026-06-18__FNPae_Agri_PV_Grund_Vogt_und_Annaburg_Wolfegg_PLAN.pdf",
@@ -11298,7 +11310,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/Lageplan_Annburg_02.07.2026.pdf",
@@ -11334,7 +11346,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html",
@@ -11346,7 +11358,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbranchenverbaende-umweltauflagen-schleifen-fuer-openai-rechenzentrum-in-deutschland-2607-211172.html",
@@ -11358,7 +11370,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fspecials%2Frechenzentrum%2F",
@@ -11370,7 +11382,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.hettingen.de/fileadmin/Dateien/Website/Dateien/Bauen/Bebauungsplan_IKG-Berg_Inneringen_2021_gesamt.pdf",
@@ -11382,7 +11394,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.hettingen.de/fileadmin/Dateien/Website/Dateien/Bauen/Bebauungsplan_IKG-Berg_Inneringen_Planfassung_2021_mit__Ausfertigung.pdf",
@@ -11466,7 +11478,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
@@ -11478,7 +11490,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
@@ -11490,7 +11502,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
@@ -11503,6 +11515,66 @@
     {
       "collection": "findings",
       "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.messkirch.de/de/aktuelles/Amtsblatt",
+      "status": 200,
+      "finalUrl": "https://www.messkirch.de/de/aktuelles/Amtsblatt",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.messkirch.de/de/leben-in-messkirch/Trinkwasserversorgung",
+      "status": 200,
+      "finalUrl": "https://www.messkirch.de/de/leben-in-messkirch/Trinkwasserversorgung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.messkirch.de/de/rathaus-service/Gemeinderat",
+      "status": 200,
+      "finalUrl": "https://www.messkirch.de/de/rathaus-service/Gemeinderat",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.messkirch.de/de/rathaus-service/stadtverwaltung/oeffentliche-Bekanntmachungen",
+      "status": 200,
+      "finalUrl": "https://www.messkirch.de/de/rathaus-service/stadtverwaltung/oeffentliche-Bekanntmachungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.messkirch.de/willkommen",
+      "status": 200,
+      "finalUrl": "https://www.messkirch.de/willkommen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.neufra.de/fileadmin/Dateien/Webseite/Dateien/Formulare/Eintragung_Gewerbebetrieb.pdf",
@@ -11538,7 +11610,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.stadt-scheer.de/de/stadtverwaltung/index.php",
@@ -11550,7 +11622,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.stadt-scheer.de/default-wAssets/docs/buergerservice/bebauungsplaene/rechtskraeftig/Am-Heudorfer-Kreuz-Nord/201012_6227_AHKN-Satzung-Begruendung.pdf",
@@ -11562,7 +11634,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.stadt-scheer.de/default-wAssets/docs/buergerservice/bebauungsplaene/rechtskraeftig/Am-Heudorfer-Kreuz-Nord/201012_6227_P_BP_zeichnerischerTeil-Am-Heudorfer-Kreuz-Nord.pdf",
@@ -11574,7 +11646,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.stadt-scheer.de/default-wAssets/docs/buergerservice/bebauungsplaene/rechtskraeftig/knebelaecker-heudorf/knebelaecker-planzeichnung1.pdf",
@@ -11586,7 +11658,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.stadt-scheer.de/default-wAssets/docs/buergerservice/bebauungsplaene/rechtskraeftig/knebelaecker-heudorf/knebelaecker-textliche-festsetzungen.pdf",
@@ -11610,7 +11682,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.veringenstadt.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungsplan_IKG-Berg_Inneringen_2021.pdf",
@@ -11622,7 +11694,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.veringenstadt.de/fileadmin/Website/Dateien/Gewerbegebiete/Lageplan_IKG_Berg_freie_Grundst%C3%BCcke_07_2024.pdf",
@@ -11670,7 +11742,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/230227_BP_Haselweg_Alttann_PLAN.pdf",
@@ -11694,7 +11766,7 @@
     },
     {
       "collection": "findings",
-      "index": 131,
+      "index": 133,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/230227_BP_Wolfegg_Alttann_Festsetzungen_%C3%BCberarbeitet.pdf",
@@ -13134,6 +13206,462 @@
     },
     {
       "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/Parken/Parkplatzkonzept-mit-Luftbild.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/Parken/Parkplatzkonzept-mit-Luftbild.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/fahrplaene-bus/Fahrplan-Linie-420.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/fahrplaene-bus/Fahrplan-Linie-420.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/tub_05766m_j20_.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/tub_05766m_j20_.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.bad-saulgau.de/de/index.php",
+      "status": 200,
+      "finalUrl": "https://www.bad-saulgau.de/de/index.php",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/2.Korr._20260331_1_%C3%84nd_Bpl_Unter%C3%B6schle_Ver%C3%B6ffentl.pdf",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/2.Korr._20260331_1_%C3%84nd_Bpl_Unter%C3%B6schle_Ver%C3%B6ffentl.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20221216_BPlan_Beuron_I_zusammfass_Erklaerung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20221216_BPlan_Beuron_I_zusammfass_Erklaerung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20230711_Satzung_Bebauungsplanaenderung_Oberoeschle_West_zur_Aufs_Endfassung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20230711_Satzung_Bebauungsplanaenderung_Oberoeschle_West_zur_Aufs_Endfassung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20260318_BPL_%C3%84nd_Unter%C3%B6schle.pdf",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20260318_BPL_%C3%84nd_Unter%C3%B6schle.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20260318_Begr%C3%BCnd_Unter%C3%B6schle_1%C3%84nd_unterschr.pdf",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20260318_Begr%C3%BCnd_Unter%C3%B6schle_1%C3%84nd_unterschr.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.beuron.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.beuron.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.bingen-hohenzollern.de/",
+      "status": 200,
+      "finalUrl": "https://www.bingen-hohenzollern.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.herbertingen.de/ceasy/resource/?id=2415&download=1",
+      "status": 200,
+      "finalUrl": "https://www.herbertingen.de/ceasy/resource/?id=2415&download=1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.herbertingen.de/ceasy/resource/?id=2449&download=1",
+      "status": 200,
+      "finalUrl": "https://www.herbertingen.de/ceasy/resource/?id=2449&download=1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.herbertingen.de/ceasy/resource/?id=2505&download=1",
+      "status": 200,
+      "finalUrl": "https://www.herbertingen.de/ceasy/resource/?id=2505&download=1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.herbertingen.de/willkommen",
+      "status": 200,
+      "finalUrl": "https://www.herbertingen.de/willkommen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.herdwangen-schoenach.de/",
+      "status": 200,
+      "finalUrl": "https://www.herdwangen-schoenach.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.illmensee.de/",
+      "status": 200,
+      "finalUrl": "https://www.illmensee.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/,Lde/14336492.html",
+      "status": 200,
+      "finalUrl": "https://www.krauchenwies.de/,Lde/14336492.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
+      "status": 304,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
+      "status": 304,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
+      "status": 304,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.ostrach.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.ostrach.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.pfullendorf.de/",
+      "status": 200,
+      "finalUrl": "https://www.pfullendorf.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sauldorf.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.sauldorf.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringen.de/",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringendorf.de/de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringendorf.de/de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/260206_Entwurf_Satzungen_BPlan_und_ortliche_Bauvorschriften.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/260206_Entwurf_Satzungen_BPlan_und_ortliche_Bauvorschriften.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Amtliche_Bekanntmachung_S_3-Bebauungsplan_Versorgung_Orstmitte-signed.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Amtliche_Bekanntmachung_S_3-Bebauungsplan_Versorgung_Orstmitte-signed.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Dokument3.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Dokument3.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Offentliche_Bekanntmachung_Inkrafttreten_B-Plan_Versorgung_Ortsmitte-signed-1774951425.pdf",
+      "status": 200,
+      "finalUrl": "https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Offentliche_Bekanntmachung_Inkrafttreten_B-Plan_Versorgung_Ortsmitte-signed-1774951425.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/BBPL_Im_Bruehl.pdf",
+      "status": 200,
+      "finalUrl": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/BBPL_Im_Bruehl.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/BBPL_Reboul_II.pdf",
+      "status": 200,
+      "finalUrl": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/BBPL_Reboul_II.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/Bebauungsplan_Reboul_gafischer_Teil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/Bebauungspl%C3%A4ne/Bebauungsplan_Reboul_gafischer_Teil.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/GEW_In_der_Breite.pdf",
+      "status": 200,
+      "finalUrl": "https://www.stetten-akm.de/fileadmin/Website/Dateien/Gewerbegebiete/GEW_In_der_Breite.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.stetten-akm.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.stetten-akm.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.wald-hohenzollern.de/fileadmin/Dateien/Bilder/Sonstiges/Unterlagen_Windenergie_-_Infoveranstaltung_22.06.2026.pdf",
+      "status": 200,
+      "finalUrl": "https://www.wald-hohenzollern.de/fileadmin/Dateien/Bilder/Sonstiges/Unterlagen_Windenergie_-_Infoveranstaltung_22.06.2026.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.wald-hohenzollern.de/fileadmin/Dateien/Dateien/Bebauungsplaene/Oeffentliche_Bekanntmachung_Einbeziehungssatzung_Mussnauenweg.pdf_signed.pdf",
+      "status": 200,
+      "finalUrl": "https://www.wald-hohenzollern.de/fileadmin/Dateien/Dateien/Bebauungsplaene/Oeffentliche_Bekanntmachung_Einbeziehungssatzung_Mussnauenweg.pdf_signed.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.wald-hohenzollern.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.wald-hohenzollern.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 31,
       "field": "source",
       "title": "Suedlicher Oberrhein verdichtet sich als Edge-/Micro-DC-Korridor",
@@ -13158,7 +13686,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/",
@@ -13170,7 +13698,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251013_Entwurf_BPlan_Wehstetten.pdf",
@@ -13182,7 +13710,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/20251028_Oberwasserburgerhof_Umweltbericht_Entwurf.pdf",
@@ -13194,7 +13722,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/VG_2026-06-02_%C3%B6ffentliche_Bekanntmachung_Gen._24_25_FNP-%C3%84nd.pdf",
@@ -13206,7 +13734,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://emmingen-liptingen.de/fileadmin/user_upload/pdf/Gewerberecht/Vorlage_Anzeige_vor%C3%BC_Gastst%C3%A4tte.pdf",
@@ -13218,7 +13746,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Bekanntmachung_Faugelen_Satzungsbeschluss_17.07.2024_01.pdf",
@@ -13230,7 +13758,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Festsetzungen_zum_Bebauungsplan_Faugelen_II.pdf",
@@ -13242,7 +13770,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Satzung_Bebauungsplan_Faugelen_II.pdf",
@@ -13254,7 +13782,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/fileadmin/data/gemeinde-talheim.de/Downloads/Zeichnerischer_Teil_Bebauungsplan_Faugelen_II.pdf",
@@ -13266,7 +13794,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://gemeinde-talheim.de/home",
@@ -13278,7 +13806,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aach.de/willkommen",
@@ -13290,7 +13818,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.boettingen.de/startseite",
@@ -13302,7 +13830,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.buesingen.de/willkommen",
@@ -13314,7 +13842,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.denkingen.de/willkommen",
@@ -13326,7 +13854,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/7._%C3%84nderungssatzung_Abwasser.pdf",
@@ -13338,7 +13866,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/8._%C3%84nderungssatzung_Abwasser.pdf",
@@ -13350,7 +13878,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachung/Amtl._Bekanntmachung_9._%C3%84nderungssatzung_Abwasserbeseitigung_2026.pdf",
@@ -13362,7 +13890,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/fileadmin/Dateien/Website/Dateien/Ortsrecht/Grund-_und_Gewerbesteuer_Hebesatzsatzung_ab_2025.pdf",
@@ -13374,7 +13902,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.duerbheim.de/startseite",
@@ -13386,7 +13914,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/",
@@ -13398,7 +13926,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/%C3%96ffentl.%20Bekanntmachung%20FNP%202020%20-%206.%20Fortschreibung%20-%20Sonderbaufl%C3%A4che%20Lebensmittelmarkt%20Gem.%20Durchhausen.pdf",
@@ -13410,7 +13938,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/5%20Anlage%202%20Umweltbericht%20UB%20-%20Beschluss%20zur%20Fr%C3%BChzeitige%20Beteiligung%20vom%2023.07.2025%20-%20Stand%20250618.pdf",
@@ -13422,7 +13950,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Begr%C3%BCndung%20und%20Umweltbericht%20zum%20FNP%206.%20Fortschreibung%20Lebensmittelmarkt%20Durchhausen%20vom%2030.01.2026.pdf",
@@ -13434,7 +13962,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.durchhausen.de/resources/02%20Datenobjekte/%C3%96ffentliche%20Bekanntmachungen/Norma/5.%20Umweltbericht.pdf",
@@ -13446,7 +13974,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/de/startseite",
@@ -13458,7 +13986,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9A_FNP_Spaichingen_Vorentwurf_-_Planungsunterlag.pdf",
@@ -13470,7 +13998,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/9Aenderung__FNP_Spaichingen-A4-Lageplan_-_Planungsunterlag.pdf",
@@ -13482,7 +14010,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Amtl._Bekanntmachung_fruehzeitige_FNP_2030_-_9.punktuelle_AEnderung.pdf",
@@ -13494,7 +14022,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.frittlingen.de/fileadmin/Dateien/Dateien/Rathaus/OEffentliche_Bekanntmachung/Bekanntgabe_VG_Spaichingen_9._punktuelle_AEnderung_FNP_2030_-_fruehzeitige_Beteiligung/Anlage_2a_-_Legende__FNP_Spaichingen_-__Planungsunterlag.pdf",
@@ -13506,7 +14034,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_schriftlich_Bei_der_Erlenwies.pdf",
@@ -13518,7 +14046,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Bei_der_Erlenwies/0_zeichnerisch_Bei_der_Erlenwies.pdf",
@@ -13530,7 +14058,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Ebele_Faulen-zeichnerisch.pdf",
@@ -13542,7 +14070,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Eble_Faulen/0._Eble_Faulen_schriftlich_28.11.1980.pdf",
@@ -13554,7 +14082,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gailingen.de/startseite",
@@ -13566,7 +14094,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/403_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -13578,7 +14106,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/404_g%C3%BCltig_ab_14.12.2025.pdf",
@@ -13590,7 +14118,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Faltfahrplan_2026.pdf",
@@ -13602,7 +14130,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/fileadmin/Website/Dateien/01_Leben_in_Gottmadingen/Lage___Verkehr/Mobilit%C3%A4t/VHB_Tarife_Preise_Zonen_2026.pdf",
@@ -13614,7 +14142,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gottmadingen.de/startseite",
@@ -13626,7 +14154,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/fileadmin/Dateien/Webseite/Dateien/BBP_Oehmdwiesen_A4.pdf",
@@ -13638,7 +14166,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.gunningen.de/startseite",
@@ -13650,7 +14178,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=87",
@@ -13662,7 +14190,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1261&cHash=4129063cf528905c64576f87ab56c9b9",
@@ -13674,7 +14202,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1522&cHash=6360b3e8dc6fd8eeef117b0ba3fdbd5f",
@@ -13686,7 +14214,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1690&cHash=fe192ee212a1ffc2f6a5a7b41406f3fe",
@@ -13698,7 +14226,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hausen-ob-verena.de/index.php?id=96&tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=1727&cHash=cdcd0ff11387fa5c62e4764e96da2110",
@@ -13710,7 +14238,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.mahlstetten.de/startseite",
@@ -13722,7 +14250,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.neuhausen-ob-eck.de/",
@@ -13734,7 +14262,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/fileadmin/Dateien/Dateien/Gewerbe_Einverst%C3%A4ndniserkl%C3%A4rung_und_Datenblatt.pdf",
@@ -13746,7 +14274,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.rietheim-weilheim.de/startseite",
@@ -13758,7 +14286,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.seitingen-oberflacht.de/startseite",
@@ -13770,7 +14298,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.spaichingen.de/willkommen",
@@ -13782,7 +14310,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.tuttlingen.de/willkommen",
@@ -13794,7 +14322,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/",
@@ -13806,7 +14334,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/erbsenberg/20260408_bplan_erbsenberg.pdf",
@@ -13818,7 +14346,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/bebauungsplaene/obere-hauptstrasse/Obere-Hauptstrasse-64.pdf",
@@ -13830,7 +14358,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de-wAssets/docs/rathaus/bekanntmachungen/20260513_sonderrechnung-2023.pdf",
@@ -13842,7 +14370,7 @@
     },
     {
       "collection": "findings",
-      "index": 133,
+      "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wurmlingen.de/de/aktuelles/bekanntmachungen/20260325_Satzungsbeschluss_BP.pdf",
