@@ -1,0 +1,101 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-06
+
+Neue Quellen
+- Offizielle kommunale Primaerquellen fuer 14 letzte offene Coverage-Gemeinden im Landkreis Sigmaringen:
+  - Sauldorf (Sigmaringen): https://www.sauldorf.de/startseite (3 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, glasfaser, industrie, netz, ratsinfo, verkehr)
+  - Herdwangen-Schoenach (Sigmaringen): https://www.herdwangen-schoenach.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, gemeinderat, gewerbe, gewerbegebiet, netz, ratsinfo, server)
+  - Illmensee (Sigmaringen): https://www.illmensee.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, netz, ratsinfo, strom)
+  - Pfullendorf (Sigmaringen): https://www.pfullendorf.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, breitband, flächennutzungsplan, gemeinderat, gewerbe, industrie, verkehr, wärme)
+  - Wald (Sigmaringen): https://www.wald-hohenzollern.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: gemeinderat, gewerbe, gewerbegebiet, industrie, ratsinfo, server, verkehr; PDF-Hinweise: 2)
+  - Bad Saulgau (Sigmaringen): https://www.bad-saulgau.de/de/index.php (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, breitband, gemeinderat, gewerbe, industrie, industriegebiet, netz, ratsinfo, strom, verkehr; PDF-Hinweise: 3)
+  - Herbertingen (Sigmaringen): https://www.herbertingen.de/willkommen (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, breitband, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom; PDF-Hinweise: 4)
+  - Beuron (Sigmaringen): https://www.beuron.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bebauungsplan, breitband, flächennutzungsplan, gemeinderat; PDF-Hinweise: 12)
+  - Bingen (Sigmaringen): https://www.bingen-hohenzollern.de/ (1 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: server)
+  - Krauchenwies (Sigmaringen): https://www.krauchenwies.de/,Lde/14336492.html (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, gemeinderat, gewerbe, ratsinfo, server, strom; PDF-Hinweise: 3)
+  - Sigmaringen (Sigmaringen): https://www.sigmaringen.de/ (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, gemeinderat, gewerbe, netz, ratsinfo, server, strom, verkehr)
+  - Sigmaringendorf (Sigmaringen): https://www.sigmaringendorf.de/de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, industrie, ratsinfo, schall, strom; PDF-Hinweise: 10)
+  - Stetten am kalten Markt (Sigmaringen): https://www.stetten-akm.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: amtsblatt, bauleit, bebauungsplan, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, netz, verkehr; PDF-Hinweise: 10)
+  - Ostrach (Sigmaringen): https://www.ostrach.de/startseite (5 abrufbare kommunale Pfade; kein Direkt-RZ-Treffer; Trefferfelder: bauleit, bebauungsplan, breitband, flaechennutzungsplan, flächennutzungsplan, gemeinderat, gewerbe, netz, ratsinfo, strom)
+
+Lokal archivierte Quellen
+- archive-sources.py: 1456 bekannte Quellen im Manifest; 1407 gespeichert/uebersprungen; 27 aktuelle Abrufblocker.
+- Heutige kommunale HTML-/PDF-Arbeitsquellen aus dem Landkreis Sigmaringen sowie Fach-/Netzquellen lokal archiviert; keine Bilder uebernommen.
+
+PDF-Verfuegbarkeit
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+
+Gepruefte Gemeinden
+- Sauldorf, Herdwangen-Schoenach, Illmensee, Pfullendorf, Wald, Bad Saulgau, Herbertingen, Beuron, Bingen, Krauchenwies, Sigmaringen, Sigmaringendorf, Stetten am kalten Markt, Ostrach.
+
+Gemeinden mit RZ-Fund
+- Keine neuen belastbaren direkten RZ-/Datacenter-/Data-Center-/Serverfarm-Funde.
+
+Gemeinden ohne Fund/nur offen
+- 14 belastbar gepruefte Gemeinden bleiben ohne direkten RZ-Nachweis. Mittlere Vorfilter nur bei konkretem Flaechen-/Netzsignal: Bad Saulgau, Herbertingen, Krauchenwies, Ostrach, Pfullendorf, Sigmaringen.
+
+Nachrichten-/Betreiber-Sichtung
+- Google News RSS Rechenzentrum Baden-Wuerttemberg: https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: cloud, datacenter, netz, rechenzentrum, strom).
+- Google News RSS Freiburg-Denzlingen-Emmendingen: https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de (Status 200; Treffer: rechenzentrum, server).
+- DataCenter-Insider Startseite: https://www.datacenter-insider.de/ (Status 200; Treffer: cloud, data center, datacenter, industrie, netz, rechenzentrum, server, strom).
+- DataCenter-Insider Lahr Baden Cloud: https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/ (Status 200; Treffer: abwärme, cloud, data center, datacenter, fernwärme, industrie, netz, rechenzentrum, server, strom, wärme).
+- DatacenterDynamics Startseite: https://www.datacenterdynamics.com/en/ (Status 200; Treffer: cloud, data center, datacenter).
+- Heise Thema Rechenzentrum: https://www.heise.de/thema/Rechenzentrum (Status 200; Treffer: cloud, netz, rechenzentrum, server, strom).
+- TransnetBW Badische Rheinschiene: https://www.transnetbw.de/de/netzentwicklung/projekte/netzverstaerkung-badische-rheinschiene (Status 200; Treffer: glasfaser, netz, strom, trafo, umspannwerk).
+- Bewertung: kein neuer konkreter Standort im Freiburger Prioritaetsraum. Lahr/Appenweier bleibt als regionales Edge-/Micro-DC-Vergleichsmodell relevant; Philippsburg bleibt Hyperscale-Benchmark fuer Netz- und Akzeptanzrisiken.
+
+Prioritaetsraum Freiburg/Denzlingen/Emmendingen
+- Bekannte Prioritaetsquellen revalidiert; kein neuer konkreter Flaechen-/RZ-Standort entdeckt:
+  - Denzlingen 110-kV-Netzausbau: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen (Status 200; Treffer: hochspannung, mittelspannung, netz, strom)
+  - Denzlingen Wirtschaftsstandort: https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen (Status 200; Treffer: amtsblatt, bauleit, gemeinderat, gewerbe, gewerbegebiet, industrie, netz, ratsinfo, server, strom)
+  - RP Freiburg 110-kV-Denzlingen: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/ (Status 200; Treffer: netz, umspannwerk, verkehr)
+  - Freiburg Gewerbeflaechen/Wirtschaft: https://www.freiburg.de/pb/%2CLde/205243.html (Status 200; Treffer: altlasten, amtsblatt, bauleit, fernwärme, flächennutzungsplan, gemeinderat, gewerbe, gewerbegebiet, glasfaser, netz)
+  - Freiburg Glasfaserausbau Gewerbegebiete: https://www.freiburg.de/pb/%2CLde_DE/1075533.html (Status 200; Treffer: amtsblatt, breitband, fernwärme, gewerbe, gewerbegebiet, glasfaser, industrie, industriegebiet, netz, server)
+  - Emmendingen FNP/Bauleitplanung: https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan (Status 200; Treffer: amtsblatt, bauleit, bebauungsplan, flaechennutzungsplan, flächennutzungsplan, sondergebiet, verkehr)
+  - Stadtwerke Emmendingen Netzdaten: https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/ (Status 200; Treffer: fernwärme, netz, strom, trafo, wärme)
+
+Neue PDFs/Gutachten/Fotos/technische Zeichnungen
+- PDF lokal geprueft/uebersprungen: Wald https://www.wald-hohenzollern.de/fileadmin/Dateien/Bilder/Sonstiges/Unterlagen_Windenergie_-_Infoveranstaltung_22.06.2026.pdf (too large for daily text extraction, 8137987 Bytes).
+- PDF lokal gesichert und mit pypdf ausgelesen: Wald https://www.wald-hohenzollern.de/fileadmin/Dateien/Dateien/Bebauungsplaene/Oeffentliche_Bekanntmachung_Einbeziehungssatzung_Mussnauenweg.pdf_signed.pdf (2 Seiten; Treffer: gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/wald-02.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Bad Saulgau https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/fahrplaene-bus/Fahrplan-Linie-420.pdf (1 Seiten; Treffer: keine Rastertreffer; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/bad-saulgau-03.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Bad Saulgau https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/tub_05766m_j20_.pdf (11 Seiten; Treffer: verkehr; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/bad-saulgau-04.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Beuron https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20230711_Satzung_Bebauungsplanaenderung_Oberoeschle_West_zur_Aufs_Endfassung.pdf (2 Seiten; Treffer: bebauungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/beuron-05.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Beuron https://www.beuron.de/fileadmin/Website/Dateien/Leben_Wohnen/Baurecht/20221216_BPlan_Beuron_I_zusammfass_Erklaerung.pdf (7 Seiten; Treffer: bauleit, bebauungsplan, gemeinderat, netz, sondergebiet, verkehr, wärme; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/beuron-06.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Krauchenwies https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf (1 Seiten; Treffer: trafo; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/krauchenwies-07.pdf).
+- PDF lokal gesichert und mit pypdf ausgelesen: Sigmaringendorf https://www.sigmaringendorf.de/fileadmin/Dateien/Cross7/Root/de/Verwaltung/Offentliche_Bekanntmachungen/Offentliche_Bekanntmachung_Inkrafttreten_B-Plan_Versorgung_Ortsmitte-signed-1774951425.pdf (2 Seiten; Treffer: bebauungsplan, flächennutzungsplan, gemeinderat; kein Direkt-RZ-Treffer; lokal: assets/source-archive/pdf-screening-2026-08-06/sigmaringendorf-08.pdf).
+- Keine neuen Bilder aufgenommen; keine visuell gepruefte Original-RZ-Anlage, kein offizielles Rendering und keine technische Hersteller-/Planungszeichnung gefunden.
+
+Neue Partner
+- Keine neuen lokal belastbaren Partner im Raum Freiburg/Denzlingen/Emmendingen. Baden Cloud/Leitwerk/E-Werk Mittelbaden bleiben Vergleichsmodell, nicht neuer iAccess-Partner.
+
+Offene/verdachtige Fragen
+- database.json researchQuestions: 0; keine neuen/freigegebenen Fragen; kein Fragen-PDF erstellt.
+
+Verarbeitete Uploads
+- database.json manualUploads: 0; pdfs/manual-uploads enthaelt nur .gitkeep.
+
+Veraenderte Statistiken
+- Coverage: found 17, checkedNoRZ 1000, offen 0; heute 14 Gemeinden abgeschlossen, technisch offen: keine.
+- database.json: 139 Findings; +2 heutige Findings, keine neue Site/Company, keine neuen researchQuestions/manualUploads.
+- Neue Arbeits-PDFs: 7 lokal gesichert und ausgelesen; ein uebergrosses PDF geprueft, aber nicht lokal uebernommen.
+
+Linkpruefung
+- check-links.py: 1433 eindeutige URLs geprueft, 1401 ok, 32 blockiert/transient, 0 echte Broken Links.
+- Der zunaechst erkannte 404-Link aus Herbertingen wurde vor Publish aus dem Finding entfernt.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP- oder Google-OAuth-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierungsblock
+- Archiv: 1456 bekannte Quellen; 1407 gespeichert/uebersprungen; 27 aktuelle Abrufblocker.
+- PDFs: 41/41 kuratierte PDFs oeffentlich verfuegbar, 24 lokal vorhanden; 7 heutige Arbeits-PDFs lokal gespeichert und ausgelesen.
+- Links: 1433 geprueft, 1401 ok, 32 blockiert/transient, 0 broken.
+- Daten: database.json 139 Findings; Coverage found 17, checkedNoRZ 1000, offen 0; heute 14 Gemeinden abgeschlossen.
+- Recherchefragen/Uploads: database researchQuestions=0, manualUploads=0.
+- Website-Daten: index.html wurde nach database.json synchronisiert.
+- Zustellung: ausschliesslich Hermes-Cron; keine Gmail-/SMTP-/OAuth-Aktion.
+
+Technischer Abschluss
+- Belastbar geprueft: 14; technisch offen und nicht als Negativfund gewertet: keine.
