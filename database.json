@@ -4997,6 +4997,50 @@
         "Abwaerme"
       ],
       "archiveNote": "Fach- und Nachrichtenseiten wurden fuer lokale Sicherung in assets/source-archive aufgenommen; keine neuen Bilder uebernommen."
+    },
+    {
+      "id": "id-2026-08-07-freiburg-carrier-screen",
+      "date": "2026-08-07",
+      "publishedDate": "2023-10-24 / 2024-07-01; revalidiert 2026-08-07",
+      "topic": "Carrier- und Glasfaser-Vorfilter Freiburg",
+      "publisher": "1&1 Versatel; OXG; Stadt Freiburg",
+      "sourceUrl": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg; https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf; https://www.freiburg.de/pb/%2CLde_DE/1075533.html",
+      "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
+      "summary": "1&1 Versatel nennt sechs Freiburger Gewerbegebiete, knapp 400 erschliessbare Unternehmen und Anschluesse bis 100 GBit/s. OXG dokumentiert in einer dreiseitigen Original-PDF mehr als 27.000 geplante FTTH-Anschluesse in fuenf Ausbaugebieten sowie ein offenes Netz. Beide Quellen schaerfen den Konnektivitaets-Vorfilter, belegen aber weder zwei physisch unabhaengige RZ-Trassen noch freie Carrier-Kapazitaet an einer konkreten Flaeche.",
+      "relevance": "Fuer ein 0,25-2-MW-Micro-/Edge-RZ sind die von 1&1 Versatel adressierten Gewerbegebiete ein sinnvoller Suchkorridor. OXG-FTTH ist positive Standortinfrastruktur, darf aber nicht mit Rechenzentrums-Carrier-Redundanz verwechselt werden.",
+      "action": "Bei einer konkreten Freiburger Flaeche zuerst 1&1 Versatel und mindestens einen zweiten Carrier zu Trassenverlauf, PoP, Dark Fiber/Wellenlaengen, SLA und baulich unabhaengiger Hauseinfuehrung anfragen; parallel belastbare Stromnetzzusage einholen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "Freiburg",
+        "Carrier",
+        "Glasfaser",
+        "100 GBit/s",
+        "OXG",
+        "Edge",
+        "Vorfilter"
+      ],
+      "archiveNote": "Original-Webseite und OXG-PDF fuer lokale Sicherung in assets/source-archive aufgenommen; PDF mit pypdf ausgelesen."
+    },
+    {
+      "id": "id-2026-08-07-news-monitoring",
+      "date": "2026-08-07",
+      "publishedDate": "2026-08-07",
+      "topic": "Taegliches Nachrichten-, Netz- und Flaechenmonitoring",
+      "publisher": "Google News RSS; Netze BW; Regierungspräsidium Freiburg; Kommunen Freiburg, Denzlingen und Emmendingen; Stadtwerke Emmendingen",
+      "sourceUrl": "https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg+when%3A2d&hl=de&gl=DE&ceid=DE%3Ade; https://news.google.com/rss/search?q=%28Rechenzentrum+OR+Datacenter%29+%28Freiburg+OR+Denzlingen+OR+Emmendingen%29+when%3A30d&hl=de&gl=DE&ceid=DE%3Ade; https://news.google.com/rss/search?q=%28Gewerbefl%C3%A4che+OR+Gewerbegebiet+OR+Umspannwerk+OR+Glasfaser%29+%28Freiburg+OR+Denzlingen+OR+Emmendingen%29+when%3A7d&hl=de&gl=DE&ceid=DE%3Ade; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/",
+      "title": "Tagesmonitoring: kein neuer konkreter RZ- oder Flaechenfund im Prioritaetsraum",
+      "summary": "Aktuelle RSS-Suchen und sieben amtliche Prioritaetsquellen wurden live abgerufen. Es erschien kein neuer belastbarer direkter Rechenzentrums-, Serverfarm- oder Datacenter-Fund und kein neues konkretes Flaechenangebot fuer Freiburg, Denzlingen oder Emmendingen. Der heutige Freiburg-Immobilienartikel ist allgemeine Markteinordnung, kein Standortnachweis.",
+      "relevance": "Die bestehenden Filter bleiben gueltig: konkrete GE/GI- oder Bestandsflaeche, belastbare Netzleistung, zwei physisch getrennte Carrierwege, Schall/Brandschutz, wasserarme Kuehlung und moeglicher Abwaermeabnehmer.",
+      "action": "Keine unspezifische Flaeche hochstufen. Neue Kandidaten erst bei parzellenscharfem Flaechen- oder Netzsignal vertiefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Freiburg",
+        "Denzlingen",
+        "Emmendingen",
+        "Netz",
+        "kein RZ-Fund"
+      ]
     }
   ],
   "gridChecks": [
@@ -5304,8 +5348,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-08-06",
-    "lastResearchSummary": "2026-08-06: 14 Restgemeinden im Landkreis Sigmaringen geprueft; 0 technisch offen; keine neuen direkten RZ-Flaechenfunde.",
+    "lastRun": "2026-08-07",
+    "lastResearchSummary": "2026-08-07: Landesweite Gemeinde-Coverage bereits vollstaendig; Prioritaetsraum und News live revalidiert; Carrier-Vorfilter Freiburg praezisiert; keine neue konkrete RZ-Flaeche.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -5332,8 +5376,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-08-06",
-    "lastResearchSummary": "2026-08-06: 14 Restgemeinden im Landkreis Sigmaringen geprueft; 0 technisch offen; keine neuen direkten RZ-Flaechenfunde.",
+    "lastResearchRun": "2026-08-07",
+    "lastResearchSummary": "2026-08-07: Landesweite Gemeinde-Coverage bereits vollstaendig; Prioritaetsraum und News live revalidiert; Carrier-Vorfilter Freiburg praezisiert; keine neue konkrete RZ-Flaeche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
