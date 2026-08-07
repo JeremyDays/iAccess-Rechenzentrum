@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-06",
-  "source": "Automatisierte Webrecherche; 2026-08-06 Abschlussblock Landkreis Sigmaringen; technische Ausfaelle nicht als Negativfund gewertet.",
+  "generatedAt": "2026-08-07",
+  "source": "Landesweite Gemeinde-Coverage vollstaendig; 2026-08-07 gezieltes Prioritaetsraum-/News-Monitoring ohne Doppelbearbeitung abgeschlossener Gemeinden.",
   "total": 1101,
   "found": 17,
   "notSystematicallyChecked": 0,
@@ -12818,22 +12818,7 @@
   ],
   "lastCheckedAt": "2026-08-06",
   "checkedNoRZ": 1000,
-  "todayChecked": [
-    "Sauldorf",
-    "Herdwangen-Schoenach",
-    "Illmensee",
-    "Pfullendorf",
-    "Wald",
-    "Bad Saulgau",
-    "Herbertingen",
-    "Beuron",
-    "Bingen",
-    "Krauchenwies",
-    "Sigmaringen",
-    "Sigmaringendorf",
-    "Stetten am kalten Markt",
-    "Ostrach"
-  ],
+  "todayChecked": [],
   "todayCheckedDate": "2026-08-06",
   "priorityCorrections": [
     "BÃ¶tzingen",
