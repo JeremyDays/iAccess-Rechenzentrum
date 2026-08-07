@@ -1,0 +1,46 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-07
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: assets/bw-municipality-coverage.json meldete vor dem Lauf found 17, checkedNoRZ 1000, offen 0.
+- Der naechste wirklich offene Coverage-Eintrag existiert derzeit nicht; deshalb gezielte Veraenderungssuche im Prioritaetsraum statt kuenstlicher Wiederholung.
+
+Bearbeitete Quellen
+- Drei aktuelle Google-News-RSS-Suchen: BW-Rechenzentrum (2 Tage), Freiburg/Denzlingen/Emmendingen RZ/Datacenter (30 Tage), Flaeche/Netz/Glasfaser im Prioritaetsraum (7 Tage).
+- Sieben amtliche Prioritaetsquellen live abgerufen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg Ersatzneubau/Leistungserhoehung Denzlingen, zwei Stadt-Freiburg-Pfade, Emmendingen FNP sowie Stadtwerke Emmendingen Netzdaten.
+- 1&1 Versatel Freiburg: https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg
+- OXG Original-PDF Freiburg: https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf
+
+Neue Bewertung
+- 1&1 Versatel belegt sechs Freiburger Gewerbegebiete, knapp 400 erschliessbare Unternehmen und bis zu 100 GBit/s. Das ist ein belastbarer Carrier-Vorfilter fuer kleine Edge-/Micro-RZ.
+- OXG belegt mehr als 27.000 FTTH-Anschluesse, fuenf Ausbaugebiete und ein offenes Netz. Das verbessert die allgemeine Glasfaserbasis, ist aber kein Nachweis zweier physisch unabhaengiger RZ-Trassen.
+- Keine neue konkrete RZ-Flaeche und kein neuer direkter Datacenter-/Serverfarm-Nachweis in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-Auslesen
+- OXG-Pressemitteilung lokal als dreiseitige PDF gesichert und mit pypdf ausgelesen (402841 Bytes); relevante Aussagen: >27.000 Anschluesse, fuenf Ausbaugebiete, offenes FTTH-Netz.
+- Keine Bilder, Renderings oder technischen Zeichnungen aufgenommen; die PDF enthaelt keine parzellenscharfe RZ-Planung.
+
+Lokale Archivierung
+- archive-sources.py: 1461 bekannte Quellen im Manifest; 1412 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- Neu lokal gesichert: 1&1-Versatel-Webseite, OXG-Original-PDF und drei aktuelle Google-News-RSS-Feeds.
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1438 eindeutige URLs geprueft, 1394 ok, 44 blockiert/transient, 0 broken.
+
+Daten/Website
+- database.json: 141 Findings; zwei heutige Findings aufgenommen (Carrier-Vorfilter Freiburg; Tagesmonitoring).
+- assets/bw-municipality-coverage.json: found 17, checkedNoRZ 1000, offen weiterhin 0, todayChecked bewusst leer.
+- index.html wurde nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- database.json researchQuestions: 0; manualUploads: 0.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Konkrete Flaechenbewertung bleibt ohne parzellenscharfen Flaechenhinweis und Netz-/Carrier-Zusage unmoeglich.
+- Historische Coverage-Datensaetze enthalten erkennbar einzelne falsch zugeordnete Gemeinde-URLs aus alten Laeufen; heutige Aussagen stuetzen sich deshalb nicht auf diese Altzeilen.
