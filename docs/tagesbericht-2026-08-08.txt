@@ -1,0 +1,45 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-08
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: assets/bw-municipality-coverage.json meldet found 17, checkedNoRZ 1000, offen 0.
+- Es existiert kein naechster offener Coverage-Eintrag; deshalb gezielte Veraenderungssuche im Prioritaetsraum.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: BW-Rechenzentrum (2 Tage), Freiburg/Denzlingen/Emmendingen RZ (30 Tage), Flaeche/Netz/Glasfaser/Fernwaerme im Prioritaetsraum (7 Tage), modulare/Container-/Edge-Rechenzentren in BW (30 Tage).
+- Sieben amtliche Prioritaetsquellen live abgerufen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg Ersatzneubau/Leistungserhoehung Denzlingen, zwei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke Emmendingen Netzdaten.
+
+Ergebnis/Bewertung
+- Direkte RZ-Suchen und die Suche nach modularen/Container-/Edge-Rechenzentren: keine aktuellen Treffer.
+- Infrastrukturfeed: fuenf Meldungen; ein heutiger Beitrag betrifft Verkehr/Kreisverkehr in Gutach, die weiteren Treffer sind ebenfalls keine belastbaren RZ-, Carrier-, Netzleistungs- oder Flaechensignale.
+- Keine neue konkrete RZ-Flaeche und kein neuer direkter Datacenter-/Serverfarm-Nachweis in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-/Medienpruefung
+- Kein neuer relevanter Original-PDF-, Gutachten-, Rendering-, Foto- oder Zeichnungsfund; deshalb keine irrelevante Datei kuenstlich aufgenommen.
+
+Daten/Website
+- database.json: ein heutiges Monitoring-Finding aufgenommen; Gesamtzahl Findings 142.
+- assets/bw-municipality-coverage.json: Tagesstand aktualisiert, offen weiterhin 0, todayChecked bewusst leer.
+- index.html wird nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- database.json researchQuestions: 0; manualUploads: 0.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Lokale Archivierung
+- archive-sources.py: 1465 bekannte Quellen im Manifest; 1416 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+- Neu lokal gesichert: vier heutige Google-News-RSS-Abfragen; amtliche Prioritaetsquellen waren bereits im Archiv und wurden heute zusaetzlich live revalidiert.
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1442 eindeutige URLs geprueft, 1411 ok, 31 blockiert/transient, 0 broken.
+- Daten: database.json 142 Findings; Coverage found 17, checkedNoRZ 1000, offen 0.
+- Website-Daten: index.html wurde nach database.json synchronisiert.
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Ohne parzellenscharfen Flaechenhinweis und Netz-/Carrier-Zusage ist keine konkrete Standortbewertung moeglich.
+- Historische Coverage-Datensaetze enthalten einzelne falsch zugeordnete Gemeinde-URLs; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
