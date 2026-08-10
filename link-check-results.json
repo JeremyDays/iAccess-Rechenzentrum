@@ -1,7 +1,7 @@
 {
   "checked": 1446,
-  "ok": 1408,
-  "blocked": 38,
+  "ok": 1414,
+  "blocked": 32,
   "broken": 0,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x189b1ba5610>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x27c69336d50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -42,18 +42,6 @@
     },
     {
       "collection": "findings",
-      "index": 58,
-      "field": "sourceUrl",
-      "title": "AWS IRHX: Wasserarme Kuehlung als Due-Diligence-Kriterium",
-      "url": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
@@ -66,18 +54,6 @@
     },
     {
       "collection": "findings",
-      "index": 27,
-      "field": "source",
-      "title": "DCD: Stadtwerke-Modell zeigt lokale RZ-Nische fuer Kommunen",
-      "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
@@ -87,30 +63,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 70,
-      "field": "sourceUrl",
-      "title": "Hitzewelle legt HPC-Standort zeitweise lahm: Kuehlreserve wird Standortfilter",
-      "url": "https://www.datacenterdynamics.com/en/news/data-center-housing-uks-dawn-supercomputer-suffers-heatwave-related-outage-report/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 64,
-      "field": "sourceUrl",
-      "title": "Large-Load-Tarife: Netzrisiko wird zum Genehmigungs- und Kostenfilter",
-      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "findings",
@@ -174,18 +126,6 @@
     },
     {
       "collection": "findings",
-      "index": 57,
-      "field": "sourceUrl",
-      "title": "Microsoft Grevenbroich: Flaechenkauf bedingt durch Bebauungsplan",
-      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
@@ -221,18 +161,6 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.datacenterdynamics.com/en/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.datacenterdynamics.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -254,7 +182,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x189b199e450>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x27c69339010>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2616,6 +2544,18 @@
       "url": "https://www.schwieberdingen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.schwieberdingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 58,
+      "field": "sourceUrl",
+      "title": "AWS IRHX: Wasserarme Kuehlung als Due-Diligence-Kriterium",
+      "url": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6762,6 +6702,18 @@
     },
     {
       "collection": "findings",
+      "index": 27,
+      "field": "source",
+      "title": "DCD: Stadtwerke-Modell zeigt lokale RZ-Nische fuer Kommunen",
+      "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 22,
       "field": "source",
       "title": "Datacenter-Insider: Atlas Edge skaliert mit 4,4-MW-Modul in Leverkusen",
@@ -8502,6 +8454,18 @@
     },
     {
       "collection": "findings",
+      "index": 70,
+      "field": "sourceUrl",
+      "title": "Hitzewelle legt HPC-Standort zeitweise lahm: Kuehlreserve wird Standortfilter",
+      "url": "https://www.datacenterdynamics.com/en/news/data-center-housing-uks-dawn-supercomputer-suffers-heatwave-related-outage-report/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/news/data-center-housing-uks-dawn-supercomputer-suffers-heatwave-related-outage-report/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 34,
       "field": "source",
       "title": "Hohberg und Schutterwald verdichten den GRO-Gewerbekorridor",
@@ -9012,6 +8976,18 @@
       "url": "https://www.kuchen.de/gewerbepark-schwaebische-alb.html",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/gewerbepark-schwaebische-alb.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 64,
+      "field": "sourceUrl",
+      "title": "Large-Load-Tarife: Netzrisiko wird zum Genehmigungs- und Kostenfilter",
+      "url": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/news/new-jersey-lawmakers-pass-bill-to-establish-large-load-data-center-tariff/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -9984,6 +9960,18 @@
       "url": "https://www.mahlberg.de/",
       "status": 200,
       "finalUrl": "https://www.mahlberg.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 57,
+      "field": "sourceUrl",
+      "title": "Microsoft Grevenbroich: Flaechenkauf bedingt durch Bebauungsplan",
+      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15132,6 +15120,18 @@
       "url": "https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/",
       "status": 200,
       "finalUrl": "https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.datacenterdynamics.com/en/",
+      "status": 200,
+      "finalUrl": "https://www.datacenterdynamics.com/en/",
       "ok": true,
       "blocked": false,
       "error": ""
