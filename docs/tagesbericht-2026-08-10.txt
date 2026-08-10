@@ -1,0 +1,46 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-10
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: assets/bw-municipality-coverage.json meldet found 17, checkedNoRZ 1000, offen 0.
+- Es existiert kein naechster offener Coverage-Eintrag; deshalb gezielte Veraenderungssuche im Prioritaetsraum Freiburg/Denzlingen/Emmendingen.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: BW-Rechenzentrum (2 Tage), Freiburg/Denzlingen/Emmendingen RZ (30 Tage), Flaeche/Netz/Glasfaser/Fernwaerme (7 Tage), modulare/Container-/Edge-RZ in BW (30 Tage).
+- Sieben amtliche Prioritaetsquellen live abgerufen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg Leistungserhoehung Denzlingen, zwei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke Emmendingen Netzdaten.
+
+Ergebnis/Bewertung
+- Der einzige titelbasierte RZ-Treffer war ein sachlich und geografisch unpassender Mshale/SEO-Beitrag zu Rittal WindCores; er wurde als False Positive verworfen.
+- Der Infrastrukturfeed enthielt nur eine allgemeine Live-Verkehrsmeldung aus der Region Freiburg.
+- Die amtlichen Netzdaten fuer Emmendingen/Denzlingen wurden unveraendert revalidiert: Sie bleiben ein Netz-Vorfilter, belegen aber weder freie Anschlusskapazitaet noch N-1-Redundanz oder einen konkreten Netzverknuepfungspunkt.
+- Keine neue konkrete RZ-Flaeche und kein belastbarer neuer Carrier-, Netzleistungs- oder RZ-Projekthinweis in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-/Medienpruefung
+- Kein neuer relevanter Original-PDF-, Gutachten-, Rendering-, Foto- oder Zeichnungsfund; keine irrelevante Datei aufgenommen.
+
+Daten/Website
+- database.json: ein heutiges Monitoring-Finding aufgenommen; Gesamtzahl Findings 145.
+- assets/bw-municipality-coverage.json: Tagesstand aktualisiert, offen weiterhin 0, todayChecked bewusst leer.
+- index.html wird nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- database.json researchQuestions: 0; manualUploads: 0.
+
+Lokale Archivierung
+- Elf heutige Live-Abrufe unter assets/source-archive/daily/2026-08-10/ gesichert; Hashes, HTTP-Status und Feed-Zaehlungen in metadata.json dokumentiert.
+- archive-sources.py: 1469 bekannte Quellen im Manifest; 1420 gespeichert/uebersprungen; 26 aktuelle Abrufblocker.
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1446 eindeutige URLs geprueft, 1414 ok, 32 blockiert/transient, 0 broken.
+- Daten: database.json 145 Findings; Coverage found 17, checkedNoRZ 1000, offen 0.
+- Website-Daten: index.html wurde nach database.json synchronisiert.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Eine konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei unabhaengige Carrierwege unmoeglich.
+- Historische Coverage-Datensaetze enthalten einzelne falsch zugeordnete Gemeinde-URLs; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
