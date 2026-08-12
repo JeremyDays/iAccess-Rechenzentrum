@@ -1,8 +1,8 @@
 {
   "checked": 1446,
-  "ok": 1414,
-  "blocked": 32,
-  "broken": 0,
+  "ok": 1409,
+  "blocked": 31,
+  "broken": 6,
   "results": [
     {
       "collection": "companies",
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x27c69336d50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21f9c192910>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -30,18 +30,6 @@
     },
     {
       "collection": "findings",
-      "index": 74,
-      "field": "sourceUrl",
-      "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
-      "url": "https://www.badrappenau.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.badrappenau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))"
-    },
-    {
-      "collection": "findings",
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
@@ -50,6 +38,78 @@
       "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
       "ok": false,
       "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "sourceUrl",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
+      "status": 404,
+      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
+      "ok": false,
+      "blocked": false,
       "error": ""
     },
     {
@@ -182,7 +242,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x27c69339010>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21f9c17e3d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2124,6 +2184,18 @@
       "url": "https://www.winterbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.winterbach.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 74,
+      "field": "sourceUrl",
+      "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
+      "url": "https://www.badrappenau.de/",
+      "status": 200,
+      "finalUrl": "https://www.badrappenau.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7380,78 +7452,6 @@
       "url": "https://www.alpirsbach.de/",
       "status": 200,
       "finalUrl": "https://www.alpirsbach.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
-      "status": 200,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16871,7 +16871,7 @@
       "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
       "url": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "status": 200,
-      "finalUrl": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
+      "finalUrl": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "ok": true,
       "blocked": false,
       "error": ""
