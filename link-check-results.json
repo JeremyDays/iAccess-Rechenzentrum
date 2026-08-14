@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1bbcbcbb290>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x29d6b9a1210>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -39,6 +39,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 80,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.woert.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.woert.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.woert.de', port=443) at 0x29d6b7e6850>, 'Connection to www.woert.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "findings",
@@ -221,18 +233,6 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.simmozheim.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.simmozheim.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -254,7 +254,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1bbcbd0a7d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x29d6b7461d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -5760,18 +5760,6 @@
       "url": "https://www.westhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.westhausen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 80,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.woert.de/",
-      "status": 200,
-      "finalUrl": "https://www.woert.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16356,6 +16344,18 @@
       "url": "https://www.simmersfeld.de/",
       "status": 200,
       "finalUrl": "https://www.simmersfeld.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.simmozheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.simmozheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
