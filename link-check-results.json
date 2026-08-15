@@ -1,7 +1,7 @@
 {
   "checked": 1446,
-  "ok": 1408,
-  "blocked": 32,
+  "ok": 1404,
+  "blocked": 36,
   "broken": 6,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x29d6b9a1210>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x14ddd0dd890>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -24,6 +24,18 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 119,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.oberdischingen.de/",
+      "status": 500,
+      "finalUrl": "https://www.oberdischingen.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -50,7 +62,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.woert.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.woert.de', port=443) at 0x29d6b7e6850>, 'Connection to www.woert.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.woert.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.woert.de', port=443) at 0x14ddccace10>, 'Connection to www.woert.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "findings",
@@ -233,6 +245,42 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.pforzheim.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.pforzheim.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -254,7 +302,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x29d6b7461d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x14ddd0c2b10>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2880,18 +2928,6 @@
       "url": "https://www.nellingen.de/",
       "status": 200,
       "finalUrl": "https://www.nellingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 119,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.oberdischingen.de/",
-      "status": 200,
-      "finalUrl": "https://www.oberdischingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15465,30 +15501,6 @@
       "index": 113,
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "status": 200,
-      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
-      "status": 200,
-      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wannweil.de/",
       "status": 200,
       "finalUrl": "https://www.wannweil.de/",
@@ -16284,18 +16296,6 @@
       "url": "https://www.ostelsheim.de/",
       "status": 200,
       "finalUrl": "https://www.ostelsheim.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.pforzheim.de/",
-      "status": 200,
-      "finalUrl": "https://www.pforzheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
