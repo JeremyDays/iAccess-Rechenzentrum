@@ -1,7 +1,7 @@
 {
   "checked": 1446,
-  "ok": 1404,
-  "blocked": 36,
+  "ok": 1408,
+  "blocked": 32,
   "broken": 6,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x14ddd0dd890>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21bfdbd1610>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -30,18 +30,6 @@
     },
     {
       "collection": "findings",
-      "index": 119,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.oberdischingen.de/",
-      "status": 500,
-      "finalUrl": "https://www.oberdischingen.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
@@ -51,18 +39,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 80,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.woert.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.woert.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.woert.de', port=443) at 0x14ddccace10>, 'Connection to www.woert.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "findings",
@@ -147,6 +123,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.allensbach.de/",
+      "status": 500,
+      "finalUrl": "https://www.allensbach.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
     },
     {
       "collection": "findings",
@@ -245,42 +233,6 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.pforzheim.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.pforzheim.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -302,7 +254,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x14ddd0c2b10>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21bfdbe9490>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2928,6 +2880,18 @@
       "url": "https://www.nellingen.de/",
       "status": 200,
       "finalUrl": "https://www.nellingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 119,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block II: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.oberdischingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.oberdischingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5802,6 +5766,18 @@
     },
     {
       "collection": "findings",
+      "index": 80,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.woert.de/",
+      "status": 200,
+      "finalUrl": "https://www.woert.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 77,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
@@ -8580,18 +8556,6 @@
       "url": "https://muehlingen.de/",
       "status": 200,
       "finalUrl": "https://muehlingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.allensbach.de/",
-      "status": 200,
-      "finalUrl": "https://www.allensbach.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15501,6 +15465,30 @@
       "index": 113,
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "status": 200,
+      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
+      "status": 200,
+      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wannweil.de/",
       "status": 200,
       "finalUrl": "https://www.wannweil.de/",
@@ -16296,6 +16284,18 @@
       "url": "https://www.ostelsheim.de/",
       "status": 200,
       "finalUrl": "https://www.ostelsheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.pforzheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.pforzheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
