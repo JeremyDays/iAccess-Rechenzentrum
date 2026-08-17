@@ -1,6 +1,6 @@
 {
-  "checked": 1446,
-  "ok": 1408,
+  "checked": 1447,
+  "ok": 1409,
   "blocked": 32,
   "broken": 6,
   "results": [
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21bfdbd1610>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2096f29a810>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -117,24 +117,24 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
+      "url": "https://www.aichstetten.de/Startseite.html",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.aichstetten.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.hagnau-bodensee.de/",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.allensbach.de/",
-      "status": 500,
-      "finalUrl": "https://www.allensbach.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
     },
     {
       "collection": "findings",
@@ -254,7 +254,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21bfdbe9490>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2096f03c1d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -7905,18 +7905,6 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
-      "url": "https://www.aichstetten.de/Startseite.html",
-      "status": 200,
-      "finalUrl": "https://www.aichstetten.de/Startseite.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 129,
-      "field": "sourceUrl",
-      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.aitrach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aitrach.de/startseite",
@@ -8556,6 +8544,18 @@
       "url": "https://muehlingen.de/",
       "status": 200,
       "finalUrl": "https://muehlingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.allensbach.de/",
+      "status": 200,
+      "finalUrl": "https://www.allensbach.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13776,6 +13776,18 @@
       "url": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22+OR+Datacenter+OR+Serverfarm%29+%28Freiburg+OR+Denzlingen+OR+Emmendingen%29+when%3A30d&hl=de&gl=DE&ceid=DE%3Ade",
       "status": 200,
       "finalUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22+OR+Datacenter+OR+Serverfarm%29+%28Freiburg+OR+Denzlingen+OR+Emmendingen%29+when%3A30d&hl=de&gl=DE&ceid=DE%3Ade",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 149,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: keine neue konkrete RZ-Flaeche im Prioritaetsraum",
+      "url": "https://www.freiburg.de/pb/,Lde/2637203.html",
+      "status": 200,
+      "finalUrl": "https://www.freiburg.de/pb/,Lde/2637203.html",
       "ok": true,
       "blocked": false,
       "error": ""
