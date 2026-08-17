@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2096f29a810>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1402735b190>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -254,7 +254,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2096f03c1d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1402735b8d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
