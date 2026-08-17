@@ -28,6 +28,12 @@ Recherchefragen/Uploads
 
 Lokale Archivierung
 - Zwoelf Live-Abrufe unter assets/source-archive/daily/2026-08-18/ mit HTTP-Status, Hashes, Feed-Zaehlungen und geprueften Titeln gesichert.
+- archive-sources.py: 1470 bekannte Quellen im Manifest; 26 Abrufblocker, vor allem HTTP 429 bei datacenters.com.
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1447 eindeutige URLs, 1409 ok, 32 blockiert/transient, 6 broken. Die sechs 404 betreffen historische Alpirsbach-PDF-Links in einem alten Negativ-Finding, nicht heutige Quellen oder aktuelle Kandidaten.
+- JSON-Dateien syntaktisch validiert; Tages-Finding, Coverage 17/1000/0 und synchronisierter Website-Seed geprueft.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
