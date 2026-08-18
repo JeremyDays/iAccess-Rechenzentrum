@@ -39,7 +39,9 @@ Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
 
 Website
-- GitHub-Publish wird nach den lokalen Validierungen erneut ausgefuehrt und live verifiziert.
+- GitHub-Publish erfolgreich; Tagesbericht und Linkcheck-Ergebnisse aktualisiert, Datenbank/Website-Seed/Coverage bereits unveraendert auf demselben Stand.
+- Raw-GitHub und GitHub Pages nach dem Upload mit HTTP 200 und Tages-Finding 2026-08-18 verifiziert.
+- Pages-Konfigurations-Update mangels Adminberechtigung uebersprungen; bestehende Pages-Auslieferung funktioniert.
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Blocker/Risiken
