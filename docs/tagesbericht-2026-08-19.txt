@@ -29,6 +29,12 @@ Recherchefragen/Uploads
 
 Lokale Archivierung
 - Zwoelf Live-Abrufe unter assets/source-archive/daily/2026-08-19/ mit HTTP-Status, Hashes, Feed-Zaehlungen und geprueften Titeln gesichert.
+- archive-sources.py: 1470 bekannte Quellen im Manifest; 1421 gespeichert/bereits vorhanden, 26 Abrufblocker (vor allem HTTP 429 bei datacenters.com).
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1447 eindeutige URLs, 1408 ok, 32 blockiert/transient, 7 broken. Die 404 betreffen einen historischen Affalterbach-Startseitenlink und sechs alte Alpirsbach-PDFs, nicht heutige Quellen oder aktuelle Kandidaten.
+- JSON-Dateien syntaktisch validiert; Tages-Finding, Coverage 17/1000/0, zwoelf HTTP-200-Snapshots und synchronisierter Website-Seed geprueft.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
@@ -42,3 +48,4 @@ Website
 Blocker/Risiken
 - Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei unabhaengige Carrierwege unmoeglich.
 - Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
+- Kettenstatus `rz` erfolgreich gesetzt. Der anschliessend ausgeloeste Cron-Job #3 scheiterte, weil C:\Users\erste\Documents\Obsidian_Projektliste_Aufgaben.xlsx fehlt; unter Documents wurde keine verschobene/umbenannte passende XLSX gefunden.
