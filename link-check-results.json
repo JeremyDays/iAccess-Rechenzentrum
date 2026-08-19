@@ -1,8 +1,8 @@
 {
   "checked": 1447,
-  "ok": 1404,
-  "blocked": 37,
-  "broken": 6,
+  "ok": 1408,
+  "blocked": 32,
+  "broken": 7,
   "results": [
     {
       "collection": "companies",
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x27348971650>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2be7a232f50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -30,60 +30,24 @@
     },
     {
       "collection": "findings",
+      "index": 67,
+      "field": "sourceUrl",
+      "title": "8 weitere offene Gemeinden im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
+      "url": "https://www.affalterbach.de/startseite",
+      "status": 404,
+      "finalUrl": "https://www.affalterbach.de/startseite",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.schwaebisch-gmuend.de/startseite.html",
       "status": 403,
       "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 78,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.michelfeld.de/",
-      "status": 500,
-      "finalUrl": "https://www.michelfeld.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 78,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.obersontheim.de/startseite",
-      "status": 500,
-      "finalUrl": "https://www.obersontheim.de/startseite",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 78,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.rotamsee.de/",
-      "status": 500,
-      "finalUrl": "https://www.rotamsee.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 79,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.koenigheim.de/",
-      "status": 500,
-      "finalUrl": "https://www.koenigheim.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -165,18 +129,6 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
-      "url": "https://www.ebersbach-musbach.de/",
-      "status": 500,
-      "finalUrl": "https://www.ebersbach-musbach.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 129,
-      "field": "sourceUrl",
-      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.hagnau-bodensee.de/",
       "status": null,
       "finalUrl": "",
@@ -249,6 +201,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.elztal.de/startseite",
+      "status": 500,
+      "finalUrl": "https://www.elztal.de/startseite",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
@@ -281,18 +245,6 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.pforzheim.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.pforzheim.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -314,7 +266,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x273487961d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2be7a25e050>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2592,18 +2544,6 @@
       "url": "https://www.walheim.de/startseite",
       "status": 200,
       "finalUrl": "https://www.walheim.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 67,
-      "field": "sourceUrl",
-      "title": "8 weitere offene Gemeinden im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
-      "url": "https://www.affalterbach.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.affalterbach.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5241,6 +5181,18 @@
       "index": 78,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.michelfeld.de/",
+      "status": 200,
+      "finalUrl": "https://www.michelfeld.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 78,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.oberrot.de/de/startseite",
       "status": 200,
       "finalUrl": "https://www.oberrot.de/de/startseite",
@@ -5253,9 +5205,33 @@
       "index": 78,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.obersontheim.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.obersontheim.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 78,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.rosengarten.de/",
       "status": 200,
       "finalUrl": "https://www.rosengarten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 78,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.rotamsee.de/",
+      "status": 200,
+      "finalUrl": "https://www.rotamsee.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5436,6 +5412,18 @@
       "url": "https://www.igersheim.de/974490.html",
       "status": 200,
       "finalUrl": "https://www.igersheim.de/974490.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 79,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.koenigheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.koenigheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8076,6 +8064,18 @@
       "url": "https://www.ebenweiler.de/wp-content/uploads/Bauplaene/DieLangeWiese/19940122_B-Plan_4a_erste_%C3%84nderungBebauungsplanDieLangeWiese.pdf",
       "status": 200,
       "finalUrl": "https://www.ebenweiler.de/wp-content/uploads/Bauplaene/DieLangeWiese/19940122_B-Plan_4a_erste_%C3%84nderungBebauungsplanDieLangeWiese.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
+      "url": "https://www.ebersbach-musbach.de/",
+      "status": 200,
+      "finalUrl": "https://www.ebersbach-musbach.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10932,18 +10932,6 @@
       "url": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
       "status": 200,
       "finalUrl": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.elztal.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.elztal.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16308,6 +16296,18 @@
       "url": "https://www.ostelsheim.de/",
       "status": 200,
       "finalUrl": "https://www.ostelsheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.pforzheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.pforzheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
