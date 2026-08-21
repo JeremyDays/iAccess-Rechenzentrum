@@ -42,7 +42,7 @@ Zustellung
 
 Website
 - GitHub-Publish erfolgreich; Datenbank, Website-Seed, Coverage, Linkcheck, PDF-Status und Tagesbericht aktualisiert.
-- Pages-Konfigurations-Update mangels Adminberechtigung uebersprungen; bestehende Pages-Auslieferung wird separat verifiziert.
+- Pages-Konfigurations-Update mangels Adminberechtigung uebersprungen; bestehende Pages-Auslieferung mit HTTP 200 und Tages-Finding 2026-08-21 verifiziert.
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Blocker/Risiken
