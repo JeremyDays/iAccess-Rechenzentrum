@@ -1,8 +1,8 @@
 {
   "checked": 1447,
-  "ok": 1408,
-  "blocked": 32,
-  "broken": 7,
+  "ok": 1410,
+  "blocked": 31,
+  "broken": 6,
   "results": [
     {
       "collection": "companies",
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2be7a232f50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x22e52105010>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -26,18 +26,6 @@
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "ok": false,
       "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 67,
-      "field": "sourceUrl",
-      "title": "8 weitere offene Gemeinden im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
-      "url": "https://www.affalterbach.de/startseite",
-      "status": 404,
-      "finalUrl": "https://www.affalterbach.de/startseite",
-      "ok": false,
-      "blocked": false,
       "error": ""
     },
     {
@@ -201,18 +189,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.elztal.de/startseite",
-      "status": 500,
-      "finalUrl": "https://www.elztal.de/startseite",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
@@ -266,7 +242,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2be7a25e050>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x22e52126090>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -2544,6 +2520,18 @@
       "url": "https://www.walheim.de/startseite",
       "status": 200,
       "finalUrl": "https://www.walheim.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 67,
+      "field": "sourceUrl",
+      "title": "8 weitere offene Gemeinden im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
+      "url": "https://www.affalterbach.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.affalterbach.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6395,7 +6383,7 @@
       "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
       "url": "https://www.rheinstetten.de/",
       "status": 200,
-      "finalUrl": "https://www.rheinstetten.de/de/startseite",
+      "finalUrl": "https://www.rheinstetten.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10932,6 +10920,18 @@
       "url": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
       "status": 200,
       "finalUrl": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.elztal.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.elztal.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
