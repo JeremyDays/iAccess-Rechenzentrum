@@ -1,7 +1,7 @@
 {
   "checked": 1447,
-  "ok": 1410,
-  "blocked": 31,
+  "ok": 1407,
+  "blocked": 34,
   "broken": 6,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x22e52105010>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x232b20808d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -186,6 +186,30 @@
     },
     {
       "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.weilheim-baden.de/",
+      "status": 500,
+      "finalUrl": "https://www.weilheim-baden.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.zell-im-wiesental.de/",
+      "status": 500,
+      "finalUrl": "https://www.zell-im-wiesental.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
@@ -221,6 +245,18 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.wehr.de/",
+      "status": 500,
+      "finalUrl": "https://www.wehr.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -242,7 +278,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x22e52126090>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x232b20840d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -9429,18 +9465,6 @@
       "index": 110,
       "field": "sourceUrl",
       "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.weilheim-baden.de/",
-      "status": 200,
-      "finalUrl": "https://www.weilheim-baden.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wittlingen.de/",
       "status": 200,
       "finalUrl": "https://www.wittlingen.de/",
@@ -9456,18 +9480,6 @@
       "url": "https://www.wutoeschingen.de/",
       "status": 200,
       "finalUrl": "https://www.wutoeschingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.zell-im-wiesental.de/",
-      "status": 200,
-      "finalUrl": "https://www.zell-im-wiesental.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15504,18 +15516,6 @@
       "url": "https://www.wannweil.de/",
       "status": 200,
       "finalUrl": "https://www.wannweil.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.wehr.de/",
-      "status": 200,
-      "finalUrl": "https://www.wehr.de/",
       "ok": true,
       "blocked": false,
       "error": ""
