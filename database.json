@@ -5316,6 +5316,29 @@
         "kein Flaechenfund"
       ],
       "archiveNote": "Alle zwoelf Live-Abrufe am 2026-08-22 als Tages-Snapshots lokal gesichert."
+    },
+    {
+      "id": "id-2026-08-23-news-monitoring",
+      "date": "2026-08-23",
+      "publishedDate": "2026-08-23",
+      "topic": "Taegliches Nachrichten-, Netz- und Flaechenmonitoring",
+      "publisher": "Google News RSS; Netze BW; Regierungspräsidium Freiburg; Kommunen Freiburg, Denzlingen und Emmendingen; Stadtwerke Emmendingen",
+      "sourceUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Gewerbefl%C3%A4che%22%20OR%20Gewerbegebiet%20OR%20Umspannwerk%20OR%20Glasfaser%20OR%20Fernw%C3%A4rme%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A7d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Edge%20Data%20Center%22%20OR%20%22Edge-Rechenzentrum%22%20OR%20%22Container-Rechenzentrum%22%20OR%20%22modulares%20Rechenzentrum%22%29%20Baden-W%C3%BCrttemberg%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/,Lde/2637203.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/",
+      "title": "Tagesmonitoring: keine neue belastbare konkrete RZ-Flaeche im Prioritaetsraum",
+      "summary": "Vier RSS-Suchen und acht amtliche Prioritaetsquellen wurden live abgerufen. 0 eindeutige RZ-Titeltreffer wurden geprueft; 0 nannten Freiburg, Denzlingen oder Emmendingen im Titel. 0 amtliche Prioritaetsquellen hatten gegenueber 2026-08-22 geaenderten sichtbaren Text. Kein gepruefter Treffer lieferte einen belastbaren parzellenscharfen Flaechen-, Carrier-, freien Netzleistungs- oder lokalen RZ-Projektnachweis.",
+      "relevance": "Amtliche Netzdaten und allgemeine Infrastrukturmeldungen sind nur Vorfilter, keine Anschlusszusage oder Flaechenqualifikation.",
+      "action": "Prioritaetsraum veraenderungsbasiert beobachten; bei konkreter Flaeche Netzanschlussanfrage fuer 0,25/0,5/1/2 MW und zwei physisch getrennte Carrierwege pruefen.",
+      "status": "neu aufgenommen",
+      "tags": [
+        "News",
+        "Freiburg",
+        "Denzlingen",
+        "Emmendingen",
+        "Edge",
+        "Netz",
+        "kein Flaechenfund"
+      ],
+      "archiveNote": "Alle zwoelf Live-Abrufe am 2026-08-23 als Tages-Snapshots lokal gesichert."
     }
   ],
   "gridChecks": [
@@ -5623,8 +5646,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-08-22",
-    "lastResearchSummary": "2026-08-22: BW-Coverage vollstaendig; 4 RSS- und 8 amtliche Prioritaetsquellen live geprueft; 1 RZ-Titeltreffer bewertet; keine neue belastbare konkrete RZ-Flaeche im Prioritaetsraum.",
+    "lastRun": "2026-08-23",
+    "lastResearchSummary": "2026-08-23: BW-Coverage vollstaendig; 4 RSS- und 8 amtliche Prioritaetsquellen live geprueft; 0 RZ-Titeltreffer bewertet; keine neue belastbare konkrete RZ-Flaeche im Prioritaetsraum.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -5651,8 +5674,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-08-22",
-    "lastResearchSummary": "2026-08-22: BW-Coverage vollstaendig; 4 RSS- und 8 amtliche Prioritaetsquellen live geprueft; 1 RZ-Titeltreffer bewertet; keine neue belastbare konkrete RZ-Flaeche im Prioritaetsraum.",
+    "lastResearchRun": "2026-08-23",
+    "lastResearchSummary": "2026-08-23: BW-Coverage vollstaendig; 4 RSS- und 8 amtliche Prioritaetsquellen live geprueft; 0 RZ-Titeltreffer bewertet; keine neue belastbare konkrete RZ-Flaeche im Prioritaetsraum.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
