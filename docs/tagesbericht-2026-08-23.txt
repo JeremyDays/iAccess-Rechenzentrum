@@ -1,0 +1,48 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-23
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Kein offener Coverage-Eintrag; deshalb gezieltes Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: BW-Rechenzentrum, Prioritaetsraum-RZ, lokale Flaeche/Netz/Glasfaser/Fernwaerme sowie modulare/Container-/Edge-RZ.
+- Acht amtliche Quellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+
+Ergebnis/Bewertung
+- 0 eindeutiger RZ-Titeltreffer geprueft; 0 mit Prioritaetsraum-Ortsnamen im Titel.
+- Gepruefte RZ-Titel: keine
+- Lokale Infrastruktur-Titel: Mordskolleginnen - BZ-Ticket; Bernhard Rohleder Zum Geplanten Ausbau Von Glasfaser Und Mobilfunk In Deutschland | 08.06.2026 Twins Vs Guardians (kLLrlX03r9) - Mshale
+- Gegenueber 2026-08-22: 7 rohe HTML-Aenderungen, davon 0 Aenderungen im normalisierten sichtbaren Seitentext.
+- Keine der acht amtlichen Prioritaetsquellen hatte geaenderten normalisierten sichtbaren Seitentext; die Rohabweichungen betreffen nur nicht sichtbare bzw. technische Seitenteile.
+- Amtliche Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+- Keine neue belastbare konkrete RZ-Flaeche in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-/Medienpruefung
+- Die geprueften Tagesfeeds und amtlichen Einstiegspfade lieferten keinen neuen belastbaren, standortrelevanten Original-PDF-/Gutachtenhinweis; keine irrelevante Datei aufgenommen.
+
+Daten/Website
+- database.json: heutiges Monitoring-Finding aufgenommen; Gesamtzahl Findings 154.
+- assets/bw-municipality-coverage.json: Tagesstand aktualisiert, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Lokale Archivierung
+- Zwoelf Live-Abrufe unter assets/source-archive/daily/2026-08-23/ mit HTTP-Status, Hashes, Feed-Zaehlungen und geprueften Titeln gesichert.
+- archive-sources.py: 1470 bekannte Quellen im Manifest; 1421 gespeichert/bereits vorhanden, 26 Abrufblocker (vor allem HTTP 429 bei datacenters.com; heutige Quellen nicht betroffen).
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1447 eindeutige URLs, 1410 ok, 31 blockiert/transient, 6 broken. Die sechs 404 betreffen historische Alpirsbach-PDFs, nicht heutige Quellen oder aktuelle Kandidaten.
+- JSON-Dateien und Python-Skript syntaktisch validiert; Tages-Finding, Coverage 17/1000/0, zwoelf HTTP-200-Snapshots und synchronisierter Website-Seed geprueft.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei unabhaengige Carrierwege unmoeglich.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
