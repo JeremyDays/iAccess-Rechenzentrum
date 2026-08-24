@@ -1,7 +1,7 @@
 {
   "checked": 1447,
-  "ok": 1408,
-  "blocked": 33,
+  "ok": 1409,
+  "blocked": 32,
   "broken": 6,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1a8861f4ed0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21b62c28bd0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -111,18 +111,6 @@
       "ok": false,
       "blocked": false,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 129,
-      "field": "sourceUrl",
-      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
-      "url": "https://www.aichstetten.de/Startseite.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.aichstetten.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "findings",
@@ -266,7 +254,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1a8858c5dd0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x21b62c3db90>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -7908,6 +7896,18 @@
       "url": "https://ts.domainname.de/unterwaldhausen.de",
       "status": 200,
       "finalUrl": "https://ts.domainname.de/unterwaldhausen.de",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
+      "url": "https://www.aichstetten.de/Startseite.html",
+      "status": 200,
+      "finalUrl": "https://www.aichstetten.de/Startseite.html",
       "ok": true,
       "blocked": false,
       "error": ""
