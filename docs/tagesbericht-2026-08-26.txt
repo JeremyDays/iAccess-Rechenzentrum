@@ -35,8 +35,8 @@ Lokale Archivierung
 
 Validierung
 - check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
-- check-links.py: 1448 eindeutige URLs, 1411 ok, 31 blockiert/transient, 6 broken. Die sechs 404 betreffen historische Alpirsbach-PDFs, nicht heutige Quellen oder aktuelle Kandidaten.
-- JSON-/Python-Syntax, Tages-Finding, Coverage 17/1000/0, dreizehn HTTP-200-Snapshots, Ebneter Originaltextbelege und synchronisierter Website-Seed geprueft.
+- check-links.py: 1448 eindeutige URLs, 1409 ok, 33 blockiert/transient, 6 broken. Die sechs 404 betreffen historische Alpirsbach-PDFs, nicht heutige Quellen oder aktuelle Kandidaten.
+- JSON-/Python-Syntax, Tages-Finding, Coverage 17/1000/0, dreizehn HTTP-200-Snapshots samt Hashes, Ebneter Originaltextbelege und synchronisierter Website-Seed geprueft.
 
 Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
