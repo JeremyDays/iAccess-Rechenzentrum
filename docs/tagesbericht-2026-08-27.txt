@@ -1,0 +1,50 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-27
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Kein offener Coverage-Eintrag; deshalb gezieltes Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: BW-Rechenzentrum, Prioritaetsraum-RZ, lokale Flaeche/Netz/Glasfaser/Fernwaerme sowie modulare/Container-/Edge-RZ.
+- Acht amtliche Quellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+
+Ergebnis/Bewertung
+- 3 eindeutige RZ-Titeltreffer geprueft; 0 mit Prioritaetsraum-Ortsnamen im Titel.
+- Gepruefte RZ-Titel: Milliarden für Dummerstorf: KI-Rechenzentrum bringt grüne Energie, Abwärme und ungeklärte Jobchancen - NDR.de; Milliardenprojekt in Norddeutschland: Schwarz-Gruppe plant Rekord-Rechenzentrum - SWR; Schwarz Digits plant XXL-Rechenzentrum in Mecklenburg-Vorpommern - tagesschau.de
+- Lokale Infrastruktur-Titel: Freiburg: Glasfaserausbau der Telekom in Ebnet auf der Zielgeraden - Presseportal; Telekom mit Rekordmonat beim Glasfaserausbau - Presseportal
+- Gegenueber 2026-08-26: 7 rohe HTML-Aenderungen, davon 0 Aenderungen im normalisierten sichtbaren Seitentext.
+- Keine der acht amtlichen Prioritaetsquellen hatte geaenderten normalisierten sichtbaren Seitentext; die Rohabweichungen betreffen nur nicht sichtbare bzw. technische Seitenteile.
+- Neue Telekom-Originalmeldung vom 26.08. vertieft den Ebneter Hinweis: 44 weitere Haushalte und Unternehmen, mehr als 6 km Glasfaserkabel bis in die Haeuser, 3 neue Netzverteiler, Abschluss voraussichtlich Ende September; rund 1.850 Haushalte waren bereits eigenwirtschaftlich erschlossen.
+- Einordnung: Die Telekom-Zahlen ergaenzen die Stadtmeldung (16 Gebaeude, ca. 2,5 km Streckenbau), da Haushalte/Unternehmen nicht Gebaeude und Kabelmenge nicht Tiefbaustrecke sind. Weiterhin kein Beleg fuer RZ-Flaeche, industriellen Backhaul, Carrierredundanz oder freie Stromleistung.
+- Amtliche Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+- Keine neue belastbare konkrete RZ-Flaeche in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-/Medienpruefung
+- Die neue Telekom-Meldung ist eine HTML-Originalquelle ohne standortrelevantes PDF/Gutachten; keine irrelevante Datei aufgenommen.
+
+Daten/Website
+- database.json: heutiges Monitoring-Finding aufgenommen; Gesamtzahl Findings 158.
+- assets/bw-municipality-coverage.json: Tagesstand aktualisiert, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Lokale Archivierung
+- Dreizehn Live-Abrufe unter assets/source-archive/daily/2026-08-27/ mit HTTP-Status, Hashes, Feed-Zaehlungen, geprueften Titeln und Telekom-Originalmeldung gesichert.
+- archive-sources.py: 1472 bekannte Quellen im Manifest; 1423 gespeichert/bereits vorhanden, 26 Abrufblocker (heutige Quellen nicht betroffen).
+
+Validierung
+- check-pdf-availability.py: total 41, localAvailable 24, publicAvailable 41, publicBlocked 0, publicUnavailable 0.
+- check-links.py: 1449 eindeutige URLs, 1411 ok, 32 blockiert/transient, 6 broken. Die sechs 404 betreffen historische Alpirsbach-PDFs, nicht heutige Quellen oder aktuelle Kandidaten.
+- JSON-/Python-Syntax, genau ein Tages-Finding, Coverage 17/1000/0, dreizehn eindeutige HTTP-200-Snapshots samt lokalen Dateien und synchronisierter Website-Seed geprueft.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei unabhaengige Carrierwege unmoeglich.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
