@@ -1,7 +1,7 @@
 {
   "checked": 1448,
-  "ok": 1411,
-  "blocked": 31,
+  "ok": 1409,
+  "blocked": 33,
   "broken": 6,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1da3f14fd90>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x282882f5f10>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -24,6 +24,18 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 125,
+      "field": "sourceUrl",
+      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
+      "url": "https://www.gemeinde-altheim.de/",
+      "status": 500,
+      "finalUrl": "https://www.gemeinde-altheim.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -221,6 +233,18 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.pforzheim.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.pforzheim.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -242,7 +266,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1da3ef61250>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x2828831afd0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -3972,18 +3996,6 @@
       "url": "https://www.erolzheim.de/startseite",
       "status": 200,
       "finalUrl": "https://www.erolzheim.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 125,
-      "field": "sourceUrl",
-      "title": "Biberach-Block ab Berkheim: 20 Gemeinden geprueft, kein neuer RZ-Fund",
-      "url": "https://www.gemeinde-altheim.de/",
-      "status": 200,
-      "finalUrl": "https://www.gemeinde-altheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16308,18 +16320,6 @@
       "url": "https://www.ostelsheim.de/",
       "status": 200,
       "finalUrl": "https://www.ostelsheim.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.pforzheim.de/",
-      "status": 200,
-      "finalUrl": "https://www.pforzheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
