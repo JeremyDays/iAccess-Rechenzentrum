@@ -1,8 +1,8 @@
 {
   "checked": 1449,
-  "ok": 1411,
-  "blocked": 32,
-  "broken": 6,
+  "ok": 1407,
+  "blocked": 35,
+  "broken": 7,
   "results": [
     {
       "collection": "companies",
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x19943d6a4d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x13068432790>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -26,6 +26,18 @@
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "ok": false,
       "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.holzkirch.de/",
+      "status": 404,
+      "finalUrl": "https://www.holzkirch.de/",
+      "ok": false,
+      "blocked": false,
       "error": ""
     },
     {
@@ -117,6 +129,18 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
+      "url": "https://www.aichstetten.de/Startseite.html",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.aichstetten.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.hagnau-bodensee.de/",
       "status": null,
       "finalUrl": "",
@@ -186,12 +210,12 @@
     },
     {
       "collection": "findings",
-      "index": 85,
+      "index": 84,
       "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
-      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "status": 403,
-      "finalUrl": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -222,6 +246,18 @@
     },
     {
       "collection": "findings",
+      "index": 101,
+      "field": "sourceUrl",
+      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.dornhan.de/startseite",
+      "status": 500,
+      "finalUrl": "https://www.dornhan.de/startseite",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -231,6 +267,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -254,7 +302,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x19944791b90>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x13068672690>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -3324,18 +3372,6 @@
       "url": "https://www.hausen-am-bussen.de/",
       "status": 200,
       "finalUrl": "https://www.hausen-am-bussen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.holzkirch.de/",
-      "status": 200,
-      "finalUrl": "https://www.holzkirch.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7905,18 +7941,6 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
-      "url": "https://www.aichstetten.de/Startseite.html",
-      "status": 200,
-      "finalUrl": "https://www.aichstetten.de/Startseite.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 129,
-      "field": "sourceUrl",
-      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.aitrach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aitrach.de/startseite",
@@ -10470,6 +10494,18 @@
     },
     {
       "collection": "findings",
+      "index": 85,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 116,
       "field": "sourceUrl",
       "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
@@ -10572,18 +10608,6 @@
       "url": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
       "status": 200,
       "finalUrl": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 84,
-      "field": "sourceUrl",
-      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -12060,18 +12084,6 @@
       "url": "https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_6.PunktuelleAnderung_Flachsacker.pdf",
       "status": 200,
       "finalUrl": "https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_6.PunktuelleAnderung_Flachsacker.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 101,
-      "field": "sourceUrl",
-      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.dornhan.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.dornhan.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15502,18 +15514,6 @@
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "status": 200,
-      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
       "status": 200,
       "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
       "ok": true,
