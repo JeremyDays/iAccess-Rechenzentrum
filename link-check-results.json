@@ -1,7 +1,7 @@
 {
   "checked": 1449,
-  "ok": 1407,
-  "blocked": 35,
+  "ok": 1408,
+  "blocked": 34,
   "broken": 7,
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x13068432790>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1fe62d561d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -129,18 +129,6 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
-      "url": "https://www.aichstetten.de/Startseite.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.aichstetten.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 129,
-      "field": "sourceUrl",
-      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.hagnau-bodensee.de/",
       "status": null,
       "finalUrl": "",
@@ -225,6 +213,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
@@ -246,18 +246,6 @@
     },
     {
       "collection": "findings",
-      "index": 101,
-      "field": "sourceUrl",
-      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.dornhan.de/startseite",
-      "status": 500,
-      "finalUrl": "https://www.dornhan.de/startseite",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -270,15 +258,15 @@
     },
     {
       "collection": "findings",
-      "index": 113,
+      "index": 115,
       "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.gemeinde-bisingen.de/",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.walddorfhaeslach.com', port=443): Read timed out. (read timeout=25)"
+      "error": "HTTPSConnectionPool(host='www.gemeinde-bisingen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gemeinde-bisingen.de', port=443) at 0x1fe62c36510>, 'Connection to www.gemeinde-bisingen.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -302,7 +290,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x13068672690>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1fe62d7a750>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -7941,6 +7929,18 @@
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
+      "url": "https://www.aichstetten.de/Startseite.html",
+      "status": 200,
+      "finalUrl": "https://www.aichstetten.de/Startseite.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
       "url": "https://www.aitrach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aitrach.de/startseite",
@@ -10893,18 +10893,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aglasterhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aglasterhausen.de/startseite",
@@ -12084,6 +12072,18 @@
       "url": "https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_6.PunktuelleAnderung_Flachsacker.pdf",
       "status": 200,
       "finalUrl": "https://www.dornhan.de/fileadmin/Dateien/Cross7/root/Startseite/Burgerinfo/Aktuell_%26_Wichtig/Offentliche_Bekanntmachungen/29.05.2026_Veroffentlichung_Offenlegung_FNP_6.PunktuelleAnderung_Flachsacker.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 101,
+      "field": "sourceUrl",
+      "title": "Rottweil-/Schwarzwald-Baar-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.dornhan.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.dornhan.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -14769,18 +14769,6 @@
       "index": 115,
       "field": "sourceUrl",
       "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.gemeinde-bisingen.de/",
-      "status": 200,
-      "finalUrl": "https://www.gemeinde-bisingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
       "url": "https://www.gomaringen.de/",
       "status": 200,
       "finalUrl": "https://www.gomaringen.de/",
@@ -15514,6 +15502,18 @@
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "status": 200,
+      "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.walddorfhaeslach.com/unsere-gemeinde/aktuelles/files/daten/bauen-wohnen-umwelt/Nahwaerme/Fragebogen_Nahwaerme.pdf",
       "status": 200,
       "finalUrl": "https://www.walddorfhaeslach.com/unsere-gemeinde.html",
       "ok": true,
