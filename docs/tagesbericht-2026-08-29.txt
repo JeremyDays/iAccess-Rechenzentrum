@@ -41,6 +41,8 @@ Zustellung
 - Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
 
 Website
+- GitHub-Publish erfolgreich; Datenbank, Website-Seed, Coverage, Linkcheck, PDF-Status und Tagesbericht aktualisiert und per Remote-Hashvergleich verifiziert.
+- Pages-Konfigurations-Update mangels Adminberechtigung uebersprungen; bestehende Pages-Auslieferung ist erreichbar.
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Blocker/Risiken
