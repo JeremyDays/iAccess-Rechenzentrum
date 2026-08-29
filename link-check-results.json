@@ -14,7 +14,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1fe62d561d0>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1c3d8e8bf50>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "drawings",
@@ -198,6 +198,18 @@
     },
     {
       "collection": "findings",
+      "index": 85,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 84,
       "field": "sourceUrl",
       "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
@@ -257,18 +269,6 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
     },
     {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.gemeinde-bisingen.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.gemeinde-bisingen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gemeinde-bisingen.de', port=443) at 0x1fe62c36510>, 'Connection to www.gemeinde-bisingen.de timed out. (connect timeout=25)'))"
-    },
-    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -290,7 +290,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1fe62d7a750>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x1c3d8e82e90>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -10494,18 +10494,6 @@
     },
     {
       "collection": "findings",
-      "index": 85,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
-      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 116,
       "field": "sourceUrl",
       "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
@@ -14760,6 +14748,18 @@
       "url": "https://www.dusslingen.de/",
       "status": 200,
       "finalUrl": "https://www.dusslingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.gemeinde-bisingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-bisingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
