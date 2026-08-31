@@ -1,0 +1,42 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-08-31
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Kein offener Coverage-Eintrag; deshalb gezieltes Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: BW-Rechenzentrum, Prioritaetsraum-RZ, lokale Flaeche/Netz/Glasfaser/Fernwaerme sowie modulare/Container-/Edge-RZ.
+- Acht amtliche Quellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+
+Ergebnis/Bewertung
+- 1 eindeutiger RZ-Titeltreffer geprueft; 0 mit Prioritaetsraum-Ortsnamen im Titel.
+- Gepruefte RZ-Titel: Lidl und Kaufland investieren 5,6 Milliarden: Dieses Rechenzentrum entsteht bei Rostock - Wochenblatt Reporter
+- Lokale Infrastruktur-Titel: Freiburg: Glasfaserausbau der Telekom in Ebnet auf der Zielgeraden - Presseportal; Live-Verkehr in der Region Freiburg: Alle Staus und Störungen auf einen Blick - Badische Zeitung; Telekom mit Rekordmonat beim Glasfaserausbau - Presseportal
+- Gegenueber 2026-08-30: 7 rohe HTML-Aenderungen, davon 0 Aenderungen im normalisierten sichtbaren Seitentext.
+- Keine der acht amtlichen Prioritaetsquellen hatte geaenderten normalisierten sichtbaren Seitentext; die Rohabweichungen betreffen nur nicht sichtbare bzw. technische Seitenteile.
+- Amtliche Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+- Keine neue belastbare konkrete RZ-Flaeche in Freiburg, Denzlingen oder Emmendingen.
+
+PDF-/Medienpruefung
+- Die geprueften Tagesfeeds und amtlichen Einstiegspfade lieferten keinen neuen belastbaren, standortrelevanten Original-PDF-/Gutachtenhinweis; keine irrelevante Datei aufgenommen.
+
+Daten/Website
+- database.json: heutiges Monitoring-Finding aufgenommen; Gesamtzahl Findings 162.
+- assets/bw-municipality-coverage.json: Tagesstand aktualisiert, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Lokale Archivierung
+- Zwoelf Live-Abrufe unter assets/source-archive/daily/2026-08-31/ mit HTTP-Status, Hashes, Feed-Zaehlungen und geprueften Titeln gesichert.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei unabhaengige Carrierwege unmoeglich.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich nicht auf diese Altzeilen.
