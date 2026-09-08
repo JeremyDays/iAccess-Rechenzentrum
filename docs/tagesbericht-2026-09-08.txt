@@ -1,0 +1,45 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-09-08
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Landesweite Coverage ist abgeschlossen; deshalb Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen sowie BW-Newspruefung.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: 5/2/1/0 Meldungen in den vier Feeds.
+- Acht amtliche Prioritaetsquellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+- Zusatzpruefung: KIT-Originalmitteilung, DataCenter-Insider und SWR zum KIT-KI-Rechenzentrum; Baden Cloud Lahr als bereits erfasster Vergleichsstandort revalidiert.
+
+Ergebnis/Bewertung
+- Drei amtliche Seiten mit geaendertem sichtbarem Text einzeln verglichen. Zwei Freiburger Aenderungen waren Newsrotation/Navigation ohne Standortsignal.
+- Emmendingen FNP listet vier neue Verfahrensbloecke. Sechs Begruendungen/Steckbriefe lokal gesichert und volltextlich geprueft.
+- Neuer schwacher Flaechenhinweis: Am Dachsrain, Emmendingen-Windenreute, ca. 0,85 ha, davon 7.700 m2 vorgesehene gewerbliche Baufläche; ehemalige Ziegelei, weitgehend versiegelt, K-5102-Erschliessung.
+- Nur niedrige Prioritaet: Eigentuemernutzung Lager/Abstellen, RZ-Verfuegbarkeit nicht belegt; Netzleistung und redundante Carrierwege unbekannt; Wohnhaus, Recyclingbetrieb, Altlastenverdacht, WSG III B, HQ100-Rand, Extrem-Starkregen bis lokal 1 m sowie FFH/Biotop/Wald als Risiken.
+- Am Schlosspark/Seiberg I und Riedweiden/Sattler-Breite III sind Wohnbauverfahren; Hochburg ist zweckgebunden fuer Landwirtschaft/Bildung/Forschung/Verwaltung. Keine RZ-Flaechen.
+- Datumswarnung: Teningen-Unterlagen tragen 16.11.2026, also ein Datum nach dem heutigen 08.09.2026. Der dort genannte Verfahrensstand wird nicht als heutige Tatsache verwendet.
+- KIT Campus Nord verifiziert: neues modulares KI-/Forschungs-RZ, ca. 2 MW initial, Stromanschluss/Ausbau bis 10 MW, Abwaerme via Waermepumpen ins Campusnetz, 24 Mio. Euro Foerderung, Bauabschluss bis Ende 2029 und Rechnerstart 2030. Referenzstandort, keine akquirierbare Flaeche.
+- Amtliche Stadtwerke-Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+
+PDF-/Medienpruefung
+- Sechs neue Emmendinger Planungs-PDFs volltextlich ausgelesen und mit Hash/Quelle dokumentiert.
+- Der Basisregex uebersah zwei potenzielle RSS-Titel (Plural Rechenzentren bzw. KI-Zentrum); beide manuell geprueft. Der Karlsruhe-Treffer wurde ueber drei Quellen bestaetigt.
+
+Daten/Website
+- database.json: 2 Standortobjekte ergaenzt (Am Dachsrain als Pruefhinweis, KIT Campus Nord als Referenz), 1 PDF-Auszug ergaenzt und heutiges Finding vertieft; Gesamtzahl Findings 164, Sites 24, PDF-Auszüge 42.
+- assets/bw-municipality-coverage.json: Tagesstand unveraendert vollstaendig, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Lokale Archivierung
+- 12 Kernabrufe, 4 Zusatzseiten und 6 PDFs unter assets/source-archive/daily/2026-09-08/ gesichert; Metadaten enthalten HTTP-Status, Dateigroessen und SHA-256-Hashes.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Am Dachsrain bleibt ohne Eigentuemerinteresse, Netzanschlussauskunft und zwei physisch getrennte Carrierwege nur ein niedriger Pruefhinweis.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf die aktuellen Livequellen und PDFs.
