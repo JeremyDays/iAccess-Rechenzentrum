@@ -1,21 +1,9 @@
 {
-  "checked": 1449,
-  "ok": 1407,
-  "blocked": 35,
+  "checked": 1453,
+  "ok": 1419,
+  "blocked": 27,
   "broken": 7,
   "results": [
-    {
-      "collection": "companies",
-      "index": 20,
-      "field": "contact",
-      "title": "LINK2AIR / LEITWERK AG / BADEN CLOUD",
-      "url": "https://www.link2air.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x218bd791310>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
-    },
     {
       "collection": "drawings",
       "index": 3,
@@ -39,30 +27,6 @@
       "ok": false,
       "blocked": false,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 81,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.schwaebisch-gmuend.de/startseite.html",
-      "status": 403,
-      "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 83,
-      "field": "sourceUrl",
-      "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
-      "url": "https://www.waldbronn.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "findings",
@@ -210,54 +174,6 @@
     },
     {
       "collection": "findings",
-      "index": 85,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
-      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 84,
-      "field": "sourceUrl",
-      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
-      "status": 403,
-      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
@@ -291,18 +207,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 21,
-      "field": "link",
-      "title": "BADEN CLOUD Rechenzentrum Lahr",
-      "url": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.link2air.de', port=443): Max retries exceeded with url: /ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.link2air.de', port=443) at 0x218bd52b250>, 'Connection to www.link2air.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -714,12 +618,24 @@
     },
     {
       "collection": "companies",
+      "index": 20,
+      "field": "contact",
+      "title": "LINK2AIR / LEITWERK AG / BADEN CLOUD",
+      "url": "https://www.link2air.de/",
+      "status": 200,
+      "finalUrl": "https://www.link2air.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "companies",
       "index": 9,
       "field": "contact",
       "title": "Microsoft Azure",
       "url": "https://azure.microsoft.com/en-us/",
       "status": 200,
-      "finalUrl": "https://azure.microsoft.com/en-us/",
+      "finalUrl": "https://azure.microsoft.com/en-us",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -3299,7 +3215,7 @@
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.breitingen.de/",
       "status": 200,
-      "finalUrl": "https://breitingen.de/",
+      "finalUrl": "https://www.breitingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5049,6 +4965,18 @@
       "index": 81,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.schwaebisch-gmuend.de/startseite.html",
+      "status": 200,
+      "finalUrl": "https://www.schwaebisch-gmuend.de/startseite.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 81,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.spraitbach.de/",
       "status": 200,
       "finalUrl": "https://www.spraitbach.de/",
@@ -6468,6 +6396,18 @@
       "url": "https://www.waghaeusel.de/",
       "status": 200,
       "finalUrl": "https://www.waghaeusel.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 83,
+      "field": "sourceUrl",
+      "title": "Cron #2: Karlsruhe-Sued und Rastatt-Nord systematisch geprueft",
+      "url": "https://www.waldbronn.de/",
+      "status": 200,
+      "finalUrl": "https://www.waldbronn.de/start",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10494,6 +10434,18 @@
     },
     {
       "collection": "findings",
+      "index": 85,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 116,
       "field": "sourceUrl",
       "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
@@ -10596,6 +10548,18 @@
       "url": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
       "status": 200,
       "finalUrl": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 84,
+      "field": "sourceUrl",
+      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10881,6 +10845,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aglasterhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aglasterhausen.de/startseite",
@@ -10968,6 +10944,18 @@
       "url": "https://www.gaggenau.de/startseite.1.htm",
       "status": 200,
       "finalUrl": "https://www.gaggenau.de/startseite.1.htm",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "status": 200,
+      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13692,6 +13680,30 @@
       "url": "https://www.badenit.de/",
       "status": 200,
       "finalUrl": "https://www.badenit.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 163,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: Am Dachsrain als schwacher Flaechenpruefhinweis und KIT als 2-bis-10-MW-Referenz erfasst",
+      "url": "https://www.datacenter-insider.de/kit-baut-ki-rechenzentrum-mit-zehn-megawatt-ausbaupotenzial-a-36129753d961cb6b005240cabb79d5b7/",
+      "status": 200,
+      "finalUrl": "https://www.datacenter-insider.de/kit-baut-ki-rechenzentrum-mit-zehn-megawatt-ausbaupotenzial-a-36129753d961cb6b005240cabb79d5b7/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 163,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: Am Dachsrain als schwacher Flaechenpruefhinweis und KIT als 2-bis-10-MW-Referenz erfasst",
+      "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/kit-baut-neues-rechenzentrum-fuer-ki-und-wissenschaftliches-rechnen-100.html",
+      "status": 200,
+      "finalUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/kit-baut-neues-rechenzentrum-fuer-ki-und-wissenschaftliches-rechnen-100.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16788,6 +16800,42 @@
       "url": "https://www.gesetze-im-internet.de/",
       "status": 200,
       "finalUrl": "https://www.gesetze-im-internet.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 22,
+      "field": "sourceUrl",
+      "title": "Am Dachsrain - gewerbliche Konversionsflaeche (Pruefhinweis)",
+      "url": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Am_Dachsrain/3_-_Begr%C3%BCndung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Am_Dachsrain/3_-_Begr%C3%BCndung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 21,
+      "field": "link",
+      "title": "BADEN CLOUD Rechenzentrum Lahr",
+      "url": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
+      "status": 200,
+      "finalUrl": "https://www.link2air.de/ueber-uns/events/event-details/tag-der-offenen-baustelle-informieren-sie-sich-direkt-vor-ort",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 23,
+      "field": "sourceUrl",
+      "title": "KIT KI-Rechenzentrum Campus Nord",
+      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
+      "status": 200,
+      "finalUrl": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
       "ok": true,
       "blocked": false,
       "error": ""
