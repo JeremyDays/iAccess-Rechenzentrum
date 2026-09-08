@@ -34,8 +34,13 @@ Lokale Archivierung
 Recherchefragen/Uploads
 - researchQuestions: 0; manualUploads: 0.
 
-Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+Publish/Zustellung/Kette
+- GitHub-Publish erfolgreich; erster Daten-Commit dieses Laufs: https://github.com/JeremyDays/iAccess-Rechenzentrum/commit/9a76cd755d326c83994f27dc1ec0a0aa33eb8be4
+- Repository- und Live-Pages-Read-back erfolgreich: lastRun 2026-09-08 und beide neuen Standort-IDs sichtbar (Pages HTTP 200).
+- Pages-Konfiguration wegen fehlender Berechtigung uebersprungen (403); bestehende Pages-Auslieferung funktioniert.
+- Globaler Linkcheck: 1195 URLs, 7 alte 404-Links (Holzkirch/Alpirsbach), keine heutige Quelle betroffen. PDF-Check: 42/42 oeffentlich erreichbar.
+- Kettenstatus rz am 08.09.2026 um 09:16:21 gesetzt. Cron-Job #3 danach ausgeloest, aber wegen fehlender Datei C:\\Users\\erste\\Documents\\Obsidian_Projektliste_Aufgaben.xlsx fehlgeschlagen; #4 durch diesen Nachlauf nicht gestartet.
+- Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
