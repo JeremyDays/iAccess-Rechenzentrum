@@ -1,0 +1,47 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-09-09
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Landesweite Coverage ist abgeschlossen; deshalb Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen sowie BW-Newspruefung.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: 2/2/1/0 Meldungen in den vier Feeds; alle 5 RSS-Items manuell geprueft.
+- Acht amtliche Prioritaetsquellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+- Zusatzquelle: amtliche Munzingen-Buergerinformation (PDF, 3. Auflage 2021) als Kartierungsquelle fuer Gewerbegebiet Roos/Grosse Roos.
+
+Ergebnis/Bewertung
+- Kein neuer direkter RZ-Titeltreffer. Der Karlsruhe-KI-Titel wiederholte den bereits am 08.09.2026 erfassten KIT-Fall; die vier uebrigen RSS-Meldungen waren nicht standortrelevant.
+- Vier amtliche Seiten hatten geaenderten sichtbaren Text. Zwei Freiburger Aenderungen waren Navigation/Newsrotation, Emmendingen ergaenzte nur den Menuepunkt Job-Start-Boerse.
+- Sachliche Aenderung: Die Stadt Freiburg bestaetigt nun fuer Munzingen, dass Vodafone/Primevest den Ort einschliesslich Gewerbegebiet Grosse Roos angeschlossen hat, fast alle Kunden in Betrieb sind und Nachzuegler im Juli/August 2026 gebaut wurden.
+- Bewertung: belastbarerer Connectivity-Vorfilter, aber keine neue RZ-Flaeche. Freie/akquirierbare Flaeche, Netzanschlussleistung, Business-Bandbreite/SLA und zwei physisch getrennte Carrierwege bleiben unbelegt.
+- Amtliche Stadtwerke-Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+
+PDF-/Medienpruefung
+- Amtliche Munzingen-Buergerinformation volltextlich ausgelesen und lokal gesichert. Der Ortsplan markiert Gewerbegebiet Roos/Grosse Roos; das Dokument liefert keine Flaechenverfuegbarkeit, Strom- oder Carrierparameter.
+- Keine neue standortrelevante Planungs- oder Netz-PDF gefunden; keine kuenstliche Hochstufung der Broschuere.
+
+Daten/Website
+- database.json: heutiges Monitoring-Finding vertieft und bestehenden Freiburg-Connectivity-Check aktualisiert; Findings 165, Sites 24, PDF-Auszüge 42.
+- assets/bw-municipality-coverage.json: Tagesstand vollstaendig, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Lokale Archivierung
+- 12 Live-Abrufe und 1 amtliche PDF unter assets/source-archive/daily/2026-09-09/ gesichert; Metadaten enthalten HTTP-Status, Dateigroesse und SHA-256-Hash.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Validierung
+- Globaler Linkcheck: 1.454 eindeutige URLs, 1.418 erreichbar, 28 blockiert/transient, 8 defekt. Betroffen sind nur historische Holzkirch-/Alpirsbach-Links sowie ein aktuell verweigerter Kirchheim-am-Ries-Abruf; keine heutige Quelle ist betroffen.
+- PDF-Check: 42/42 kuratierte PDFs oeffentlich erreichbar, 25 lokal vorhanden.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Grosse Roos bleibt ohne konkrete Flaeche, Verbrauchs-Netzanschlussauskunft und zwei physisch getrennte Carrierwege nur ein Connectivity-Vorfilter.
+- Der lokale Alt-Extractor extract-pdf-data.py benoetigt das nicht installierte Modul pypdf; die heutige PDF wurde ersatzweise mit dem Web-PDF-Extractor vollstaendig ausgelesen.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf aktuelle Livequellen und die amtliche PDF.
