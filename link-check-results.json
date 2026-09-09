@@ -1,8 +1,8 @@
 {
-  "checked": 1453,
-  "ok": 1419,
-  "blocked": 27,
-  "broken": 7,
+  "checked": 1454,
+  "ok": 1418,
+  "blocked": 28,
+  "broken": 8,
   "results": [
     {
       "collection": "drawings",
@@ -27,6 +27,18 @@
       "ok": false,
       "blocked": false,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 80,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.kirchheim-am-ries.de/startseite",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": false,
+      "error": "HTTPSConnectionPool(host='www.kirchheim-am-ries.de', port=443): Max retries exceeded with url: /startseite (Caused by NewConnectionError(\"HTTPSConnection(host='www.kirchheim-am-ries.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "collection": "findings",
@@ -399,6 +411,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 0,
+      "field": "documents",
+      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
+      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='bb.beteiligung.diplanung.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "zoningPlans",
@@ -5628,18 +5652,6 @@
       "url": "https://www.jagstzell.de/startseite",
       "status": 200,
       "finalUrl": "https://www.jagstzell.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 80,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.kirchheim-am-ries.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.kirchheim-am-ries.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13710,6 +13722,18 @@
     },
     {
       "collection": "findings",
+      "index": 164,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: Glasfaserstatus Große Roos bestätigt, keine neue RZ-Fläche",
+      "url": "https://www.freiburg.de/pb/site/Freiburg/get/params_E8421425/1447298/Munzingen_Broschuere.pdf",
+      "status": 200,
+      "finalUrl": "https://www.freiburg.de/pb/site/Freiburg/get/params_E8421425/1447298/Munzingen_Broschuere.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 140,
       "field": "sourceUrl",
       "title": "Tagesmonitoring: kein neuer konkreter RZ- oder Flaechenfund im Prioritaetsraum",
@@ -17184,18 +17208,6 @@
       "url": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 0,
-      "field": "documents",
-      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
-      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
-      "status": 200,
-      "finalUrl": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
       "ok": true,
       "blocked": false,
       "error": ""
