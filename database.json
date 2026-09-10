@@ -5681,6 +5681,30 @@
         "kein Flächenfund"
       ],
       "archiveNote": "Zwölf Live-Abrufe und eine amtliche Munzingen-PDF am 2026-09-09 lokal gesichert; PDF vollständig textuell geprüft."
+    },
+    {
+      "id": "id-2026-09-10-news-monitoring",
+      "date": "2026-09-10",
+      "publishedDate": "2026-09-10",
+      "topic": "Taegliches Nachrichten-, Netz- und Flaechenmonitoring",
+      "publisher": "Google News RSS; Netze BW; Regierungspräsidium Freiburg; Kommunen Freiburg, Denzlingen und Emmendingen; Stadtwerke Emmendingen",
+      "sourceUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Gewerbefl%C3%A4che%22%20OR%20Gewerbegebiet%20OR%20Umspannwerk%20OR%20Glasfaser%20OR%20Fernw%C3%A4rme%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A7d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Edge%20Data%20Center%22%20OR%20%22Edge-Rechenzentrum%22%20OR%20%22Container-Rechenzentrum%22%20OR%20%22modulares%20Rechenzentrum%22%29%20Baden-W%C3%BCrttemberg%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/,Lde/2637203.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/",
+      "title": "Tagesmonitoring: keine neue RZ-Fläche oder relevante Quellenänderung",
+      "summary": "Vier RSS-Suchen und acht amtliche Prioritätsquellen wurden live abgerufen. Die Feeds enthielten insgesamt einen Eintrag: eine bereits bekannte Tagesschau-Meldung vom 14.08.2026 über Freiburger Spezialglas und KI-Rechner, ohne Rechenzentrums-, Flächen-, Netz- oder Carrierhinweis. Keine der acht amtlichen Seiten hatte gegenüber dem 09.09.2026 geänderten normalisierten sichtbaren Text. Sieben Rohänderungen betrafen ausschließlich technische oder nicht sichtbare Seitenteile.",
+      "relevance": "Es gibt heute weder einen neuen Standortkandidaten noch eine belastbare Aufwertung eines bestehenden Vorfilters. Die bestätigten Emmendinger Netzdaten bleiben ein Netz-Vorfilter und keine freie Anschlusszusage.",
+      "action": "Prioritätsraum weiter veränderungsbasiert beobachten; bei konkreter Fläche Netzanschlussanfrage für 0,25/0,5/1/2 MW und zwei physisch getrennte Carrierwege prüfen.",
+      "status": "neu aufgenommen und manuell geprüft",
+      "tags": [
+        "News",
+        "Freiburg",
+        "Denzlingen",
+        "Emmendingen",
+        "Edge",
+        "Netz",
+        "keine Änderung",
+        "kein Flächenfund"
+      ],
+      "archiveNote": "Alle zwölf Live-Abrufe am 2026-09-10 lokal gesichert; ein RSS-Item manuell bewertet und PDF-Linkbestand der amtlichen Seiten gegen den Vortag verglichen."
     }
   ],
   "gridChecks": [
@@ -5988,8 +6012,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-09-09",
-    "lastResearchSummary": "2026-09-09: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; Große Roos/Munzingen als weitgehend in Betrieb befindlichen Glasfaser-Vorfilter bestätigt, aber keine neue belastbare RZ-Fläche gefunden.",
+    "lastRun": "2026-09-10",
+    "lastResearchSummary": "2026-09-10: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; ein nicht standortrelevantes RSS-Item, keine sichtbare amtliche Quellenänderung und keine neue belastbare RZ-Fläche.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -6016,8 +6040,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-09-09",
-    "lastResearchSummary": "2026-09-09: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; Große Roos/Munzingen als weitgehend in Betrieb befindlichen Glasfaser-Vorfilter bestätigt, aber keine neue belastbare RZ-Fläche gefunden.",
+    "lastResearchRun": "2026-09-10",
+    "lastResearchSummary": "2026-09-10: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; ein nicht standortrelevantes RSS-Item, keine sichtbare amtliche Quellenänderung und keine neue belastbare RZ-Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
