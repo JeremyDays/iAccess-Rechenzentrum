@@ -1,0 +1,44 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-09-10
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Landesweite Coverage ist abgeschlossen; deshalb Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen sowie BW-Newspruefung.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: 0/1/0/0 Meldungen in den vier Feeds; der einzige Eintrag wurde manuell geprueft.
+- Acht amtliche Prioritaetsquellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+
+Ergebnis/Bewertung
+- Kein direkter RZ-Titeltreffer. Der einzige RSS-Eintrag war die bereits bekannte Tagesschau-Meldung vom 14.08.2026 ueber Freiburger Spezialglas und KI-Rechner; kein Rechenzentrums-, Flaechen-, Netz- oder Carrierhinweis.
+- Keine der acht amtlichen Seiten hatte gegenueber 2026-09-09 geaenderten normalisierten sichtbaren Text. Sieben rohe HTML-Aenderungen betrafen ausschliesslich technische oder nicht sichtbare Seitenteile.
+- Amtliche Stadtwerke-Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis.
+- Keine neue belastbare konkrete RZ-Flaeche und keine Aufwertung eines bestehenden Standortkandidaten.
+
+PDF-/Medienpruefung
+- Die acht amtlichen Seiten enthalten 124 PDF-Links, exakt denselben Bestand wie am Vortag; keine neuen oder entfernten Links.
+- Kein neuer standortrelevanter Planungs-, Netz- oder Flaechendokumenthinweis. Keine alte oder irrelevante PDF kuenstlich erneut aufgenommen.
+
+Daten/Website
+- database.json: heutiges manuell geprueftes Monitoring-Finding aufgenommen; Findings 166, Sites 24, PDF-Auszüge 42.
+- assets/bw-municipality-coverage.json: Tagesstand vollstaendig, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Lokale Archivierung
+- 12 Live-Abrufe unter assets/source-archive/daily/2026-09-10/ gesichert; Metadaten enthalten HTTP-Status, Dateigroesse und SHA-256-Hash.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Validierung
+- Globaler Linkcheck: 1.454 eindeutige URLs, 1.417 erreichbar, 30 blockiert/transient, 7 defekt. Betroffen sind nur historische Holzkirch-/Alpirsbach-Links; keine heutige Quelle ist betroffen.
+- PDF-Check: 42/42 kuratierte PDFs oeffentlich erreichbar, 25 lokal vorhanden.
+
+Zustellung
+- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei physisch getrennte Carrierwege unmoeglich.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf aktuelle Livequellen und nicht auf diese Altzeilen.
