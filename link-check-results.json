@@ -1,8 +1,8 @@
 {
   "checked": 1454,
-  "ok": 1418,
-  "blocked": 28,
-  "broken": 8,
+  "ok": 1417,
+  "blocked": 30,
+  "broken": 7,
   "results": [
     {
       "collection": "drawings",
@@ -27,18 +27,6 @@
       "ok": false,
       "blocked": false,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 80,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.kirchheim-am-ries.de/startseite",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": false,
-      "error": "HTTPSConnectionPool(host='www.kirchheim-am-ries.de', port=443): Max retries exceeded with url: /startseite (Caused by NewConnectionError(\"HTTPSConnection(host='www.kirchheim-am-ries.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "collection": "findings",
@@ -183,6 +171,42 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 85,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
+      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 84,
+      "field": "sourceUrl",
+      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "ok": false,
+      "blocked": true,
+      "error": ""
     },
     {
       "collection": "findings",
@@ -411,18 +435,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 0,
-      "field": "documents",
-      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
-      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='bb.beteiligung.diplanung.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "zoningPlans",
@@ -5661,6 +5673,18 @@
       "index": 80,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.kirchheim-am-ries.de/startseite",
+      "status": 200,
+      "finalUrl": "https://www.kirchheim-am-ries.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 80,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Dischingen/Gerstetten geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.koenigsbronn.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.koenigsbronn.de/willkommen",
@@ -10446,18 +10470,6 @@
     },
     {
       "collection": "findings",
-      "index": 85,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
-      "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 116,
       "field": "sourceUrl",
       "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
@@ -10560,18 +10572,6 @@
       "url": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
       "status": 200,
       "finalUrl": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 84,
-      "field": "sourceUrl",
-      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10848,18 +10848,6 @@
       "url": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
       "status": 200,
       "finalUrl": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17208,6 +17196,18 @@
       "url": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 0,
+      "field": "documents",
+      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
+      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
+      "status": 200,
+      "finalUrl": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
       "ok": true,
       "blocked": false,
       "error": ""
