@@ -33,12 +33,17 @@ Validierung
 - Globaler Linkcheck: 1.454 eindeutige URLs, 1.417 erreichbar, 30 blockiert/transient, 7 defekt. Betroffen sind nur historische Holzkirch-/Alpirsbach-Links; keine heutige Quelle ist betroffen.
 - PDF-Check: 42/42 kuratierte PDFs oeffentlich erreichbar, 25 lokal vorhanden.
 
-Zustellung
-- Ausschliesslich Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+Publish/Zustellung/Kette
+- GitHub-Publish erfolgreich; Daten-Commit: https://github.com/JeremyDays/iAccess-Rechenzentrum/commit/c1d4768a89f05777a31f5ab84343f54ae176a03c
+- Repository- und Live-Pages-Read-back erfolgreich: lastRun 2026-09-10 und Tages-Finding sichtbar; Raw GitHub, Pages-Datenbank und Pages-HTML jeweils HTTP 200.
+- Pages-Konfiguration wegen fehlender Berechtigung uebersprungen (403); bestehende Pages-Auslieferung funktioniert.
+- Kettenstatus rz gesetzt und erfolgreich zurueckgelesen. Der anschliessende Start von Job #3 scheiterte: Job-ID dc0f78e41da8 ist in Hermes nicht registriert; Job #3 wurde nicht gestartet.
+- Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
 
 Website
 - https://jeremydays.github.io/iAccess-Rechenzentrum/
 
 Blocker/Risiken
 - Kein fachlicher Abschlussblocker. Konkrete Standortbewertung bleibt ohne parzellenscharfe Flaeche, Netzanschlussauskunft und zwei physisch getrennte Carrierwege unmoeglich.
+- Kettenblocker: Der vorgegebene Folgejob dc0f78e41da8 fehlt in der aktuellen Hermes-Cron-Liste; dort ist nur der fachfremde Job 31d954deb9e7 registriert. Kein Ersatzjob wurde blind gestartet.
 - Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf aktuelle Livequellen und nicht auf diese Altzeilen.
