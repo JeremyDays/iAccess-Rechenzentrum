@@ -16,7 +16,8 @@ Ergebnis/Bewertung
 
 PDF-/Medienpruefung
 - Die acht amtlichen Seiten enthalten 124 PDF-Links, exakt denselben Bestand wie am Vortag; keine neuen oder entfernten Links.
-- Kein neuer standortrelevanter Planungs-, Netz- oder Flaechendokumenthinweis. Keine alte oder irrelevante PDF kuenstlich erneut aufgenommen.
+- Die amtliche Bekanntmachung zum Planfeststellungsverfahren 110-kV-Leitung Anschluss Denzlingen wurde frisch abgerufen, lokal gesichert und volltextlich ausgelesen. Sie bestaetigt den bekannten Verfahrensgegenstand, liefert aber keine freie Netzanschlussleistung, konkrete RZ-Flaeche oder Carrierangaben; die Datei stimmt hashgenau mit der kuratierten Kopie ueberein.
+- Kein neuer standortrelevanter Planungs-, Netz- oder Flaechendokumenthinweis.
 
 Daten/Website
 - database.json: heutiges manuell geprueftes Monitoring-Finding aufgenommen; Findings 166, Sites 24, PDF-Auszüge 42.
@@ -24,7 +25,7 @@ Daten/Website
 - index.html wird nach database.json synchronisiert.
 
 Lokale Archivierung
-- 12 Live-Abrufe unter assets/source-archive/daily/2026-09-10/ gesichert; Metadaten enthalten HTTP-Status, Dateigroesse und SHA-256-Hash.
+- 12 Live-Abrufe sowie 1 amtliche PDF mit extrahiertem Volltext unter assets/source-archive/daily/2026-09-10/ gesichert; Metadaten enthalten HTTP-Status, Dateigroesse und SHA-256-Hash.
 
 Recherchefragen/Uploads
 - researchQuestions: 0; manualUploads: 0.
