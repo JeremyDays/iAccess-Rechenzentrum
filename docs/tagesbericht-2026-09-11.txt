@@ -1,0 +1,50 @@
+Tagesbericht RZ-Flaechenrecherche Baden-Wuerttemberg - 2026-09-11
+
+Coverage/Gemeinden
+- Keine Gemeinde doppelt bearbeitet: found 17, checkedNoRZ 1000, offen 0.
+- Landesweite Coverage ist abgeschlossen; deshalb Veraenderungsmonitoring Freiburg/Denzlingen/Emmendingen sowie BW-Newspruefung.
+
+Bearbeitete Quellen
+- Vier Google-News-RSS-Suchen: 1/2/2/0 Meldungen; alle 5 Items manuell nach Titel, Ort und Quelle bewertet.
+- Acht amtliche Prioritaetsquellen: Netze BW Denzlingen, Denzlingen Wirtschaftsstandort, RP Freiburg, drei Stadt-Freiburg-Pfade, Emmendingen FNP und Stadtwerke-Netzdaten.
+- Acht ergaenzende Websuchen zu aktuellen RZ-/Flaechenhinweisen und den Emmendinger Nebenfunden.
+
+Ergebnis/Bewertung
+- Keines der 5 RSS-Items war standortrelevant: allgemeine Stromnetz-Resilienz in BW, Freiburger Spezialglas, Emmendinger Chatbot, Freiburger Messerangriff und ein niedersaechsisches Umspannwerk.
+- Nur die Emmendinger FNP-Seite hatte geaenderten sichtbaren Text: sieben neue Offenlage-Unterlagen zur FNP-Aenderung Elzmaettle.
+- Elzmaettle ausgeschlossen: Wohnquartier mit ca. 2,2 ha Wohnbauflaeche und mindestens 80 Wohneinheiten; HQEXTREM, Starkregen, Wasserschutzzone IIIB, hoher Grundwasserstand, Boden-/Biotopauflagen und Wohn-Immissionsschutz.
+- Neuer niedriger Vorfilter Untere Lerchacker: FNP-Aenderung seit 10.09.2025 wirksam; 2,7 ha Gewerbeflaeche im 5,3-ha-Geltungsbereich, kurzfristige Entwicklung beabsichtigt, gute Anbindung an L 186/K 5102 und Bahn.
+- Keine Hochstufung: noch nicht erschlossen, angrenzende Wohnnutzung, HQEXTREM, Starkregen bis 0,5 m, WSG IIIB; konkrete Parzelle, freie Netzanschlussleistung und zwei physisch getrennte Carrierwege fehlen. Die Stadt will Flaechen ueberwiegend ortsansässigen Betrieben anbieten.
+- Kuhmatte nicht aufgenommen: laut amtlicher Unterlage bereits fuer ein konkretes anderes Vorhaben ueberplant.
+- Amtliche Stadtwerke-Netzdaten erneut verifiziert: 102,63 MVA installierte Umspannebenenleistung und 23,772 MW Jahreshoechstlast (Datenjahr 2025). Nur Netz-Vorfilter, kein Kapazitaetsnachweis fuer Untere Lerchacker.
+
+PDF-/Medienpruefung
+- Amtliche Seiten: 131 PDF-Links; gegenueber dem Vortag 7 neue, 0 entfernt. Alle neuen Links gehoeren zu Elzmaettle.
+- 13 amtliche PDFs lokal gesichert und volltextlich ausgelesen: 7 neue Elzmaettle-Dokumente plus 6 Untere-Lerchacker-Unterlagen, zusammen 61 Seiten und 128.986 Textzeichen.
+- Kuratierter PDF-Bestand: 42/42 oeffentlich erreichbar, 25 lokal vorhanden; 0 blockiert und 0 nicht erreichbar.
+
+Daten/Website
+- database.json: Tages-Finding vertieft und Untere Lerchacker als vorlaeufiger Standort-Pruefhinweis aufgenommen; Findings 167, Sites 25, PDF-Auszüge 42.
+- assets/bw-municipality-coverage.json: Tagesstand vollstaendig, offen 0.
+- index.html wird nach database.json synchronisiert.
+
+Lokale Archivierung
+- 12 Live-Abrufe und 13 amtliche PDFs unter assets/source-archive/daily/2026-09-11/ gesichert; Metadaten enthalten HTTP-Status, Dateigroesse und SHA-256-Hash.
+
+Recherchefragen/Uploads
+- researchQuestions: 0; manualUploads: 0.
+
+Validierung
+- Globaler Linkcheck: 1.456 eindeutige URLs, 1.420 erreichbar, 29 blockiert/transient, 7 defekt.
+- Tagesdatensatz und Website-Synchronisierung werden vor Publish mit einem separaten Assertionsskript geprueft.
+
+Publish/Zustellung/Kette
+- GitHub-Publish, Read-back und Kettenstart werden nach Abschluss der lokalen Validierung dokumentiert.
+- Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
+
+Website
+- https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Blocker/Risiken
+- Kein fachlicher Abschlussblocker. Untere Lerchacker bleibt ohne kommunale Vergabebereitschaft, konkrete Teilparzelle, Schall-/Entwaesserungsnachweis, Netzanschlussauskunft und zwei physisch getrennte Carrierwege nur ein niedriger Vorfilter.
+- Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf aktuelle Livequellen und amtliche Original-PDFs.
