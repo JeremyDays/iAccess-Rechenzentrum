@@ -36,10 +36,13 @@ Recherchefragen/Uploads
 
 Validierung
 - Globaler Linkcheck: 1.456 eindeutige URLs, 1.420 erreichbar, 29 blockiert/transient, 7 defekt.
-- Tagesdatensatz und Website-Synchronisierung werden vor Publish mit einem separaten Assertionsskript geprueft.
+- Lokale Assertions erfolgreich: Syntax, Tages-Finding und Standortdatensatz jeweils genau einmal in Datenbank und HTML, lastRun 2026-09-11, 12/12 Livequellen HTTP 200 sowie 13/13 Tages-PDFs ausgelesen.
 
 Publish/Zustellung/Kette
-- GitHub-Publish, Read-back und Kettenstart werden nach Abschluss der lokalen Validierung dokumentiert.
+- GitHub-Publish erfolgreich; Daten-Commit: https://github.com/JeremyDays/iAccess-Rechenzentrum/commit/5a5f7052174ef1d0ed153c1d070c6f2cc0891b5e
+- Repository- und Live-Pages-Read-back erfolgreich: lastRun 2026-09-11, Tages-Finding und Untere-Lerchacker-Datensatz sichtbar; Raw GitHub, Pages-Datenbank und Pages-HTML jeweils HTTP 200.
+- Pages-Konfiguration wegen fehlender Berechtigung uebersprungen (403); bestehende Pages-Auslieferung funktioniert.
+- Kettenstatus rz am 11.09.2026 um 09:13:15 gesetzt und erfolgreich zurueckgelesen. Der anschliessende Start von Job #3 scheiterte: Job-ID dc0f78e41da8 ist in Hermes nicht registriert; Job #3 wurde nicht gestartet.
 - Zustellung ausschliesslich ueber Hermes-Cron; keine Gmail-, SMTP-, Google-OAuth- oder private E-Mail-Aktion.
 
 Website
@@ -47,4 +50,5 @@ Website
 
 Blocker/Risiken
 - Kein fachlicher Abschlussblocker. Untere Lerchacker bleibt ohne kommunale Vergabebereitschaft, konkrete Teilparzelle, Schall-/Entwaesserungsnachweis, Netzanschlussauskunft und zwei physisch getrennte Carrierwege nur ein niedriger Vorfilter.
+- Kettenblocker: Der vorgegebene Folgejob dc0f78e41da8 fehlt; `hermes cron list` meldet keine registrierten Jobs. Kein Ersatzjob wurde blind gestartet.
 - Historische Coverage-Datensaetze enthalten Fehlzuordnungen; heutige Aussagen stuetzen sich auf aktuelle Livequellen und amtliche Original-PDFs.
