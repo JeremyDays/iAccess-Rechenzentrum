@@ -1,7 +1,7 @@
 {
-  "checked": 1454,
-  "ok": 1417,
-  "blocked": 30,
+  "checked": 1456,
+  "ok": 1420,
+  "blocked": 29,
   "broken": 7,
   "results": [
     {
@@ -192,18 +192,6 @@
       "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "status": 403,
       "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -10857,6 +10845,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aglasterhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aglasterhausen.de/startseite",
@@ -13716,6 +13716,18 @@
       "url": "https://www.freiburg.de/pb/site/Freiburg/get/params_E8421425/1447298/Munzingen_Broschuere.pdf",
       "status": 200,
       "finalUrl": "https://www.freiburg.de/pb/site/Freiburg/get/params_E8421425/1447298/Munzingen_Broschuere.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 166,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: Untere Lerchacker als niedriger Gewerbeflaechen-Vorfilter erfasst; Elzmättle ausgeschlossen",
+      "url": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/04___Umweltbericht.pdf",
+      "status": 200,
+      "finalUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/04___Umweltbericht.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16884,6 +16896,18 @@
       "url": "https://www.doyma.de/referenzen/sap-rechenzentrum-wdf51",
       "status": 200,
       "finalUrl": "https://www.doyma.de/neuigkeiten/referenzen/sap-rechenzentrum-wdf51",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 24,
+      "field": "sourceUrl",
+      "title": "Untere Lerchacker - Gewerbeflaeche (vorlaeufiger Pruefhinweis)",
+      "url": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
