@@ -729,6 +729,39 @@
         "Waermenetz",
         "Referenzstandort"
       ]
+    },
+    {
+      "id": "id-2026-09-11-site-emmendingen-untere-lerchacker",
+      "created": "2026-09-11",
+      "updated": "2026-09-11",
+      "name": "Untere Lerchacker - Gewerbeflaeche (vorlaeufiger Pruefhinweis)",
+      "city": "Emmendingen-Kollmarsreute",
+      "region": "Landkreis Emmendingen, Baden-Wuerttemberg",
+      "country": "Deutschland",
+      "status": "FNP-Aenderung seit 10.09.2025 wirksam; Flaeche noch nicht erschlossen; konkrete RZ-Verfuegbarkeit nicht belegt",
+      "operator": "Kein RZ-Betreiber; Stadt Emmendingen plant Vergabe ueberwiegend an ortsansässige Betriebe",
+      "type": "Niedrig priorisierter Micro-/Edge-/Container-RZ-Pruefhinweis",
+      "powerMw": "Unbekannt; 0,25-1 MW erst nach objektscharfer Verbrauchs-Netzanschlussauskunft pruefen",
+      "area": "2,7 ha gewerbliche Baufläche im ca. 5,3-ha-Geltungsbereich; konkrete verfügbare Teilparzelle nicht belegt",
+      "heatReuse": "Keine Waermesenke oder Abwaermenutzung belegt",
+      "grid": "Stadtwerke-Netzstruktur fuer Emmendingen bekannt, aber keine freie Anschlussleistung, Spannungsebene oder Trafonaehe fuer die Flaeche belegt",
+      "connectivity": "Bahntrasse am Gebietsrand ist kein Glasfasernachweis; Carrier, POPs, Bandbreite und zwei physisch getrennte Wege sind unbelegt",
+      "source": "Stadt Emmendingen, wirksame punktuelle FNP-Aenderung Untere Lerchacker, Begruendung 14.05.2025 und Umweltbericht 18.02.2025",
+      "sourceUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf",
+      "notes": "Positiv: wirksame Gewerbeflaechendarstellung, unmittelbarer Anschluss an bestehendes Gewerbe, sehr gute Anbindung an L 186/K 5102 und Bahn Freiburg-Offenburg, kurzfristige Entwicklung laut Stadt beabsichtigt. Negativ: noch nicht erschlossen, angrenzende Wohngebiete mit Immissionsschutz, kompletter suedlicher Bereich bei HQEXTREM betroffen, Starkregen-Einstau bis 0,5 m, Wasserschutzzone IIIB und lokale Klimaerwaermung. Nur nach kommunaler Vergabebereitschaft sowie positivem Netz-, Carrier-, Schall- und Entwaesserungsvorcheck vertiefen.",
+      "tags": [
+        "Emmendingen",
+        "Kollmarsreute",
+        "Untere Lerchacker",
+        "Gewerbeflaeche",
+        "2,7 ha",
+        "Edge",
+        "Container",
+        "niedrige Prioritaet",
+        "HQEXTREM",
+        "Starkregen",
+        "Wasserschutzgebiet IIIB"
+      ]
     }
   ],
   "companies": [
@@ -5705,6 +5738,33 @@
         "kein Flächenfund"
       ],
       "archiveNote": "Alle zwölf Live-Abrufe am 2026-09-10 lokal gesichert; ein RSS-Item manuell bewertet und PDF-Linkbestand der amtlichen Seiten gegen den Vortag verglichen."
+    },
+    {
+      "id": "id-2026-09-11-news-monitoring",
+      "date": "2026-09-11",
+      "publishedDate": "2026-09-11",
+      "topic": "Taegliches Nachrichten-, Netz- und Flaechenmonitoring",
+      "publisher": "Google News RSS; Netze BW; Regierungspräsidium Freiburg; Kommunen Freiburg, Denzlingen und Emmendingen; Stadtwerke Emmendingen",
+      "sourceUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Gewerbefl%C3%A4che%22%20OR%20Gewerbegebiet%20OR%20Umspannwerk%20OR%20Glasfaser%20OR%20Fernw%C3%A4rme%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A7d&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=%28%22Edge%20Data%20Center%22%20OR%20%22Edge-Rechenzentrum%22%20OR%20%22Container-Rechenzentrum%22%20OR%20%22modulares%20Rechenzentrum%22%29%20Baden-W%C3%BCrttemberg%20when%3A30d&hl=de&gl=DE&ceid=DE:de; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/,Lde/2637203.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/04___Umweltbericht.pdf; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/04___Umweltbericht.pdf; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/03___Begr%C3%BCndung.pdf; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/03_Untere_Lerchacker/04___Umweltbericht.pdf",
+      "title": "Tagesmonitoring: Untere Lerchacker als niedriger Gewerbeflaechen-Vorfilter erfasst; Elzmättle ausgeschlossen",
+      "summary": "Vier RSS-Suchen, acht amtliche Prioritätsquellen und ergänzende Websuchen wurden geprüft. Fünf RSS-Meldungen waren nach Titel- und Ortsprüfung nicht standortrelevant. Die einzige sachliche Änderung war die neue Offenlage der FNP-Änderung Elzmättle auf der Emmendinger Seite. Alle sieben neuen PDFs wurden vollständig ausgelesen: Elzmättle ist ein Wohnquartier und wegen HQEXTREM, Starkregen, Wasserschutzzone IIIB, hohem Grundwasser, Boden-/Biotopauflagen und Wohn-Immissionsschutz kein RZ-Kandidat. Die aktuelle Begründung verwies auf Gewerbeflächen in der Nachbarschaft. Daraufhin wurden sechs amtliche Unterlagen zu Untere Lerchacker vertieft: Die seit 10.09.2025 wirksame FNP-Änderung weist 2,7 ha Gewerbefläche im 5,3-ha-Geltungsbereich aus und soll kurzfristige gewerbliche Entwicklung ermöglichen.",
+      "relevance": "Untere Lerchacker ist ein neuer, aber niedrig priorisierter Micro-/Container-/Edge-RZ-Vorfilter: Gewerbeplanungsrecht und Verkehrsanbindung sind positiv. Gegen eine Hochstufung sprechen fehlende Erschließung, unmittelbare Wohnnachbarschaft, HQEXTREM/Starkregen bis 0,5 m, Wasserschutzzone IIIB und fehlende Nachweise für verfügbare Parzelle, freie Netzanschlussleistung oder zwei physisch getrennte Carrierwege. Die Stadt will die Grundstücke überwiegend örtlichen Betrieben anbieten.",
+      "action": "Nur mit kommunaler Eigentümer-/Vergabebereitschaft weiterverfolgen; dann zuerst konkrete Teilparzelle, Bebauungsplanfestsetzungen und Schallkontingente, Starkregen-/Entwässerungsnachweis, Verbrauchs-Netzanschluss für 0,25/0,5/1 MW sowie zwei physisch getrennte Carrierwege prüfen. Elzmättle nicht weiter als RZ-Fläche verfolgen.",
+      "status": "neu aufgenommen und durch 13 amtliche PDFs vertieft",
+      "tags": [
+        "News",
+        "Emmendingen",
+        "Untere Lerchacker",
+        "Elzmättle",
+        "Gewerbefläche",
+        "Edge",
+        "Container",
+        "niedrige Priorität",
+        "HQEXTREM",
+        "Starkregen",
+        "Wasserschutzgebiet"
+      ],
+      "archiveNote": "Zwölf Kernabrufe sowie 13 amtliche PDFs mit 61 Seiten und 128.986 Textzeichen am 2026-09-11 lokal gesichert und volltextlich ausgewertet."
     }
   ],
   "gridChecks": [
@@ -6012,8 +6072,8 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-09-10",
-    "lastResearchSummary": "2026-09-10: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; ein nicht standortrelevantes RSS-Item, keine sichtbare amtliche Quellenänderung und keine neue belastbare RZ-Fläche.",
+    "lastRun": "2026-09-11",
+    "lastResearchSummary": "2026-09-11: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; Elzmättle als RZ-Fläche ausgeschlossen und Untere Lerchacker als niedrig priorisierten Gewerbeflächen-Vorfilter aufgenommen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
       "Data Center Germany power water requirements",
@@ -6040,8 +6100,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-09-10",
-    "lastResearchSummary": "2026-09-10: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; ein nicht standortrelevantes RSS-Item, keine sichtbare amtliche Quellenänderung und keine neue belastbare RZ-Fläche.",
+    "lastResearchRun": "2026-09-11",
+    "lastResearchSummary": "2026-09-11: BW-Coverage vollständig; 4 RSS- und 8 amtliche Prioritätsquellen geprüft; Elzmättle als RZ-Fläche ausgeschlossen und Untere Lerchacker als niedrig priorisierten Gewerbeflächen-Vorfilter aufgenommen.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks."
   }
