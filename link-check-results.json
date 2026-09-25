@@ -1,8 +1,8 @@
 {
-  "checked": 1456,
-  "ok": 1420,
-  "blocked": 29,
-  "broken": 7,
+  "checked": 1487,
+  "ok": 1439,
+  "blocked": 40,
+  "broken": 8,
   "results": [
     {
       "collection": "drawings",
@@ -26,7 +26,9 @@
       "finalUrl": "https://www.holzkirch.de/",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "localArchive": "assets/source-archive/www.holzkirch.de/436ed1966eea1f4a.html",
+      "note": "Original und Ersatz derzeit HTTP 404; lokale Altaufnahme vorhanden, keine aktuelle Verifikation."
     },
     {
       "collection": "findings",
@@ -38,7 +40,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-a3da606cea085d53.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -50,7 +54,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-830806c5735aab1d.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -62,7 +68,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-126d918a5ebe2f8a.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -74,7 +82,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-99d76aa9ac8b5e22.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -86,7 +96,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-661aee3b3838b03b.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -98,7 +110,9 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": ""
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-552aec549a16e8ec.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -110,7 +124,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -122,7 +136,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -134,7 +148,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -146,7 +160,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -158,7 +172,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -170,7 +184,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -198,6 +212,66 @@
     },
     {
       "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
@@ -210,6 +284,18 @@
     },
     {
       "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
+      "status": 200,
+      "finalUrl": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -218,7 +304,79 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1016)')))"
+      "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 117,
+      "field": "sourceUrl",
+      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.strassberg.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.strassberg.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -423,6 +581,20 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 23,
+      "field": "documents",
+      "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
+      "url": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
+      "status": 404,
+      "finalUrl": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
+      "ok": false,
+      "blocked": false,
+      "error": "",
+      "localArchive": "assets/source-archive/buggingen.de/7398436090d8fdd6.html",
+      "note": "Original und Ersatz beim Direktabruf nicht erreichbar; lokale Altaufnahme vorhanden, aktuelle Verifikation offen."
     },
     {
       "collection": "zoningPlans",
@@ -2430,6 +2602,246 @@
     },
     {
       "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.appenweier.de/",
+      "status": 200,
+      "finalUrl": "https://www.appenweier.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.bad-krozingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.bad-krozingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.boetzingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.boetzingen.de/start.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.breisach.de/",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.denzlingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.freiburg.de/",
+      "status": 200,
+      "finalUrl": "https://www.freiburg.de/pb/,Lde/205243.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.glottertal.de/",
+      "status": 200,
+      "finalUrl": "https://www.glottertal.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.gottenheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.gottenheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.gundelfingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.gundelfingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.kehl.de/",
+      "status": 200,
+      "finalUrl": "https://www.kehl.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.kirchzarten.de/",
+      "status": 200,
+      "finalUrl": "https://www.kirchzarten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.lahr.de/",
+      "status": 200,
+      "finalUrl": "https://www.lahr.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.march.de/",
+      "status": 200,
+      "finalUrl": "https://www.march.de/willkommen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.offenburg.de/",
+      "status": 200,
+      "finalUrl": "https://www.offenburg.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.reute.de/",
+      "status": 200,
+      "finalUrl": "https://www.reute.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.sexau.de/",
+      "status": 200,
+      "finalUrl": "https://www.sexau.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.stadt-waldkirch.de/",
+      "status": 200,
+      "finalUrl": "https://www.stadt-waldkirch.de/884187.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.teningen.de/",
+      "status": 200,
+      "finalUrl": "https://www.teningen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.umkirch.de/",
+      "status": 200,
+      "finalUrl": "https://www.umkirch.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.voerstetten.de/",
+      "status": 200,
+      "finalUrl": "https://www.voerstetten.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 66,
       "field": "sourceUrl",
       "title": "8 offene Gemeinden nach Hessigheim im Landkreis Ludwigsburg geprueft: kein direkter RZ-Fund",
@@ -3239,7 +3651,7 @@
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.breitingen.de/",
       "status": 200,
-      "finalUrl": "https://www.breitingen.de/",
+      "finalUrl": "https://breitingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4316,7 +4728,7 @@
       "collection": "findings",
       "index": 25,
       "field": "source",
-      "title": "Breisach: Gewerbepark Rheinbruecke bietet 5,8 ha plus 16 ha Reserve",
+      "title": "Breisach Rheinbrücke revalidiert: Vermarktungshinweis, Planstand und Verfügbarkeit offen",
       "url": "https://stadt.breisach.de/de/wirtschaft/gewerbeflaechen/staedtische_gewerbeflaechen",
       "status": 200,
       "finalUrl": "https://stadt.breisach.de/de/wirtschaft/gewerbeflaechen/staedtische_gewerbeflaechen",
@@ -4328,10 +4740,22 @@
       "collection": "findings",
       "index": 25,
       "field": "source",
-      "title": "Breisach: Gewerbepark Rheinbruecke bietet 5,8 ha plus 16 ha Reserve",
+      "title": "Breisach Rheinbrücke revalidiert: Vermarktungshinweis, Planstand und Verfügbarkeit offen",
       "url": "https://www.gewerbepark-rheinbruecke.de/",
       "status": 200,
       "finalUrl": "https://www.gewerbepark-rheinbruecke.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 25,
+      "field": "sourceUrl",
+      "title": "Breisach Rheinbrücke revalidiert: Vermarktungshinweis, Planstand und Verfügbarkeit offen",
+      "url": "https://www.gewerbepark-rheinbruecke.de/grundstuecke.html",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-rheinbruecke.de/grundstuecke.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6822,6 +7246,42 @@
     },
     {
       "collection": "findings",
+      "index": 168,
+      "field": "sourceUrl",
+      "title": "Denzlingen, March und Bötzingen: aktuell keine kommunalen Gewerbegrundstücke angeboten",
+      "url": "https://www.boetzingen.de/start/wirtschaft/gewerbeflaechen.html",
+      "status": 200,
+      "finalUrl": "https://www.boetzingen.de/start/wirtschaft/gewerbeflaechen.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 168,
+      "field": "sourceUrl",
+      "title": "Denzlingen, March und Bötzingen: aktuell keine kommunalen Gewerbegrundstücke angeboten",
+      "url": "https://www.denzlingen.de/p/gewerbegrundstuecke",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/p/gewerbegrundstuecke",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 168,
+      "field": "sourceUrl",
+      "title": "Denzlingen, March und Bötzingen: aktuell keine kommunalen Gewerbegrundstücke angeboten",
+      "url": "https://www.march.de/de/Wirtschaft/Gewerbeflaechen",
+      "status": 200,
+      "finalUrl": "https://www.march.de/de/Wirtschaft/Gewerbeflaechen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 15,
       "field": "source",
       "title": "Denzlingen: 110-kV-NetzverstÃ¤rkung als Standortsignal",
@@ -6852,6 +7312,18 @@
       "url": "https://regionimblick.de/news-aus-der-region/emmendingen/spatenstich-fuer-den-glasfaserausbau-in-denzlingen",
       "status": 200,
       "finalUrl": "https://regionimblick.de/news-aus-der-region/emmendingen/spatenstich-fuer-den-glasfaserausbau-in-denzlingen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10845,18 +11317,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aglasterhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aglasterhausen.de/startseite",
@@ -10883,7 +11343,7 @@
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.buehlertal.de/de/vorseite",
       "status": 200,
-      "finalUrl": "https://www.buehlertal.de/de/vorseite",
+      "finalUrl": "https://www.buehlertal.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11481,54 +11941,6 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/",
-      "status": 200,
-      "finalUrl": "https://www.leibertingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
-      "status": 200,
-      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
-      "status": 200,
-      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
-      "status": 200,
-      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.messkirch.de/de/aktuelles/Amtsblatt",
       "status": 200,
       "finalUrl": "https://www.messkirch.de/de/aktuelles/Amtsblatt",
@@ -11784,18 +12196,6 @@
       "url": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/230227_BP_Wolfegg_Alttann_Festsetzungen_%C3%BCberarbeitet.pdf",
       "status": 200,
       "finalUrl": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/230227_BP_Wolfegg_Alttann_Festsetzungen_%C3%BCberarbeitet.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.wolfegg.de/startseite",
-      "status": 200,
-      "finalUrl": "https://www.wolfegg.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15018,66 +15418,6 @@
     },
     {
       "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 19,
       "field": "source",
       "title": "Ulm: SWU-Rechenzentrum im Science Park",
@@ -16137,18 +16477,6 @@
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.strassberg.de/",
-      "status": 200,
-      "finalUrl": "https://www.strassberg.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 117,
-      "field": "sourceUrl",
-      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.weilen-udr.de/",
       "status": 200,
       "finalUrl": "https://www.weilen-udr.de/",
@@ -16602,6 +16930,42 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 47,
+      "field": "sourceUrl",
+      "title": "Breisach KBC Lageplan",
+      "url": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_lageplan.pdf&path=data%2Ffiles%2Fdownloads",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_lageplan.pdf&path=data%2Ffiles%2Fdownloads",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 46,
+      "field": "sourceUrl",
+      "title": "Breisach KBC Textteil 2016",
+      "url": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_textteil.pdf&path=data/files/downloads",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_textteil.pdf&path=data/files/downloads",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 42,
+      "field": "sourceUrl",
+      "title": "EU-Kommission",
+      "url": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1667/IP_26_1667_EN.pdf",
+      "status": 200,
+      "finalUrl": "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1667/IP_26_1667_EN.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 35,
       "field": "sourceUrl",
       "title": "FNP-Begründung Langacker II",
@@ -16806,12 +17170,48 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 43,
+      "field": "sourceUrl",
+      "title": "Vörstetten Erweiterung Grub II",
+      "url": "https://www.voerstetten.de/eip/eip_media.php?d=65e&f=3_210208_Bebauungsvorschriften.pdf&fl=35193860&i=2&m=3017",
+      "status": 200,
+      "finalUrl": "https://www.voerstetten.de/eip/eip_media.php?d=65e&f=3_210208_Bebauungsvorschriften.pdf&fl=35193860&i=2&m=3017",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 44,
+      "field": "sourceUrl",
+      "title": "Vörstetten Erweiterung Grub II",
+      "url": "https://www.voerstetten.de/eip/eip_media.php?d=911&f=6_Zusammenfassende+Erklarung.pdf&fl=35193860&i=5&m=3017",
+      "status": 200,
+      "finalUrl": "https://www.voerstetten.de/eip/eip_media.php?d=911&f=6_Zusammenfassende+Erklarung.pdf&fl=35193860&i=5&m=3017",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 28,
       "field": "sourceUrl",
       "title": "W?rmenetzstrategie - Stadtwerke Leinfelden-Echterdingen",
       "url": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E1166304770/20577146/W%C3%A4rmenetzstrategie%20%E2%80%93%20Stadtwerke%20LE.pdf",
       "status": 200,
       "finalUrl": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E1166304770/20577146/W%C3%A4rmenetzstrategie%20%E2%80%93%20Stadtwerke%20LE.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 45,
+      "field": "sourceUrl",
+      "title": "Waldkirch Südlicher Brunnenrain",
+      "url": "https://www.stadt-waldkirch.de/site/Waldkirch/get/documents_E-1354819816/stadt-waldkirch/Dateien/Satzungen/Amtsblatt/2025_07_24%20Amtsblatt%20der%20Stadt%20Waldkirch.pdf",
+      "status": 304,
+      "finalUrl": "https://www.stadt-waldkirch.de/site/Waldkirch/get/documents_E-1354819816/stadt-waldkirch/Dateien/Satzungen/Amtsblatt/2025_07_24%20Amtsblatt%20der%20Stadt%20Waldkirch.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16980,18 +17380,6 @@
       "url": "https://www.reute.de/fileadmin/Dateien/Cross7/Startseite/Bauen_%26_Wohnen/Baugebiete/Bebauungsplane/4_BP_Gewerbeabrundung_Begrundung.pdf",
       "status": 200,
       "finalUrl": "https://www.reute.de/fileadmin/Dateien/Cross7/Startseite/Bauen_%26_Wohnen/Baugebiete/Bebauungsplane/4_BP_Gewerbeabrundung_Begrundung.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 23,
-      "field": "documents",
-      "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
-      "url": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
-      "status": 200,
-      "finalUrl": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17476,5 +17864,6 @@
       "blocked": false,
       "error": ""
     }
-  ]
+  ],
+  "brokenWithLocalFallback": 6
 }

@@ -1,0 +1,56 @@
+Tagesbericht Rechenzentren-Recherche - 2026-09-25
+
+Ergebnis
+21 priorisierte Gemeinden im Einstiegsscreening geprüft. Kein neuer bestätigter verfügbarer RZ-Standort. Die Detailprüfung aller Ratsvorlagen und Planakten ist noch offen; die heutige Prüfung erfüllt keinen vollständigen Gemeindeabschluss.
+
+Konkrete Befunde
+- Denzlingen, March und Bötzingen melden derzeit keine verfügbaren kommunalen Gewerbegrundstücke. March nennt zusätzlich den Konflikt mit einer Tank- und Rastanlage bei Holzhausen.
+- Bekannter Hinweis Breisach Rheinbrücke revalidiert: Grundstückszuschnitte für kleinere Vorhaben interessant, aktueller Verkaufsstatus aber offen. Verlinkter KBC-Textteil trägt Stand 2016 / Offenlage. Aktuelle rechtskräftige Fassung, Schallkontingente und Grundwasserbedingungen zuerst prüfen.
+- Vörstetten Erweiterung Grub II: Planung von 2021 für ansässigen Betrieb; keine freie RZ-Fläche belegt. 110-kV-Nachbarschaft, Entwässerung und Wasserschutz sind Einschränkungen, kein Kapazitätsnachweis.
+- Waldkirch Südlicher Brunnenrain: Bekanntmachung von 2025 für ca. 4,25 ha erneut geprüft. Verfahren/Verfügbarkeit heute offen; nur niedriger Vorfilter.
+- EU-Kommission 21.09.2026: Ratingvorschlag für Rechenzentren über 500 kW, noch zweimonatige Prüfphase vor Inkrafttreten; erste Labels 2027 erwartet. Noch keine als geltend bestätigten neuen Mindeststandards.
+- Netze BW Anschluss Denzlingen und Netzdaten Stadtwerke Emmendingen abgerufen. Allgemeine Ausbau-/Netzdaten belegen keine freie Verbrauchsanschlussleistung.
+
+Nachrichten
+Heise, iX, DataCenter-Insider, CloudComputing-Insider, DCD, Golem und Badische Zeitung recherchiert. DCD-Meldungen zu Schladen-Werla, München und Frankfurt sind außerhalb des BW-Suchraums. Insider-Meldungen zu Edge-KI, Kühlung und Stackit sind Branchenhinweise ohne konkrete freie Fläche im Prioritätsraum. Golem-Seite lokal nur Consent-Seite; Artikel zum EU-Rating über Webrecherche und amtliche EU-Originalquelle geprüft. Keine Fotos ungeprüft übernommen.
+
+Gemeinden und Prüftiefe
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl.
+Abrufe: 152 unterschiedliche URLs versucht, 145 erfolgreich lokal archiviert. HTTP 200 allein gilt nicht als Inhalts- oder Abschlussnachweis. Mehrere Ratsinformationssysteme blockiert; Emmendingens Ratsportal mit Zertifikatsfehler. Fehlende oder nur allgemeine Einstiegspfade bleiben offen.
+Vier aktuelle Amtsblätter aus Denzlingen (24.09.), Emmendingen (23.09.), Vörstetten (25.09.) und Waldkirch (24.09.) volltextlich auf Standortbegriffe geprüft; kein direkter RZ-Flächenhinweis gefunden.
+
+Coverage-Qualität
+Vier nachweislich falsche Ortszuordnungen (Aidlingen, Grafenau, Ehningen, Deckenpfronn) wieder geöffnet; Altbelege im Audit erhalten. Historische Angabe 'landesweit vollständig' ist nicht belastbar. Übrige Altabschlüsse benötigen weitere Prüfung. Heutige Screenings sind keine Negativnachweise.
+
+PDFs und Archive
+10 Original-PDFs / 102 Seiten lokal gesichert und textlich ausgewertet, darunter vier aktuelle Amtsblätter und sechs kuratierte Primärdokumente. Grafischer Lageplan ist eine Originalquelle; Lageplan visuell geprüft; aktuelle Rechtskraft weiterhin nicht belegt.
+Archivierung erfolgte mit Funktionen aus scripts/archive-sources.py, mit SHA-256, Original-URL und Abrufstatus. Keine neuen Fotos oder erfundenen Zeichnungen. Neue Partner: 0.
+
+Fragen und Uploads
+0 Recherchefragen, 0 manuelle Uploads, keine verdächtigen Fragen. Kein Fragen-PDF erforderlich.
+
+Datenänderung
+Findings 167 -> 172; PDF-Auszüge 42 -> 48; Standorte unverändert 25; Unternehmen unverändert 21; Medien unverändert 5; Zeichnungen unverändert 6.
+
+Nächste Schritte
+Aktuelle freie Breisacher Parzelle und rechtskräftige Planfassung belegen; erst danach Anschlussleistung für 0,25/0,5/1 MW, physisch getrennte Carrierwege, Kühlung, Schall, Wasser und Abwärme prüfen. Ratszugriffe und übrige Gemeinde-Detailprüfungen vervollständigen. Historische Coverage schrittweise korrigieren.
+
+Quellen
+- https://www.denzlingen.de/p/gewerbegrundstuecke
+- https://www.march.de/de/Wirtschaft/Gewerbeflaechen
+- https://www.boetzingen.de/start/wirtschaft/gewerbeflaechen.html
+- https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_1667/IP_26_1667_EN.pdf
+- https://www.voerstetten.de/eip/eip_media.php?d=65e&f=3_210208_Bebauungsvorschriften.pdf&fl=35193860&i=2&m=3017
+- https://www.voerstetten.de/eip/eip_media.php?d=911&f=6_Zusammenfassende+Erklarung.pdf&fl=35193860&i=5&m=3017
+- https://www.stadt-waldkirch.de/site/Waldkirch/get/documents_E-1354819816/stadt-waldkirch/Dateien/Satzungen/Amtsblatt/2025_07_24%20Amtsblatt%20der%20Stadt%20Waldkirch.pdf
+- https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_textteil.pdf&path=data/files/downloads
+- https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_lageplan.pdf&path=data%2Ffiles%2Fdownloads
+- https://www.gewerbepark-rheinbruecke.de/grundstuecke.html
+- https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en
+
+Website
+https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Prüfungen und Versand
+PDF-Verfügbarkeit: 48/48 kuratierte Quellen erreichbar, 31 lokale Dateien vorhanden. Vollständiger Linkcheck: 1487 URLs; nach gezielter Reparatur 1439 erreichbar, 40 technisch blockiert, acht defekte Originaladressen. Holzkirch und Buggingen bleiben trotz vorhandener lokaler Altaufnahme aktuell nicht erreichbar; sechs entfernte Alpirsbach-PDFs mit geprüften lokalen Archivkopien als Ersatz ergänzt. Historische Originaladressen bleiben zur Herkunftsdokumentation erhalten. Wolfegg-Adresse verifiziert korrigiert; Ersatzpfade Holzkirch/Buggingen beim Direktabruf noch offen. Archivkopien sind keine neuen aktuellen Planungsnachweise.
+Tagesbericht zum Versand vorgesehen, bisher nicht gesendet: Gmail-Anmeldung muss erneuert werden.
