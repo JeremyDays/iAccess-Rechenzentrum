@@ -1,0 +1,37 @@
+Tagesbericht Rechenzentren-Recherche - 2026-09-29
+
+Ergebnisse
+- Ba.Sic: Verfügbarkeitsangaben widersprüchlich, Planstände konkretisiert: Website nennt ca. 10 ha freie Fläche und Zuschnitte von 1.000 bis 20.000 m². Der visuell geprüfte undatierte Flyer nennt dagegen ca. 4 ha und bis 19.000 m². Keine aktuelle Parzelle bestätigt. Mitte, Süd und West haben unterschiedliche Änderungsstände; Grundwasser, Schall, Altlasten und Entwässerung zuerst parzellenbezogen prüfen.
+- Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung: Hafenverwaltung bietet langfristige Anmietung an, richtet sich aber an Unternehmen, die Wasser-, Gleis- und Straßenanschluss tatsächlich benötigen. Reines Rechenzentrum deshalb nur nach ausdrücklicher Standortklärung weiterverfolgen. Stromanschluss laut Betreiber über Überlandwerk Mittelbaden; keine verfügbare Leistung bestätigt.
+- Badenova Gewerbebau: Bad Krozingen und Oberrimsingen zur Vertiefung: Betreiberseite nennt Am Krozinger Weg in Bad Krozingen mit ca. 8,6 ha sowie Neumatten in Breisach-Oberrimsingen mit ca. 1,2 ha als vermarktete Gewerbegebiete. Gebietsgrößen sind keine verfügbaren Restflächen. Fünf Original-PDFs zu Bad Krozingen gesichert; davon vier Scans noch nicht vollständig ausgewertet.
+- Teningen: vorhandenen Eintrag aktualisiert, Wärmeplan Februar 2024 direkt gesichert. Kein zugesicherter Abwärmeabnehmer.
+
+Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl.
+21 Einstiegsscreenings, keine 20 vollständigen Aktenprüfungen. Ratsportale teils gesperrt; historische Negativbefunde bleiben unbestätigt. Kein neuer bestätigter RZ-Standort. Kehl/Ba.Sic, Bad Krozingen und Teningen vertieft; übrige Gemeinden ohne neuen belastbaren RZ-Fund, Detailprüfung offen.
+
+Quellen und PDFs
+159 URLs versucht, 152 lokal archiviert über scripts/archive-sources.py. 13 Original-PDFs mit 645 Seiten gesichert; Ba.Sic-Flyer visuell geprüft. Vier Bad-Krozinger Scans noch nicht vollständig ausgewertet. Neue Fotos/technische Zeichnungen: 0. Keine Zeichnungen erfunden. Neue Partner: 0.
+
+Nachrichten
+Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse sowie Badenova/Netzbetreiberquellen geprüft. EU-Rating-Meldung bereits am 25.09. dokumentiert, nicht dupliziert. Keine neue durch Primärquelle bestätigte freie RZ-Parzelle aus Nachrichten abgeleitet.
+
+Fragen und Uploads
+Keine researchQuestions oder manualUploads; Ordner enthält nur .gitkeep. Keine verdächtigen Fragen, keine verarbeiteten Uploads, kein Fragen-PDF erforderlich.
+
+Statistiken
+Findings 172 -> 175; PDF-Auswertungsdatensätze 48 -> 58 (Scanstatus beachten). Standorte 25, Unternehmen 21, Medien 5, Zeichnungen 6 unverändert.
+
+Versand
+Bericht noch nicht versendet. Gmail-Anmeldung seit 25.09. ungültig; Token unverändert. Erneute Anmeldung erforderlich. Keine Löschungen oder DVLP-Änderungen.
+
+Quellen
+https://www.ba-sic.de/de/flaechenangebot.html
+https://www.hafen-kehl.de/de-de/vermietung-verpachtung/
+https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte
+
+Website
+https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierung
+58/58 kuratierte PDF-Quellen erreichbar, 43 lokale Dateien vorhanden. Linkcheck: 1506 URLs, 1463 erreichbar, 35 technisch blockiert, 8 defekte Altadressen. Für sechs Alpirsbach-PDFs bestehen veröffentlichte Archivkopien; Holzkirch/Buggingen mit lokalen HTML-Altaufnahmen, aktuelle Originalpfade weiter offen. Keine neuen defekten Quellen eingeführt.

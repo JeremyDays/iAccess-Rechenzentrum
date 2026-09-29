@@ -1,7 +1,7 @@
 {
-  "checked": 1487,
-  "ok": 1439,
-  "blocked": 40,
+  "checked": 1506,
+  "ok": 1463,
+  "blocked": 35,
   "broken": 8,
   "results": [
     {
@@ -21,14 +21,13 @@
       "index": 121,
       "field": "sourceUrl",
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.holzkirch.de/",
+      "url": "https://www.holzkirch.de/willkommen-in-holzkirch",
       "status": 404,
-      "finalUrl": "https://www.holzkirch.de/",
+      "finalUrl": "https://www.holzkirch.de/willkommen-in-holzkirch",
       "ok": false,
       "blocked": false,
       "error": "",
-      "localArchive": "assets/source-archive/www.holzkirch.de/436ed1966eea1f4a.html",
-      "note": "Original und Ersatz derzeit HTTP 404; lokale Altaufnahme vorhanden, keine aktuelle Verifikation."
+      "localArchive": "assets/source-archive/www.holzkirch.de/436ed1966eea1f4a.html"
     },
     {
       "collection": "findings",
@@ -284,18 +283,6 @@
     },
     {
       "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
-      "status": 200,
-      "finalUrl": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -305,78 +292,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 117,
-      "field": "sourceUrl",
-      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.strassberg.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.strassberg.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -587,14 +502,13 @@
       "index": 23,
       "field": "documents",
       "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
-      "url": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
+      "url": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "status": 404,
-      "finalUrl": "https://buggingen.de/de/home/rathaus-und-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
+      "finalUrl": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "ok": false,
       "blocked": false,
       "error": "",
-      "localArchive": "assets/source-archive/buggingen.de/7398436090d8fdd6.html",
-      "note": "Original und Ersatz beim Direktabruf nicht erreichbar; lokale Altaufnahme vorhanden, aktuelle Verifikation offen."
+      "localArchive": "assets/source-archive/buggingen.de/7398436090d8fdd6.html"
     },
     {
       "collection": "zoningPlans",
@@ -607,6 +521,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 2,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "capacityMarkets",
@@ -4210,12 +4136,36 @@
     },
     {
       "collection": "findings",
+      "index": 172,
+      "field": "sourceUrl",
+      "title": "Ba.Sic: Verfügbarkeitsangaben widersprüchlich, Planstände konkretisiert",
+      "url": "https://www.ba-sic.de/de/flaechenangebot.html",
+      "status": 200,
+      "finalUrl": "https://www.ba-sic.de/de/flaechenangebot.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 51,
       "field": "source",
       "title": "Bad Saeckingen buendelt Gewerbeflaechen, Wirtschaftsdaten und Waermeplanung",
       "url": "https://www.bad-saeckingen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.bad-saeckingen.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 174,
+      "field": "sourceUrl",
+      "title": "Badenova Gewerbebau: Bad Krozingen und Oberrimsingen zur Vertiefung",
+      "url": "https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte",
+      "status": 200,
+      "finalUrl": "https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5811,7 +5761,7 @@
       "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.hermaringen.de/",
       "status": 200,
-      "finalUrl": "https://www.hermaringen.de/",
+      "finalUrl": "https://hermaringen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7419,7 +7369,7 @@
       "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.illingen-online.de/",
       "status": 200,
-      "finalUrl": "https://www.illingen-online.de/",
+      "finalUrl": "https://illingen-enzkreis.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7912,6 +7862,78 @@
       "url": "https://dietingen.de/",
       "status": 200,
       "finalUrl": "https://dietingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-126d918a5ebe2f8a.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-126d918a5ebe2f8a.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-552aec549a16e8ec.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-552aec549a16e8ec.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-661aee3b3838b03b.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-661aee3b3838b03b.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-830806c5735aab1d.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-830806c5735aab1d.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-99d76aa9ac8b5e22.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-99d76aa9ac8b5e22.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 99,
+      "field": "documents",
+      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-a3da606cea085d53.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-a3da606cea085d53.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -12157,6 +12179,18 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
+      "status": 200,
+      "finalUrl": "https://www.wolfegg.de/buerger-und-rathaus/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/220831_Begr%C3%BCndung_FNP%C3%A4_Wolfegg_Alttann__002_.pdf",
       "status": 200,
       "finalUrl": "https://www.wolfegg.de/fileadmin/Dateien/Webseite/Dateien/Bauen/Neubaugebiet_Haselweg/220831_Begr%C3%BCndung_FNP%C3%A4_Wolfegg_Alttann__002_.pdf",
@@ -12220,6 +12254,18 @@
       "url": "https://www.reute.de/unsere-gemeinde/klimaschutz/kommunale-waermeplanung",
       "status": 200,
       "finalUrl": "https://www.reute.de/unsere-gemeinde/klimaschutz/kommunale-waermeplanung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 173,
+      "field": "sourceUrl",
+      "title": "Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung",
+      "url": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
+      "status": 200,
+      "finalUrl": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -14314,6 +14360,18 @@
     },
     {
       "collection": "findings",
+      "index": 35,
+      "field": "source",
+      "title": "Teningen verbindet Gewerbeflaechen-Pipeline mit belastbarer Waerme- und Gutachtenlage",
+      "url": "https://www.teningen.de/leben-und-wohnen/klima-+und+umweltschutz/waermeplanung",
+      "status": 200,
+      "finalUrl": "https://www.teningen.de/leben-und-wohnen/klima-+und+umweltschutz/waermeplanung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
@@ -15418,6 +15476,66 @@
     },
     {
       "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/",
+      "status": 200,
+      "finalUrl": "https://www.starzach.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 19,
       "field": "source",
       "title": "Ulm: SWU-Rechenzentrum im Science Park",
@@ -16477,6 +16595,18 @@
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.strassberg.de/",
+      "status": 200,
+      "finalUrl": "https://www.strassberg.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 117,
+      "field": "sourceUrl",
+      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.weilen-udr.de/",
       "status": 200,
       "finalUrl": "https://www.weilen-udr.de/",
@@ -16834,6 +16964,30 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 53,
+      "field": "sourceUrl",
+      "title": "1. Änderung Bebauungsplan Begründung",
+      "url": "https://a.storyblok.com/f/307935/x/6ce2142442/erste-planaenderung-begruendung-bad-krozingen.pdf",
+      "status": 200,
+      "finalUrl": "https://a.storyblok.com/f/307935/x/6ce2142442/erste-planaenderung-begruendung-bad-krozingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 54,
+      "field": "sourceUrl",
+      "title": "1. Änderung Bebauungsplan Planzeichnung",
+      "url": "https://a.storyblok.com/f/307935/x/7da1a5874e/erste-planaenderung-planzeichnung-bad-krozingen.pdf",
+      "status": 200,
+      "finalUrl": "https://a.storyblok.com/f/307935/x/7da1a5874e/erste-planaenderung-planzeichnung-bad-krozingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 16,
       "field": "sourceUrl",
       "title": "AbwÃ¤rmenutzung â€žRechenzentrum Eicheâ€œ",
@@ -16900,6 +17054,42 @@
       "url": "https://www.kuchen.de/media/files/hp-kw-49-bbpl-oestlicher-gewerbepark-lageplan-satzung-04.12.2023.pdf",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/media/files/hp-kw-49-bbpl-oestlicher-gewerbepark-lageplan-satzung-04.12.2023.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 55,
+      "field": "sourceUrl",
+      "title": "Bebauungsplan Begründung",
+      "url": "https://a.storyblok.com/f/307935/x/ceef7f042a/begruendung-bad-krozingen.pdf",
+      "status": 200,
+      "finalUrl": "https://a.storyblok.com/f/307935/x/ceef7f042a/begruendung-bad-krozingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 56,
+      "field": "sourceUrl",
+      "title": "Bebauungsplan Planzeichnung",
+      "url": "https://a.storyblok.com/f/307935/x/4dda9e6462/planzeichnung-bad-krozingen.pdf",
+      "status": 200,
+      "finalUrl": "https://a.storyblok.com/f/307935/x/4dda9e6462/planzeichnung-bad-krozingen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 57,
+      "field": "sourceUrl",
+      "title": "Bebauungsplan Textliche Festsetzungen",
+      "url": "https://a.storyblok.com/f/307935/x/1867a332a0/bebauungsplan-textliche-festsetzungen-bad-krozingen.pdf",
+      "status": 200,
+      "finalUrl": "https://a.storyblok.com/f/307935/x/1867a332a0/bebauungsplan-textliche-festsetzungen-bad-krozingen.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16978,18 +17168,6 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 24,
-      "field": "sourceUrl",
-      "title": "Fachgutachten Wärmeplanung Teningen",
-      "url": "https://www.teningen.de/leben-und-wohnen/klima-+und+umweltschutz/waermeplanung",
-      "status": 200,
-      "finalUrl": "https://www.teningen.de/leben-und-wohnen/klima-+und+umweltschutz/waermeplanung",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "pdfExtracts",
       "index": 37,
       "field": "sourceUrl",
       "title": "Frohmatten II - Begründung Bebauungsplan",
@@ -17062,6 +17240,54 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 51,
+      "field": "sourceUrl",
+      "title": "Kehl Ba.Sic Altenheim-BASIC-SUED-Begr.pdf",
+      "url": "https://www.kehl.de/site/Kehl/get/documents_E1147287105/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Begr.pdf",
+      "status": 304,
+      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E1147287105/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Begr.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 50,
+      "field": "sourceUrl",
+      "title": "Kehl Ba.Sic Altenheim-BASIC-SUED-Text.pdf",
+      "url": "https://www.kehl.de/site/Kehl/get/documents_E2143484586/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Text.pdf",
+      "status": 304,
+      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E2143484586/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Text.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 48,
+      "field": "sourceUrl",
+      "title": "Kehl Ba.Sic Goldscheuer-BASIC-Mitte-9Ae-Text.pdf",
+      "url": "https://www.kehl.de/site/Kehl/get/documents_E-1545189458/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Text.pdf",
+      "status": 304,
+      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E-1545189458/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Text.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 52,
+      "field": "sourceUrl",
+      "title": "Kehl Ba.Sic Goldscheuer-BASIC-West-11Ae-Begr.pdf",
+      "url": "https://www.kehl.de/site/Kehl/get/documents_E1788473154/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Begr.pdf",
+      "status": 304,
+      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E1788473154/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Begr.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 27,
       "field": "sourceUrl",
       "title": "Kommunale W?rmeplanung Leinfelden-Echterdingen",
@@ -17128,6 +17354,18 @@
       "url": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
       "status": 200,
       "finalUrl": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 24,
+      "field": "sourceUrl",
+      "title": "Teningen Waermeplanung",
+      "url": "https://www.teningen.de/site/Teningen-2020/get/params_E-1082761594_Dattachment/1390811/Fachgutachten_W%C3%A4rmeplanung_Teningen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.teningen.de/site/Teningen-2020/get/params_E-1082761594_Dattachment/1390811/Fachgutachten_W%C3%A4rmeplanung_Teningen.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17725,18 +17963,6 @@
       "index": 2,
       "field": "documents",
       "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "status": 200,
-      "finalUrl": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 2,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
       "url": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
       "status": 200,
       "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
@@ -17865,5 +18091,6 @@
       "error": ""
     }
   ],
-  "brokenWithLocalFallback": 6
+  "checkedAt": "2026-09-29",
+  "brokenWithPublishedPdfFallback": 6
 }
