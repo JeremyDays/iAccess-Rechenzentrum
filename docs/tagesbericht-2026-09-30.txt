@@ -1,0 +1,40 @@
+Tagesbericht Rechenzentren-Recherche - 2026-09-30
+
+Neue Befunde
+- Teningen: Umspannwerk-Erneuerung bis Sommer 2029 vorgesehen: Netze BW meldet am 19.06.2026 den Baubeginn. Die 110-kV-Anlage wird erneuert und erweitert; zusätzlicher Mittelspannungsabschnitt vorgesehen. Geplanter Bauzeitraum bis Sommer 2029. Kein Nachweis einer bereits verfügbaren Verbrauchsanschlussleistung für iAccess.
+- Kehl-Kork: Umspannwerk laut Betreiber in Betrieb: Netze BW berichtet am 20.03.2026 die Inbetriebnahme am Standort Im Hasenwinkel. Projekt verbindet 380- und 110-kV-Ebene mit TransnetBW. Regionale Netzinfrastruktur belegt; keine zugesicherte Bezugsleistung, keine konkrete RZ-Parzelle und kein Redundanznachweis für Ba.Sic.
+- GVV Denzlingen/Vörstetten/Reute: FNP-Thema Solarpark B294: Die Tagesordnung für den 30.09.2026, 18 Uhr, führt unter TOP 8 die Einleitung der 8. FNP-Änderung Solarpark B294 und frühzeitige Beteiligung auf. Nur Termin-/Verfahrenshinweis: Beschluss, Planinhalt und RZ-Nutzung nicht nachgewiesen.
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl.
+21 Gemeinden anhand bekannter kommunaler Seiten, Rats-/Planungs-/Amtsblattpfade und ausgewählter Dokumente nachgeprüft. Keine 20 vollständig abgeschlossenen Aktenprüfungen; gesperrte Ratsportale und Detailakten bleiben offen. Alle elf vorgegebenen Suchbegriffe auf den abgerufenen Texten geprüft. Kein neuer bestätigter RZ-Standort. Übrige Gemeinden ohne neuen belastbaren Fund oder weiter offen.
+Aktuelle Amtsblätter 30.09.2026: Teningen, Gundelfingen und Freiburg-Ebnet (nur Ortsteilblatt, nicht das zentrale Freiburger Amtsblatt). Emmendingen verlinkt weiter Ausgabe 23.09.; nicht nochmals als neue Quelle gezählt. Gundelfinger Blatt beschreibt Glasfaserthemen; daraus keine gebäudescharfe Carrier-Redundanz ableiten.
+
+Quellen und PDFs
+180 URLs versucht, 173 archiviert mit scripts/archive-sources.py. 11 unterschiedliche PDF-Inhalte / 80 Seiten, darunter auch historische Treffer. Doppelte Ebnet-Dateien über Hash erkannt; 2025er Amtsblätter und 2024er Ba.Sic-Tagesordnung nicht als aktuelle Nachrichten behandelt. Drei kuratierte Original-PDFs ergänzt. Keine neuen Fotos oder technischen Zeichnungen, keine erfundenen Darstellungen. Neue Partner: 0.
+
+Offene Scans
+Vier Bad-Krozinger Scans vom 29.09. bleiben offen. Lokale OCR an vier Seiten versucht; fehlende Textzeilen und sehr langsame Verarbeitung. Keine unzuverlässigen OCR-Zahlen oder Planfestsetzungen übernommen. Originale und Zwischenergebnisse bleiben lokal erhalten.
+
+Nachrichten
+Heise/iX, DataCenter-Insider, CloudComputing-Insider, DCD, Golem, regionale Presse, Betreiber-/Netzbetreiberquellen geprüft. Insider-Interview vom 28.09. behandelt Strom, Wärme und Akzeptanz; Branchenkontext, kein konkretes Flächenangebot. DCD-Projekte außerhalb BW nicht als Kandidaten übernommen. Netzbetreiber-Meldungen vom März/Juni heute als neu erfasste Quellen ergänzt, nicht als neue Ereignisse ausgegeben.
+
+Fragen und Uploads
+Keine researchQuestions/manualUploads; Uploadordner nur .gitkeep. Keine verdächtigen Fragen, keine verarbeiteten Uploads. Kein Fragen-PDF erforderlich.
+
+Statistiken
+Findings 175 -> 178; PDF-Datensätze 58 -> 61; Netzprüfungen 7 -> 9. Standorte 25, Unternehmen 21, Medien 5, Zeichnungen 6 unverändert.
+
+Versand
+Gmail weiterhin nicht erneut angemeldet (Token unverändert). Tagesbericht nicht versendet und zum späteren Versand vorgemerkt. Keine Postfachlöschungen oder DVLP-Änderungen.
+
+Quellen
+https://www.netze-bw.de/news/netze-bw-baut-in-teningen-ein-neues-umspannwerk
+https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf
+https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301
+
+Website
+https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Validierung
+PDF-Prüfung: 61/61 kuratierte Quellen erreichbar, 46 lokal vorhanden. Linkprüfung: 1510 URLs, 1467 erreichbar, 34 technisch blockiert, 9 defekte Originaladressen. Für sechs Alpirsbach-PDFs bestehen veröffentlichte Ersatzkopien; neu defekte Unterstadion-PDF mit geprüfter Archivkopie ergänzt. Holzkirch/Buggingen weiter nur mit lokalen HTML-Altaufnahmen, aktuelle Originalpfade offen. Die neue Ersatzkopie wird nach Veröffentlichung separat geprüft.

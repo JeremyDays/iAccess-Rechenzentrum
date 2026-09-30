@@ -1,8 +1,8 @@
 {
-  "checked": 1506,
-  "ok": 1463,
-  "blocked": 35,
-  "broken": 8,
+  "checked": 1510,
+  "ok": 1467,
+  "blocked": 34,
+  "broken": 9,
   "results": [
     {
       "collection": "drawings",
@@ -28,6 +28,20 @@
       "blocked": false,
       "error": "",
       "localArchive": "assets/source-archive/www.holzkirch.de/436ed1966eea1f4a.html"
+    },
+    {
+      "collection": "findings",
+      "index": 123,
+      "field": "sourceUrl",
+      "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
+      "url": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
+      "status": 404,
+      "finalUrl": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": "",
+      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf",
+      "fallbackLocalVerified": true
     },
     {
       "collection": "findings",
@@ -521,18 +535,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 2,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "capacityMarkets",
@@ -3758,18 +3760,6 @@
       "url": "https://unterstadion.de/",
       "status": 200,
       "finalUrl": "https://unterstadion.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 123,
-      "field": "sourceUrl",
-      "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
-      "url": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
-      "status": 200,
-      "finalUrl": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -14372,6 +14362,18 @@
     },
     {
       "collection": "findings",
+      "index": 175,
+      "field": "sourceUrl",
+      "title": "Teningen: Umspannwerk-Erneuerung bis Sommer 2029 vorgesehen",
+      "url": "https://www.netze-bw.de/news/netze-bw-baut-in-teningen-ein-neues-umspannwerk",
+      "status": 200,
+      "finalUrl": "https://www.netze-bw.de/news/netze-bw-baut-in-teningen-ein-neues-umspannwerk",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 137,
       "field": "sourceUrl",
       "title": "Tuttlingen-/Konstanz-Block geprueft: keine neuen RZ-Flaechenfunde",
@@ -17216,6 +17218,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 60,
+      "field": "sourceUrl",
+      "title": "GVV: Tagesordnung 30.09.2026, Solarpark B294",
+      "url": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 14,
       "field": "sourceUrl",
       "title": "Geotechnischer Bericht â€žRechenzentrum Eicheâ€œ",
@@ -17288,6 +17302,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 58,
+      "field": "sourceUrl",
+      "title": "Kehl Kork Umspannwerk",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 27,
       "field": "sourceUrl",
       "title": "Kommunale W?rmeplanung Leinfelden-Echterdingen",
@@ -17354,6 +17380,18 @@
       "url": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
       "status": 200,
       "finalUrl": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 59,
+      "field": "sourceUrl",
+      "title": "Teningen Umspannwerk Pressemitteilung",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1LvGDg9f5rXx8KDEkx7TNj/506d19cba2d02e436b0ccc7532cb7601/pressemitteilung-netze-bw-baut-in-teningen-ein-neues-umspannwerk.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1LvGDg9f5rXx8KDEkx7TNj/506d19cba2d02e436b0ccc7532cb7601/pressemitteilung-netze-bw-baut-in-teningen-ein-neues-umspannwerk.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17963,6 +18001,18 @@
       "index": 2,
       "field": "documents",
       "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
+      "status": 200,
+      "finalUrl": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 2,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
       "url": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
       "status": 200,
       "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
@@ -18091,6 +18141,6 @@
       "error": ""
     }
   ],
-  "checkedAt": "2026-09-29",
-  "brokenWithPublishedPdfFallback": 6
+  "checkedAt": "2026-09-30",
+  "brokenWithLocalPdfFallback": 7
 }

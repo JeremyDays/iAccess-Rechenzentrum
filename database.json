@@ -2401,6 +2401,51 @@
       "sourceUrl": "https://a.storyblok.com/f/307935/x/1867a332a0/bebauungsplan-textliche-festsetzungen-bad-krozingen.pdf",
       "localFile": "pdfs/2026-09-29-13-original.pdf",
       "tags": "Original-PDF, Scan-Auswertung offen"
+    },
+    {
+      "id": "id-2026-09-30-pdf-1",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "municipality": "Kehl",
+      "documentTitle": "Kehl Kork Umspannwerk",
+      "documentType": "Netzbetreiber-Pressemitteilung",
+      "pages": "2",
+      "keyFacts": "Netze BW berichtet am 20.03.2026 die Inbetriebnahme am Standort Im Hasenwinkel. Projekt verbindet 380- und 110-kV-Ebene mit TransnetBW. Regionale Netzinfrastruktur belegt; keine zugesicherte Bezugsleistung, keine konkrete RZ-Parzelle und kein Redundanznachweis für Ba.Sic.",
+      "technicalFacts": "Keine freie RZ-Anschlusskapazität zugesichert.",
+      "planningFacts": "Quellendatum und Verfahrensstand beachten.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
+      "localFile": "pdfs/2026-09-30-01-original.pdf",
+      "tags": "Original-PDF, Primärquelle"
+    },
+    {
+      "id": "id-2026-09-30-pdf-2",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "municipality": "Teningen",
+      "documentTitle": "Teningen Umspannwerk Pressemitteilung",
+      "documentType": "Netzbetreiber-Pressemitteilung",
+      "pages": "2",
+      "keyFacts": "Netze BW meldet am 19.06.2026 den Baubeginn. Die 110-kV-Anlage wird erneuert und erweitert; zusätzlicher Mittelspannungsabschnitt vorgesehen. Geplanter Bauzeitraum bis Sommer 2029. Kein Nachweis einer bereits verfügbaren Verbrauchsanschlussleistung für iAccess.",
+      "technicalFacts": "Keine freie RZ-Anschlusskapazität zugesichert.",
+      "planningFacts": "Quellendatum und Verfahrensstand beachten.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1LvGDg9f5rXx8KDEkx7TNj/506d19cba2d02e436b0ccc7532cb7601/pressemitteilung-netze-bw-baut-in-teningen-ein-neues-umspannwerk.pdf",
+      "localFile": "pdfs/2026-09-30-02-original.pdf",
+      "tags": "Original-PDF, Primärquelle"
+    },
+    {
+      "id": "id-2026-09-30-pdf-3",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "municipality": "Denzlingen / Vörstetten / Reute",
+      "documentTitle": "GVV: Tagesordnung 30.09.2026, Solarpark B294",
+      "documentType": "Amtliche Tagesordnung",
+      "pages": "1",
+      "keyFacts": "Die Tagesordnung für den 30.09.2026, 18 Uhr, führt unter TOP 8 die Einleitung der 8. FNP-Änderung Solarpark B294 und frühzeitige Beteiligung auf. Nur Termin-/Verfahrenshinweis: Beschluss, Planinhalt und RZ-Nutzung nicht nachgewiesen.",
+      "technicalFacts": "Keine freie RZ-Anschlusskapazität zugesichert.",
+      "planningFacts": "Quellendatum und Verfahrensstand beachten.",
+      "sourceUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
+      "localFile": "pdfs/2026-09-30-03-original.pdf",
+      "tags": "Original-PDF, Primärquelle"
     }
   ],
   "media": [
@@ -4989,7 +5034,8 @@
         "Glasfaser",
         "kein RZ-Fund"
       ],
-      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen.",
+      "documents": "; Historische Archivkopie (Original am 30.09.2026 HTTP 404): https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf"
     },
     {
       "id": "id-2026-08-01-news-monitoring-b",
@@ -6132,6 +6178,42 @@
       "sourceUrl": "https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte",
       "confidence": "Primärquelle; Eignung offen",
       "tags": "Gewerbeflächen, Prüfbedarf, Micro-DC"
+    },
+    {
+      "id": "id-2026-09-30-teningen-netz",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "title": "Teningen: Umspannwerk-Erneuerung bis Sommer 2029 vorgesehen",
+      "topic": "Infrastruktur / Planung",
+      "summary": "Netze BW meldet am 19.06.2026 den Baubeginn. Die 110-kV-Anlage wird erneuert und erweitert; zusätzlicher Mittelspannungsabschnitt vorgesehen. Geplanter Bauzeitraum bis Sommer 2029. Kein Nachweis einer bereits verfügbaren Verbrauchsanschlussleistung für iAccess.",
+      "sourceUrl": "https://www.netze-bw.de/news/netze-bw-baut-in-teningen-ein-neues-umspannwerk",
+      "confidence": "Primärquelle; keine bestätigte RZ-Eignung",
+      "action": "Bei konkreter Parzelle Verbrauchslast, Anschlusszeitpunkt und physisch unabhängige Carrierwege prüfen; FNP-Beschlussunterlagen nach Veröffentlichung lesen.",
+      "tags": "Netz, Bauleitplanung, Prüfbedarf"
+    },
+    {
+      "id": "id-2026-09-30-kehl-kork-netz",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "title": "Kehl-Kork: Umspannwerk laut Betreiber in Betrieb",
+      "topic": "Infrastruktur / Planung",
+      "summary": "Netze BW berichtet am 20.03.2026 die Inbetriebnahme am Standort Im Hasenwinkel. Projekt verbindet 380- und 110-kV-Ebene mit TransnetBW. Regionale Netzinfrastruktur belegt; keine zugesicherte Bezugsleistung, keine konkrete RZ-Parzelle und kein Redundanznachweis für Ba.Sic.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
+      "confidence": "Primärquelle; keine bestätigte RZ-Eignung",
+      "action": "Bei konkreter Parzelle Verbrauchslast, Anschlusszeitpunkt und physisch unabhängige Carrierwege prüfen; FNP-Beschlussunterlagen nach Veröffentlichung lesen.",
+      "tags": "Netz, Bauleitplanung, Prüfbedarf"
+    },
+    {
+      "id": "id-2026-09-30-gvv-solarpark",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "title": "GVV Denzlingen/Vörstetten/Reute: FNP-Thema Solarpark B294",
+      "topic": "Infrastruktur / Planung",
+      "summary": "Die Tagesordnung für den 30.09.2026, 18 Uhr, führt unter TOP 8 die Einleitung der 8. FNP-Änderung Solarpark B294 und frühzeitige Beteiligung auf. Nur Termin-/Verfahrenshinweis: Beschluss, Planinhalt und RZ-Nutzung nicht nachgewiesen.",
+      "sourceUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
+      "confidence": "Primärquelle; keine bestätigte RZ-Eignung",
+      "action": "Bei konkreter Parzelle Verbrauchslast, Anschlusszeitpunkt und physisch unabhängige Carrierwege prüfen; FNP-Beschlussunterlagen nach Veröffentlichung lesen.",
+      "tags": "Netz, Bauleitplanung, Prüfbedarf"
     }
   ],
   "gridChecks": [
@@ -6244,6 +6326,34 @@
       "nextAction": "Denzlingen/Emmendingen/Reute/Teningen gegen konkrete Gewerbeflaechen, Umspannwerksnaehe, Glasfasertrassen und Schall-/Waermeabnehmer verschneiden.",
       "sourceUrl": "https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/",
       "tags": "Emmendingen, Denzlingen, Stadtwerke, Netzdaten, Mittelspannung, Kernraum, Netzanschluss"
+    },
+    {
+      "id": "id-2026-09-30-grid-teningen",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "site": "Teningen - regionaler Netzkontext",
+      "municipality": "Teningen",
+      "targetPowerMw": "Projektbezogen zu bestimmen",
+      "gridOperator": "Netze BW / TransnetBW",
+      "voltageLevel": "110 kV; Verteilnetzanschluss projektbezogen offen",
+      "distanceHint": "Netze BW meldet am 19.06.2026 den Baubeginn. Die 110-kV-Anlage wird erneuert und erweitert; zusätzlicher Mittelspannungsabschnitt vorgesehen. Geplanter Bauzeitraum bis Sommer 2029. Kein Nachweis einer bereits verfügbaren Verbrauchsanschlussleistung für iAccess.",
+      "capacityStatus": "Verbrauchsanschlussleistung ungeklärt",
+      "nextAction": "Konkrete Koordinaten, gewünschte Bezugsleistung und Termin klären.",
+      "source": "https://www.netze-bw.de/news/netze-bw-baut-in-teningen-ein-neues-umspannwerk"
+    },
+    {
+      "id": "id-2026-09-30-grid-kehl",
+      "created": "2026-09-30",
+      "updated": "2026-09-30",
+      "site": "Kehl - regionaler Netzkontext",
+      "municipality": "Kehl",
+      "targetPowerMw": "Projektbezogen zu bestimmen",
+      "gridOperator": "Netze BW / TransnetBW",
+      "voltageLevel": "110 kV; Verteilnetzanschluss projektbezogen offen",
+      "distanceHint": "Netze BW berichtet am 20.03.2026 die Inbetriebnahme am Standort Im Hasenwinkel. Projekt verbindet 380- und 110-kV-Ebene mit TransnetBW. Regionale Netzinfrastruktur belegt; keine zugesicherte Bezugsleistung, keine konkrete RZ-Parzelle und kein Redundanznachweis für Ba.Sic.",
+      "capacityStatus": "Verbrauchsanschlussleistung ungeklärt",
+      "nextAction": "Konkrete Koordinaten, gewünschte Bezugsleistung und Termin klären.",
+      "source": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf"
     }
   ],
   "connectivityChecks": [
@@ -6439,7 +6549,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-09-29",
+    "lastRun": "2026-09-30",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
