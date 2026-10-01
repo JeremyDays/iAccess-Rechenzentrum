@@ -1,0 +1,30 @@
+Tagesbericht Rechenzentren-Recherche - 2026-10-01
+
+Ergebnis
+Kein neuer belastbarer RZ-Standort, kein neuer relevanter Planbeschluss und keine zugesicherte Netzanschlussleistung belegt. Bestehende Einträge nicht dupliziert. Keine neue Entscheidung für den Nutzer erforderlich.
+
+Gemeinden und Prüftiefe
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl.
+21 Gemeinden auf bekannten kommunalen Seiten, Ratsinformations-, B-Plan/FNP- und Amtsblattpfaden sowie anhand ausgewählter Dokumente nachgeprüft. Alle elf vorgegebenen Suchbegriffe auf abgerufenen Texten geprüft. Keine 20 vollständigen Aktenabschlüsse. Sieben Zugriffsfehler, insbesondere gesperrte Ratsportale, bleiben offen. Gemeinden ohne neuen Fund sind nicht als endgültig RZ-frei bewertet.
+Solarpark B294: weiterhin nur bereits dokumentierter Tagesordnungshinweis, kein zusätzlicher Beschlussnachweis. Ba.Sic-Verfügbarkeit weiter widersprüchlich. Vier Bad-Krozinger Scans weiter nicht zuverlässig vollständig ausgelesen; kein erneuter gleichartiger OCR-Versuch.
+
+Nachrichten
+Heise/iX, DataCenter-Insider, CloudComputing-Insider, DCD, Golem, regionale Presse und Betreiber-/Netzbetreiberquellen geprüft. Insider-Gastbeitrag vom 30.09. zu Redundanz als Branchenkontext erkannt; keine verbindliche Anforderung oder Fläche daraus übernommen. Regionale Suchtreffer überwiegend ohne RZ-Flächenbezug. Kein neuer Primärnachweis für ein geeignetes Grundstück.
+
+Quellen und Archive
+175 URLs versucht, 168 lokal archiviert mit scripts/archive-sources.py. 10 unterschiedliche PDF-Inhalte mit 90 Seiten erneut gelesen/gesichert, überwiegend bereits bekannte oder historische Unterlagen. Vörstetten weiterhin Ausgabe 25.09.; Teningen/Gundelfingen/Freiburg-Ebnet weiterhin 30.09. Ebnet nur Ortsteilblatt. Doppelte Dateien anhand Hash erkannt; alte Ausgaben nicht als aktuelle Nachrichten gezählt. Neue kuratierte Quellen, PDF-Datensätze, Gutachten, Partner, Fotos und technische Zeichnungen: jeweils 0.
+
+PDF-Verfügbarkeit und Linkprüfung
+Keine PDF-/Linkänderungen in database.json, daher keine erneute Vollprüfung unveränderter Links. Letzter vollständiger Check vom 30.09.: 61/61 kuratierte Quellen erreichbar, 46 lokal vorhanden; 1510 URLs, 1467 erreichbar, 34 technisch blockiert, 9 defekte Originaladressen. Sieben PDF-Archivkopien als Ersatz vorhanden; Holzkirch/Buggingen nur lokale HTML-Altaufnahmen, aktuelle Pfade offen. Heutige Abruffehler im lokalen Laufprotokoll dokumentiert.
+
+Fragen und Uploads
+Keine researchQuestions oder manualUploads, Uploadordner nur .gitkeep. Keine verdächtigen Fragen, keine verarbeiteten Uploads. Kein Fragen-PDF erforderlich.
+
+Statistiken unverändert
+Findings 178, PDF-Datensätze 61, Standorte 25, Unternehmen 21, Netzprüfungen 9, Medien 5, Zeichnungen 6.
+
+Versand
+Tagesbericht nicht per E-Mail versendet; bekannter Gmail-OAuth-Fehler unverändert, Token nicht erneuert. Bericht zum späteren Versand vorgemerkt. Keine Postfachlöschungen oder DVLP-Änderungen.
+
+Website
+https://jeremydays.github.io/iAccess-Rechenzentrum/
