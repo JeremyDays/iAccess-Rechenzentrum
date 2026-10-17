@@ -1,8 +1,11 @@
 {
-  "checked": 1531,
-  "ok": 1486,
+  "checked": 1522,
+  "ok": 1490,
   "blocked": 32,
-  "broken": 13,
+  "broken": 0,
+  "checkedAt": "2026-10-17T07:51:09.897924+02:00",
+  "method": "Vollprüfung des heutigen Bestands; danach nur geänderte Adressen erneut geprüft.",
+  "changedUrlsRechecked": 6,
   "results": [
     {
       "collection": "companies",
@@ -26,102 +29,6 @@
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "ok": false,
       "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.holzkirch.de/willkommen-in-holzkirch",
-      "status": 404,
-      "finalUrl": "https://www.holzkirch.de/willkommen-in-holzkirch",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 123,
-      "field": "sourceUrl",
-      "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
-      "url": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
-      "status": 404,
-      "finalUrl": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 99,
-      "field": "sourceUrl",
-      "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
-      "status": 404,
-      "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
-      "ok": false,
-      "blocked": false,
       "error": ""
     },
     {
@@ -267,54 +174,6 @@
       "ok": false,
       "blocked": true,
       "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/,Lde/14336492.html",
-      "status": 404,
-      "finalUrl": "https://www.krauchenwies.de/,Lde/14336492.html",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
-      "status": 404,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
-      "status": 404,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
-      "status": 404,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
-      "ok": false,
-      "blocked": false,
-      "error": ""
     },
     {
       "collection": "sites",
@@ -518,18 +377,6 @@
       "finalUrl": "https://www.datacenters.com/nlighten-nlighten-stuttgart-str1",
       "ok": false,
       "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 23,
-      "field": "documents",
-      "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
-      "url": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
-      "status": 404,
-      "finalUrl": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
-      "ok": false,
-      "blocked": false,
       "error": ""
     },
     {
@@ -3669,6 +3516,18 @@
       "index": 121,
       "field": "sourceUrl",
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.holzkirch.de/ortsentwicklung",
+      "status": 200,
+      "finalUrl": "https://www.holzkirch.de/ortsentwicklung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://www.langenau.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.langenau.de/willkommen",
@@ -3763,7 +3622,7 @@
     {
       "collection": "findings",
       "index": 123,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf",
       "status": 200,
@@ -7879,7 +7738,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-126d918a5ebe2f8a.pdf",
       "status": 200,
@@ -7891,7 +7750,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-552aec549a16e8ec.pdf",
       "status": 200,
@@ -7903,7 +7762,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-661aee3b3838b03b.pdf",
       "status": 200,
@@ -7915,7 +7774,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-830806c5735aab1d.pdf",
       "status": 200,
@@ -7927,7 +7786,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-99d76aa9ac8b5e22.pdf",
       "status": 200,
@@ -7939,7 +7798,7 @@
     {
       "collection": "findings",
       "index": 99,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Freudenstadt/Rottweil-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-a3da606cea085d53.pdf",
       "status": 200,
@@ -13725,6 +13584,42 @@
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-60902038b99a0cb9.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-60902038b99a0cb9.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-a64a7f30b1f5254a.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-a64a7f30b1f5254a.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-d051680e591b485b.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-fallback-d051680e591b485b.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
       "url": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/Parken/Parkplatzkonzept-mit-Luftbild.pdf",
       "status": 200,
       "finalUrl": "https://www.bad-saulgau.de/de-wAssets/docs/Bauen-Wohnen-Umwelt-Verkehr/Mobilitaet-Anfahrt-Verkehr/Parken/Parkplatzkonzept-mit-Luftbild.pdf",
@@ -13920,6 +13815,18 @@
       "url": "https://www.illmensee.de/",
       "status": 200,
       "finalUrl": "https://www.illmensee.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/",
+      "status": 200,
+      "finalUrl": "https://www.krauchenwies.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17022,7 +16929,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 67,
+      "index": 66,
       "field": "sourceUrl",
       "title": "1_Cover_FNPA Solarpark.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_FNPA+Solarpark.pdf&m=7505&i=1&fl=53061470&d=93e",
@@ -17034,7 +16941,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 73,
+      "index": 71,
       "field": "sourceUrl",
       "title": "1_Cover_Satzungen_BP_Solarpark_B294.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_Satzungen_BP_Solarpark_B294.pdf&m=7507&i=1&fl=53061479&d=060",
@@ -17046,7 +16953,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 68,
+      "index": 67,
       "field": "sourceUrl",
       "title": "2_Deckblatt_FNPA Solarpark.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=2_Deckblatt_FNPA+Solarpark.pdf&m=7505&i=2&fl=53061470&d=f5e",
@@ -17058,7 +16965,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 74,
+      "index": 72,
       "field": "sourceUrl",
       "title": "2_Planteil_BP_Solarpark_B294.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=2_Planteil_BP_Solarpark_B294.pdf&m=7507&i=2&fl=53061479&d=fc0",
@@ -17070,7 +16977,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 75,
+      "index": 73,
       "field": "sourceUrl",
       "title": "3_Bebauungsvorschriften_BP_Solarpark_B294.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=3_Bebauungsvorschriften_BP_Solarpark_B294.pdf&m=7507&i=3&fl=53061479&d=7c1",
@@ -17082,7 +16989,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 69,
+      "index": 68,
       "field": "sourceUrl",
       "title": "3_Begrundung_FNPA Solarpark.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=3_Begrundung_FNPA+Solarpark.pdf&m=7505&i=3&fl=53061470&d=ed4",
@@ -17094,7 +17001,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 76,
+      "index": 74,
       "field": "sourceUrl",
       "title": "4_Begrundung_BP_Solarpark_B294.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
@@ -17106,7 +17013,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 70,
+      "index": 69,
       "field": "sourceUrl",
       "title": "4_Flachensteckbrief_FNPA Solarpark.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=4_Flachensteckbrief_FNPA+Solarpark.pdf&m=7505&i=4&fl=53061470&d=347",
@@ -17118,7 +17025,7 @@
     },
     {
       "collection": "pdfExtracts",
-      "index": 71,
+      "index": 70,
       "field": "sourceUrl",
       "title": "5_Umweltbericht_FNPA Solarpark.pdf",
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
@@ -17256,30 +17163,6 @@
       "url": "https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201",
       "status": 200,
       "finalUrl": "https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "pdfExtracts",
-      "index": 72,
-      "field": "sourceUrl",
-      "title": "Bekanntmachung Aufstellung und Fruhzeitige BPL Solarpark B294.pdf",
-      "url": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+BPL+Solarpark+B294.pdf&m=7507&i=0&fl=53061479&d=bc0",
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+BPL+Solarpark+B294.pdf&m=7507&i=0&fl=53061479&d=bc0",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "pdfExtracts",
-      "index": 66,
-      "field": "sourceUrl",
-      "title": "Bekanntmachung Aufstellung und Fruhzeitige FNPA Solarpark B294.pdf",
-      "url": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+FNPA+Solarpark+B294.pdf&m=7505&i=0&fl=53061470&d=d28",
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+FNPA+Solarpark+B294.pdf&m=7505&i=0&fl=53061470&d=d28",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17892,6 +17775,18 @@
       "url": "https://www.reute.de/fileadmin/Dateien/Cross7/Startseite/Bauen_%26_Wohnen/Baugebiete/Bebauungsplane/4_BP_Gewerbeabrundung_Begrundung.pdf",
       "status": 200,
       "finalUrl": "https://www.reute.de/fileadmin/Dateien/Cross7/Startseite/Bauen_%26_Wohnen/Baugebiete/Bebauungsplane/4_BP_Gewerbeabrundung_Begrundung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 23,
+      "field": "documents",
+      "title": "Bebauungsplan \"Gewerbegebiet - Kaliwerk West\"",
+      "url": "https://buggingen.de/fileadmin/user_upload/Abbildungen_Buggingen2023/Allgemeine-Abbildungen/%C3%96ffentliche_Bekanntmachungen/Gewerbegebiet_KaliWest/Bekanntmachung_fr%C3%BChzeitige_Beteiligung_Gewerbegebiet-Kaliwerk_West.pdf",
+      "status": 200,
+      "finalUrl": "https://buggingen.de/fileadmin/user_upload/Abbildungen_Buggingen2023/Allgemeine-Abbildungen/%C3%96ffentliche_Bekanntmachungen/Gewerbegebiet_KaliWest/Bekanntmachung_fr%C3%BChzeitige_Beteiligung_Gewerbegebiet-Kaliwerk_West.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
