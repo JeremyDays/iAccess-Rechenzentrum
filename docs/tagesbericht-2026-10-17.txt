@@ -1,0 +1,34 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 17. Oktober 2026
+
+Denzlingen: Solarpark B294
+Die amtlichen Bekanntmachungen bestätigen den Aufstellungsbeschluss vom 22. September und die Einleitung der achten Flächennutzungsplanänderung vom 30. September. Die Beteiligung läuft vom 19. Oktober bis 20. November 2026. Planzeichnung, Vorschriften, Begründungen und Umweltbericht sind bereits öffentlich abrufbar und lokal gesichert.
+Die Begründung nennt vorgemerkte Einspeisung über das Umspannwerk Buchholz und dessen voraussichtlichen Ausbau bis 2029. Konkrete Vereinbarungen mit regionalen Direktabnehmern liegen laut Unterlage nicht vor. Eigene Schlussfolgerung: Das Energieumfeld ist relevant; eine verfügbare Rechenzentrumsfläche, zulässige Rechenzentrumsnutzung oder gesicherte Verbrauchsanschlussleistung ist damit nicht belegt.
+Quelle: https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php
+
+Weitere Ergebnisse
+TelemaxX und VIVAVIS melden eine Partnerschaft für den Betrieb von Anwendungen der Energiewirtschaft. VIVAVIS ist als zusätzlicher Partnerkandidat erfasst; mit iAccess besteht keine belegte Partnerschaft. Quelle: https://blog.telemaxx.de/digitale-souveranitat-fur-die-energiewirtschaft-vivavis-und-telemaxx-bundeln-krafte-fur-den-sicheren-betrieb-kritischer-ot-anwendungen/
+Die Stadtwerke Stuttgart melden ein betriebenes Abwärmenetz mit nLighten. Als Referenzprojekt aufgenommen; keine freie Fläche daraus abgeleitet. Quelle: https://www.stadtwerke-stuttgart.de/aktuelles/presse/presseinformationen/2026/sep/21/warmewende-aus-dem-rechenzentrum/
+Netze BW hat vorläufige Stromnetzentgelte und Nutzungsregeln für 2027 veröffentlicht. Die Originale sind gesichert; eine standortbezogene Kostenberechnung wurde nicht vorgenommen. Quelle: https://www.netze-bw.de/unternehmen/veroeffentlichungen
+Der Gottenheimer Wärmeplanentwurf beziffert derzeit kein wirtschaftlich nutzbares Abwärmepotenzial aus den untersuchten Bestandsbetrieben. Das ist keine Aussage über künftige Rechenzentrumsabwärme. Quelle: https://www.gottenheim.de/Rathaus/KSM/Waermeplanung/20260903_KWP_Fachgutachten_Gottenheim_Offenlage.pdf
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl.
+Bei diesen 21 Gemeinden wurden die noch offenen Detailprüfungen auf kommunalen Seiten, Ratsinformationen, Planungs- und Amtsblattpfaden fortgeführt und alle elf Suchbegriffe auf den abgerufenen Texten geprüft. Das sind keine 21 abgeschlossenen Aktenprüfungen. Kein neues verfügbares Rechenzentrumsgrundstück ist nachgewiesen. Beschränkte Ratsportale und nicht erschlossene Detailakten bleiben offen; fehlende Treffer gelten nicht als Ausschluss eines Standorts.
+
+Quellen und Dokumente
+266 Rechercheadressen aufgerufen, 258 erfolgreich lokal gesichert; darunter 139 gegenüber dem übertragenen Quellenverzeichnis zusätzliche Adressen. Acht Abruffehler sind protokolliert. 48 unterschiedliche Dokumentdateien mit zusammen 813 Seiten gesichert und maschinell ausgelesen. Darunter sind ältere Ausgaben und vier nur unvollständig auslesbare Karten beziehungsweise Scans; diese sind nicht als aktuelle oder vollständig geprüfte Nachrichten gezählt. 14 Originaldokumente neu kuratiert; zwei alternative Bekanntmachungsfassungen nicht doppelt aufgenommen. Neue Fotos und technische Zeichnungen: jeweils keine.
+Heise einschließlich iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse sowie Betreiber- und Netzbetreiberquellen wurden gesucht beziehungsweise aufgerufen. DatacenterDynamics blockierte den Direktabruf; Golem lieferte im lokalen Abruf eine Einwilligungsseite, die regionale Suchseite keine verlässliche Trefferliste. Diese Zugriffsgrenzen wurden nicht als fehlende Nachrichten gewertet.
+
+Verfügbarkeit und Linkprüfung
+Alle 75 kuratierten Dokumentquellen waren bei der Prüfung erreichbar, 60 Dokumente liegen zusätzlich lokal vor. Die Vollprüfung vor der Reparatur umfasste 1.531 Adressen: 1.486 erreichbar, 32 technisch blockiert und 13 defekte Originaladressen. Die 13 defekten Adressen sind durch drei geprüfte amtliche Ersatzpfade und zehn historische Originalkopien ersetzt. Sieben Archivkopien waren bereits veröffentlicht; drei weitere werden mit diesem Stand bereitgestellt. Historische Kopien sind kein Nachweis eines aktuellen Planungsstands. Die Abschlussprüfung der geänderten Adressen wird im Laufprotokoll gespeichert.
+
+Fragen, Uploads und Statistik
+In der abgeglichenen Datenbank keine neuen Fragen oder manuellen Uploads; der Uploadordner enthält nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Vier Recherchehinweise neu, ein bestehender Solarpark-Hinweis aktualisiert. Ein Partnerkandidat neu und ein vorhandener Betreiber aktualisiert. Originaldokumente 61 → 75, Standorte unverändert 25, Unternehmen 21 → 22, Recherchehinweise 178 → 182, Netzprüfungen 9 → 10, Planungsfälle 6 → 7, Bauleitpläne 26 → 27. Medien unverändert 5, technische Zeichnungen unverändert 6.
+
+Offen
+Rechenzentrumszulässigkeit, konkrete Flächenverfügbarkeit, Verbrauchsnetzanschluss und voneinander unabhängige Glasfaserwege bleiben projektbezogen zu prüfen. Für den Solarpark B294 die Beteiligungsunterlagen und folgenden Beschlüsse weiterverfolgen. Keine externen Anfragen oder Einträge in fremden Projektportalen vorgenommen.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

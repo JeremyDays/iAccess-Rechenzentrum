@@ -1,9 +1,21 @@
 {
-  "checked": 1510,
-  "ok": 1467,
-  "blocked": 34,
-  "broken": 9,
+  "checked": 1531,
+  "ok": 1486,
+  "blocked": 32,
+  "broken": 13,
   "results": [
+    {
+      "collection": "companies",
+      "index": 15,
+      "field": "contact",
+      "title": "nLighten",
+      "url": "https://www.nlighten.eu/",
+      "status": 403,
+      "finalUrl": "https://www.nlighten.eu/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
     {
       "collection": "drawings",
       "index": 3,
@@ -26,8 +38,7 @@
       "finalUrl": "https://www.holzkirch.de/willkommen-in-holzkirch",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "localArchive": "assets/source-archive/www.holzkirch.de/436ed1966eea1f4a.html"
+      "error": ""
     },
     {
       "collection": "findings",
@@ -39,9 +50,7 @@
       "finalUrl": "https://unterstadion.de/wp-content/uploads/2026/02/Breitbandausbau-Unterstadion.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -53,9 +62,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Bebauungsplan_Sondergebiet_Fotovoltaikanlage.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-a3da606cea085d53.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -67,9 +74,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Eignungspr%C3%BCfung.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-830806c5735aab1d.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -81,9 +86,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Fl%C3%A4chennutzungsplan_2015_15._punktuelle_%C3%84nderung_H%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-126d918a5ebe2f8a.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -95,9 +98,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Pressetext_Alpirsbach.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-99d76aa9ac8b5e22.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -109,9 +110,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/Unterlagen_Homepage_FNP_H%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-661aee3b3838b03b.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -123,9 +122,7 @@
       "finalUrl": "https://www.alpirsbach.de/fileadmin/form_definitions/h%C3%B6nweiler.pdf",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "fallbackUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-25-fallback-552aec549a16e8ec.pdf",
-      "fallbackLocalVerified": true
+      "error": ""
     },
     {
       "collection": "findings",
@@ -240,54 +237,6 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 133,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.leibertingen.de', port=443): Max retries exceeded with url: /wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.scheer-online.de/",
       "status": null,
       "finalUrl": "",
@@ -306,6 +255,66 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/,Lde/14336492.html",
+      "status": 404,
+      "finalUrl": "https://www.krauchenwies.de/,Lde/14336492.html",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
+      "status": 404,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
+      "status": 404,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
+      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
+      "status": 404,
+      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
+      "ok": false,
+      "blocked": false,
+      "error": ""
     },
     {
       "collection": "sites",
@@ -521,8 +530,7 @@
       "finalUrl": "https://buggingen.de/de/home/rathaus-politik/im-rathaus/oeffentliche-bekanntmachungen/beschluss-der-fruehzeitigen-beteiligung-/-vorentwurf-bebauungsplan-und-oertliche-bauvorschriften-gewerbegebiet-kaliwerk-west",
       "ok": false,
       "blocked": false,
-      "error": "",
-      "localArchive": "assets/source-archive/buggingen.de/7398436090d8fdd6.html"
+      "error": ""
     },
     {
       "collection": "zoningPlans",
@@ -827,6 +835,18 @@
     {
       "collection": "companies",
       "index": 8,
+      "field": "source",
+      "title": "Telemaxx Telekommunikation GmbH",
+      "url": "https://blog.telemaxx.de/digitale-souveranitat-fur-die-energiewirtschaft-vivavis-und-telemaxx-bundeln-krafte-fur-den-sicheren-betrieb-kritischer-ot-anwendungen/",
+      "status": 200,
+      "finalUrl": "https://blog.telemaxx.de/digitale-souveranitat-fur-die-energiewirtschaft-vivavis-und-telemaxx-bundeln-krafte-fur-den-sicheren-betrieb-kritischer-ot-anwendungen/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "companies",
+      "index": 8,
       "field": "contact",
       "title": "Telemaxx Telekommunikation GmbH",
       "url": "https://www.telemaxx.de",
@@ -873,18 +893,6 @@
       "error": ""
     },
     {
-      "collection": "companies",
-      "index": 15,
-      "field": "contact",
-      "title": "nLighten",
-      "url": "https://www.nlighten.eu/",
-      "status": 200,
-      "finalUrl": "https://www.nlighten.com/en/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
       "collection": "connectivityChecks",
       "index": 3,
       "field": "contact",
@@ -903,7 +911,7 @@
       "title": "",
       "url": "https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html",
       "status": 200,
-      "finalUrl": "https://www.schlat.de/glasfaserausbau-deutsche-glasfaser-erteilt-absage-fuer-schlat.html",
+      "finalUrl": "https://www.schlat.de/seite-nicht-gefunden.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -3755,6 +3763,18 @@
     {
       "collection": "findings",
       "index": 123,
+      "field": "documents",
+      "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-09-30-fallback-unterstadion.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 123,
       "field": "sourceUrl",
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://unterstadion.de/",
@@ -3999,7 +4019,7 @@
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://www.moosburg-bc.de/",
       "status": 200,
-      "finalUrl": "https://www.moosburg-bc.de/",
+      "finalUrl": "https://moosburg-am-federsee.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4011,7 +4031,7 @@
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Begrndung.pdf",
       "status": 200,
-      "finalUrl": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Begrndung.pdf",
+      "finalUrl": "https://moosburg-am-federsee.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4023,7 +4043,7 @@
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-FFH_-_Vorprfung_compressed_1.pdf",
       "status": 200,
-      "finalUrl": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-FFH_-_Vorprfung_compressed_1.pdf",
+      "finalUrl": "https://moosburg-am-federsee.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4035,7 +4055,7 @@
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Planzeichnung.pdf",
       "status": 200,
-      "finalUrl": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-Planzeichnung.pdf",
+      "finalUrl": "https://moosburg-am-federsee.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4047,7 +4067,7 @@
       "title": "Alb-Donau/Biberach-Block: 19 Gemeinden geprüft, Kanzach technisch offen",
       "url": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-ffentliche_Bekanntmachung.pdf",
       "status": 200,
-      "finalUrl": "https://www.moosburg-bc.de/images/Bebauungsplan_BB_Strasse/2023-02-16/Ergnzungssatzung_Betzenweiler_Strae-ffentliche_Bekanntmachung.pdf",
+      "finalUrl": "https://moosburg-am-federsee.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5223,7 +5243,7 @@
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Eschach/Goeggingen geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.boebingen.de/",
       "status": 200,
-      "finalUrl": "https://www.boebingen.de/",
+      "finalUrl": "https://www.boebingen.de/gemeinde/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10870,6 +10890,18 @@
     },
     {
       "collection": "findings",
+      "index": 180,
+      "field": "sourceUrl",
+      "title": "Netze BW: vorläufige Stromnetzentgelte und Nutzungsregeln 2027",
+      "url": "https://www.netze-bw.de/unternehmen/veroeffentlichungen",
+      "status": 200,
+      "finalUrl": "https://www.netze-bw.de/unternehmen/veroeffentlichungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 132,
       "field": "sourceUrl",
       "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
@@ -11944,6 +11976,54 @@
       "url": "https://www.kisslegg.de/buerger/startseite-buerger",
       "status": 200,
       "finalUrl": "https://www.kisslegg.de/buerger/startseite-buerger",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.leibertingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
+      "status": 200,
+      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2023/05/Kreenheinstetten-Gewerbeflaeche-221221.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
+      "status": 200,
+      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2023/05/Leibertingen-Gewerbeflaeche-221221.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
+      "status": 200,
+      "finalUrl": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13642,18 +13722,6 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -13861,54 +13929,6 @@
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/,Lde/14336492.html",
-      "status": 200,
-      "finalUrl": "https://www.krauchenwies.de/,Lde/14336492.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
-      "status": 304,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-136494796/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Neu%202016-11-15%20B-PLan%20%C3%84nderung%20Oberer%20Kirchberg.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
-      "status": 304,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-743300310/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/Auf%20den%20Rainen/405Rainen_Rechtsplan.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
-      "url": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
-      "status": 304,
-      "finalUrl": "https://www.krauchenwies.de/site/Krauchenwies-2017/get/documents_E-892697403/Krauchenwies/Datenquelle_Krauchenwies/Baugebiete/G%C3%B6gginger%20B%C3%BChl%20Ablach/BP%20G%C3%B6gginger%20B%C3%BChl%20West_PLAN_endg.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 135,
-      "field": "sourceUrl",
-      "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
       "url": "https://www.ostrach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.ostrach.de/startseite",
@@ -14104,6 +14124,18 @@
       "url": "https://www.wald-hohenzollern.de/startseite",
       "status": 200,
       "finalUrl": "https://www.wald-hohenzollern.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 179,
+      "field": "sourceUrl",
+      "title": "Stuttgart: Abwärmenetz mit nLighten in Betrieb",
+      "url": "https://www.stadtwerke-stuttgart.de/aktuelles/presse/presseinformationen/2026/sep/21/warmewende-aus-dem-rechenzentrum/",
+      "status": 200,
+      "finalUrl": "https://www.stadtwerke-stuttgart.de/aktuelles/presse/presseinformationen/2026/sep/21/warmewende-aus-dem-rechenzentrum/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16203,7 +16235,7 @@
       "title": "Weitere 20 Rhein-Neckar-Gemeinden geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.muehlhausen-kraichgau.de/de/startseite",
       "status": 200,
-      "finalUrl": "https://www.muehlhausen-kraichgau.de/de/startseite",
+      "finalUrl": "https://muehlhausen-kraichgau.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16990,6 +17022,114 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 67,
+      "field": "sourceUrl",
+      "title": "1_Cover_FNPA Solarpark.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_FNPA+Solarpark.pdf&m=7505&i=1&fl=53061470&d=93e",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_FNPA+Solarpark.pdf&m=7505&i=1&fl=53061470&d=93e",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 73,
+      "field": "sourceUrl",
+      "title": "1_Cover_Satzungen_BP_Solarpark_B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_Satzungen_BP_Solarpark_B294.pdf&m=7507&i=1&fl=53061479&d=060",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_Satzungen_BP_Solarpark_B294.pdf&m=7507&i=1&fl=53061479&d=060",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 68,
+      "field": "sourceUrl",
+      "title": "2_Deckblatt_FNPA Solarpark.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=2_Deckblatt_FNPA+Solarpark.pdf&m=7505&i=2&fl=53061470&d=f5e",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=2_Deckblatt_FNPA+Solarpark.pdf&m=7505&i=2&fl=53061470&d=f5e",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 74,
+      "field": "sourceUrl",
+      "title": "2_Planteil_BP_Solarpark_B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=2_Planteil_BP_Solarpark_B294.pdf&m=7507&i=2&fl=53061479&d=fc0",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=2_Planteil_BP_Solarpark_B294.pdf&m=7507&i=2&fl=53061479&d=fc0",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 75,
+      "field": "sourceUrl",
+      "title": "3_Bebauungsvorschriften_BP_Solarpark_B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=3_Bebauungsvorschriften_BP_Solarpark_B294.pdf&m=7507&i=3&fl=53061479&d=7c1",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=3_Bebauungsvorschriften_BP_Solarpark_B294.pdf&m=7507&i=3&fl=53061479&d=7c1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 69,
+      "field": "sourceUrl",
+      "title": "3_Begrundung_FNPA Solarpark.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=3_Begrundung_FNPA+Solarpark.pdf&m=7505&i=3&fl=53061470&d=ed4",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=3_Begrundung_FNPA+Solarpark.pdf&m=7505&i=3&fl=53061470&d=ed4",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 76,
+      "field": "sourceUrl",
+      "title": "4_Begrundung_BP_Solarpark_B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 70,
+      "field": "sourceUrl",
+      "title": "4_Flachensteckbrief_FNPA Solarpark.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=4_Flachensteckbrief_FNPA+Solarpark.pdf&m=7505&i=4&fl=53061470&d=347",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Flachensteckbrief_FNPA+Solarpark.pdf&m=7505&i=4&fl=53061470&d=347",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 71,
+      "field": "sourceUrl",
+      "title": "5_Umweltbericht_FNPA Solarpark.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 16,
       "field": "sourceUrl",
       "title": "AbwÃ¤rmenutzung â€žRechenzentrum Eicheâ€œ",
@@ -17116,6 +17256,30 @@
       "url": "https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201",
       "status": 200,
       "finalUrl": "https://www.voerstetten.de/eip/eip_media.php?d=003&f=221215_Bekanntmachung_OL_Langacker-II.pdf&fl=47264175&i=0&m=4201",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 72,
+      "field": "sourceUrl",
+      "title": "Bekanntmachung Aufstellung und Fruhzeitige BPL Solarpark B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+BPL+Solarpark+B294.pdf&m=7507&i=0&fl=53061479&d=bc0",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+BPL+Solarpark+B294.pdf&m=7507&i=0&fl=53061479&d=bc0",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 66,
+      "field": "sourceUrl",
+      "title": "Bekanntmachung Aufstellung und Fruhzeitige FNPA Solarpark B294.pdf",
+      "url": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+FNPA+Solarpark+B294.pdf&m=7505&i=0&fl=53061470&d=d28",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=Bekanntmachung+Aufstellung+und+Fruhzeitige+FNPA+Solarpark+B294.pdf&m=7505&i=0&fl=53061470&d=d28",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17326,6 +17490,42 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 61,
+      "field": "sourceUrl",
+      "title": "Kommunale Wärmeplanung Gottenheim, Entwurf August 2026",
+      "url": "https://www.gottenheim.de/Rathaus/KSM/Waermeplanung/20260903_KWP_Fachgutachten_Gottenheim_Offenlage.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gottenheim.de/Rathaus/KSM/Waermeplanung/20260903_KWP_Fachgutachten_Gottenheim_Offenlage.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 65,
+      "field": "sourceUrl",
+      "title": "Netze BW: Regelungen zur Stromnetznutzung 2027",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/28fnFovNQ95tSRAQ0suR25/b465df36b781d9a2045644a022792a5e/regelungen-fuer-die-nutzung-des-stromverteilnetzes-2027.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/28fnFovNQ95tSRAQ0suR25/b465df36b781d9a2045644a022792a5e/regelungen-fuer-die-nutzung-des-stromverteilnetzes-2027.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 64,
+      "field": "sourceUrl",
+      "title": "Netze BW: vorläufige Stromnetzentgelte 2027",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/7n2uyuVHCiQYxVweEU4nhE/c2789e29d1b17f27e9912c6fb2c39902/vorlaeufige-netzentgelte-strom-2027-stand-20261006.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/7n2uyuVHCiQYxVweEU4nhE/c2789e29d1b17f27e9912c6fb2c39902/vorlaeufige-netzentgelte-strom-2027-stand-20261006.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 7,
       "field": "sourceUrl",
       "title": "Planzeichnung B-Plan â€žRechenzentrum Eicheâ€œ",
@@ -17368,6 +17568,30 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/ZGE1MDg3NGVlMWZiZTg0MFdaVWJpTC9JTFl4Z0lHWGRDQjF5MGlNWmJwLzZFdVY3NEFxRWZRNXg1blR2OE9BeXVVeE5PMHJ5WWw3Yjh3dFd5VmlkNUlhV1c5aW5aVXVaREpqNHd5WXh0SWI3S0FTWjN2em9oRlAvdE94Zy94R2pLSUg2QkpMek9sTE11cmxsN3h2aEdJZGI0aHRycGZmd2FCc1plOXB3b243b2RNRHJhU1M2dGRvMk1UWT0",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/ZGE1MDg3NGVlMWZiZTg0MFdaVWJpTC9JTFl4Z0lHWGRDQjF5MGlNWmJwLzZFdVY3NEFxRWZRNXg1blR2OE9BeXVVeE5PMHJ5WWw3Yjh3dFd5VmlkNUlhV1c5aW5aVXVaREpqNHd5WXh0SWI3S0FTWjN2em9oRlAvdE94Zy94R2pLSUg2QkpMek9sTE11cmxsN3h2aEdJZGI0aHRycGZmd2FCc1plOXB3b243b2RNRHJhU1M2dGRvMk1UWT0",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 63,
+      "field": "sourceUrl",
+      "title": "Solarpark B294: Aufstellungsbeschluss und frühzeitige Beteiligung",
+      "url": "https://www.denzlingen.de/de/bekanntmachungen/?file=483&id=303",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=483&id=303",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 62,
+      "field": "sourceUrl",
+      "title": "Solarpark B294: Bekanntmachung der achten Flächennutzungsplanänderung",
+      "url": "https://www.denzlingen.de/de/bekanntmachungen/?file=482&id=303",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=482&id=303",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17500,6 +17724,18 @@
       "url": "https://www.gesetze-im-internet.de/",
       "status": 200,
       "finalUrl": "https://www.gesetze-im-internet.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "planning",
+      "index": 6,
+      "field": "url",
+      "title": "Solarpark B294: frühzeitige Beteiligung",
+      "url": "https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php",
+      "status": 200,
+      "finalUrl": "https://www.denzlingen.de/p/bebauungsplaene-im-verfahren",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18140,7 +18376,5 @@
       "blocked": false,
       "error": ""
     }
-  ],
-  "checkedAt": "2026-09-30",
-  "brokenWithLocalPdfFallback": 7
+  ]
 }
