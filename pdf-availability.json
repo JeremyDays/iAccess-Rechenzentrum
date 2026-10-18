@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-17",
-  "total": 75,
-  "localAvailable": 60,
-  "publicAvailable": 75,
+  "checkedAt": "2026-10-18",
+  "total": 77,
+  "localAvailable": 62,
+  "publicAvailable": 77,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1278,6 +1278,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Grafenau",
+      "documentTitle": "Grafenau: Bekanntmachung zur frühen Beteiligung Gewerbe-Teilfortschreibung 2026",
+      "documentType": "Amtliche Originalunterlage",
+      "pages": "3",
+      "publicUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "currentSourceUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "localFile": "pdfs/2026-10-18-01-original.pdf",
+      "localExists": true,
+      "localBytes": 331379,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Grafenau",
+      "documentTitle": "Grafenau: Begründung der Teilfortschreibung Gewerbe, Vorentwurf 01.12.2025",
+      "documentType": "Amtliche Originalunterlage",
+      "pages": "22",
+      "publicUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
+      "currentSourceUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
+      "localFile": "pdfs/2026-10-18-02-original.pdf",
+      "localExists": true,
+      "localBytes": 2945387,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

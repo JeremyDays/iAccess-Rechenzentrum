@@ -1,0 +1,48 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 18. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnisse und neu aufgenommene Quellen
+Grafenau: Der Vorentwurf der Gewerbe-Teilfortschreibung vom 1. Dezember 2025 umfasst rund 10,22 Hektar. Die Begründung nennt auf Seiten 10–11 sechs Anfragen für eine rund 3.300 Quadratmeter große Restfläche; auswärtige Anfragen werden laut Unterlage grundsätzlich abgelehnt. Die frühe Beteiligung vom 23. Januar bis 6. März 2026 ist beendet. Der Umweltbericht war im Vorentwurf noch zu ergänzen. Die heutige Grundstücksseite enthält keinen konkret verifizierbaren freien Bauplatz. Eigene Schlussfolgerung: Beobachtungsfall mit niedriger Priorität für eine auswärtige Ansiedlung; weder Rechenzentrumszulässigkeit noch heutige Verfügbarkeit oder Anschlussleistung bestätigt.
+Quelle: https://www.gemeindegrafenau.de/leben-wohnen/planen-bauen/flaechennutzungsplan
+Ergänzende Grundstücksseite: https://www.gemeindegrafenau.de/gemeinde-wirtschaft/wirtschaft/gewerbegrundstuecke
+
+Deckenpfronn: Die abgerufene Gemeindeseite bietet derzeit keine gemeindeeigenen Gewerbebauplätze zum Kauf an. Eine Erweiterung wird beschrieben, mit bevorzugter Vergabe an örtliche Gewerbetreibende. Ein Aktualisierungsdatum der Aussage fehlt; private Angebote bleiben offen.
+Quelle: https://www.deckenpfronn.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze
+
+Ehningen: Die Betreiberquelle von IBM belegt die Eröffnung des europäischen Quantum Data Center am 1. Oktober 2024. Dies korrigiert die bisher unpassende Quellenzuordnung in der Gemeindeabdeckung. Historischer Bestandsnachweis, keine Neueröffnung 2026 und kein freies Grundstück für iAccess.
+Quelle: https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten
+
+Aidlingen: Ein älterer Suchindex verweist auf ein Gewerbeflächenexposé in Deufringen. Die damalige Suchseite ist inzwischen nicht erreichbar; das Originalexposé konnte nicht abgerufen werden. Auf der aktuellen Gewerbestandortseite ist kein konkretes Angebot bestätigt. Die aktuelle Bauplatzseite nennt keine freien Bauplätze, grenzt Gewerbeflächen aber nicht eindeutig ab. Deshalb keine alten Flächenmaße oder Preise als aktuelle Angebote übernommen.
+Quellen: https://www.aidlingen.de/willkommen-in-aidlingen/gewerbe-in-aidlingen/gewerbestandort
+https://www.aidlingen.de/leben-wohnen/bauen-sanieren/bauplatzvergabe-und-vermietungen
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn.
+Bei 25 Gemeinden mit offenen Detailprüfungen wurden kommunale Seiten, Ratsinformationen, Bauleitplanung und Amtsblattpfade abgerufen beziehungsweise weiterverfolgt. Alle elf vorgegebenen Suchbegriffe wurden auf den gewonnenen Texten geprüft. Es handelt sich nicht um 25 vollständig abgeschlossene Aktenprüfungen.
+Gemeinde mit zusätzlich belegtem Rechenzentrumsbestand: Ehningen, aufgrund der historischen Betreiberquelle. Keine neu bestätigte verfügbare Rechenzentrumsfläche. In den übrigen 24 Gemeinden kein zusätzlicher belastbarer Rechenzentrumsfund dieses Laufs; vorhandene Erkenntnisse bleiben bestehen. Kein Treffer ist kein Standort-Ausschluss.
+Die kommunalen Quellenzuordnungen für Aidlingen, Grafenau, Ehningen und Deckenpfronn wurden korrigiert. Verlinkte Unterlagen aus Gärtringen wurden nicht als Ehningen-spezifischer Standortnachweis verwendet. Ratszugänge in Glottertal, Bad Krozingen, Lahr und Gottenheim blockieren direkte Abrufe. Detailakten und einzelne Planungs- beziehungsweise Wirtschaftspfade bleiben offen; die Quellenmatrix nennt die Lücken.
+Denzlingen: Der gestern belegte Stand zum Solarpark B294 bleibt bestehen. Beginn der veröffentlichten Beteiligungsfrist am 19. Oktober 2026; keine neue Verbrauchsanschlusszusage und keine bestätigte Rechenzentrumsfläche.
+
+Nachrichten und Betreiberquellen
+Breite Suche beziehungsweise Quellenabrufe bei Heise einschließlich iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionaler Presse sowie Betreiber-, Stadtwerke- und Netzbetreiberquellen. DatacenterDynamics blockiert den Direktabruf; Golem liefert eine Einwilligungsseite. Eine vollständige aktuelle Nachrichtenerfassung ist damit nicht nachgewiesen.
+Ergänzend wurden Originalmitteilungen des Karlsruher Instituts für Technologie vom 1. und 25. September 2026 geprüft. Diese wurden nicht als neue Oktoberankündigungen gezählt und vorhandene Hinweise nicht nochmals angelegt. Keine neue belegte Partnerbeziehung oder unmittelbar verfügbare Fläche daraus abgeleitet.
+Quellen: https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php
+https://www.kit.edu/kit/english/pi_2026_081_kit-puts-horeka-2-supercomputer-into-operation.php
+
+Lokale Sicherung und Originaldokumente
+310 unterschiedliche Rechercheadressen aufgerufen; 301 erfolgreich lokal gesichert. Die Sicherungen enthalten auch erneut abgerufene bekannte Quellen und sind nicht sämtlich neue Erkenntnisse. Neun Abruffehler protokolliert, darunter veraltete Gemeindewege und technisch blockierte Rats- beziehungsweise Nachrichtenzugänge.
+45 unterschiedliche Dokumentdateien mit zusammen 713 Seiten gesichert und maschinell ausgelesen. Acht Dateien enthalten nur unvollständig auslesbare Karten oder Scans; keine vollständige Inhaltsprüfung behauptet. Auch ältere Amtsblätter und historische Planungen sind darunter. Fünf Grafenauer Planungsoriginale wurden archiviert; Bekanntmachung und Begründung als zwei zusätzliche Originaldokumente in die Website aufgenommen. Keine neuen Fotos, technischen Zeichnungen oder Partner.
+
+Verfügbarkeit und Linkprüfung
+Alle 77 erfassten Dokumentquellen erreichbar; 62 zusätzlich mit lokaler Originalkopie hinterlegt. Website-Linkprüfung: 1528 Adressen, 1496 erreichbar, 32 technisch blockiert, 0 defekt. Blockierte Adressen bleiben als Prüfgrenze ausgewiesen. Keine zusätzliche Linkreparatur erforderlich.
+
+Fragen, Uploads und veränderte Statistiken
+Keine neuen oder freizugebenden Recherchefragen, keine verdächtigen Fragen, keine manuellen Uploads. Der Uploadordner enthält nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Vier Hinweise ergänzt: Recherchehinweise 182 auf 186. Originaldokumente 75 auf 77. Standorte unverändert 25, Unternehmen 22, Planungsfälle 7, Bauleitpläne 27, Netzprüfungen 10, Konnektivitätsprüfungen 7, Medien 5 und technische Zeichnungen 6.
+
+Offen
+Aktuelle Grundstücksverfügbarkeit, Rechenzentrumszulässigkeit, Netzanschlussleistung, Anschlusszeitpunkt, voneinander unabhängige Glasfaserwege und mögliche Wärmeabnehmer projektbezogen prüfen. Keine Anfragen an Gemeinden, Betreiber oder andere Dritte versandt. Keine Einträge in fremden Projektportalen erstellt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

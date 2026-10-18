@@ -2710,6 +2710,36 @@
       "sourceUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
       "localFile": "pdfs/2026-10-17-16-original.pdf",
       "tags": "Originaldokument, Primärquelle, Recherche 2026-10-17"
+    },
+    {
+      "id": "id-2026-10-18-pdf-01",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "municipality": "Grafenau",
+      "documentTitle": "Grafenau: Bekanntmachung zur frühen Beteiligung Gewerbe-Teilfortschreibung 2026",
+      "documentType": "Amtliche Originalunterlage",
+      "pages": "3",
+      "keyFacts": "Röte: Vorentwurf und historische Beteiligung vom 23.01. bis 06.03.2026; keine heutige freie Fläche nachgewiesen.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Glasfaseranbindung zugesichert.",
+      "planningFacts": "Bekanntmachung belegt früheres Beteiligungsfenster; kein Nachweis geltenden Baurechts.",
+      "sourceUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "localFile": "pdfs/2026-10-18-01-original.pdf",
+      "tags": "Original, Planung, historischer Verfahrensstand"
+    },
+    {
+      "id": "id-2026-10-18-pdf-02",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "municipality": "Grafenau",
+      "documentTitle": "Grafenau: Begründung der Teilfortschreibung Gewerbe, Vorentwurf 01.12.2025",
+      "documentType": "Amtliche Originalunterlage",
+      "pages": "22",
+      "keyFacts": "Röte: Vorentwurf und historische Beteiligung vom 23.01. bis 06.03.2026; keine heutige freie Fläche nachgewiesen.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Glasfaseranbindung zugesichert.",
+      "planningFacts": "Begründung Seiten 10–12: sechs Anfragen für eine Restfläche, auswärtige Anfragen grundsätzlich abgelehnt; Änderungsbereich rund 10,22 Hektar. Umweltbericht noch zu ergänzen.",
+      "sourceUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
+      "localFile": "pdfs/2026-10-18-02-original.pdf",
+      "tags": "Original, Planung, historischer Verfahrensstand"
     }
   ],
   "media": [
@@ -6612,6 +6642,54 @@
       "confidence": "Primärquelle; Umfang und Grenzen im Text benannt",
       "action": "Eigene Schlussfolgerung: Wärmeabnehmer und künftige Anschlussbedingungen projektbezogen ermitteln; Wärmeplan nicht als Abnahmezusage behandeln.",
       "tags": "Recherche 2026-10-17, Quellenprüfung"
+    },
+    {
+      "id": "id-2026-10-18-grafenau-roete",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "title": "Grafenau: Gewerbeerweiterung Röte mit erheblichen Vergabe- und Planungsgrenzen",
+      "topic": "Kommunale Flächensuche / Quellenprüfung",
+      "summary": "Vorentwurf vom 01.12.2025: rund 10,22 Hektar Änderungsbereich. Die Begründung nennt auf Seiten 10–11 sechs Anfragen für die rund 3.300 Quadratmeter große Restfläche und eine grundsätzliche Ablehnung auswärtiger Anfragen. Frühe Beteiligung laut Gemeindeseite vom 23.01. bis 06.03.2026; keine aktuelle Beteiligung oder heutige Grundstücksverfügbarkeit bestätigt. Umweltbericht laut Vorentwurf noch zu ergänzen.",
+      "sourceUrl": "https://www.gemeindegrafenau.de/leben-wohnen/planen-bauen/flaechennutzungsplan",
+      "confidence": "Quellenstand und Einschränkungen ausdrücklich benannt",
+      "action": "Eigene Schlussfolgerung: Beobachtungsfall mit niedriger Priorität für eine auswärtige Ansiedlung; kein bestätigtes Rechenzentrumsgrundstück und keine Anschlusszusage.",
+      "tags": "Recherche 2026-10-18, keine bestätigte freie Fläche"
+    },
+    {
+      "id": "id-2026-10-18-deckenpfronn-angebot",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "title": "Deckenpfronn: kein gemeindeeigenes Gewerbegrundstück angeboten",
+      "topic": "Kommunale Flächensuche / Quellenprüfung",
+      "summary": "Die am 18.10.2026 abgerufene Gemeindeseite bietet derzeit keine gemeindeeigenen Gewerbebauplätze zum Kauf an. Eine Erweiterung wird beschrieben, bevorzugt für örtliche Gewerbetreibende. Aktualisierungsdatum der Aussage nicht ausgewiesen. Private Angebote und die technische Eignung sind damit nicht abschließend geprüft.",
+      "sourceUrl": "https://www.deckenpfronn.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze",
+      "confidence": "Quellenstand und Einschränkungen ausdrücklich benannt",
+      "action": "Veröffentlichte Angebote weiter beobachten; keine Aussage über sämtliche privaten Flächen ableiten.",
+      "tags": "Recherche 2026-10-18, keine bestätigte freie Fläche"
+    },
+    {
+      "id": "id-2026-10-18-ehningen-quanten",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "title": "Ehningen: bestehendes Quanten-Rechenzentrum durch Betreiberquelle belegt",
+      "topic": "Kommunale Flächensuche / Quellenprüfung",
+      "summary": "IBM bestätigt in seiner Mitteilung vom 01.10.2024 die Eröffnung des europäischen Quantum Data Center in Ehningen. Historischer Betriebsnachweis, keine Neueröffnung im Oktober 2026 und kein frei verfügbares Grundstück. Frühere unpassende Gemeindequellen in der Abdeckungsdatei korrigiert.",
+      "sourceUrl": "https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten",
+      "confidence": "Quellenstand und Einschränkungen ausdrücklich benannt",
+      "action": "Bestehende Anlage als Standortkontext berücksichtigen; freie Flächen, Energie und Glasfaser für iAccess bleiben gesondert zu klären.",
+      "tags": "Recherche 2026-10-18, keine bestätigte freie Fläche"
+    },
+    {
+      "id": "id-2026-10-18-aidlingen-quellen",
+      "created": "2026-10-18",
+      "updated": "2026-10-18",
+      "title": "Aidlingen: älterer Angebotshinweis aktuell nicht bestätigt",
+      "topic": "Kommunale Flächensuche / Quellenprüfung",
+      "summary": "Ein älterer Suchindex verweist auf ein Gewerbeflächenexposé in Deufringen. Die damalige Suchseite ist nicht mehr erreichbar; das Exposé wurde nicht als Original abgerufen. Auf der aktuellen Standortseite ist kein konkretes Angebot belegt. Die Bauplatzvergabeseite nennt keine freien Bauplätze, ohne eine eindeutige Abgrenzung zu Gewerbeflächen. Keine Flächenmaße oder Angebotspreise als aktuell übernommen.",
+      "sourceUrl": "https://www.aidlingen.de/willkommen-in-aidlingen/gewerbe-in-aidlingen/gewerbestandort",
+      "confidence": "Quellenstand und Einschränkungen ausdrücklich benannt",
+      "action": "Aktuelle Originalunterlage oder bestätigte Grundstücksverfügbarkeit erforderlich; Suchindex nicht als Angebot behandeln.",
+      "tags": "Recherche 2026-10-18, keine bestätigte freie Fläche"
     }
   ],
   "gridChecks": [
@@ -6962,7 +7040,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-17",
+    "lastRun": "2026-10-18",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -6990,8 +7068,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-17",
-    "lastResearchSummary": "21 offene Detailprüfungen fortgeführt. Solarpark-B294-Beschlüsse belegt; vier neue Funde, bestehender Hinweis aktualisiert; kein bestätigtes neues Rechenzentrumsgrundstück.",
+    "lastResearchRun": "2026-10-18",
+    "lastResearchSummary": "25 kommunale Detailprüfungen fortgeführt; vier Hinweise und zwei Originaldokumente ergänzt. Kein bestätigtes neues freies Rechenzentrumsgrundstück.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

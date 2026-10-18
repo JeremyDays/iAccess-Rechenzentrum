@@ -1,11 +1,8 @@
 {
-  "checked": 1522,
-  "ok": 1490,
+  "checked": 1528,
+  "ok": 1496,
   "blocked": 32,
   "broken": 0,
-  "checkedAt": "2026-10-17T07:51:09.897924+02:00",
-  "method": "Vollprüfung des heutigen Bestands; danach nur geänderte Adressen erneut geprüft.",
-  "changedUrlsRechecked": 6,
   "results": [
     {
       "collection": "companies",
@@ -2823,6 +2820,18 @@
       "url": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
       "status": 200,
       "finalUrl": "https://www.datacenterdynamics.com/en/news/aws-in-row-heat-exchanger-to-reduce-water-use-by-9-over-evaporative-air-cooled-data-centers/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 185,
+      "field": "sourceUrl",
+      "title": "Aidlingen: älterer Angebotshinweis aktuell nicht bestätigt",
+      "url": "https://www.aidlingen.de/willkommen-in-aidlingen/gewerbe-in-aidlingen/gewerbestandort",
+      "status": 200,
+      "finalUrl": "https://www.aidlingen.de/willkommen-in-aidlingen/gewerbe-in-aidlingen/gewerbestandort",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7065,6 +7074,18 @@
     },
     {
       "collection": "findings",
+      "index": 183,
+      "field": "sourceUrl",
+      "title": "Deckenpfronn: kein gemeindeeigenes Gewerbegrundstück angeboten",
+      "url": "https://www.deckenpfronn.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze",
+      "status": 200,
+      "finalUrl": "https://www.deckenpfronn.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 168,
       "field": "sourceUrl",
       "title": "Denzlingen, March und Bötzingen: aktuell keine kommunalen Gewerbegrundstücke angeboten",
@@ -7155,6 +7176,18 @@
       "url": "https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html",
       "status": 200,
       "finalUrl": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fnur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 184,
+      "field": "sourceUrl",
+      "title": "Ehningen: bestehendes Quanten-Rechenzentrum durch Betreiberquelle belegt",
+      "url": "https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten",
+      "status": 200,
+      "finalUrl": "https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8187,6 +8220,18 @@
       "url": "https://www.golem.de/news/rheinenergie-rechenzentren-warten-7-bis-15-jahre-auf-energienetze-2605-208950.html",
       "status": 200,
       "finalUrl": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Frheinenergie-rechenzentren-warten-7-bis-15-jahre-auf-energienetze-2605-208950.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 182,
+      "field": "sourceUrl",
+      "title": "Grafenau: Gewerbeerweiterung Röte mit erheblichen Vergabe- und Planungsgrenzen",
+      "url": "https://www.gemeindegrafenau.de/leben-wohnen/planen-bauen/flaechennutzungsplan",
+      "status": 200,
+      "finalUrl": "https://www.gemeindegrafenau.de/leben-wohnen/planen-bauen/flaechennutzungsplan",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17283,6 +17328,30 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/MDljMGI4ZDNjODdkZjdlZUtzRnIvRENZRW56MmVyTjZLUVdPTWdLdmtmRXlVM2ZQZFBGY3NZelhzdVdSaGVkSzVjRVFyVmltVENLSmN6ei9WZG16ZjMyYUs4d2RCaEthWHB6QUl5WnFzbWZsdm9yd0VtdjRkdlZZTGxGY0YwSUxaczJIMUEydVRmcU9LWEQ5R1N3Qk9RcHA5S3NDaEo0WjcyT1NJUT09",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/MDljMGI4ZDNjODdkZjdlZUtzRnIvRENZRW56MmVyTjZLUVdPTWdLdmtmRXlVM2ZQZFBGY3NZelhzdVdSaGVkSzVjRVFyVmltVENLSmN6ei9WZG16ZjMyYUs4d2RCaEthWHB6QUl5WnFzbWZsdm9yd0VtdjRkdlZZTGxGY0YwSUxaczJIMUEydVRmcU9LWEQ5R1N3Qk9RcHA5S3NDaEo0WjcyT1NJUT09",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 76,
+      "field": "sourceUrl",
+      "title": "Grafenau: Begründung der Teilfortschreibung Gewerbe, Vorentwurf 01.12.2025",
+      "url": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 75,
+      "field": "sourceUrl",
+      "title": "Grafenau: Bekanntmachung zur frühen Beteiligung Gewerbe-Teilfortschreibung 2026",
+      "url": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
