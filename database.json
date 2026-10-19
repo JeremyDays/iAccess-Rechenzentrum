@@ -762,6 +762,24 @@
         "Starkregen",
         "Wasserschutzgebiet IIIB"
       ]
+    },
+    {
+      "id": "id-2026-10-19-appenweier-langmatt",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "name": "Langmatt – vorläufiger Gewerbeflächenhinweis",
+      "city": "Appenweier",
+      "postalCode": "77767",
+      "address": "Gewerbegebiet Langmatt; konkrete Parzelle offen",
+      "operator": "Kein Rechenzentrumsbetreiber; kommunale Vermarktung",
+      "status": "Niedrig priorisierter Prüfkandidat; heutige Verfügbarkeit und Rechenzentrumszulässigkeit unbestätigt",
+      "area": "Exposé: Teilung ab 5.000 Quadratmetern; Angaben mit Stand 2023, nicht als aktuell frei bestätigt",
+      "powerMw": "Unbekannt; keine Bezugs-Netzzusage",
+      "connectivity": "Exposé nennt mögliche Glasfaser; Carrier, Bandbreite und Trassentrennung unbelegt",
+      "source": "Gemeinde Appenweier, verlinktes Exposé und Planungsoriginale von 2016",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
+      "notes": "Produzierendes Gewerbe und neue Arbeitsplätze im Vermarktungsfokus. Emissionskontingente und aktuelle Rechtskraft prüfen. Regionaler Netzengpass darf nicht als konkreter Parzellenbefund verallgemeinert werden.",
+      "tags": "Prüfhinweis, nicht bestätigtes Angebot, keine Anschlusszusage"
     }
   ],
   "companies": [
@@ -1134,10 +1152,10 @@
     {
       "id": "id-2026-10-17-denzlingen-solarpark",
       "created": "2026-10-17",
-      "updated": "2026-10-17",
+      "updated": "2026-10-19",
       "name": "Solarpark B294: frühzeitige Beteiligung",
       "municipality": "Denzlingen / Vörstetten / Reute",
-      "status": "Beteiligung ab 19.10.2026 bis 20.11.2026",
+      "status": "Veröffentlichte Beteiligungsfrist läuft 19.10.–20.11.2026",
       "docType": "Bebauungsplan und Flächennutzungsplanänderung",
       "requirements": "Vorentwürfe mit Begründungen, Planteilen und Umweltbericht öffentlich verfügbar. Rechenzentrumsnutzung und Verbrauchsnetzanschluss nicht zugesichert.",
       "url": "https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php",
@@ -1542,6 +1560,20 @@
       "notes": "Rund 13,4 Hektar. Sonstige bauliche Anlagen laut Entwurf insgesamt auf 400 Quadratmeter begrenzt. Kein geltendes Baurecht aus dem Vorentwurf ableiten.",
       "source": "Gemeinde Denzlingen",
       "sourceUrl": "https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php"
+    },
+    {
+      "id": "id-2026-10-19-langmatt",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "municipality": "Appenweier",
+      "state": "Baden-Württemberg",
+      "planName": "Langmatt",
+      "status": "Originale vom 25.10.2016; aktueller Rechtskraftnachweis offen",
+      "dataCenter": "Keine konkrete Rechenzentrumsgenehmigung. Zulässige Nutzungsart, Schallkontingente und aktuelles Baurecht prüfen.",
+      "documents": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf; https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
+      "notes": "Textteil als Scan nur teilweise visuell geprüft. Planzeichnung als Entwurf zum Satzungsbeschluss bezeichnet; keine vollständige planungsrechtliche Prüfung.",
+      "source": "Gemeinde Appenweier",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf"
     }
   ],
   "pdfExtracts": [
@@ -2740,6 +2772,51 @@
       "sourceUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/13780-FNP_GE_Fortschreibung-R%C3%B6te-Begr%C3%BCndungen_2025-12-01.pdf",
       "localFile": "pdfs/2026-10-18-02-original.pdf",
       "tags": "Original, Planung, historischer Verfahrensstand"
+    },
+    {
+      "id": "id-2026-10-19-pdf-01",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "municipality": "Appenweier",
+      "documentTitle": "Langmatt: Exposé",
+      "documentType": "Kommunales Original / historische Planungsunterlage",
+      "pages": "3",
+      "keyFacts": "Exposé: Parzellierung ab 5.000 Quadratmetern, Glasfaser möglich. Werte mit Stand 2023; heutige Verfügbarkeit nicht bestätigt.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung, kein gesicherter Carrier oder Rechenzentrumsbetrieb belegt.",
+      "planningFacts": "Aktuellen Verfahrensstand und Rechenzentrumszulässigkeit projektbezogen klären.",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
+      "localFile": "pdfs/2026-10-19-01-original.pdf",
+      "tags": "Original, historische Angaben, Prüfkandidat"
+    },
+    {
+      "id": "id-2026-10-19-pdf-02",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "municipality": "Appenweier",
+      "documentTitle": "Langmatt: Textteil",
+      "documentType": "Kommunales Original / historische Planungsunterlage",
+      "pages": "12",
+      "keyFacts": "Scan: Titel und Seiten 2–4 visuell geprüft. Gewerbegebiet, Geräuschkontingente und Grundflächenzahl 0,8 erkennbar. Übrige Seiten nicht vollständig inhaltlich geprüft.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung, kein gesicherter Carrier oder Rechenzentrumsbetrieb belegt.",
+      "planningFacts": "Aktuellen Verfahrensstand und Rechenzentrumszulässigkeit projektbezogen klären.",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf",
+      "localFile": "pdfs/2026-10-19-02-original.pdf",
+      "tags": "Original, historische Angaben, Prüfkandidat"
+    },
+    {
+      "id": "id-2026-10-19-pdf-03",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "municipality": "Appenweier",
+      "documentTitle": "Langmatt: Planzeichnung",
+      "documentType": "Kommunales Original / historische Planungsunterlage",
+      "pages": "1",
+      "keyFacts": "Originalkarte visuell geprüft: Gewerbegebiet und mehrere Emissionskontingente. Entwurf zum Satzungsbeschluss; Ausfertigung und Inkrafttreten hier nicht bestätigt.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung, kein gesicherter Carrier oder Rechenzentrumsbetrieb belegt.",
+      "planningFacts": "Aktuellen Verfahrensstand und Rechenzentrumszulässigkeit projektbezogen klären.",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
+      "localFile": "pdfs/2026-10-19-03-original.pdf",
+      "tags": "Original, historische Angaben, Prüfkandidat"
     }
   ],
   "media": [
@@ -6580,20 +6657,21 @@
     {
       "id": "id-2026-09-30-gvv-solarpark",
       "created": "2026-09-30",
-      "updated": "2026-10-17",
+      "updated": "2026-10-19",
       "title": "Denzlingen: Beschlüsse und Beteiligung zum Solarpark B294 belegt",
       "topic": "Infrastruktur / Planung",
       "summary": "Amtliche Bekanntmachungen bestätigen den Aufstellungsbeschluss vom 22.09.2026 und die Einleitung der achten Flächennutzungsplanänderung vom 30.09.2026. Beteiligung: 19.10.–20.11.2026. Rund 13,4 Hektar Solarparkplanung. Die Begründung nennt vorgemerkte Einspeisung am Umspannwerk Buchholz im Zusammenhang mit einem voraussichtlichen Ausbau bis 2029; konkrete Direktabnahmevereinbarungen fehlen laut Unterlage. Keine bestätigte Rechenzentrumsfläche oder Verbrauchsanschlussleistung.",
       "sourceUrl": "https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php",
       "confidence": "Amtliche Originalunterlagen; Vorentwurf, keine Genehmigung",
-      "action": "Verfahrensentwicklung verfolgen. Eigene Schlussfolgerung: Energieumfeld prüfen, aber keine Rechenzentrumszulässigkeit oder verfügbare Bezugsleistung aus der Solarplanung ableiten.",
+      "action": "Veröffentlichte Beteiligungsfrist läuft ab 19.10.2026 bis 20.11.2026. Unterlagen erneut abgerufen; keine Rechenzentrumsfläche oder Verbrauchsanschlusszusage daraus ableiten.",
       "tags": "Netz, Bauleitplanung, Prüfbedarf",
       "historyBefore20261017": {
         "summary": "Die Tagesordnung für den 30.09.2026, 18 Uhr, führt unter TOP 8 die Einleitung der 8. FNP-Änderung Solarpark B294 und frühzeitige Beteiligung auf. Nur Termin-/Verfahrenshinweis: Beschluss, Planinhalt und RZ-Nutzung nicht nachgewiesen.",
         "sourceUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
         "updated": "2026-09-30",
         "action": "Bei konkreter Parzelle Verbrauchslast, Anschlusszeitpunkt und physisch unabhängige Carrierwege prüfen; FNP-Beschlussunterlagen nach Veröffentlichung lesen."
-      }
+      },
+      "lastSourceReview": "2026-10-19"
     },
     {
       "id": "id-2026-10-17-telemaxx-vivavis",
@@ -6690,6 +6768,42 @@
       "confidence": "Quellenstand und Einschränkungen ausdrücklich benannt",
       "action": "Aktuelle Originalunterlage oder bestätigte Grundstücksverfügbarkeit erforderlich; Suchindex nicht als Angebot behandeln.",
       "tags": "Recherche 2026-10-18, keine bestätigte freie Fläche"
+    },
+    {
+      "id": "id-2026-10-19-ortenau-netz",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "title": "Ortenau: Netzengpass als entscheidender Standortfilter",
+      "topic": "Netz / kommunale Flächensuche",
+      "summary": "E-Werk Netze beschreibt nur geringe freie Kapazitäten im betroffenen Versorgungsgebiet; Lasten über einem Megawatt sind derzeit meist nicht anschließbar. Die städtische Mitteilung vom 14.10.2026 nennt für Offenburg etwa 2031 und Lahr etwa 2033 als bisherigen Entlastungshorizont und zugleich die Möglichkeit früherer Lösungen. Keine verbindlichen Anschlusstermine.",
+      "sourceUrl": "https://www.ew-netze.de/netzengpass",
+      "confidence": "Primärquelle mit benannten Einschränkungen",
+      "action": "Eigene Schlussfolgerung: Standorte im betroffenen Gebiet nur mit konkreter Bezugs-Netzzusage weiter priorisieren. Auch kleinere Container-Rechenzentren haben keine automatische Anschlusszusage.",
+      "tags": "Recherche 2026-10-19, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-19-ortenau-vergabe",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "title": "E-Werk Netze: neues Vergabeverfahren für große Bezugsanschlüsse",
+      "topic": "Netz / kommunale Flächensuche",
+      "summary": "Mitteilung vom 14.10.2026: Beginn am 01.11.2026, erster Anmeldezeitraum bis 31.12.2026, Schwelle über 950 Kilowatt. Kriterien sind Projektreife, Ortsgebundenheit und Frühzeitigkeit. Detailseite nennt Bezugsanschlüsse in der Mittelspannung; Pressemitteilung nennt Mittel- und Hochspannung. Ausnahmen und Speicherbezug gesondert prüfen.",
+      "sourceUrl": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
+      "confidence": "Primärquelle mit benannten Einschränkungen",
+      "action": "Eigene Schlussfolgerung: Projekt- und Flächennachweise früh zusammenstellen. Geltungsbereich und Termine vor einer Anfrage beim Betreiber bestätigen; keine Kapazität aus einer Anmeldung ableiten.",
+      "tags": "Recherche 2026-10-19, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-19-appenweier-langmatt",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "title": "Appenweier Langmatt: kommunales Exposé als vorläufiger Flächenhinweis",
+      "topic": "Netz / kommunale Flächensuche",
+      "summary": "Aktuell verlinktes Exposé nennt Parzellierung ab 5.000 Quadratmetern und Glasfaser als mögliche Anbindung. Angaben enthalten Stand 2023; heutige Verfügbarkeit nicht bestätigt. Vermarktung bevorzugt produzierendes Gewerbe und Arbeitsplätze. Originale von 2016 enthalten Emissionskontingente; Kartenfassung und Textfassung lassen keinen hier bestätigten aktuellen Rechtskraftnachweis zu.",
+      "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
+      "confidence": "Primärquelle mit benannten Einschränkungen",
+      "action": "Eigene Schlussfolgerung: Niedrig priorisierter Prüfkandidat. Vor Vertiefung aktuelle Parzelle, Vergabefähigkeit für ein Rechenzentrum, Rechtskraft, Lärmkontingent, Verbrauchsnetzanschluss und zwei getrennte Glasfaserwege klären.",
+      "tags": "Recherche 2026-10-19, keine Anschlusszusage"
     }
   ],
   "gridChecks": [
@@ -6845,6 +6959,21 @@
       "nextAction": "Bezugsleistung, Anschlusszeitpunkt und mögliche Direktabnahme gesondert prüfen; keine Anfrage ohne weiteren Auftrag versenden.",
       "source": "https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php",
       "tags": "Einspeisung, keine Bezugszusage, Buchholz, Planung"
+    },
+    {
+      "id": "id-2026-10-19-ortenau",
+      "created": "2026-10-19",
+      "updated": "2026-10-19",
+      "site": "Betroffene Teile des E-Werk-Netze-Gebiets",
+      "municipality": "Lahr / Offenburg / Ortenau; genaue Adresse prüfen",
+      "targetPowerMw": "Projektbezogen offen; über einem Megawatt derzeit meist nicht anschließbar",
+      "gridOperator": "E-Werk Netze; vorgelagert Netze BW",
+      "voltageLevel": "Engpass im vorgelagerten 110-Kilovolt-Netz",
+      "distanceHint": "Regionale Einschränkung; keine objektscharfe Netzkarte ausgewertet",
+      "capacityStatus": "Keine freie Anschlussleistung zugesichert; Verfahren über 950 Kilowatt beachten",
+      "nextAction": "Adressbezogene Zusage, Geltungsbereich des Vergabeverfahrens und erforderliche Nachweise klären; keine automatische Antragstellung.",
+      "source": "https://www.ew-netze.de/netzengpass",
+      "tags": "Netzengpass, Bezugsleistung, Ortenau"
     }
   ],
   "connectivityChecks": [
@@ -7040,7 +7169,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-18",
+    "lastRun": "2026-10-19",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -7068,8 +7197,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-18",
-    "lastResearchSummary": "25 kommunale Detailprüfungen fortgeführt; vier Hinweise und zwei Originaldokumente ergänzt. Kein bestätigtes neues freies Rechenzentrumsgrundstück.",
+    "lastResearchRun": "2026-10-19",
+    "lastResearchSummary": "25 Gemeinden weitergeprüft. Netzengpass und Vergabeverfahren Ortenau ergänzt; Langmatt als vorläufiger Prüfkandidat, kein bestätigtes freies Rechenzentrumsgrundstück.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

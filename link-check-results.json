@@ -1,6 +1,6 @@
 {
-  "checked": 1528,
-  "ok": 1496,
+  "checked": 1533,
+  "ok": 1501,
   "blocked": 32,
   "broken": 0,
   "results": [
@@ -7158,6 +7158,18 @@
     },
     {
       "collection": "findings",
+      "index": 187,
+      "field": "sourceUrl",
+      "title": "E-Werk Netze: neues Vergabeverfahren für große Bezugsanschlüsse",
+      "url": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
+      "status": 200,
+      "finalUrl": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 167,
       "field": "sourceUrl",
       "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
@@ -10980,6 +10992,18 @@
       "url": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
       "status": 200,
       "finalUrl": "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/gewerbe-und-industriegebiete/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 186,
+      "field": "sourceUrl",
+      "title": "Ortenau: Netzengpass als entscheidender Standortfilter",
+      "url": "https://www.ew-netze.de/netzengpass",
+      "status": 200,
+      "finalUrl": "https://www.ew-netze.de/netzengpass",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17742,6 +17766,18 @@
     },
     {
       "collection": "sites",
+      "index": 25,
+      "field": "sourceUrl",
+      "title": "Langmatt – vorläufiger Gewerbeflächenhinweis",
+      "url": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
+      "status": 200,
+      "finalUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
       "index": 20,
       "field": "sourceUrl",
       "title": "Philippsburg Energiepark / Rechenzentrumscampus in Pruefung",
@@ -18336,6 +18372,30 @@
       "url": "https://rzzr.de/",
       "status": 200,
       "finalUrl": "https://rzzr.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 27,
+      "field": "documents",
+      "title": "Langmatt",
+      "url": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
+      "status": 200,
+      "finalUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 27,
+      "field": "documents",
+      "title": "Langmatt",
+      "url": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf",
+      "status": 200,
+      "finalUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

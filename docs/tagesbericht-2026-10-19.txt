@@ -1,0 +1,55 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 19. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Neue Quellen und Ergebnisse
+Heute neu ausgewertet wurden die Mitteilungen von Stadt Lahr und E-Werk Netze vom 14. Oktober 2026 sowie die Netzengpass- und Verfahrensseiten des Betreibers. Die Meldungen sind keine Veröffentlichungen vom heutigen Tag.
+
+Netzrisiko Ortenau
+E-Werk Netze beschreibt knappe Kapazitäten im betroffenen Netzgebiet; Lasten über einem Megawatt sind derzeit meist nicht anschließbar. Die Stadt Lahr nennt als bisherigen Entlastungshorizont etwa 2031 für Offenburg und 2033 für Lahr, erwähnt aber auch die Möglichkeit früherer Lösungen. Das sind keine verbindlichen Anschlusszusagen.
+Eigene Schlussfolgerung: Der Verbrauchsnetzanschluss muss ein früher Standortfilter sein. Aus dem regionalen Hinweis folgt weder die Ablehnung jeder einzelnen Parzelle noch eine Anschlussgarantie für kleinere Rechenzentren.
+Quellen: https://www.ew-netze.de/netzengpass
+https://www.lahr.de/lahr-und-offenburg-fordern-schnelles-und-koordiniertes-handeln.289381.htm
+
+Neues Vergabeverfahren
+Die Betreiber-Mitteilung kündigt für Anschlüsse und Leistungserhöhungen über 950 Kilowatt einen ersten Anmeldezeitraum vom 1. November bis 31. Dezember 2026 an. Projektreife, Ortsgebundenheit und Frühzeitigkeit fließen in die Bewertung ein. Die Detailseite nennt Mittelspannung, die Pressemitteilung Mittel- und Hochspannung. Geltungsbereich, Sonderfälle und tatsächlich verfügbares Leistungsfenster vor einem Projektantrag bestätigen lassen. Heute wurde kein Antrag gestellt.
+Quellen: https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen
+https://www.ew-netze.de/Anpassung-Netzanschlussverfahren
+
+Appenweier Langmatt: vorläufiger Flächenhinweis
+Auf der kommunalen Wirtschaftsseite ist ein Exposé verlinkt. Es nennt Teilung ab 5.000 Quadratmetern und eine mögliche Glasfaseranbindung. Die Gemeinde bevorzugt produzierendes Gewerbe mit neuen Arbeitsplätzen. Angaben enthalten den Stand 2023; heutige Verfügbarkeit nicht bestätigt. Keine alten Preise als aktuelle Kaufangebote übernommen.
+Textteil und Planzeichnung vom 25. Oktober 2016 wurden zusätzlich gesichert. Der Textteil ist ein Scan; Titel und Seiten 2–4 wurden visuell gelesen. Er enthält Gewerbegebietsfestsetzungen, eine Grundflächenzahl von 0,8 und Geräuschkontingente. Die Planzeichnung wurde visuell geprüft. Sie bezeichnet sich als Entwurf zum Satzungsbeschluss; Ausfertigung und Inkrafttreten sind hier nicht bestätigt. Die übrigen Textseiten wurden nicht vollständig inhaltlich geprüft.
+Eigene Schlussfolgerung: Niedrig priorisierter Prüfkandidat, keine bestätigte freie Rechenzentrumsfläche. Vor Vertiefung aktuelle Vergabe, Rechenzentrumsnutzung, Rechtskraft, parzellenspezifische Geräuschkontingente, Stromleistung und zwei unabhängige Glasfaserwege klären. Der regionale Netzengpass ist ein zusätzlicher Prüfhinweis, kein objektscharfer Ablehnungsnachweis.
+Quelle: https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf
+Planungsoriginale sind in der Website beim neuen Dokumenteintrag verlinkt und zusätzlich lokal gespeichert.
+
+Denzlingen Solarpark B294
+Die veröffentlichte Beteiligungsfrist beginnt heute und läuft bis 20. November 2026. Die zwölf verlinkten Originaldateien wurden erneut abgerufen; identische Originale wurden nicht nochmals als neue Dokumente angelegt. Bestehenden Planungsfall aktualisiert. Weiterhin keine Rechenzentrumsfläche oder gesicherte Verbrauchsanschlussleistung belegt.
+Quelle: https://www.denzlingen.de/eip/pages/bebauungsplaene-im-verfahren.php
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn.
+Die offenen Detailprüfungen von 25 Gemeinden wurden auf Gemeindeseiten, Rats-, Bauleitplanungs- und Amtsblattpfaden fortgeführt. Alle elf vorgegebenen Suchbegriffe wurden auf den abgerufenen Texten geprüft. Kein zusätzlicher bestätigter Rechenzentrumsstandort in diesen 25 Gemeinden; der bestehende Kenntnisstand bleibt erhalten. Appenweier liefert einen allgemeinen Gewerbeflächen-Prüfhinweis.
+Das sind keine 25 vollständig abgeschlossenen Aktenprüfungen. Direkte Ratsabrufe in Glottertal, Bad Krozingen, Lahr und Gottenheim sind teilweise blockiert. Einzelne Planungs- und Wirtschaftspfade sowie Detailakten bleiben offen. Die örtliche Zuordnung verlinkter Unterlagen wurde beachtet; Gärtringer Unterlagen gelten nicht als Ehninger Standortnachweis. Die Quellenmatrix dokumentiert die Prüflücken. Fehlende Treffer sind kein Standort-Ausschluss.
+
+Nachrichtenrecherche
+Gesucht beziehungsweise aufgerufen: Heise einschließlich iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Quellen sowie Betreiber, Stadtwerke und Netzbetreiber. Die Suche lieferte auch ältere oder thematisch nicht passende Treffer. DatacenterDynamics blockierte lokale Direktabrufe; Einwilligungsseiten und unvollständige Suchindizes begrenzen die Nachrichtenerfassung. Daraus wurde keine vollständige Negativaussage über aktuelle Nachrichten abgeleitet.
+Die Freiburger Glasfaserseite wurde über ihre tatsächliche Weiterleitung gelesen. Ihr Stand bleibt 8. September 2026; deshalb kein neuer Oktober-Ausbaunachweis und kein zusätzlicher Datenbankeintrag.
+
+Lokale Sicherung, Dokumente und Bilder
+347 unterschiedliche Rechercheadressen aufgerufen, 338 erfolgreich lokal gesichert; davon 36 zusätzliche Adressen gegenüber dem Quellenverzeichnis vor diesem Lauf. Erneut abgerufene bekannte Quellen sind nicht als neue Erkenntnisse gezählt. Neun Abruffehler sind protokolliert.
+60 unterschiedliche Dokumentdateien mit zusammen 820 Seiten lokal gesichert; davon 8 Dateiinhalte gegenüber dem vorherigen Archiv neu. Texte wurden maschinell ausgelesen, bei neun Karten beziehungsweise Scans blieb die Texterkennung unvollständig. Die oben bezeichneten Langmatt-Seiten wurden ergänzend visuell geprüft. Keine vollständige Inhaltsprüfung aller 820 Seiten behauptet. Darunter sind historische und fachfremde Unterlagen; etwa Schulbetreuungsgebühren wurden nicht als Rechenzentrumsquellen aufgenommen.
+Drei Originaldokumente neu kuratiert: Langmatt-Exposé, Textteil und Planzeichnung. Die Planzeichnung ist ein kommunales Planungsoriginal, keine technische Rechenzentrumszeichnung. Keine neuen Fotos, technischen Rechenzentrumszeichnungen oder Partner.
+
+Verfügbarkeit und Linkprüfung
+Alle 80 erfassten Dokumentquellen waren erreichbar; 65 zusätzlich mit lokaler Originalkopie hinterlegt. Linkprüfung: 1533 Adressen, 1501 erreichbar, 32 technisch blockiert, 0 defekt. Blockierte Quellen bleiben als Prüfgrenze ausgewiesen. Keine zusätzliche Linkreparatur erforderlich.
+
+Fragen, Uploads und veränderte Statistiken
+Keine neuen oder freizugebenden Recherchefragen, keine verdächtigen Fragen und keine manuellen Uploads. Der Uploadordner enthält nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Drei Recherchehinweise neu, ein Solarpark-Hinweis aktualisiert: Hinweise 186 auf 189. Originaldokumente 77 auf 80. Standort-Prüfeinträge 25 auf 26; der zusätzliche Eintrag ist unbestätigt, kein neuer gesicherter Standort. Bauleitpläne 27 auf 28, Netzprüfungen 10 auf 11. Unternehmen unverändert 22, Planungsfälle 7, Konnektivitätsprüfungen 7, Medien 5, technische Zeichnungen 6.
+
+Offen
+Für Langmatt aktuelle Vermarktung und Planungsrechtskraft klären. Im betroffenen Netzgebiet konkrete Bezugsleistung und Anschlusstermin vor weiterer Vertiefung bestätigen lassen. Denzlinger Beteiligungsverfahren weiterverfolgen. Keine externen Anfragen an Gemeinden oder Betreiber versandt und keine Einträge in fremden Projektportalen erstellt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
