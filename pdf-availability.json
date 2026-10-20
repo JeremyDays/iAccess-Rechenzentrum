@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-19",
-  "total": 80,
-  "localAvailable": 65,
-  "publicAvailable": 80,
+  "checkedAt": "2026-10-20",
+  "total": 82,
+  "localAvailable": 67,
+  "publicAvailable": 82,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1363,6 +1363,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Baden-Württemberg / Netze BW",
+      "documentTitle": "Netze BW: Wirtschaftszweige der essenziellen Daseinsvorsorge, Juli 2026",
+      "documentType": "Originaldokument Netzbetreiber",
+      "pages": "3",
+      "publicUrl": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "currentSourceUrl": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "localFile": "pdfs/2026-10-20-01-original.pdf",
+      "localExists": true,
+      "localBytes": 353670,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "contentType": "application/octet-stream",
+      "error": ""
+    },
+    {
+      "municipality": "Baden-Württemberg / Netze BW",
+      "documentTitle": "Netze BW: Pressemitteilung Vergabeverfahren, 13.08.2026",
+      "documentType": "Originaldokument Netzbetreiber",
+      "pages": "4",
+      "publicUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
+      "currentSourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
+      "localFile": "pdfs/2026-10-20-02-original.pdf",
+      "localExists": true,
+      "localBytes": 1077121,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

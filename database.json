@@ -766,7 +766,7 @@
     {
       "id": "id-2026-10-19-appenweier-langmatt",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "name": "Langmatt – vorläufiger Gewerbeflächenhinweis",
       "city": "Appenweier",
       "postalCode": "77767",
@@ -778,8 +778,9 @@
       "connectivity": "Exposé nennt mögliche Glasfaser; Carrier, Bandbreite und Trassentrennung unbelegt",
       "source": "Gemeinde Appenweier, verlinktes Exposé und Planungsoriginale von 2016",
       "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
-      "notes": "Produzierendes Gewerbe und neue Arbeitsplätze im Vermarktungsfokus. Emissionskontingente und aktuelle Rechtskraft prüfen. Regionaler Netzengpass darf nicht als konkreter Parzellenbefund verallgemeinert werden.",
-      "tags": "Prüfhinweis, nicht bestätigtes Angebot, keine Anschlusszusage"
+      "notes": "Produzierendes Gewerbe und neue Arbeitsplätze im Vermarktungsfokus. Emissionskontingente und aktuelle Rechtskraft prüfen. Regionaler Netzengpass darf nicht als konkreter Parzellenbefund verallgemeinert werden. Textteil vom 25.10.2016: Abschnitt A12.1 nennt eine Altablagerung auf in der Planzeichnung gekennzeichneten Flächen. Abschnitt C7 sieht je nach Betrieb eigene Regenwasserbehandlung und eine wasserrechtliche Erlaubnis für die Ableitung vor. Parzellenbetroffenheit, heutiger Sanierungsstand und aktuelle Genehmigungslage offen.",
+      "tags": "Prüfhinweis, nicht bestätigtes Angebot, keine Anschlusszusage",
+      "notesBefore20261020": "Produzierendes Gewerbe und neue Arbeitsplätze im Vermarktungsfokus. Emissionskontingente und aktuelle Rechtskraft prüfen. Regionaler Netzengpass darf nicht als konkreter Parzellenbefund verallgemeinert werden."
     }
   ],
   "companies": [
@@ -1564,14 +1565,14 @@
     {
       "id": "id-2026-10-19-langmatt",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "municipality": "Appenweier",
       "state": "Baden-Württemberg",
       "planName": "Langmatt",
       "status": "Originale vom 25.10.2016; aktueller Rechtskraftnachweis offen",
       "dataCenter": "Keine konkrete Rechenzentrumsgenehmigung. Zulässige Nutzungsart, Schallkontingente und aktuelles Baurecht prüfen.",
       "documents": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf; https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
-      "notes": "Textteil als Scan nur teilweise visuell geprüft. Planzeichnung als Entwurf zum Satzungsbeschluss bezeichnet; keine vollständige planungsrechtliche Prüfung.",
+      "notes": "Alle zwölf Dateiseiten lokal texterkannt; elf Textseiten, eine visuell bestätigte Leerseite. Risikostellen auf Seiten 5 und 9 visuell bestätigt. Textteil vom 25.10.2016: Abschnitt A12.1 nennt eine Altablagerung auf in der Planzeichnung gekennzeichneten Flächen. Abschnitt C7 sieht je nach Betrieb eigene Regenwasserbehandlung und eine wasserrechtliche Erlaubnis für die Ableitung vor. Parzellenbetroffenheit, heutiger Sanierungsstand und aktuelle Genehmigungslage offen. Textteil auf Seite 9 unterschrieben und mit Datum 15.12.2016 versehen; aktuelles Inkrafttreten weiterhin nicht bestätigt.",
       "source": "Gemeinde Appenweier",
       "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf"
     }
@@ -2791,14 +2792,14 @@
     {
       "id": "id-2026-10-19-pdf-02",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "municipality": "Appenweier",
       "documentTitle": "Langmatt: Textteil",
       "documentType": "Kommunales Original / historische Planungsunterlage",
       "pages": "12",
-      "keyFacts": "Scan: Titel und Seiten 2–4 visuell geprüft. Gewerbegebiet, Geräuschkontingente und Grundflächenzahl 0,8 erkennbar. Übrige Seiten nicht vollständig inhaltlich geprüft.",
-      "technicalFacts": "Keine freie elektrische Anschlussleistung, kein gesicherter Carrier oder Rechenzentrumsbetrieb belegt.",
-      "planningFacts": "Aktuellen Verfahrensstand und Rechenzentrumszulässigkeit projektbezogen klären.",
+      "keyFacts": "Zwölf Dateiseiten lokal texterkannt, elf Textseiten und eine Leerseite; Schlüsselstellen Seiten 5 und 9 visuell geprüft. Textteil vom 25.10.2016: Abschnitt A12.1 nennt eine Altablagerung auf in der Planzeichnung gekennzeichneten Flächen. Abschnitt C7 sieht je nach Betrieb eigene Regenwasserbehandlung und eine wasserrechtliche Erlaubnis für die Ableitung vor. Parzellenbetroffenheit, heutiger Sanierungsstand und aktuelle Genehmigungslage offen.",
+      "technicalFacts": "Altlasten- und Entwässerungsprüfung erforderlich. Keine Stromleistungs- oder Glasfaserzusage.",
+      "planningFacts": "Textteil enthält Unterschrift und Datum 15.12.2016. Dies ersetzt keinen aktuellen Rechtskraft- oder Änderungsnachweis. Keine vollständige rechtliche oder technische Freigabe.",
       "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf",
       "localFile": "pdfs/2026-10-19-02-original.pdf",
       "tags": "Original, historische Angaben, Prüfkandidat"
@@ -2817,6 +2818,36 @@
       "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_1-Planzeichnung_20161025.pdf",
       "localFile": "pdfs/2026-10-19-03-original.pdf",
       "tags": "Original, historische Angaben, Prüfkandidat"
+    },
+    {
+      "id": "id-2026-10-20-pdf-01",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "municipality": "Baden-Württemberg / Netze BW",
+      "documentTitle": "Netze BW: Wirtschaftszweige der essenziellen Daseinsvorsorge, Juli 2026",
+      "documentType": "Originaldokument Netzbetreiber",
+      "pages": "3",
+      "keyFacts": "Originalübersicht zur betreiberseitigen Einordnung von Wirtschaftszweigen. Keine individuelle Zuordnung eines iAccess-Projekts vorgenommen.",
+      "technicalFacts": "Keine freie Bezugsleistung oder individuelle Netzzusage enthalten.",
+      "planningFacts": "Anwendbarkeit im jeweiligen Netzanschlussverfahren bestätigen.",
+      "sourceUrl": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "localFile": "pdfs/2026-10-20-01-original.pdf",
+      "tags": "Netzanschluss, Original, Verfahrensprüfung"
+    },
+    {
+      "id": "id-2026-10-20-pdf-02",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "municipality": "Baden-Württemberg / Netze BW",
+      "documentTitle": "Netze BW: Pressemitteilung Vergabeverfahren, 13.08.2026",
+      "documentType": "Originaldokument Netzbetreiber",
+      "pages": "4",
+      "keyFacts": "Historisches Original neu ausgewertet und gesichert; keine Meldung vom 20.10.2026.",
+      "technicalFacts": "Keine freie Bezugsleistung oder individuelle Netzzusage enthalten.",
+      "planningFacts": "Geplante erste Anmeldung 01.11.–31.12.2026, erste Vergabe März 2027.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
+      "localFile": "pdfs/2026-10-20-02-original.pdf",
+      "tags": "Netzanschluss, Original, Verfahrensprüfung"
     }
   ],
   "media": [
@@ -6796,14 +6827,27 @@
     {
       "id": "id-2026-10-19-appenweier-langmatt",
       "created": "2026-10-19",
-      "updated": "2026-10-19",
+      "updated": "2026-10-20",
       "title": "Appenweier Langmatt: kommunales Exposé als vorläufiger Flächenhinweis",
       "topic": "Netz / kommunale Flächensuche",
-      "summary": "Aktuell verlinktes Exposé nennt Parzellierung ab 5.000 Quadratmetern und Glasfaser als mögliche Anbindung. Angaben enthalten Stand 2023; heutige Verfügbarkeit nicht bestätigt. Vermarktung bevorzugt produzierendes Gewerbe und Arbeitsplätze. Originale von 2016 enthalten Emissionskontingente; Kartenfassung und Textfassung lassen keinen hier bestätigten aktuellen Rechtskraftnachweis zu.",
+      "summary": "Aktuell verlinktes Exposé nennt Parzellierung ab 5.000 Quadratmetern und Glasfaser als mögliche Anbindung. Angaben enthalten Stand 2023; heutige Verfügbarkeit nicht bestätigt. Vermarktung bevorzugt produzierendes Gewerbe und Arbeitsplätze. Originale von 2016 enthalten Emissionskontingente; Kartenfassung und Textfassung lassen keinen hier bestätigten aktuellen Rechtskraftnachweis zu. Vertiefung vom 20.10.2026: Textteil vom 25.10.2016: Abschnitt A12.1 nennt eine Altablagerung auf in der Planzeichnung gekennzeichneten Flächen. Abschnitt C7 sieht je nach Betrieb eigene Regenwasserbehandlung und eine wasserrechtliche Erlaubnis für die Ableitung vor. Parzellenbetroffenheit, heutiger Sanierungsstand und aktuelle Genehmigungslage offen.",
       "sourceUrl": "https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/Expose-_Langmatt.pdf",
       "confidence": "Primärquelle mit benannten Einschränkungen",
-      "action": "Eigene Schlussfolgerung: Niedrig priorisierter Prüfkandidat. Vor Vertiefung aktuelle Parzelle, Vergabefähigkeit für ein Rechenzentrum, Rechtskraft, Lärmkontingent, Verbrauchsnetzanschluss und zwei getrennte Glasfaserwege klären.",
-      "tags": "Recherche 2026-10-19, keine Anschlusszusage"
+      "action": "Eigene Schlussfolgerung: Niedrige Priorität beibehalten. Zuerst konkrete Parzelle, Altlastenauskunft, Sanierungsstand, Entwässerung und aktuelles Baurecht prüfen; noch keine Fläche gesichert.",
+      "tags": "Recherche 2026-10-19, keine Anschlusszusage",
+      "summaryBefore20261020": "Aktuell verlinktes Exposé nennt Parzellierung ab 5.000 Quadratmetern und Glasfaser als mögliche Anbindung. Angaben enthalten Stand 2023; heutige Verfügbarkeit nicht bestätigt. Vermarktung bevorzugt produzierendes Gewerbe und Arbeitsplätze. Originale von 2016 enthalten Emissionskontingente; Kartenfassung und Textfassung lassen keinen hier bestätigten aktuellen Rechtskraftnachweis zu."
+    },
+    {
+      "id": "id-2026-10-20-netzebw-vergabe",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "title": "Netze BW: Vergabeverfahren für große Bezugsanschlüsse präzisiert",
+      "topic": "Netzanschluss / Verfahrensanforderungen",
+      "summary": "Aktuelle Verfahrensseite nennt Mittel- und Hochspannungsbezug ab 950 Kilowatt sowie Speicher mit Netzbezug unabhängig von der Leistung. Die Mitteilung vom 13.08.2026 plant die erste Anmeldung 01.11.–31.12.2026 und die erste Vergabe im März 2027. Keine neue Oktoberankündigung und keine Anschlusszusage.",
+      "sourceUrl": "https://www.netze-bw.de/netzanschluss/vergabe",
+      "confidence": "Netzbetreiber-Originale; zwei Detaildokumente wegen Abrufzeitüberschreitung offen",
+      "action": "Eigene Schlussfolgerung: Betreiber und Leistungsgrenze projektspezifisch klären. Verfahrensseite sagt ab, ältere Pressemitteilung über 950 Kilowatt. Schwellenfall 950 Kilowatt vor Antrag bestätigen; Verfahren nicht pauschal von E-Werk Netze übertragen.",
+      "tags": "Netze BW, Bezugsanschluss, Punkteverfahren, keine Netzzusage"
     }
   ],
   "gridChecks": [
@@ -6974,6 +7018,21 @@
       "nextAction": "Adressbezogene Zusage, Geltungsbereich des Vergabeverfahrens und erforderliche Nachweise klären; keine automatische Antragstellung.",
       "source": "https://www.ew-netze.de/netzengpass",
       "tags": "Netzengpass, Bezugsleistung, Ortenau"
+    },
+    {
+      "id": "id-2026-10-20-netzebw-vergabe",
+      "created": "2026-10-20",
+      "updated": "2026-10-20",
+      "site": "Standortübergreifende Prüfung bei Anschluss an Netze BW",
+      "municipality": "Baden-Württemberg; tatsächlichen Anschlussnetzbetreiber klären",
+      "targetPowerMw": "Verfahrensseite: Gesamtanmeldeleistung ab 0,95 Megawatt; Speicher gesondert",
+      "gridOperator": "Netze BW",
+      "voltageLevel": "Mittel- und Hochspannung",
+      "distanceHint": "Kein objektscharfer Anschlusspunkt geprüft",
+      "capacityStatus": "Vergabeverfahren, kein Nachweis freier Leistung",
+      "nextAction": "Flächensicherung, Genehmigungsstand und Übergabestation dokumentieren; Grenzfall und Termine beim zuständigen Betreiber klären. Keine automatische Anfrage versandt.",
+      "source": "https://www.netze-bw.de/netzanschluss/vergabe",
+      "tags": "Netzbezug, Leistungsgrenze, Netze BW"
     }
   ],
   "connectivityChecks": [
@@ -7169,7 +7228,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-19",
+    "lastRun": "2026-10-20",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -7197,8 +7256,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-19",
-    "lastResearchSummary": "25 Gemeinden weitergeprüft. Netzengpass und Vergabeverfahren Ortenau ergänzt; Langmatt als vorläufiger Prüfkandidat, kein bestätigtes freies Rechenzentrumsgrundstück.",
+    "lastResearchRun": "2026-10-20",
+    "lastResearchSummary": "25 Gemeinden weitergeprüft. Langmatt-Risiken zu Altablagerung und Entwässerung vertieft; Netze-BW-Verfahren ergänzt. Keine neue bestätigte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

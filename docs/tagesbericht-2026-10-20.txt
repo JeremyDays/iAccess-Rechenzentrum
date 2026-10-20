@@ -1,0 +1,46 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche - 20. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Neue Ergebnisse: Appenweier-Langmatt
+Der bereits archivierte Textteil vom 25. Oktober 2016 wurde mit der lokalen Windows-Texterkennung erschlossen: elf Textseiten und eine visuell bestätigte Leerseite. Die relevanten Originalseiten 5 und 9 wurden visuell gelesen.
+Abschnitt A12.1 nennt eine Altablagerung auf den in der Planzeichnung gekennzeichneten Flächen. Abschnitt C7 beschreibt betriebsabhängig eine eigene Regenwasserbehandlung und eine wasserrechtliche Erlaubnis zur Ableitung. Die heutige Betroffenheit der angebotenen Parzellen und der Sanierungsstand sind unbekannt. Keine pauschale Belastung aller Langmatt-Flächen daraus abgeleitet.
+Auf Seite 9 sind Unterschrift und Datum 15. Dezember 2016 sichtbar. Dies ersetzt keinen aktuellen Rechtskraft- oder Änderungsnachweis. Eine vollständige rechtliche oder technische Prüfung ist nicht erfolgt.
+Eigene Schlussfolgerung: Langmatt bleibt niedrig priorisiert und unbestätigt. Vor einer Vertiefung konkrete Parzelle, Altlastenauskunft, Sanierungsstand, Entwässerung, Baurecht und Verbrauchsnetzanschluss klären. Der bestehende Standort-, Planungs- und Dokumenteintrag wurde ergänzt, kein weiterer Standort angelegt.
+Quelle: https://www.appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Langmatt/Appenweier_BP_Langmatt_2-Textteil_20161025.pdf
+
+Netze BW: Verfahren und Grenzen präzisiert
+Die aktuelle Verfahrensseite nennt für Bezugsanschlüsse und Leistungserhöhungen in Mittel- und Hochspannung eine Gesamtanmeldeleistung ab 950 Kilowatt. Speicher mit zusätzlichem Netzbezug werden gesondert behandelt. Die ältere Pressemitteilung formuliert über 950 Kilowatt. Der Grenzfall genau 950 Kilowatt bleibt vor einem konkreten Antrag zu bestätigen. Diese Angaben nicht ungeprüft auf andere Netzbetreiber übertragen.
+Die Originalmitteilung vom 13. August 2026 plant die erste Anmeldung vom 1. November bis 31. Dezember 2026 und die erste Vergabe im März 2027. Das ist eine heute neu ausgewertete ältere Quelle, keine neue Oktoberankündigung. Die Anmeldung belegt keine freie Leistung und garantiert keinen Anschluss.
+Quellen: https://www.netze-bw.de/netzanschluss/vergabe
+https://www.netze-bw.de/news/vergabeverfahren
+Zwei zusätzliche Originale gesichert: Pressemitteilung und Wirtschaftszweigübersicht zur essenziellen Daseinsvorsorge mit Stand Juli 2026. Keine individuelle Einordnung eines iAccess-Projekts vorgenommen.
+Prüflücke: Die verlinkte Anlage A mit Bewertungskriterien und die vollständige Verfahrensbeschreibung waren auch nach erneutem Abruf wegen Zeitüberschreitungen nicht herunterladbar. Zwei Dokumente über vier getestete Adressen betroffen. Keine vollständige Prüfung dieser Detaildokumente behauptet.
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn.
+Bei diesen 25 Gemeinden wurden offene Detailprüfungen auf Gemeindeseiten, Rats-, Bauleitplanungs- und Amtsblattpfaden fortgeführt. Alle elf vorgegebenen Suchbegriffe wurden auf den gewonnenen Texten geprüft. Kein neuer bestätigter Rechenzentrumsstandort und keine neue gesicherte freie Rechenzentrumsfläche. Die bestehenden Bestandsnachweise bleiben erhalten.
+Die Prüfungen sind keine 25 vollständigen Aktenabschlüsse. Ratszugänge in Glottertal, Bad Krozingen, Lahr und Gottenheim blockieren teilweise direkte Abrufe. Einzelne Pfade in March und der regionalen Wirtschaftsförderung sind veraltet. Ein Ehninger Geodaten-Link scheiterte an einem Zertifikatsfehler; die Zertifikatsprüfung wurde nicht umgangen. Andere Quellen und Detailakten sind weiter offen. Fehlende Treffer sind kein Standort-Ausschluss.
+Denzlingen: Das bekannte Solarpark-B294-Verfahren bleibt in der veröffentlichten Beteiligungsfrist bis 20. November 2026. Kein zusätzlicher Beschluss- oder Verbrauchsanschlussnachweis aufgenommen. Keine doppelten Solarpark-Dokumente oder Tagesberichte angelegt.
+
+Nachrichten
+Heise einschließlich iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse und Betreiber- beziehungsweise Netzbetreiberquellen wurden gesucht oder aufgerufen. Ältere und unpassende Treffer wurden nicht als aktuelle Nachrichten gewertet. DatacenterDynamics blockiert den Direktabruf, Einwilligungsseiten und Suchindexlücken begrenzen andere Abrufe. Eine vollständige Erfassung aller Tagesnachrichten ist nicht nachgewiesen. Kein neuer Partner oder bestätigter Grundstückszugang aus diesen Treffern.
+
+Lokale Sicherung und Dokumente
+345 unterschiedliche Rechercheadressen aufgerufen, 331 erfolgreich lokal gesichert. Davon 15 zusätzliche Adressen gegenüber dem Verzeichnis vor diesem Lauf. Erneute Sicherungen bekannter Quellen sind nicht als neue Erkenntnisse gezählt.
+48 unterschiedliche Dokumentdateien mit insgesamt 728 Seiten im Lauf berücksichtigt und ausgelesen; unveränderte Texte nach Prüfsummenabgleich wiederverwendet. Zwei Dateiinhalte neu gegenüber dem Archiv. Der Langmatt-Scan erhielt zusätzlich lokale Texterkennung. Bei sieben anderen Karten oder Scans blieb die Auslesbarkeit eingeschränkt. Historische und fachfremde Unterlagen wurden nicht als aktuelle Rechenzentrumsnachrichten gezählt.
+Vierzehn Rechercheadressen scheiterten, darunter vier Adressen zu zwei Verfahrensdokumenten, Ratsblockaden, veraltete Wege und der Zertifikatsfehler. Fehler stehen im Fortschrittsprotokoll. Zwei zusätzliche Netzbetreiber-Originale in die Website übernommen. Neue Fotos und technische Rechenzentrumszeichnungen: keine.
+
+Verfügbarkeit und Linkprüfung
+Alle 82 erfassten Dokumentquellen waren erreichbar; 67 zusätzlich mit lokaler Originalkopie hinterlegt. Linkprüfung: 1536 Adressen, 1503 erreichbar, 33 technisch blockiert, 0 defekt. Ein vermeintlicher Dokumentfehler betraf nur die HEAD-Abfrage: Der normale Download liefert die gültige Originaldatei. Beide Prüfscripte prüfen diesen Fall nun zusätzlich per GET. Die betroffene Adresse wurde erfolgreich nachgeprüft; blockierte Quellen bleiben als Prüfgrenze ausgewiesen.
+Die Ausfälle der zwei neu gesuchten, nicht übernommenen Verfahrensdokumente sind zusätzlich oben dokumentiert; die Bestandsprüfung ersetzt diese offene Recherche nicht.
+
+Fragen, Uploads und veränderte Statistiken
+Keine neuen oder freizugebenden Fragen, keine verdächtigen Fragen und keine manuellen Uploads; der Uploadordner enthält nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 189 auf 190, ein vorhandener Langmatt-Hinweis inhaltlich ergänzt. Originaldokumente 80 auf 82, Netzprüfungen 11 auf 12. Standort-Prüfeinträge unverändert 26, davon Langmatt aktualisiert. Unternehmen unverändert 22, Planungsfälle 7, Bauleitpläne 28, Konnektivitätsprüfungen 7, Medien 5, technische Zeichnungen 6. Kein neuer Partner.
+
+Offen
+Die zwei vollständigen Netze-BW-Verfahrensdokumente erneut prüfen, sobald erreichbar. Für Langmatt aktuelle, parzellenspezifische Auskünfte zu Altlasten und Sanierung, Entwässerung, Rechtskraft und Netzanschluss beschaffen. Keine Anfragen an Gemeinden oder Netzbetreiber versandt und keine Einträge in fremden Projektportalen erstellt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

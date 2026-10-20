@@ -9,7 +9,18 @@ import requests
 
 
 ROOT = Path(__file__).resolve().parents[1]
-URL_RE = re.compile(r'''https?://[^\s"'<>),;]+''')
+URL_RE = re.compile(r'''https?://[^\s"'<>);]+''')
+TRANSIENT_ERROR_MARKERS = (
+    "ConnectionResetError",
+    "RemoteDisconnected",
+    "Read timed out",
+    "ConnectTimeout",
+    "Connection aborted",
+    "CERTIFICATE_VERIFY_FAILED",
+    "certificate verify failed",
+    "NameResolutionError",
+    "getaddrinfo failed",
+)
 
 
 def collect_urls():
@@ -47,14 +58,19 @@ def check(row):
     result = {**row, "status": None, "finalUrl": "", "ok": False, "blocked": False, "error": ""}
     try:
         response = requests.head(url, headers=headers, timeout=25, allow_redirects=True)
-        if response.status_code in {403, 405, 406, 429} or response.status_code >= 500:
+        # Confirm HEAD-only 404 responses with the request used by a browser.
+        if response.status_code in {403, 404, 405, 406, 429} or response.status_code >= 500:
             response = requests.get(url, headers=headers, timeout=45, allow_redirects=True, stream=True)
         result["status"] = response.status_code
         result["finalUrl"] = response.url
         result["ok"] = 200 <= response.status_code < 400
-        result["blocked"] = response.status_code in {403, 429}
+        # A 5xx response is a transient server/gateway failure, not evidence
+        # that the source URL is permanently dead. Keep it as blocked so a
+        # later run revalidates it without inflating the broken-link count.
+        result["blocked"] = response.status_code in {403, 429} or response.status_code >= 500
     except Exception as exc:
         result["error"] = str(exc)
+        result["blocked"] = any(marker in result["error"] for marker in TRANSIENT_ERROR_MARKERS)
     return result
 
 

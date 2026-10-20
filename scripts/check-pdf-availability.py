@@ -18,7 +18,8 @@ def check_url(url):
     headers = {"User-Agent": "iAccess PDF checker contact hornick@iaccess.de"}
     try:
         response = requests.head(url, headers=headers, timeout=20, allow_redirects=True)
-        if response.status_code in {403, 405, 406, 429} or response.status_code >= 500:
+        # Some document APIs reject HEAD with 404 while GET serves the original.
+        if response.status_code in {403, 404, 405, 406, 429} or response.status_code >= 500:
             response = requests.get(url, headers=headers, timeout=30, allow_redirects=True, stream=True)
         return {
             "ok": 200 <= response.status_code < 400,

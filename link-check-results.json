@@ -1,7 +1,7 @@
 {
-  "checked": 1533,
-  "ok": 1501,
-  "blocked": 32,
+  "checked": 1536,
+  "ok": 1503,
+  "blocked": 33,
   "broken": 0,
   "results": [
     {
@@ -27,6 +27,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 95,
+      "field": "sourceUrl",
+      "title": "Calw-/Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.nagold.de/willkommen",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.nagold.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "findings",
@@ -138,6 +150,18 @@
     },
     {
       "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "status": 403,
+      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
@@ -161,16 +185,16 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
     },
     {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "collection": "pdfExtracts",
+      "index": 80,
+      "field": "sourceUrl",
+      "title": "Netze BW: Wirtschaftszweige der essenziellen Daseinsvorsorge, Juli 2026",
+      "url": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "status": 200,
+      "finalUrl": "https://api.netze-bw.de/ctfservice/v1/assets/4dVd1JY6t0q9dlsfo3rjLe?download=1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
     },
     {
       "collection": "sites",
@@ -4956,18 +4980,6 @@
       "url": "https://www.hoefen-enz.de/startseite",
       "status": 200,
       "finalUrl": "https://www.hoefen-enz.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 95,
-      "field": "sourceUrl",
-      "title": "Calw-/Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.nagold.de/willkommen",
-      "status": 200,
-      "finalUrl": "https://www.nagold.de/willkommen",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10806,6 +10818,18 @@
     },
     {
       "collection": "findings",
+      "index": 189,
+      "field": "sourceUrl",
+      "title": "Netze BW: Vergabeverfahren für große Bezugsanschlüsse präzisiert",
+      "url": "https://www.netze-bw.de/netzanschluss/vergabe",
+      "status": 200,
+      "finalUrl": "https://www.netze-bw.de/netzanschluss/vergabe",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 180,
       "field": "sourceUrl",
       "title": "Netze BW: vorläufige Stromnetzentgelte und Nutzungsregeln 2027",
@@ -11376,18 +11400,6 @@
       "url": "https://www.gaggenau.de/startseite.1.htm",
       "status": 200,
       "finalUrl": "https://www.gaggenau.de/startseite.1.htm",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
-      "status": 200,
-      "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13644,6 +13656,18 @@
       "url": "https://www.voehrenbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.voehrenbach.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17478,6 +17502,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 81,
+      "field": "sourceUrl",
+      "title": "Netze BW: Pressemitteilung Vergabeverfahren, 13.08.2026",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 65,
       "field": "sourceUrl",
       "title": "Netze BW: Regelungen zur Stromnetznutzung 2027",
@@ -18400,5 +18436,7 @@
       "blocked": false,
       "error": ""
     }
-  ]
+  ],
+  "method": "Vollprüfung; ursprüngliche HEAD-404-Adresse anschließend mit GET nachgeprüft.",
+  "checkedAt": "2026-10-20T07:38:38.779587+02:00"
 }
