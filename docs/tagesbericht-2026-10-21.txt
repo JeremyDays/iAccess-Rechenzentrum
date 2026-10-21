@@ -1,0 +1,52 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche - 21. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Neuer Planungshinweis: Bad Krozingen-Tunsel, Obermatten
+Die offiziell verlinkte regionale Flächendatenbank zeigte beim Abruf fünf öffentliche Freiflächenangebote. Das Tunseler Angebot wurde in der öffentlichen Detailansicht ohne Anmeldung und anhand des vierseitigen Originalexposés geprüft. Die vier anderen Listenhinweise wurden nicht im Detail bewertet und nicht als Standorte angelegt.
+Der Anbieter nennt rund 1.816 Quadratmeter, Flurstück 3985 und eine Verfügbarkeit ab 1. September 2026. Gleichzeitig steht im Datenblatt, dass kein Bebauungsplan vorhanden sei. Laut Beschreibung können Größe und Lage nach Umlegung noch abweichen. Diese Angaben belegen weder heutige Bebaubarkeit noch eine gesicherte freie Rechenzentrumsfläche. Die Anbieterangabe zum möglichen 24-Stunden-Betrieb ersetzt keine Rechenzentrumsgenehmigung.
+Das amtliche Blatt vom 19. September 2025 kündigt auf Seite 17 für den 24. September Beratungen über Umlegung und Ausschussbildung an. Dies belegt die damalige Tagesordnung, aber weder den Beschlussausgang noch aktuelles Baurecht. Der heutige Umlegungs- und Planungsstand bleibt offen.
+Eigene Schlussfolgerung: Niedrig priorisierter Planungshinweis für eine mögliche spätere Entwicklung. Vor einer technischen Vertiefung konkrete Parzelle, Umlegungsstand, rechtskräftige Planung, Rechenzentrumsnutzung, Verbrauchsnetzanschluss, Glasfaser, Schall, Kühlung und Löschwasser klären. Kein Kauf- oder Mietangebot abgegeben und kein Kontakt zum Anbieter aufgenommen.
+Quellen: https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7
+https://www.myeblaettle.de/frontend/catalogs/1140081/1/pdf/complete.pdf
+Regionaler Einstieg: https://gewerbeimmo-freiburg.findyourland.de/home
+
+Denzlingen: kommunaler und privater Pfad
+Die Gemeinde meldet weiterhin keine zu vergebenden Bauplätze. Der bestehende Verfügbarkeitshinweis wurde für die Denzlinger Teilquelle erneut geprüft; daraus folgt keine Aussage über alle privaten Grundstücke.
+Ein privater Objektpfad im Gewerbegebiet Geringfeldele wurde geprüft. Die undatierten Anbieterangaben beschreiben Büroflächen und allgemeine Gebäudeausstattung, aber keine belastbare Rechenzentrumstechnik, zugesicherte Leistung, Traglasten oder getrennte Glasfaserwege. Broschüre lokal gesichert; kein zusätzlicher Standort angelegt und keine genannten Mietpreise als aktuelle Rechenzentrumskosten übernommen.
+Quellen: https://www.denzlingen.de/p/gewerbegrundstuecke
+https://www.gewerbepark-denzlingen.de/angebot_b7.html
+https://www.gewerbepark-denzlingen.de/gewerbepark.pdf
+
+Neue Marktnachricht
+Amazon kündigte am 20. Oktober 2026 an, 2027 zusätzliche 4,8 Milliarden Euro in seine Cloud-Infrastruktur der Region Frankfurt zu investieren. Die breiter genannte Gesamtsumme von 16 Milliarden Euro umfasst weitere Geschäftsbereiche. Unternehmensplanung, kein Nachweis bereits ausgeführter Investitionen. Als Marktnachricht aufgenommen; kein neuer Flächenfund in Baden-Württemberg und keine iAccess-Partnerschaft daraus abgeleitet.
+Quellen: https://www.aboutamazon.de/news/amazon-web-services/aws-investition-deutschland
+https://www.aboutamazon.com/company-news/amazon-germany-investment
+
+Kommunale Prüfung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn.
+Bei 25 Gemeinden wurden die noch offenen Detailprüfungen auf kommunalen Seiten, Rats-, Bauleitplanungs- und Amtsblattpfaden fortgeführt. Alle elf vorgegebenen Suchbegriffe wurden auf den abgerufenen Texten geprüft. Kein neuer bestätigter Rechenzentrumsbestand und kein neuer gesicherter Rechenzentrumsstandort. Bad Krozingen liefert den oben beschriebenen unbestätigten Planungshinweis; vorhandene Erkenntnisse der übrigen Gemeinden bleiben erhalten.
+Dies sind keine 25 vollständigen Aktenabschlüsse. Beschränkte Ratszugänge, nicht erschlossene Detailakten und einzelne veraltete Pfade bleiben offen. Die Quellenmatrix dokumentiert die Zugriffs- und Prüflücken. Fehlende Treffer gelten nicht als Standort-Ausschluss. Ältere Kirchzartener Amtsblätter wurden trotz ähnlicher Kalenderwoche als historisch erkannt und nicht als aktuelle Meldungen gezählt.
+
+Netzverfahren und Nachrichtenbreite
+Die beiden Netze-BW-Detaildokumente zu Bewertungskriterien und vollständigem Vergabeverfahren konnten erneut wegen Zeitüberschreitungen nicht heruntergeladen werden. Diese bekannte Prüflücke bleibt bestehen; keine vollständige Prüfung oder fehlende Anforderungen daraus abgeleitet.
+Gesucht oder aufgerufen wurden Heise einschließlich iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse und Betreiber- beziehungsweise Netzbetreiberquellen. DatacenterDynamics blockiert lokale Direktabrufe; Suchindexlücken und Einwilligungsseiten begrenzen die Erfassung. Eine vollständige Negativaussage zu allen Tagesnachrichten ist nicht möglich. Keine doppelten Einträge für bekannte Solarpark-, Netz- oder Langmatt-Ergebnisse erzeugt.
+
+Lokale Sicherung und Originaldokumente
+351 unterschiedliche Rechercheadressen aufgerufen, 339 erfolgreich lokal gesichert. Davon 17 zusätzliche Adressen gegenüber dem Quellenverzeichnis vor diesem Lauf. Wiederholte Sicherungen bekannter Quellen sind keine neuen Erkenntnisse.
+47 unterschiedliche Dokumentdateien mit zusammen 749 Seiten im Lauf gesichert und ausgelesen; unveränderte Texte nach Prüfsummenabgleich wiederverwendet. Sechs Dateiinhalte neu gegenüber dem Archiv, darunter historische Unterlagen. Bei sieben Karten oder Scans blieb die Auslesbarkeit eingeschränkt. Keine vollständige Inhaltsprüfung aller Seiten behauptet.
+Zwei Dokumentquellen neu erfasst: Tunseler Anbieterexposé und historisches amtliches Blatt mit der relevanten Tagesordnung. Beide Originale liegen im lokalen Quellenarchiv und sind über ihre Originalquellen verlinkt. Keine zusätzliche Dateikopie dieser Dokumente auf GitHub veröffentlicht. Die private Denzlinger Broschüre ist nur lokal archiviert. Keine neuen Fotos, technischen Rechenzentrumszeichnungen oder Partner.
+Zwölf Abruffehler protokolliert, darunter die zwei weiterhin fehlenden Verfahrensdokumente, blockierte Ratszugänge und veraltete Wege. Fehler stehen im Fortschrittsprotokoll.
+
+Verfügbarkeit und Linkprüfung
+Alle 84 erfassten Dokumentquellen waren erreichbar. Das Prüfscript zählt 67 direkt hinterlegte Dateikopien; die zwei neuen Dokumente liegen zusätzlich im separaten lokalen Quellenarchiv und sind über ihre Originalquellen verlinkt. Linkprüfung: 1539 Adressen, 1507 erreichbar, 32 technisch blockiert, 0 defekt. Eine inzwischen defekte Amtzell-Adresse wurde in zwei vorbestehenden Datensätzen durch den geprüften amtlichen Einstieg ersetzt; der alte Pfad bleibt im Quellenverlauf. Die geänderte Adresse wurde erneut geprüft. Die zwei nicht übernommenen Netze-BW-Dokumente bleiben zusätzlich als offene Recherche dokumentiert.
+
+Fragen, Uploads und veränderte Statistiken
+Keine neuen oder freizugebenden Fragen, keine verdächtigen Fragen und keine manuellen Uploads. Der Uploadordner enthält nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 190 auf 192; bestehender Denzlinger Verfügbarkeitshinweis in der Teilquelle erneut geprüft. Dokumenteinträge 82 auf 84. Standort-Prüfeinträge 26 auf 27; der zusätzliche Eintrag ist unbestätigt. Unternehmen unverändert 22, Planungsfälle 7, Bauleitpläne 28, Netzprüfungen 12, Konnektivitätsprüfungen 7, Medien 5, technische Zeichnungen 6. Kein neuer Partner und kein neuer gesicherter Flächenzugang.
+
+Offen
+Für Obermatten den aktuellen amtlichen Planungs- und Umlegungsstand sowie tatsächliche Verfügbarkeit und Netzanschluss klären. Die vier weiteren regionalen Listenhinweise bei einem passenden Folgeanlass vertiefen. Die zwei Netze-BW-Dokumente bei erneuter Erreichbarkeit prüfen. Keine Anfragen an Gemeinden, Betreiber oder Makler versandt; keine Anmeldung oder Registrierung in der regionalen Datenbank und keine Einträge in fremden Projektportalen.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

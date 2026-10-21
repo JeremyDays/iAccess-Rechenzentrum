@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-20",
-  "total": 82,
+  "checkedAt": "2026-10-21",
+  "total": 84,
   "localAvailable": 67,
-  "publicAvailable": 82,
+  "publicAvailable": 84,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1398,6 +1398,40 @@
       "status": 200,
       "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/34HBo1xjr6RIHAvq9YMyQk/b90fa0a726c977acef71988fb4a3bb59/pressemitteilung-vergabeverfahren.pdf",
       "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Bad Krozingen-Tunsel",
+      "documentTitle": "Obermatten Tunsel: Anbieterexposé aus der regionalen Flächendatenbank",
+      "documentType": "Originalexposé / Anbieterangaben",
+      "pages": "4",
+      "publicUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7",
+      "currentSourceUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7",
+      "contentType": "text/html",
+      "error": ""
+    },
+    {
+      "municipality": "Bad Krozingen-Tunsel",
+      "documentTitle": "Obermatten Tunsel: Amtliches Blatt vom 19.09.2025, Tagesordnung Seite 17",
+      "documentType": "Historisches amtliches Blatt",
+      "pages": "36",
+      "publicUrl": "https://www.myeblaettle.de/frontend/catalogs/1140081/1/pdf/complete.pdf",
+      "currentSourceUrl": "https://www.myeblaettle.de/frontend/catalogs/1140081/1/pdf/complete.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.myeblaettle.de/frontend/catalogs/1140081/1/pdf/complete.pdf",
+      "contentType": "application/pdf;charset=UTF-8",
       "error": ""
     }
   ]
