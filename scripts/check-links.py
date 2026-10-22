@@ -70,7 +70,8 @@ def check(row):
         result["blocked"] = response.status_code in {403, 429} or response.status_code >= 500
     except Exception as exc:
         result["error"] = str(exc)
-        result["blocked"] = any(marker in result["error"] for marker in TRANSIENT_ERROR_MARKERS)
+        # A transport failure does not establish that a public URL is broken.
+        result["blocked"] = isinstance(exc, (requests.ConnectionError, requests.Timeout)) or any(marker in result["error"] for marker in TRANSIENT_ERROR_MARKERS)
     return result
 
 

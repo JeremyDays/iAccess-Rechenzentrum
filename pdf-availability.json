@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-10-21",
-  "total": 84,
-  "localAvailable": 67,
-  "publicAvailable": 84,
-  "publicBlocked": 0,
+  "checkedAt": "2026-10-22",
+  "total": 88,
+  "localAvailable": 68,
+  "publicAvailable": 54,
+  "publicBlocked": 34,
   "publicUnavailable": 0,
   "items": [
     {
@@ -96,15 +96,15 @@
       "documentTitle": "KurzerlÃ¤uterung Bebauungsplan Nr. 66 â€žSondergebiet Rechenzentrum am Lordseeâ€œ",
       "documentType": "KurzerlÃ¤uterung",
       "pages": "4",
-      "publicUrl": "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
-      "currentSourceUrl": "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
-      "localFile": "pdfs/ankum-kurzerlÃ¤uterung-bebauungsplan-nr-66-sondergebiet-rechenzentrum-am-lordsee.pdf",
-      "localExists": false,
-      "localBytes": 0,
+      "publicUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-22-ankum-66-original.pdf",
+      "currentSourceUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-22-ankum-66-original.pdf",
+      "localFile": "pdfs/2026-10-22-ankum-66-original.pdf",
+      "localExists": true,
+      "localBytes": 1662075,
       "ok": true,
       "blocked": false,
       "status": 200,
-      "finalUrl": "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-22-ankum-66-original.pdf",
       "contentType": "application/pdf",
       "error": ""
     },
@@ -322,12 +322,12 @@
       "localFile": "",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=9&id=4",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /de/bekanntmachungen/?file=9&id=4 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Vörstetten",
@@ -373,12 +373,12 @@
       "localFile": "",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.gottenheim.de/Rathaus/Planung/Naegelsee/20250207_naegelsee_erw5_komplett.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.gottenheim.de', port=443): Max retries exceeded with url: /Rathaus/Planung/Naegelsee/20250207_naegelsee_erw5_komplett.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gottenheim.de', port=443) at 0x1bc689a5700>, 'Connection to www.gottenheim.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kehl / Neuried",
@@ -390,12 +390,12 @@
       "localFile": "pdfs/2026-09-29-07-original.pdf",
       "localExists": true,
       "localBytes": 7641632,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E-535776090/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Text.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E-535776090/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Text.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc689a5df0>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Waldkirch",
@@ -424,12 +424,12 @@
       "localFile": "pdfs/2026-09-29-01-original.pdf",
       "localExists": true,
       "localBytes": 18316889,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.teningen.de/site/Teningen-2020/get/params_E-1082761594_Dattachment/1390811/Fachgutachten_W%C3%A4rmeplanung_Teningen.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.teningen.de', port=443): Max retries exceeded with url: /site/Teningen-2020/get/params_E-1082761594_Dattachment/1390811/Fachgutachten_W%C3%A4rmeplanung_Teningen.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.teningen.de', port=443) at 0x1bc689a7c80>, 'Connection to www.teningen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Teningen",
@@ -441,12 +441,12 @@
       "localFile": "",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
-      "contentType": "text/html;charset=UTF-8",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.teningen.de', port=443): Max retries exceeded with url: /leben-und-wohnen/bauen/bauleitplanung (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.teningen.de', port=443) at 0x1bc68a041a0>, 'Connection to www.teningen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Teningen",
@@ -458,12 +458,12 @@
       "localFile": "",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
-      "contentType": "text/html;charset=UTF-8",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.teningen.de', port=443): Max retries exceeded with url: /leben-und-wohnen/bauen/bauleitplanung (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.teningen.de', port=443) at 0x1bc67e9a060>, 'Connection to www.teningen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Leinfelden-Echterdingen",
@@ -475,12 +475,12 @@
       "localFile": "pdfs/leinfelden-echterdingen-kommunale-waermeplanung.pdf",
       "localExists": true,
       "localBytes": 8125207,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E191560041/21248405/Kommunale%20W%C3%A4rmeplanung%20LE.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.leinfelden-echterdingen.de', port=443): Max retries exceeded with url: /site/Leinfelden-Echterdingen-Internet/get/params_E191560041/21248405/Kommunale%20W%C3%A4rmeplanung%20LE.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.leinfelden-echterdingen.de', port=443) at 0x1bc689a69f0>, 'Connection to www.leinfelden-echterdingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Leinfelden-Echterdingen",
@@ -492,12 +492,12 @@
       "localFile": "pdfs/leinfelden-echterdingen-waermenetzstrategie-stadtwerke-le.pdf",
       "localExists": true,
       "localBytes": 2387160,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.leinfelden-echterdingen.de/site/Leinfelden-Echterdingen-Internet/get/params_E1166304770/20577146/W%C3%A4rmenetzstrategie%20%E2%80%93%20Stadtwerke%20LE.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.leinfelden-echterdingen.de', port=443): Max retries exceeded with url: /site/Leinfelden-Echterdingen-Internet/get/params_E1166304770/20577146/W%C3%A4rmenetzstrategie%20%E2%80%93%20Stadtwerke%20LE.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.leinfelden-echterdingen.de', port=443) at 0x1bc689a5ee0>, 'Connection to www.leinfelden-echterdingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Notzingen",
@@ -509,12 +509,12 @@
       "localFile": "pdfs/notzingen-information-glasfaser.pdf",
       "localExists": true,
       "localBytes": 51764,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.notzingen.de/site/Notzingen-Responsive/get/params_E-1723382818/25067055/Information%20Glasfaser.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.notzingen.de', port=443): Max retries exceeded with url: /site/Notzingen-Responsive/get/params_E-1723382818/25067055/Information%20Glasfaser.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.notzingen.de', port=443) at 0x1bc689a5be0>, 'Connection to www.notzingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kirchzarten",
@@ -526,12 +526,12 @@
       "localFile": "pdfs/kirchzarten-fischerrain-iii-beschlussvorlage.pdf",
       "localExists": true,
       "localBytes": 231001,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.kirchzarten.de/p/bpl-zarten",
-      "contentType": "text/html; charset=iso-8859-1",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.kirchzarten.de', port=443): Max retries exceeded with url: /p/bpl-zarten (Caused by NewConnectionError(\"HTTPSConnection(host='www.kirchzarten.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Kuchen",
@@ -628,12 +628,12 @@
       "localFile": "pdfs/boetzingen-frohmatten-ii-zeichnerischer-teil.pdf",
       "localExists": true,
       "localBytes": 3124627,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E1663538204_Dattachment/3930613/a%29%20Zeichnerischer%20Teil.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.boetzingen.de', port=443): Max retries exceeded with url: /site/Boetzingen/get/params_E1663538204_Dattachment/3930613/a%29%20Zeichnerischer%20Teil.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boetzingen.de', port=443) at 0x1bc68a05130>, 'Connection to www.boetzingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Bötzingen",
@@ -645,12 +645,12 @@
       "localFile": "pdfs/boetzingen-frohmatten-ii-begruendung.pdf",
       "localExists": true,
       "localBytes": 5145172,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E898755540_Dattachment/3930616/d%29%20Begr%C3%BCndung%20Bebauungsplan.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.boetzingen.de', port=443): Max retries exceeded with url: /site/Boetzingen/get/params_E898755540_Dattachment/3930616/d%29%20Begr%C3%BCndung%20Bebauungsplan.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boetzingen.de', port=443) at 0x1bc65ec1df0>, 'Connection to www.boetzingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Bötzingen",
@@ -662,12 +662,12 @@
       "localFile": "pdfs/boetzingen-frohmatten-ii-schalltechnische-untersuchung.pdf",
       "localExists": true,
       "localBytes": 24206425,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-430140521_Dattachment/3930622/f%29%20Schalltechnische%20Untersuchung.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.boetzingen.de', port=443): Max retries exceeded with url: /site/Boetzingen/get/params_E-430140521_Dattachment/3930622/f%29%20Schalltechnische%20Untersuchung.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boetzingen.de', port=443) at 0x1bc689a58b0>, 'Connection to www.boetzingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Bötzingen",
@@ -679,12 +679,12 @@
       "localFile": "pdfs/boetzingen-frohmatten-ii-geotechnischer-bericht.pdf",
       "localExists": true,
       "localBytes": 2928824,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.boetzingen.de/site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.boetzingen.de', port=443): Max retries exceeded with url: /site/Boetzingen/get/params_E-1308986609_Dattachment/4118950/i%29%20Geotechnischer%20Bericht.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.boetzingen.de', port=443) at 0x1bc689a6390>, 'Connection to www.boetzingen.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Denzlingen / Voerstetten",
@@ -696,12 +696,12 @@
       "localFile": "pdfs/rp-freiburg-denzlingen-110kv-bekanntmachung.pdf",
       "localExists": true,
       "localBytes": 162416,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='rpf.baden-wuerttemberg.de', port=443): Max retries exceeded with url: /fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='rpf.baden-wuerttemberg.de', port=443) at 0x1bc689a6a50>, 'Connection to rpf.baden-wuerttemberg.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Emmendingen",
@@ -781,12 +781,12 @@
       "localFile": "pdfs/2026-09-25-04-waldkirch-sudlicher-brunnenrain.pdf",
       "localExists": true,
       "localBytes": 1816979,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.stadt-waldkirch.de/site/Waldkirch/get/documents_E-1354819816/stadt-waldkirch/Dateien/Satzungen/Amtsblatt/2025_07_24%20Amtsblatt%20der%20Stadt%20Waldkirch.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.stadt-waldkirch.de', port=443): Max retries exceeded with url: /site/Waldkirch/get/documents_E-1354819816/stadt-waldkirch/Dateien/Satzungen/Amtsblatt/2025_07_24%20Amtsblatt%20der%20Stadt%20Waldkirch.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.stadt-waldkirch.de', port=443) at 0x1bc689a7f80>, 'Connection to www.stadt-waldkirch.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Breisach",
@@ -832,12 +832,12 @@
       "localFile": "pdfs/2026-09-29-03-original.pdf",
       "localExists": true,
       "localBytes": 2731271,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E-1545189458/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Text.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E-1545189458/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Text.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc68a04d40>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kehl / Neuried",
@@ -849,12 +849,12 @@
       "localFile": "pdfs/2026-09-29-04-original.pdf",
       "localExists": true,
       "localBytes": 11554885,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E1142310512/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Begr.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E1142310512/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-Mitte-9Ae-Begr.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc677d7d70>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kehl / Neuried",
@@ -866,12 +866,12 @@
       "localFile": "pdfs/2026-09-29-05-original.pdf",
       "localExists": true,
       "localBytes": 1182703,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E2143484586/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Text.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E2143484586/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Text.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc689a5910>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kehl / Neuried",
@@ -883,12 +883,12 @@
       "localFile": "pdfs/2026-09-29-06-original.pdf",
       "localExists": true,
       "localBytes": 1246921,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E1147287105/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Begr.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E1147287105/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Altenheim-BASIC-SUED-Begr.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc689a7110>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Kehl / Neuried",
@@ -900,12 +900,12 @@
       "localFile": "pdfs/2026-09-29-08-original.pdf",
       "localExists": true,
       "localBytes": 28021752,
-      "ok": true,
-      "blocked": false,
-      "status": 304,
-      "finalUrl": "https://www.kehl.de/site/Kehl/get/documents_E1788473154/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Begr.pdf",
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
       "contentType": "",
-      "error": ""
+      "error": "HTTPSConnectionPool(host='www.kehl.de', port=443): Max retries exceeded with url: /site/Kehl/get/documents_E1788473154/kehl/Dateien/Dokumente/Kehl/Pl%C3%A4ne%20Stadtplanung/Bebauungspl%C3%A4ne/Goldscheuer/Goldscheuer-BASIC-West-11Ae-Begr.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kehl.de', port=443) at 0x1bc689a7080>, 'Connection to www.kehl.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Bad Krozingen",
@@ -1036,12 +1036,12 @@
       "localFile": "pdfs/2026-09-30-03-original.pdf",
       "localExists": true,
       "localBytes": 193294,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=475&id=301",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /de/bekanntmachungen/?file=475&id=301 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Gottenheim",
@@ -1053,12 +1053,12 @@
       "localFile": "pdfs/2026-10-17-01-original.pdf",
       "localExists": true,
       "localBytes": 6565925,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.gottenheim.de/Rathaus/KSM/Waermeplanung/20260903_KWP_Fachgutachten_Gottenheim_Offenlage.pdf",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.gottenheim.de', port=443): Max retries exceeded with url: /Rathaus/KSM/Waermeplanung/20260903_KWP_Fachgutachten_Gottenheim_Offenlage.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gottenheim.de', port=443) at 0x1bc68a051c0>, 'Connection to www.gottenheim.de timed out. (connect timeout=20)'))"
     },
     {
       "municipality": "Denzlingen",
@@ -1070,12 +1070,12 @@
       "localFile": "pdfs/2026-10-17-02-original.pdf",
       "localExists": true,
       "localBytes": 1793712,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=482&id=303",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /de/bekanntmachungen/?file=482&id=303 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1087,12 +1087,12 @@
       "localFile": "pdfs/2026-10-17-03-original.pdf",
       "localExists": true,
       "localBytes": 1789128,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=483&id=303",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /de/bekanntmachungen/?file=483&id=303 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Netze BW",
@@ -1138,12 +1138,12 @@
       "localFile": "pdfs/2026-10-17-07-original.pdf",
       "localExists": true,
       "localBytes": 101087,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_FNPA+Solarpark.pdf&m=7505&i=1&fl=53061470&d=93e",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=1_Cover_FNPA+Solarpark.pdf&m=7505&i=1&fl=53061470&d=93e (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1155,12 +1155,12 @@
       "localFile": "pdfs/2026-10-17-08-original.pdf",
       "localExists": true,
       "localBytes": 2393938,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=2_Deckblatt_FNPA+Solarpark.pdf&m=7505&i=2&fl=53061470&d=f5e",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=2_Deckblatt_FNPA+Solarpark.pdf&m=7505&i=2&fl=53061470&d=f5e (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1172,12 +1172,12 @@
       "localFile": "pdfs/2026-10-17-09-original.pdf",
       "localExists": true,
       "localBytes": 563598,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=3_Begrundung_FNPA+Solarpark.pdf&m=7505&i=3&fl=53061470&d=ed4",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=3_Begrundung_FNPA+Solarpark.pdf&m=7505&i=3&fl=53061470&d=ed4 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1189,12 +1189,12 @@
       "localFile": "pdfs/2026-10-17-10-original.pdf",
       "localExists": true,
       "localBytes": 149548,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Flachensteckbrief_FNPA+Solarpark.pdf&m=7505&i=4&fl=53061470&d=347",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=4_Flachensteckbrief_FNPA+Solarpark.pdf&m=7505&i=4&fl=53061470&d=347 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1206,12 +1206,12 @@
       "localFile": "pdfs/2026-10-17-11-original.pdf",
       "localExists": true,
       "localBytes": 7863249,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1223,12 +1223,12 @@
       "localFile": "pdfs/2026-10-17-13-original.pdf",
       "localExists": true,
       "localBytes": 206154,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=1_Cover_Satzungen_BP_Solarpark_B294.pdf&m=7507&i=1&fl=53061479&d=060",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=1_Cover_Satzungen_BP_Solarpark_B294.pdf&m=7507&i=1&fl=53061479&d=060 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1240,12 +1240,12 @@
       "localFile": "pdfs/2026-10-17-14-original.pdf",
       "localExists": true,
       "localBytes": 1014169,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=2_Planteil_BP_Solarpark_B294.pdf&m=7507&i=2&fl=53061479&d=fc0",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=2_Planteil_BP_Solarpark_B294.pdf&m=7507&i=2&fl=53061479&d=fc0 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1257,12 +1257,12 @@
       "localFile": "pdfs/2026-10-17-15-original.pdf",
       "localExists": true,
       "localBytes": 222297,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=3_Bebauungsvorschriften_BP_Solarpark_B294.pdf&m=7507&i=3&fl=53061479&d=7c1",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=3_Bebauungsvorschriften_BP_Solarpark_B294.pdf&m=7507&i=3&fl=53061479&d=7c1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Denzlingen",
@@ -1274,12 +1274,12 @@
       "localFile": "pdfs/2026-10-17-16-original.pdf",
       "localExists": true,
       "localBytes": 440500,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172",
-      "contentType": "application/pdf",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.denzlingen.de', port=443): Max retries exceeded with url: /eip/eip_media.php?f=4_Begrundung_BP_Solarpark_B294.pdf&m=7507&i=4&fl=53061479&d=172 (Caused by NewConnectionError(\"HTTPSConnection(host='www.denzlingen.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "municipality": "Grafenau",
@@ -1433,6 +1433,75 @@
       "finalUrl": "https://www.myeblaettle.de/frontend/catalogs/1140081/1/pdf/complete.pdf",
       "contentType": "application/pdf;charset=UTF-8",
       "error": ""
+    },
+    {
+      "municipality": "Merzhausen",
+      "documentTitle": "Merzhausen Sauermatten 6a: kommunales Angebot",
+      "documentType": "Kommunales Original / historischer Planungsstand",
+      "pages": "4",
+      "publicUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
+      "currentSourceUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
+      "contentType": "text/html",
+      "error": ""
+    },
+    {
+      "municipality": "Merzhausen",
+      "documentTitle": "Sachsenheimer-Areal: Paket zur zweiten Offenlage, Stand 15.02.2024",
+      "documentType": "Kommunales Original / historischer Planungsstand",
+      "pages": "55",
+      "publicUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/B-Plan_Sachsenheimer_Areal_Bebauungsplanentwurf_2._Offenlage.pdf",
+      "currentSourceUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/B-Plan_Sachsenheimer_Areal_Bebauungsplanentwurf_2._Offenlage.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/B-Plan_Sachsenheimer_Areal_Bebauungsplanentwurf_2._Offenlage.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Merzhausen",
+      "documentTitle": "Sachsenheimer-Areal: hydraulische Stellungnahme, September 2015",
+      "documentType": "Kommunales Original / historischer Planungsstand",
+      "pages": "6",
+      "publicUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/Sachsenheimer-Areal_Stellungnahme_Hochwassersituation.pdf",
+      "currentSourceUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/Sachsenheimer-Areal_Stellungnahme_Hochwassersituation.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/Sachsenheimer-Areal_Stellungnahme_Hochwassersituation.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Überregional",
+      "documentTitle": "NVIDIA DSX POD: Herstellerankündigung vom 21.10.2026",
+      "documentType": "Hersteller-Pressemitteilung",
+      "pages": "2",
+      "publicUrl": "https://nvidianews.nvidia.com/_gallery/download_pdf/6ad8879c3d6332411b334c8c/",
+      "currentSourceUrl": "https://nvidianews.nvidia.com/_gallery/download_pdf/6ad8879c3d6332411b334c8c/",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://nvidianews.nvidia.com/_gallery/download_pdf/6ad8879c3d6332411b334c8c/",
+      "contentType": "application/pdf; charset=utf-8",
+      "error": ""
     }
-  ]
+  ],
+  "method": "Vollprüfung, danach gezielte Nachprüfung der ersetzten Ankum-Dokumentquelle."
 }

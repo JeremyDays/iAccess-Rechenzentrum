@@ -1232,8 +1232,8 @@
   {
     "municipality": "Ankum",
     "title": "Kurzerläuterung Bebauungsplan Nr. 66 Sondergebiet Rechenzentrum am Lordsee",
-    "url": "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
-    "file": "pdfs\\ankum-kurzerläuterung-bebauungsplan-nr-66-sondergebiet-rechenzentrum-am-lordsee.pdf",
+    "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-22-ankum-66-original.pdf",
+    "file": "pdfs/2026-10-22-ankum-66-original.pdf",
     "pages": 4,
     "characters": 15317,
     "snippets": [
@@ -1309,7 +1309,12 @@
         "page": 3,
         "text": "nstleistungen. Da der Standort Ankum im baurechtlichen Außenbereich (§ 35 BauGB) liegt, sind die nach § 35 BauGB gegebenen Möglichkeiten zur baulichen Erweiterung ausge- schöpft. Durch die vorliegende Bauleitplanung sollen die aktuellen Erweiterungsabsichten ermöglicht und zukünftige Entwicklungsmöglichkeiten planungsrechtlich gesichert werden. Hierzu ist die Festset- zung von Sondergebieten nach § 11 BauNVO (sonstige Sondergebiete) mit zwei unterschiedlichen Zweckbestimmungen geplant. · Im nördlichen Teil des Plangebiets wird das ca. 1,3 ha großes Sondergebiet 1 (SO1) mit der Zweckb e- stimmung „Rechenzentrum“ ausgewiesen. In dieser Fläche besteht bereits das derzeitige Firmenge- bäude mit Parkplätzen und sonstige Außenanlagen; zwei ehemalige landwirtschaftliche Gebäude wur- den für die geplante Betriebserweiterung im Jahr 2021 bereits abgerissenen. Im SO1 sollen insbeson- dere die ..."
       }
-    ]
+    ],
+    "originalSourceHistory": {
+      "url": "https://sgbsb.de/wp-content/uploads/2024/09/66_Kurzerlaeuterung.pdf",
+      "checkedOn": "2026-10-22",
+      "status": 404
+    }
   },
   {
     "municipality": "Heusenstamm",
@@ -1435,5 +1440,31 @@
     "pages": 75,
     "characters": 0,
     "snippets": []
+  },
+  {
+    "municipality": "Denzlingen / Voerstetten",
+    "title": "RP Freiburg Bekanntmachung 110-kV-Leitung Anschluss Denzlingen",
+    "url": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung_Denzlingen.pdf",
+    "file": "pdfs/rp-freiburg-denzlingen-110kv-bekanntmachung.pdf",
+    "pages": 4,
+    "characters": 10354,
+    "snippets": [
+      {
+        "page": 1,
+        "text": "1 Bekanntmachung 110-kV-Leitung Anschluss Denzlingen (Anlage 3590) Ersatzneubau mit Leistungserhöhung Einleitung des Planfeststellungsverfahrens durch das Regierungspräsidium Frei- burg und Möglichkeit zur Einsichtnahme in die Planunterlagen Die Netze BW GmbH hat die Feststellung des Planes nach § 43 Energiewirtschaftsgesetz (EnWG) i. V. m. §§ 72 ff. Landesverwaltungsverfahrensgesetz (LVwVfG) für den o.g. Er- satzneubau der Anlage 3590 in Denzlingen beantragt. 1. Der geplante Ersatzneubau beginnt am nördlichen Ortsrand von Vörstetten, führt nach Nordosten, kreuzt die B 3 und umrundet Denzlingen im Norden bis zum Umspannwerk. Um die zu erwartenden Einspeisungen durch erneuerbare Energien auch in Zukunft in der Region zuverlässig aufnehmen und verteilen zu können sowie die Versorgungssi- cherheit und Netzstabilität zu gewährleisten, will Netze BW die Leitungsanlage mit einer höheren Übertr"
+      },
+      {
+        "page": 2,
+        "text": "2 Einwendungen gegen den Plan erheben (Einwendungsfrist). Vereinigungen, die auf Grund einer Anerkennung nach anderen Rechtsvorschriften be- fugt sind, Rechtsbehelfe nach der Verwaltungsgerichtsordnung gegen die Entscheidung nach § 74 LVwVfG einzulegen, werden hiermit entsprechend von der Möglichkeit der Einsichtnahme benachrichtigt. Gleichzeitig wird ihnen Gelegenheit gegeben, innerhalb der oben genannten Einwendungsfrist schriftlich Stellung zu nehmen. Für die Fristwahrung ist der Eingang der Einwendung bzw. Stellungnahme beim Regie- rungspräsidium Freiburg oder beim Bürgermeisteramt maßgeblich. Mit Ablauf der Ein- wendungsfrist sind für das Planfeststellungsverfahren alle Einwendungen gegen den Plan ausgeschlossen, die nicht auf besonderen privatrechtlichen Titeln beruhen. Dies gilt entsprechend auch für Stellungnahmen der Vereinigungen. Die Schriftform der Einwendung bzw. der Stellun"
+      },
+      {
+        "page": 3,
+        "text": "3 Träger des Vorhabens, den Behörden, den Vereinigungen, den Betroffenen sowie den Personen, die Einwendungen erhoben haben, in einer mündlichen Verhandlung erörtert werden (Erörterungstermin). Es wird darauf hingewiesen, dass nach § 43a Nr. 3 EnWG ein Erörterungstermin nicht stattfindet, wenn Einwendungen gegen das Vorhaben nicht oder nicht rechtzeitig erho- ben worden sind, die rechtzeitig erhobenen Einwendungen zurückgenommen worden sind, ausschließlich Einwendungen erhoben worden sind, die auf privatrechtlichen Ti- teln beruhen, oder alle Einwender auf einen Erörterungstermin verzichten. Im Übrigen kann gem. § 43a Nr. 3 S. 1 EnWG auf einen Erörterungstermin verzichtet werden. Dies kann insbesondere dann erfolgen, wenn nur wenige Einwendungen erhoben oder Stel- lungnahmen abgegeben worden sind. Findet ein Erörterungstermin statt, wird dieser mindestens eine Woche vorher ortsüblich bek"
+      },
+      {
+        "page": 4,
+        "text": "4 Das Regierungspräsidium bittet weiterhin um Beachtung nachfolgender Punkte:  Kosten, die durch Einsichtnahme in Planunterlagen, die Erhebung von Einwendun- gen und Teilnahme am Erörterungstermin entstehen, können nicht erstattet werden.  Entschädigungsansprüche, soweit über sie nicht im Planfeststellungsbeschluss dem Grunde nach zu entscheiden ist, werden nicht im Planfeststellungsverfahren, son- dern in einem gesonderten Entschädigungsverfahren behandelt.  Von Beginn des Einsichtnahmezeitraums an tritt die Veränderungssperre auf den vom Plan in Anspruch genommenen Grundstücken nach § 44a Abs. 1 EnWG in Kraft. Außerdem steht ab diesem Zeitpunkt dem Vorhabenträger nach § 44a Abs. 3 EnWG ein Vorkaufsrecht an den vom Plan betroffenen Flächen zu. Allgemeine Informationen zum Thema Planfeststellung können auf der Internetseite https://rp.baden-wuerttemberg.de/rpf/abt2/ref24/ abgerufen we"
+      }
+    ]
   }
 ]

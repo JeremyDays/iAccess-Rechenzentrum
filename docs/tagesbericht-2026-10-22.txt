@@ -1,0 +1,55 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 22. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und eigene Bewertung
+Kein neuer gesicherter Rechenzentrumsstandort. Der regionale Hinweis in Merzhausen wurde vertieft und wegen konkurrierender Nutzungsplanung sowie historischer Hochwasserbetroffenheit niedrig priorisiert. Das neue NVIDIA-Containerkonzept ist als Herstellerankündigung erfasst. Für heute ist keine Entscheidung oder Kontaktfreigabe erforderlich.
+
+Merzhausen: In den Sauermatten 6a
+Belegt durch öffentliches kommunales Angebot: 1.774 Quadratmeter, Erbbaurecht und ein noch aufzustellendes Mischgebiet. Das Portal nennt als Verfügbarkeitsdatum den 25. Juni 2025; dies bestätigt keine heutige Verfügbarkeit. Die Maßangabe 18 x 53 Meter ergibt 954 Quadratmeter und erklärt die größere Gesamtfläche nicht. Keine nutzbare Rechenzentrumsfläche daraus berechnet.
+Die kommunale Projektseite beschreibt für dieselbe Adresse das Sachsenheimer-Areal mit Gewerbe, preiswertem Wohnen und sozialen Nutzungen. Der relevante Abschnitt trägt einen Stand von März 2024. Das Planungspaket zur zweiten Offenlage enthält Unterlagen vom 15. Februar 2024. Auf Dateiseite 47 nennt die Begründung eine damalige vollflächige Betroffenheit durch das hundertjährliche Hochwasser. Die hydraulische Stellungnahme stammt von September 2015; sie wurde als historisch erkannt. Die mögliche Wirkung späterer Hochwasserschutzmaßnahmen auf diese Parzelle ist nicht nachgewiesen.
+Eigene Schlussfolgerung: Niedrige Priorität für ein eigenständiges Container-Rechenzentrum. Ein technischer Ausbau müsste insbesondere mit Wohnen, Schall und Hochwasserschutz vereinbar sein. Die bestehende Planung beweist weder einen endgültigen Ausschluss noch eine Genehmigung des konkreten Rechenzentrumsvorhabens.
+Offen: aktuelles Vergabeverfahren, heutige Verfügbarkeit, rechtskräftige Planung, aktuelle parzellenscharfe Hochwasserlage, Verbrauchsnetzanschluss, Glasfaserwege, Kühlung, Brandschutz und Löschwasser. Keine Preise aus dem älteren Projekttext als heutige Kosten übernommen.
+Quellen:
+https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29
+https://www.merzhausen.de/unsere-gemeinde/projekte/aktuelle-projekte
+https://www.merzhausen.de/unsere-gemeinde/hochwasser-und-starkregen/hochwasserschutz
+Planungspaket 2024: https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/B-Plan_Sachsenheimer_Areal_Bebauungsplanentwurf_2._Offenlage.pdf
+Hydraulische Stellungnahme 2015: https://www.merzhausen.de/fileadmin/Gemeinde_Merzhausen/Dateien/Projekte/Aktuelles_Projekte/Sachsenheimer-Areal_Stellungnahme_Hochwassersituation.pdf
+
+NVIDIA DSX POD: neues Containerkonzept
+Belegt ist die Herstellerankündigung vom 21. Oktober 2026: vorintegrierte Vera-Rubin-Systeme in modularen Containern, Partnerlieferungen für Anfang 2027 angekündigt. Die beworbenen bis zu 14 Tage gelten für einen vorbereiteten Standort. Der technische Herstellerbeitrag nennt 800 Volt Gleichspannung an der Containerschnittstelle und Flüssigkühlung. Vorgelagerte Stromversorgung, Wärmeabfuhr und externe Netze müssen standortbezogen bereitgestellt werden.
+Eigene Schlussfolgerung: Für die Beobachtung modularer Lösungen relevant. Keine bestätigte Lieferbarkeit, unabhängige Leistungsprüfung oder Übertragbarkeit auf kleine Standorte. Modulleistung, Mindestgröße, Kosten, Transport und Genehmigung bleiben projektspezifisch zu klären. Die zwei Herstellerbeiträge sind keine voneinander unabhängigen Bestätigungen. Kein neuer iAccess-Partner.
+Quellen:
+https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment
+https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod/
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen.
+26 noch offene kommunale Prüfpfade bearbeitet. 18 Gemeinden lieferten lokal abrufbare Inhalte. Ergänzend konnten Denzlingen, Freiburg und Bötzingen über das Webwerkzeug gelesen werden; dieser Zugriff kann indexierte Fassungen liefern und ersetzt keine aktuelle vollständige Aktenprüfung. Bei fünf weiteren Gemeinden blieb heute der Inhaltsabruf erfolglos: Gottenheim, Teningen, Glottertal, Kirchzarten und Kehl. Die 82 direkten Abruffehler blieben auch nach einem gezielten Wiederholungsversuch bestehen. Keine negativen Standortbefunde daraus abgeleitet.
+Die Quellenmatrix enthält Gemeinde-, Rats-, Planungs-, Amtsblatt- und Wirtschaftspfade sowie fehlende Kategorien. Die elf Suchbegriffe wurden auf den lokal ausgelesenen Texten geprüft. Kein vollständiger Aktenabschluss in einer der 26 Gemeinden behauptet. In Merzhausen zusätzlicher Flächenhinweis bewertet; in den übrigen erreichbaren Quellen kein neuer bestätigter Rechenzentrumsfund. Bestehende positive und offene Befunde erhalten.
+
+Nachrichten und offene Netzunterlagen
+Nachrichtensuche beziehungsweise Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse, Betreiber und Netzbetreiber. Neue fachlich relevante Meldung anhand der zwei NVIDIA-Originalquellen vertieft. Suchindex- und Abruflücken verhindern eine vollständige Negativaussage zu allen Tagesmeldungen.
+Die bereits mehrfach gescheiterten Netze-BW-Detailunterlagen zu Vergabekriterien und vollständigem Verfahren wurden heute nicht erneut abgerufen. Sie bleiben ausdrücklich ungeprüft. Aus den vorhandenen allgemeinen Verfahrensseiten folgt keine Anschlusszusage. Keine doppelten Einträge für bekannte Solarpark-, Netz-, Langmatt- oder Tunsel-Erkenntnisse erzeugt.
+
+Lokale Sicherung und Dokumente
+302 unterschiedliche direkte Rechercheadressen, 220 erfolgreich lokal gesichert; 16 zusätzliche Adressen im Quellenverzeichnis. Wiederholte Sicherungen sind keine neuen Erkenntnisse.
+32 unterschiedliche Dokumentdateien mit 359 Seiten erfasst und Texte ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 6 Dateiinhalte neu gegenüber dem Archiv; darunter historische Unterlagen. Bei 2 Dateien bleibt die Textauslesbarkeit eingeschränkt. Keine vollständige visuelle Prüfung aller 359 Seiten behauptet. Merzhauser Exposé und maßgebliche Hochwasseraussage im Planpaket zusätzlich visuell geprüft.
+Vier Dokumentquellen neu in der Datenbank: kommunales Merzhauser Exposé, Planungspaket zur zweiten Offenlage 2024, hydraulische Stellungnahme 2015 und NVIDIA-Pressemitteilung 2026. Originale im lokalen Quellenarchiv gesichert und öffentliche Originalquellen verlinkt. Keine zusätzlichen Dateikopien dieser vier neuen Dokumentquellen auf GitHub veröffentlicht. Separat wurde ein bereits vorhandenes vierseitiges Ankum-Archivoriginal als Ersatz für eine inzwischen defekte Quelle bereitgestellt. Prüfsumme und öffentlich abrufbare Ersatzdatei stimmen überein. Der Vorentwurf vom 24. Juli 2024 ist kein neuer Planungsstand. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen; die Karten der Bauleitplanung wurden nicht als Rechenzentrumszeichnung ausgegeben.
+
+Verfügbarkeit und Linkprüfung
+88 erfasste Dokumentquellen geprüft: 54 erreichbar, 34 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; vier neue Originale zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1546 unterschiedliche öffentliche Links geprüft: 1241 erreichbar, 305 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Die zwei defekten Quelladressen wurden ersetzt und die Ersatzadressen anschließend gezielt geprüft.
+Zwei defekte Quelladressen berichtigt: Ankum auf die geprüfte Archivoriginal-Kopie; Freudenstadt auf den erreichbaren offiziellen mobilen Rathauszugang. Der historische Freudenstadt-Befund wurde dadurch nicht inhaltlich neu bestätigt.
+Die Prüfskripte unterscheiden jetzt auch Verbindungsablehnungen und Zeitüberschreitungen von nachgewiesen defekten Adressen. Solche Fehler bleiben als nicht prüfbar gekennzeichnet; sie werden nicht als erreichbar gezählt. Auch Serverfehler gelten als Prüflücke. Der geänderte Fehlerfall wurde gezielt geprüft.
+
+Fragen, Uploads und Statistiken
+Keine neuen oder freigegebenen Fragen, keine verdächtigen Fragen und keine manuellen Uploads. Im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 192 auf 194; Dokumenteinträge 84 auf 88; Standort-Prüfeinträge 27 auf 28; Bauleitpläne 28 auf 29. Der neue Standort-Prüfeintrag ist niedrig priorisiert und unbestätigt. Unverändert: Unternehmen 22, Planungsfälle 7, Netzprüfungen 12, Konnektivitätsprüfungen 7, Medien 5, technische Zeichnungen 6. Keine neue gesicherte Fläche und kein neuer Partner.
+
+Nächster Schritt
+Bei Merzhausen zuerst aktuelle Nutzungsbindung, Vergabe und Hochwasserlage klären, bevor technische Planung sinnvoll ist. Die drei weiteren bislang nicht vertieften regionalen Angebote Neuenburg, Titisee-Neustadt und Vogtsburg bleiben offen. Kontaktaufnahme zu Dritten wurde nicht durchgeführt. Keine Registrierung und keine Einträge in fremden Projektportalen.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

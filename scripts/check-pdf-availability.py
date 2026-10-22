@@ -23,14 +23,14 @@ def check_url(url):
             response = requests.get(url, headers=headers, timeout=30, allow_redirects=True, stream=True)
         return {
             "ok": 200 <= response.status_code < 400,
-            "blocked": response.status_code in {403, 429},
+            "blocked": response.status_code in {403, 429} or response.status_code >= 500,
             "status": response.status_code,
             "finalUrl": response.url,
             "contentType": response.headers.get("content-type", ""),
             "error": "",
         }
     except Exception as exc:
-        return {"ok": False, "blocked": False, "status": None, "finalUrl": "", "contentType": "", "error": str(exc)}
+        return {"ok": False, "blocked": isinstance(exc, (requests.ConnectionError, requests.Timeout)), "status": None, "finalUrl": "", "contentType": "", "error": str(exc)}
 
 
 def main():
