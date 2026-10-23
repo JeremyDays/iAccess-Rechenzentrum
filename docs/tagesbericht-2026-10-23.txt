@@ -1,0 +1,55 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 23. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+Keine neue gesicherte Rechenzentrumsfläche. Das Neuenburger Angebot wird vorerst nicht als positiver Standort geführt. Neu relevant ist das FairNetz-Anmeldefenster bis 6. November 2026. Falls ein konkretes Projekt im FairNetz-Netzgebiet vorliegt, wären Zuständigkeit, Unterlagen und Teilnahmefrist kurzfristig zu prüfen. Ein solches konkretes Vorhaben ist in diesem Lauf nicht belegt. Keine Anmeldung oder Kontaktaufnahme ausgeführt.
+
+Neuenburg am Rhein: Angebot mit Einschränkungen
+Belegt als Anbieterangaben: zwei teilweise bebaute Gewerbegrundstücke mit insgesamt 8.542 Quadratmetern, Kaufangebot und Verfügbarkeit ab 24. Juli 2026. In der öffentlichen Detailansicht steht ausdrücklich, dass ein 24-Stunden-Betrieb nicht möglich sei. Das vierseitige Exposé nennt außerdem eine Veränderungssperre und beschreibt bestehende Hallen, Garagen sowie ein Büro- und Wohnhaus. Die Einordnung des Portals als Freifläche bedeutet deshalb keine unbebaute Fläche.
+Die kommunalen Übersichten zu bestehenden und laufenden Bebauungsplänen sowie Rats- und Stadtzeitungszugänge wurden geprüft. Ohne genaue Adresse und Flurstücke konnte das Angebot keiner bestimmten Planung oder amtlichen Veränderungssperre eindeutig zugeordnet werden. Die genannte Sperre ist daher eine Anbietererklärung, kein eigenständig bestätigter aktueller Rechtsbefund. Die Gemeinde weist zudem auf Grenzen der Vollständigkeit ihrer Planübersicht hin.
+Eigene Schlussfolgerung: Vorerst zurückstellen. Dauerbetrieb, Grundstückszuordnung, Baurecht und tatsächliche Verfügbarkeit müssten vor einer technischen Vertiefung geklärt sein. Kein neuer Standort-Prüfeintrag und kein Netzanschluss, Glasfaserweg, Schallschutz oder Wärmeabnehmer nachgewiesen.
+Quelle: https://gewerbeimmo-freiburg.findyourland.de/object/79395/PROPERTY/f62f33c2-2132-4d48-b84d-4ee829cd577e
+Amtlicher Planindex: https://www.neuenburg.de/site/Neuenburg2020/node/533754/bebauungspl_ne_allgemein.html
+
+FairNetz: laufendes Anmeldefenster
+Betreiberseite: erste Vergaberunde vom 19. Oktober bis 6. November 2026, Rückmeldung voraussichtlich April 2027. Grundsätzlich betrifft das Punkteverfahren Anschlüsse und Erhöhungen ab 950 Kilowatt Gesamtanmeldeleistung; maßgeblich ist nicht allein die zusätzliche Leistung. Bestimmte Speicherkonstellationen können auch darunter erfasst sein. Ausnahmen und tatsächlicher Netzbetreiber sind projektspezifisch zu prüfen.
+Laut Betreiber werden noch nicht beschiedene Anfragen ohne Anschlusszusage nicht automatisch in die neue Vergaberunde übernommen. Vollständige Nachweise sind erforderlich. Eine Zuteilung bedeutet keinen sofort herstellbaren Anschluss; die Seite nennt abhängig vom Ausbau einen Zeitraum bis zu drei Jahren. Keine reservierte Leistung für iAccess daraus abgeleitet.
+Quelle: https://www.fairnetzgmbh.de/vergabeverfahren-netzanschlussleistungen
+
+Netze BW: aktuelle Unterlage erhalten, Unterschiede sichtbar
+Die aktuell verlinkte Betreiberfassung Version 1.1 vom 16. Oktober 2026 konnte über die öffentliche Downloadadresse vollständig heruntergeladen werden: 15 Dateiseiten, davon 13 nummerierte Inhaltsseiten. Damit liegt eine aktuelle konkrete Verfahrensunterlage einschließlich Bewertungskriterien vor. Dies ist kein Nachweis, dass die zuvor fehlgeschlagenen älteren Dateiadressen wieder funktionieren oder inhaltlich identisch sind.
+Wesentlicher Unterschied bei der Mindeststufe der Flächensicherung: Netze BW verlangt bei fremdem Grundstück eine Eigentümererklärung zur exklusiven Nutzung mindestens bis zum Ende des Anmeldezeitraums. Fundstelle: Dateiseite 8, gedruckte Seite 6. Dagegen nennt die von FairNetz verlinkte allgemeine Verbandsempfehlung vom 5. August 2026, Anlage A Seite 2, mindestens zwölf Monate Bindung ab Antragseinreichung. Die Passagen wurden zusätzlich visuell kontrolliert. Höhere Punktestufen besitzen gesonderte Anforderungen.
+Eigene Schlussfolgerung: Den Nachweiskatalog der tatsächlich zuständigen Betreiberfassung verwenden. Keine pauschale Übertragung der Verbandsempfehlung auf Netze BW und keine Verallgemeinerung der Mindeststufe auf höhere Punktestufen. Dieser Vergleich ist eine eigene Quellenprüfung, keine unabhängige rechtliche Prüfung.
+Netze BW: https://assets.cdn.netze-bw.de/xytfb1vrn7of/2k017cOqd87lxuZruWCjKS/15d3da011d455ea8c1f47a7a357bbeba/vergabeverfahren-netze-bw.pdf
+Verbandsempfehlung Anlage A: https://www.vfew-bw.de/media/documents/20260805_VfEW-Handlungsempfehlung-Vergabeverfahren_Anlage_A.pdf?page_slug=handreichung-zum-netzanschluss-vergabeverfahren-und-priorisierung-fuer-letztverbraucher
+
+Modulare Systeme und Netzausbau
+Crusoe kündigte am 21. Oktober 2026 Spark Liquid mit bis zu 3,5 Megawatt Rechenleistung pro Modul und geschlossener Flüssigkühlung an; Fertigung für 2027 beschrieben. Die Plattform dient vor allem Crusoe Cloud. Ältere Betriebsreferenzen der Spark-Familie belegen keine bereits ausgelieferte Liquid-Generation. Rechenleistung ist keine Angabe des gesamten Netzbezugs. Eigene Schlussfolgerung: Modular bedeutet nicht automatisch klein oder unterhalb der Vergabeschwellen. Keine Lieferbarkeit in Baden-Württemberg oder iAccess-Partnerschaft bestätigt.
+Quelle: https://www.crusoe.ai/resources/newsroom/crusoe-introduces-crusoe-spark-liquid
+Das Umweltministerium meldet am 20. Oktober den Arbeitsbeginn der Task Force Netzausbaubeschleunigung. Dies ist ein politischer Arbeitsprozess, keine gesicherte zusätzliche Anschlussleistung oder objektscharfe Fertigstellungszusage.
+Quelle: https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/versorgungssicherheit/netzausbau/task-force-netzausbaubeschleunigung
+
+Gemeinden und Quellenumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg.
+27 offene Gemeindeprüfungen fortgeführt, bei 26 direkt abrufbare Inhalte. Ohne erfolgreichen Inhaltsabruf: Gottenheim. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie alle elf Suchbegriffe wurden in den verfügbaren Texten berücksichtigt. Keine vollständigen Aktenabschlüsse behauptet. Quellenmatrix und Abdeckungsdatei dokumentieren fehlende Kategorien und Detailprüfungen. Kein neuer bestätigter Rechenzentrumsfund; Neuenburg liefert den zurückgestellten Angebotsbefund. Kein Treffer beziehungsweise fehlender Zugriff ist kein Standort-Ausschluss.
+Nachrichtensuche und Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse, Betreiber und Netzbetreiber. Neue Hinweise wurden anhand der genannten Originalquellen vertieft. Keine vollständige Erfassung sämtlicher Tagesmeldungen behauptet; bekannte NVIDIA-, Amazon-, Solarpark-, Langmatt- und Tunsel-Meldungen nicht nochmals als neu eingetragen.
+
+Lokale Sicherung und Dokumente
+358 unterschiedliche Rechercheadressen, 339 erfolgreich lokal gesichert; 24 zusätzliche Adressen im Quellenverzeichnis. 19 Abruffehler dokumentiert. Wiederholte Sicherungen bekannter Adressen sind keine neuen Erkenntnisse.
+51 unterschiedliche Dokumentdateien mit 846 Seiten erfasst und Text ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 9 Dateiinhalte neu gegenüber dem bisherigen Archiv. Bei 8 Dateien blieb die Textauslesbarkeit eingeschränkt. Keine vollständige visuelle Prüfung aller Seiten behauptet. Neue Gundelfinger Nachrichten und Freiburger Ebnet-Mitteilungen von Oktober 2026 von historischen Planungen unterschieden. Schall- und Umweltunterlagen zum Sportzentrum Hexental betreffen nicht den Merzhauser Grundstückshinweis Sauermatten 6a; sie wurden nicht auf diesen übertragen.
+Fünf Dokumentquellen neu in der Datenbank: Neuenburger Exposé, FairNetz-Liste der Wirtschaftszweige, allgemeines Verbandsverfahren, dessen Anlage A und aktuelle Netze-BW-Verfahrensunterlage. Alle Originale lokal archiviert und öffentlich über die Originalquellen verlinkt. Keine zusätzlichen Dateikopien auf GitHub veröffentlicht. Keine neuen Fotos, technischen Rechenzentrumszeichnungen oder Partner.
+
+Verfügbarkeit und Linkprüfung
+93 erfasste Dokumentquellen geprüft: 91 erreichbar, 2 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; fünf neue Originale zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1554 unterschiedliche öffentliche Links geprüft: 1476 erreichbar, 78 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen oder freizugebenden Fragen, keine verdächtigen Fragen und keine manuellen Uploads. Im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 194 auf 198, Dokumenteinträge 88 auf 93, Netzprüfungen 12 auf 13. Bestehender Netze-BW-Hinweis und zugehörige Netzprüfung aktualisiert. Unverändert: Standort-Prüfeinträge 28, Unternehmen 22, Planungsfälle 7, Bauleitpläne 29, Konnektivitätsprüfungen 7, Medien 5 und technische Zeichnungen 6. Kein neuer gesicherter Standort und kein neuer Partner.
+
+Nächster Schritt
+Bei einem konkreten FairNetz-Projekt die Frist bis 6. November und den vollständigen Nachweissatz priorisieren. Neuenburg erst nach Grundstückszuordnung und Klärung des Dauerbetriebs weiterverfolgen. Die noch offenen regionalen Listenhinweise Titisee-Neustadt und Vogtsburg können anschließend vertieft werden. Keine Anfragen an Dritte, keine Registrierung und keine Einträge in fremden Projektportalen ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

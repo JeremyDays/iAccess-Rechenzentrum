@@ -3014,6 +3014,86 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/nvidianews.nvidia.com/92981636b0e075f9.pdf",
       "tags": "Originalquelle, Stand ausdrücklich beachten"
+    },
+    {
+      "id": "id-2026-10-23-pdf-01",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "municipality": "Neuenburg am Rhein",
+      "documentTitle": "Neuenburg: Anbieterexposé, zwei teilweise bebaute Gewerbegrundstücke",
+      "documentType": "Originalexposé",
+      "pages": "4",
+      "keyFacts": "8.542 Quadratmeter und behauptete Veränderungssperre; keine genaue Grundstückszuordnung. Dauerbetrieb laut Portal nicht möglich.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Standortgenehmigung belegt.",
+      "planningFacts": "Original lokal archiviert und über Originalquelle öffentlich verlinkt; keine zusätzliche Dateikopie veröffentlicht.",
+      "sourceUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79395/PROPERTY/f62f33c2-2132-4d48-b84d-4ee829cd577e",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/gewerbeimmo-freiburg.findyourland.de/214edd36dbd2c7f2.pdf",
+      "tags": "Original, Dokumentstand beachten"
+    },
+    {
+      "id": "id-2026-10-23-pdf-02",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "municipality": "Baden-Württemberg / betreiberspezifisch",
+      "documentTitle": "FairNetz: Übersicht Wirtschaftszweige zur Daseinsvorsorge",
+      "documentType": "Betreiberunterlage / Verbandsempfehlung",
+      "pages": "2",
+      "keyFacts": "Betreiberverlinkte Positivliste; kein automatischer Nachweis, dass ein gewöhnliches Rechenzentrum bevorzugt wird.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Standortgenehmigung belegt.",
+      "planningFacts": "Original lokal archiviert und über Originalquelle öffentlich verlinkt; keine zusätzliche Dateikopie veröffentlicht.",
+      "sourceUrl": "https://www.fairnetzgmbh.de/Downloads/PDF/Strom/Netzanschluss/WZ_Codes.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.fairnetzgmbh.de/37e49b013cfb7fdb.pdf",
+      "tags": "Original, Dokumentstand beachten"
+    },
+    {
+      "id": "id-2026-10-23-pdf-03",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "municipality": "Baden-Württemberg / betreiberspezifisch",
+      "documentTitle": "Verband für Energie- und Wasserwirtschaft: Bewertungskriterien Anlage A, 05.08.2026",
+      "documentType": "Betreiberunterlage / Verbandsempfehlung",
+      "pages": "10",
+      "keyFacts": "Allgemeine Verbandsempfehlung; von FairNetz verlinkt. Seite 2: mindestens zwölf Monate Bindung ab Einreichung in der Mindeststufe; keine automatische Übertragung auf Netze BW.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Standortgenehmigung belegt.",
+      "planningFacts": "Original lokal archiviert und über Originalquelle öffentlich verlinkt; keine zusätzliche Dateikopie veröffentlicht.",
+      "sourceUrl": "https://www.vfew-bw.de/media/documents/20260805_VfEW-Handlungsempfehlung-Vergabeverfahren_Anlage_A.pdf?page_slug=handreichung-zum-netzanschluss-vergabeverfahren-und-priorisierung-fuer-letztverbraucher",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.vfew-bw.de/9ca9854638b529c8.pdf",
+      "tags": "Original, Dokumentstand beachten"
+    },
+    {
+      "id": "id-2026-10-23-pdf-04",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "municipality": "Baden-Württemberg / betreiberspezifisch",
+      "documentTitle": "Verband für Energie- und Wasserwirtschaft: Vergabeverfahren für Letztverbraucher, 05.08.2026",
+      "documentType": "Betreiberunterlage / Verbandsempfehlung",
+      "pages": "7",
+      "keyFacts": "Allgemeine Handlungsempfehlung zum Punkteverfahren; konkrete Fristen und Betreiberfassungen haben gesonderte Geltungsbereiche.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Standortgenehmigung belegt.",
+      "planningFacts": "Original lokal archiviert und über Originalquelle öffentlich verlinkt; keine zusätzliche Dateikopie veröffentlicht.",
+      "sourceUrl": "https://www.vfew-bw.de/media/documents/20260805_VfEW-Handlungsempfehlung-Vergabeverfahren.pdf?page_slug=handreichung-zum-netzanschluss-vergabeverfahren-und-priorisierung-fuer-letztverbraucher",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.vfew-bw.de/146b06ed597c5645.pdf",
+      "tags": "Original, Dokumentstand beachten"
+    },
+    {
+      "id": "id-2026-10-23-pdf-05",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "municipality": "Baden-Württemberg / betreiberspezifisch",
+      "documentTitle": "Netze BW: Vergabeverfahren, Version 1.1, Stand 16.10.2026",
+      "documentType": "Betreiberunterlage / Verbandsempfehlung",
+      "pages": "15",
+      "keyFacts": "15 Dateiseiten mit 13 nummerierten Inhaltsseiten. Betreiberregelungen und Flächensicherung; Mindeststufe von allgemeiner Verbandsempfehlung unterscheiden.",
+      "technicalFacts": "Keine freie elektrische Anschlussleistung oder Standortgenehmigung belegt.",
+      "planningFacts": "Original lokal archiviert und über Originalquelle öffentlich verlinkt; keine zusätzliche Dateikopie veröffentlicht.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2k017cOqd87lxuZruWCjKS/15d3da011d455ea8c1f47a7a357bbeba/vergabeverfahren-netze-bw.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/f4bc2fc291e8edc6.pdf",
+      "tags": "Original, Dokumentstand beachten"
     }
   ],
   "media": [
@@ -7035,14 +7115,16 @@
     {
       "id": "id-2026-10-20-netzebw-vergabe",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-10-23",
       "title": "Netze BW: Vergabeverfahren für große Bezugsanschlüsse präzisiert",
       "topic": "Netzanschluss / Verfahrensanforderungen",
       "summary": "Aktuelle Verfahrensseite nennt Mittel- und Hochspannungsbezug ab 950 Kilowatt sowie Speicher mit Netzbezug unabhängig von der Leistung. Die Mitteilung vom 13.08.2026 plant die erste Anmeldung 01.11.–31.12.2026 und die erste Vergabe im März 2027. Keine neue Oktoberankündigung und keine Anschlusszusage.",
       "sourceUrl": "https://www.netze-bw.de/netzanschluss/vergabe",
-      "confidence": "Netzbetreiber-Originale; zwei Detaildokumente wegen Abrufzeitüberschreitung offen",
+      "confidence": "Aktuelle Netze-BW-Verfahrensunterlage Version 1.1 vom 16.10.2026 heruntergeladen und ausgewertet; ältere API-Dateien weiterhin nicht verifiziert.",
       "action": "Eigene Schlussfolgerung: Betreiber und Leistungsgrenze projektspezifisch klären. Verfahrensseite sagt ab, ältere Pressemitteilung über 950 Kilowatt. Schwellenfall 950 Kilowatt vor Antrag bestätigen; Verfahren nicht pauschal von E-Werk Netze übertragen.",
-      "tags": "Netze BW, Bezugsanschluss, Punkteverfahren, keine Netzzusage"
+      "tags": "Netze BW, Bezugsanschluss, Punkteverfahren, keine Netzzusage",
+      "procedureSourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2k017cOqd87lxuZruWCjKS/15d3da011d455ea8c1f47a7a357bbeba/vergabeverfahren-netze-bw.pdf",
+      "lastSourceReview": "Dateiseite 8, gedruckte Seite 6: Mindeststufe der Flächensicherung verlangt bei fremdem Grundstück eine Eigentümererklärung mindestens bis zum Ende des Anmeldezeitraums. Die von FairNetz verlinkte Verbandsempfehlung vom 05.08.2026, Anlage A Seite 2, nennt dagegen mindestens zwölf Monate ab Einreichung. Höhere Punktestufen gesondert prüfen; Bedingungen nicht zwischen Betreibern übertragen."
     },
     {
       "id": "id-2026-10-21-tunsel-obermatten",
@@ -7092,6 +7174,54 @@
       "action": "Eigene Schlussfolgerung: Relevantes Baukastenkonzept beobachten. Keine Übertragung auf kleine Standorte ohne konkrete Moduldaten, Kosten, Anschlussleistung, Transport- und Genehmigungsprüfung. Kein neuer Standort und keine iAccess-Partnerschaft.",
       "confidence": "Zwei Herstellerquellen mit gemeinsamer Interessenlage; keine unabhängige Bestätigung",
       "tags": "Container, Herstellerankündigung, Lieferbarkeit offen"
+    },
+    {
+      "id": "id-2026-10-23-neuenburg",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "title": "Neuenburger Angebot: Dauerbetrieb und Planungsstand ungeklärt",
+      "topic": "Kommunale Flächensuche",
+      "summary": "Anbieter nennt zwei teilweise bebaute Grundstücke mit insgesamt 8.542 Quadratmetern, verfügbar ab 24.07.2026. Die öffentliche Detailansicht sagt 24-Stunden-Betrieb möglich: Nein. Exposé und Portal nennen eine Veränderungssperre; amtliche Zuordnung ohne Adresse und Flurstücke nicht möglich. Kein positiver Rechenzentrumsstandort.",
+      "sourceUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79395/PROPERTY/f62f33c2-2132-4d48-b84d-4ee829cd577e",
+      "action": "Eigene Schlussfolgerung: Vorerst keine technische Vertiefung. Zuerst genaue Grundstückszuordnung, geltendes Baurecht, tatsächliche Verfügbarkeit und zulässigen Dauerbetrieb klären.",
+      "confidence": "Originalquelle; Anbieter-, Betreiber- oder Behördenaussage entsprechend gekennzeichnet",
+      "tags": "Recherche 2026-10-23, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-23-fairnetz",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "title": "FairNetz: Anmeldefenster bis 6. November 2026",
+      "topic": "Netzanschluss / Fristen",
+      "summary": "Betreiberseite nennt erste Vergaberunde vom 19.10. bis 06.11.2026 und Rückmeldung voraussichtlich April 2027. Punkteverfahren grundsätzlich ab 950 Kilowatt Gesamtanmeldeleistung, bestimmte Speicherkonstellationen auch darunter. Keine automatische Übernahme noch unbeschiedener Altanfragen; Zuständigkeit und Ausnahmen projektspezifisch prüfen.",
+      "sourceUrl": "https://www.fairnetzgmbh.de/vergabeverfahren-netzanschlussleistungen",
+      "action": "Eigene Schlussfolgerung: Für Projekte im FairNetz-Gebiet Termin und vollständige Nachweise früh beachten. Keine Anmeldung oder Anfrage ausgeführt; keine Anschlusszusage.",
+      "confidence": "Originalquelle; Anbieter-, Betreiber- oder Behördenaussage entsprechend gekennzeichnet",
+      "tags": "Recherche 2026-10-23, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-23-crusoe",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "title": "Crusoe Spark Liquid: modulare Leistungsklasse bis 3,5 Megawatt angekündigt",
+      "topic": "Modulare Rechenzentren / Hersteller",
+      "summary": "Herstellermitteilung vom 21.10.2026 nennt bis zu 3,5 Megawatt Rechenleistung je Modul, geschlossene Flüssigkühlung und Fertigungsbeginn 2027. Primär für Crusoe Cloud beschrieben. Frühere Spark-Betriebsreferenzen belegen keine bereits gelieferte neue Liquid-Generation.",
+      "sourceUrl": "https://www.crusoe.ai/resources/newsroom/crusoe-introduces-crusoe-spark-liquid",
+      "action": "Eigene Schlussfolgerung: Modulare Bauweise bedeutet keine kleine Anschlussleistung. Rechenleistung nicht mit Gesamt-Netzbezug gleichsetzen. Keine bestätigte Lieferbarkeit für Baden-Württemberg, keine iAccess-Partnerschaft.",
+      "confidence": "Originalquelle; Anbieter-, Betreiber- oder Behördenaussage entsprechend gekennzeichnet",
+      "tags": "Recherche 2026-10-23, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-23-land-netzausbau",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "title": "Land Baden-Württemberg startet Arbeitsgruppe zur Netzausbaubeschleunigung",
+      "topic": "Netz / Landespolitik",
+      "summary": "Umweltministerium meldet am 20.10.2026 den Arbeitsbeginn der Task Force Netzausbaubeschleunigung. Ziel ist die Entwicklung von Lösungen für Netzausbau und bessere Netznutzung.",
+      "sourceUrl": "https://um.baden-wuerttemberg.de/de/klima-energie/energiewende/versorgungssicherheit/netzausbau/task-force-netzausbaubeschleunigung",
+      "action": "Eigene Schlussfolgerung: Politischer Prozess, keine zusätzliche gesicherte Anschlusskapazität oder verbindlicher Fertigstellungstermin für einzelne Standorte.",
+      "confidence": "Originalquelle; Anbieter-, Betreiber- oder Behördenaussage entsprechend gekennzeichnet",
+      "tags": "Recherche 2026-10-23, keine Anschlusszusage"
     }
   ],
   "gridChecks": [
@@ -7266,7 +7396,7 @@
     {
       "id": "id-2026-10-20-netzebw-vergabe",
       "created": "2026-10-20",
-      "updated": "2026-10-20",
+      "updated": "2026-10-23",
       "site": "Standortübergreifende Prüfung bei Anschluss an Netze BW",
       "municipality": "Baden-Württemberg; tatsächlichen Anschlussnetzbetreiber klären",
       "targetPowerMw": "Verfahrensseite: Gesamtanmeldeleistung ab 0,95 Megawatt; Speicher gesondert",
@@ -7274,9 +7404,24 @@
       "voltageLevel": "Mittel- und Hochspannung",
       "distanceHint": "Kein objektscharfer Anschlusspunkt geprüft",
       "capacityStatus": "Vergabeverfahren, kein Nachweis freier Leistung",
-      "nextAction": "Flächensicherung, Genehmigungsstand und Übergabestation dokumentieren; Grenzfall und Termine beim zuständigen Betreiber klären. Keine automatische Anfrage versandt.",
+      "nextAction": "Aktuelle Betreiberfassung Version 1.1 vom 16.10.2026 anwenden. Gültigkeit der Eigentümererklärung für Mindeststufe bis zum Ende des Anmeldezeitraums; keine pauschale Übernahme der Zwölfmonatsforderung aus der Verbandsempfehlung. Keine Anfrage versandt.",
       "source": "https://www.netze-bw.de/netzanschluss/vergabe",
-      "tags": "Netzbezug, Leistungsgrenze, Netze BW"
+      "tags": "Netzbezug, Leistungsgrenze, Netze BW",
+      "procedureSourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2k017cOqd87lxuZruWCjKS/15d3da011d455ea8c1f47a7a357bbeba/vergabeverfahren-netze-bw.pdf"
+    },
+    {
+      "id": "id-2026-10-23-fairnetz",
+      "created": "2026-10-23",
+      "updated": "2026-10-23",
+      "site": "Standortübergreifende Verfahrensprüfung",
+      "municipality": "FairNetz-Netzgebiet; konkrete Zuständigkeit offen",
+      "targetPowerMw": "Ab 0,95 Megawatt Gesamtanmeldeleistung; Speicher und Daseinsvorsorge gesondert",
+      "gridOperator": "FairNetz",
+      "voltageLevel": "Konkrete Anschlussausführung nicht geprüft",
+      "capacityStatus": "Vergabeverfahren, kein Nachweis freier Leistung",
+      "nextAction": "Anmeldefenster 19.10.–06.11.2026 beachten; bei konkretem Projekt zuerst Betreiberzuständigkeit und Nachweise klären. Kein Antrag ausgeführt.",
+      "source": "https://www.fairnetzgmbh.de/vergabeverfahren-netzanschlussleistungen",
+      "tags": "Punkteverfahren, Frist, keine Netzreservierung"
     }
   ],
   "connectivityChecks": [
@@ -7472,7 +7617,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-22",
+    "lastRun": "2026-10-23",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -7500,8 +7645,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-22",
-    "lastResearchSummary": "26 kommunale Prüfpfade mit Zugriffslücken; Merzhausen wegen konkurrierender Mischnutzung und historischer Hochwasserbetroffenheit niedrig priorisiert. NVIDIA-Containerkonzept als Herstellerankündigung ergänzt.",
+    "lastResearchRun": "2026-10-23",
+    "lastResearchSummary": "27 kommunale Prüfpfade; Neuenburger Angebot wegen ungeklärtem Dauerbetrieb zurückgestellt. FairNetz-Frist, aktuelle Netze-BW-Verfahrensunterlage und modularer Herstellerhinweis ergänzt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
