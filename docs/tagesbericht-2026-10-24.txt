@@ -1,0 +1,57 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 24. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+Biberwiese in Titisee-Neustadt ist als vorläufiger kommunaler Prüfkandidat erfasst: angeboten werden 1.367 Quadratmeter auf Flurstück 885, Gemarkung Neustadt. Keine neue gesicherte freie Rechenzentrumsfläche und keine Anschlusszusage. Die bisherigen Rechercheeinträge wurden erhalten.
+Eigene Empfehlung: Erst die aktuell geltenden textlichen Festsetzungen und den Verbrauchsnetzanschluss klären. Ohne diese Angaben ist eine technische oder wirtschaftliche Vertiefung verfrüht. Eine Kontaktaufnahme oder Bewerbung ist nicht erfolgt. Für heute ist keine Entscheidung erforderlich.
+
+Biberwiese: kommunales Angebot und Abgleich
+Belegt als kommunale Angebotsangaben: Biberwiese, Flurstück 885 in Neustadt, 1.367 Quadratmeter. Portal und Exposé nennen ein eingeschränktes Gewerbegebiet, Grundflächenzahl 0,7 und Bauhöhe 7 Meter sowie Verfügbarkeit ab 24. Juni 2026. Die Schreibweise 1,367 im Portal und Exposé wird durch die eindeutige Angabe 1367 auf der Stadtseite aufgelöst; daraus wurden keine abweichenden Flächengrößen berechnet.
+Die öffentlich beworbene Fläche ist keine bestätigte heutige Reservierungsfreiheit. Die Anbieterangaben zur Bebauung sind keine Rechenzentrumsgenehmigung. Ein Betrag von 70 Euro je Quadratmeter wird im Portal genannt; dieser ist eine Anzeige, kein verbindlicher Gesamtpreis. Die Stadt weist darauf hin, dass Hausanschlusskosten nicht im Kaufpreis enthalten sind. Keine Gesamtkosten oder Wirtschaftlichkeit geschätzt.
+Offen: aktueller Grundstückszuschnitt, vollständige textliche Grundfassung des Bebauungsplans, zulässiger Dauerbetrieb, Verbrauchsleistung und Anschlussfrist, getrennte Glasfaserwege, Kühlung, Schall, Brandschutz, Löschwasser und Abwärmeabnahme. Wegen der Gewässernähe ist zusätzlich eine aktuelle parzellenscharfe Hochwasserprüfung erforderlich; eine heutige Betroffenheit des gesamten angebotenen Grundstücks wurde nicht nachgewiesen.
+Kommunale Quelle: https://www.titisee-neustadt.de/wirtschaft-handel/gewerbeflaechen-und-immobilien
+Regionale Detailansicht: https://gewerbeimmo-freiburg.findyourland.de/object/79822/PROPERTY/4b2b3c7f-b019-4208-9e9f-ec9f9d236166
+
+Grundplan und Änderung räumlich getrennt
+Die aus dem kommunalen Portal bereitgestellte historische Grundplanzeichnung wurde lokal gesichert, in vier Kacheln texterkannt und in den relevanten Bereichen visuell gelesen. Sie zeigt mehrere unterschiedlich eingeschränkte Gewerbeteilgebiete. Eine vollständig aktuelle textliche Grundfassung konnte aus den ausgewerteten Unterlagen nicht zusammengestellt werden.
+Die kommunal verlinkte erste Änderung betrifft die Erweiterung der Bäckerei Fischer und ein Betriebsleiterwohnhaus. Satzung, Planzeichnung, Bebauungsvorschriften, Begründung, Umwelt- und Artenschutzunterlagen, Schallgutachten sowie zwei Bekanntmachungen wurden heruntergeladen und ausgelesen. Die Planunterlagen tragen überwiegend den Stand 24. März 2020, das Schallgutachten den 6. Mai 2019. Die Portalbereitstellung im Jahr 2025 macht daraus keine neuen Gutachten von 2025.
+Eigene visuelle Planablesung: Flurstück 885 liegt in der Änderungszeichnung außerhalb der markierten Änderungsgrenze; innerhalb liegt unter anderem das Bäckereigrundstück 884/10. Deshalb wurden die Festsetzungen und Schallwerte der Bäckereiplanung nicht als Freigabe für das angebotene Grundstück übernommen. Diese Planablesung ersetzt keine amtliche Bestätigung des heutigen Kataster- und Rechtsstands.
+Die erneut veröffentlichte Bekanntmachung ist auf den 16. Mai 2025 datiert; die Stadtseite nennt eine Bereitstellung am 7. Juli 2025. Das Dokument erklärt zur Heilung eines Bekanntmachungsfehlers ein rückwirkendes Inkrafttreten der Änderung zum 11. Februar 2021. Dies ist der Inhalt der amtlichen Bekanntmachung, keine unabhängige rechtliche Prüfung aller heutigen Grundstücksanforderungen.
+Quelle mit Originalunterlagen: https://www.titisee-neustadt.de/leben-wohnen/rund-um-das-bauen/bebauungs-und-flaechennutzungsplaene
+
+Blauer Engel: freiwilliger Planungsmaßstab
+Neu ausgewertet wurde die 32-seitige Originalfassung DE-UZ 228 für Rechenzentren, Ausgabe Juli 2026, Version 1. Das Dokument nennt eine Laufzeit bis 31. Dezember 2029. Der Geltungsbereich umfasst verschiedene Betreiber- und Mietermodelle. Für einen Antrag ist insbesondere ein Energieeffizienzbericht vorgesehen, der unabhängig geprüft und bestätigt werden muss. Die relevante Passage und der Geltungsbereich auf Seite 10 wurden visuell kontrolliert.
+Eigene Schlussfolgerung: Bei angestrebter Zertifizierung früh als Planungsmaßstab berücksichtigen und Betreiberrolle, Inbetriebnahmedatum, Leistungsgröße, Messkonzept sowie erforderliche Nachweise bestimmen. Die Kriterien wurden nicht als allgemeine gesetzliche Standortanforderung ausgegeben. Keine Zertifizierung, unabhängige Prüfung oder Erfüllung der Kriterien durch iAccess Energy GmbH behauptet. Keine pauschalen Effizienzgrenzwerte auf ein noch nicht geplantes Projekt übertragen.
+Originalkriterien: https://produktinfo.blauer-engel.de/uploads/criteriafile/de/251/DE-UZ%20228-202607-de-Kriterien-V1.pdf
+Vergabestelle: https://www.blauer-engel.de/de/produktwelt/rechenzentren-neu/rechenzentren
+
+Nachrichten und offene Originalquelle
+Nachrichtensuche beziehungsweise Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse, Betreiber- und Netzbetreiberquellen. Nicht jede Nachricht konnte vollständig erschlossen werden; keine vollständige Negativaussage zu allen Tagesmeldungen.
+Der Golem-Beitrag vom 23. Oktober zur möglichen Nachnutzung ehemaliger Kernkraftwerksstandorte wurde als Recherchehinweis geprüft. Die dort verlinkte Unternehmensmeldung von PreussenElektra war lokal mit Zugriffscode 403 blockiert und lieferte auch im Hintergrundbrowser keinen auswertbaren Meldungstext. Daher kein neuer gesicherter Projekt-, Standort- oder Partnereintrag daraus. Keine Verfügbarkeit eines Kraftwerksgeländes oder umgekehrte Nutzbarkeit eines Einspeiseanschlusses als Verbrauchsanschluss behauptet.
+Hinweisquelle: https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html
+Die bekannten FairNetz-, Netze-BW-, NVIDIA-, Crusoe-, Amazon-, Solarpark- und Langmatt-Erkenntnisse wurden nicht doppelt als neu angelegt. Die gestern ausgewerteten Verfahrensunterschiede bleiben erhalten. Für konkret betroffene FairNetz-Projekte bleibt die bekannte Frist 6. November 2026 zu beachten; kein Antrag wurde gestellt.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt.
+28 offene kommunale Prüfpfade bearbeitet; alle 28 lieferten mindestens einen direkt abrufbaren Inhalt. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie alle elf Suchbegriffe wurden auf den verfügbaren Texten geprüft. Einzelne Zugänge, Detailakten und ganze Kategorien bleiben offen; die Quellenmatrix weist dies aus. Titisee-Neustadts Amtsblattzugang verlangte eine Anmeldung; diese wurde nicht vorgenommen.
+Kein vollständiger Aktenabschluss in einer der Gemeinden behauptet. Kein neuer bestätigter Rechenzentrumsfund. Titisee-Neustadt liefert den beschriebenen vorläufigen Flächenkandidaten. Bei den anderen erreichbaren Quellen kein neuer gesicherter Standort; vorhandene Befunde bleiben erhalten. Ein fehlender Treffer oder gesperrter Zugang bedeutet keinen Standort-Ausschluss.
+
+Lokale Sicherung und Originaldokumente
+378 unterschiedliche Rechercheadressen, 365 erfolgreich lokal gesichert; 30 zusätzliche Adressen im Quellenverzeichnis. 13 Abruffehler dokumentiert. Wiederholte Sicherungen bekannter Quellen sind keine neuen Erkenntnisse.
+60 unterschiedliche Dokumentdateien mit 990 Seiten erfasst und Texte ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 13 Dateiinhalte neu gegenüber dem Archiv. Bei 11 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Für die Biberwiese-Grundplanzeichnung, Änderungszeichnung und alte Bekanntmachung wurden zusätzlich sieben Bildausschnitte beziehungsweise Seiten lokal texterkannt. Wesentliche räumliche Zuordnungen wurden visuell kontrolliert; Texterkennung kann Fehler enthalten. Keine vollständige visuelle oder sachliche Prüfung aller 990 Seiten behauptet.
+Elf Dokumentquellen neu erfasst: Umweltzeichenkriterien, kommunales Exposé, historische Grundplanzeichnung und acht kommunale Änderungsunterlagen. Alle Originale lokal archiviert und ihre öffentlichen Originalquellen verlinkt. Keine zusätzlichen Dateikopien dieser Dokumente auf GitHub veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen; die Bauleitpläne werden als kommunale Planungsunterlagen geführt.
+
+Verfügbarkeit und Linkprüfung
+104 erfasste Dokumentquellen geprüft: 104 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; elf neue Originale zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1566 unterschiedliche öffentliche Links geprüft: 1530 erreichbar, 36 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen oder freizugebenden Fragen, keine verdächtigen Fragen und keine manuellen Uploads. Im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 198 auf 200, Dokumenteinträge 93 auf 104, Standort-Prüfeinträge 28 auf 29 und Bauleitpläne 29 auf 30. Der neue Standort ist unbestätigt. Unverändert: Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine zugesicherte Anschlussleistung und kein gesicherter Flächenzugang.
+
+Nächster Schritt
+Für Biberwiese die geltende textliche Grundfassung und Zuordnung zu Flurstück 885 sowie Verbrauchsanschluss und Immissionsanforderungen klären. Anschließend kann der letzte noch nicht vertiefte regionale Listenhinweis in Vogtsburg geprüft werden. Keine Kontaktaufnahme, Registrierung oder Einträge in fremden Projektportalen ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
