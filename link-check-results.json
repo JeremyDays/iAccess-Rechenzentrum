@@ -1,7 +1,7 @@
 {
-  "checked": 1566,
-  "ok": 1530,
-  "blocked": 36,
+  "checked": 1569,
+  "ok": 1534,
+  "blocked": 35,
   "broken": 0,
   "results": [
     {
@@ -30,24 +30,24 @@
     },
     {
       "collection": "findings",
-      "index": 65,
-      "field": "sourceUrl",
-      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
-      "url": "https://gammelshausen.net/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='gammelshausen.net', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
       "index": 79,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.hermaringen.de/",
       "status": 503,
       "finalUrl": "https://www.hermaringen.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 77,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.kressberg.de/home",
+      "status": 500,
+      "finalUrl": "https://www.kressberg.de/home",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -206,7 +206,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.ratshausen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ratshausen.de', port=443) at 0x23fffcc53a0>, 'Connection to www.ratshausen.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.ratshausen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ratshausen.de', port=443) at 0x1b25e540470>, 'Connection to www.ratshausen.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -255,18 +255,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 23,
-      "field": "sourceUrl",
-      "title": "KIT KI-Rechenzentrum Campus Nord",
-      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Max retries exceeded with url: /kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kit.edu', port=443) at 0x23fffdb58b0>, 'Connection to www.kit.edu timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -1128,6 +1116,18 @@
       "url": "https://freudental.de/",
       "status": 200,
       "finalUrl": "https://freudental.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 65,
+      "field": "sourceUrl",
+      "title": "20 offene BW-Gemeinden im Alb-/Neckarraum geprueft: kein direkter RZ-Fund",
+      "url": "https://gammelshausen.net/",
+      "status": 200,
+      "finalUrl": "https://gammelshausen.net/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6156,18 +6156,6 @@
       "url": "https://www.ilshofen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.ilshofen.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 77,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Ingelfingen/Kuenzelsau geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.kressberg.de/home",
-      "status": 200,
-      "finalUrl": "https://www.kressberg.de/home",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -14214,6 +14202,18 @@
     },
     {
       "collection": "findings",
+      "index": 201,
+      "field": "sourceUrl",
+      "title": "Skeleton und Siemens: Herstellerankündigung zu kurzzeitiger Leistungsstützung",
+      "url": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+      "status": 200,
+      "finalUrl": "https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 179,
       "field": "sourceUrl",
       "title": "Stuttgart: Abwärmenetz mit nLighten in Betrieb",
@@ -18054,6 +18054,18 @@
     },
     {
       "collection": "sites",
+      "index": 29,
+      "field": "sourceUrl",
+      "title": "Achkarren – kommunaler vorläufiger Prüfkandidat",
+      "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79235/PROPERTY/aaefc293-961a-401d-a6b9-ccbb9a76a31f",
+      "status": 200,
+      "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79235/PROPERTY/aaefc293-961a-401d-a6b9-ccbb9a76a31f",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
       "index": 22,
       "field": "sourceUrl",
       "title": "Am Dachsrain - gewerbliche Konversionsflaeche (Pruefhinweis)",
@@ -18096,6 +18108,18 @@
       "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
       "status": 200,
       "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 23,
+      "field": "sourceUrl",
+      "title": "KIT KI-Rechenzentrum Campus Nord",
+      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
+      "status": 200,
+      "finalUrl": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18744,6 +18768,18 @@
       "url": "https://rzzr.de/",
       "status": 200,
       "finalUrl": "https://rzzr.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 30,
+      "field": "documents",
+      "title": "Kleinhartäcker III – Kontextplanung außerhalb des angebotenen Flurstücks 3218/4",
+      "url": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
+      "status": 200,
+      "finalUrl": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

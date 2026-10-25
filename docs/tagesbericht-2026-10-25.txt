@@ -1,0 +1,54 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 25. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+Vogtsburg-Achkarren wurde als vorläufiger Prüfkandidat aufgenommen: öffentliches kommunales Angebot von 4.297 Quadratmetern auf Flurstück 3218/4. Keine neue gesicherte freie Rechenzentrumsfläche und keine Anschlusszusage. Der Vorentwurf Kleinhartäcker III betrifft nach eigener Planablesung ein anderes Gebiet; seine Gutachten wurden nicht auf den Kandidaten übertragen.
+Eigene Empfehlung: Zunächst heutige Verfügbarkeit, geltenden Grundstücksplan und zulässigen Dauerbetrieb klären. Verbrauchsnetzanschluss und getrennte Glasfaserwege bleiben notwendige weitere Prüfungen. Bis dahin nachrangiger, unbestätigter Kandidat. Für heute ist keine Entscheidung erforderlich.
+
+Vogtsburg: Angebot und Planungszuordnung
+Belegt als Anbieterangaben in der öffentlichen Detailansicht: Flurstück 3218/4, Gemarkung Achkarren, 4.297 Quadratmeter, Gewerbegebiet, Kauf; Stadt Vogtsburg als Eigentümerin und Anbieterin. Der Eintrag nennt einen vorhandenen Bebauungsplan, aber keinen Plannamen und keine öffentlichen Dokumentanhänge. Das Verfügbarkeitsdatum 2. August 2023 bestätigt keine heutige Reservierungsfreiheit. Kein Kaufpreis, keine aktuelle Vermessung und keine Rechenzentrumsgenehmigung ermittelt.
+Portalquelle: https://gewerbeimmo-freiburg.findyourland.de/object/79235/PROPERTY/aaefc293-961a-401d-a6b9-ccbb9a76a31f
+Die Stadtseite weist derzeit auf einen Neuaufbau wegen einer Sicherheitslücke hin. Alte Standort- und Kartenpfade führen zur reduzierten Startseite. Der Nachrichtenblattbereich bietet eine Anforderung per E-Mail; diese wurde nicht versandt. Ratsakten, aktueller Grundstücksplan und vollständiges Amtsblatt bleiben offen. Ältere Suchmaschineninhalte wurden nicht als heutiger Seitenstand übernommen.
+Aktuelle Stadtseite: https://www.vogtsburg.de/
+
+Amtliches Planungspaket lokal ausgewertet
+Das 170-seitige Originalpaket Kleinhartäcker III enthält Bekanntmachung, Planzeichnung, Begründung, Vorschriften, Umweltbericht, geo- und umwelttechnische Bewertungen von 2013 und 2016 sowie eine Kampfmittel-Luftbildauswertung vom 25. November 2022. Vorentwurf vom 21. April 2026, Bekanntmachung vom 24. April 2026; die darin genannte Beteiligung vom 27. April bis 27. Mai 2026 ist beendet. Kein aktuelles Inkrafttreten nachgewiesen.
+Dateiseite 8 zählt die betroffenen Flurstücke auf und nennt 3218/4 nicht. Eigene visuelle Planablesung auf Dateiseite 5: 3218/4 liegt nördlich außerhalb der markierten Grenze. Beide Seiten wurden zusätzlich zur Textauslesung visuell geprüft. Dies ersetzt keine aktuelle amtliche Katasterbestätigung.
+Deshalb wurden weder Baugrenzen und Höhen noch Grundwasser-, Entwässerungs-, Löschwasser- oder Kampfmittelaussagen dieses Planungspakets als Nachweis für das angebotene Grundstück erfasst. Die Luftbildauswertung ist außerdem keine Garantie vollständiger Kampfmittelfreiheit. Für den Kandidaten fehlen weiterhin die unmittelbar geltenden Festsetzungen und parzellenspezifischen Nachweise.
+Amtliches Gesamtpaket: https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf
+
+Technikhinweis: Skeleton und Siemens
+Neu ausgewertet wurde eine ältere Herstellererklärung vom 14. Oktober 2026: Skeleton meldet eine von Siemens geführte strategische Investition und Zusammenarbeit für Stromversorgungstechnik von Rechenzentren. Genannt werden schnell reagierende Energiesysteme und ein geplanter Ausbau der Fertigung in den Vereinigten Staaten. Dies ist keine neue Tagesmeldung vom 25. Oktober.
+Eigene Schlussfolgerung: Technologiehinweis für kurzzeitige Lastsprünge vormerken. Herstellerangaben sind keine unabhängige Leistungsprüfung. Keine Einsparungsquote für iAccess übernommen, keine Partnerschaft mit iAccess, keine konkrete Lieferzusage und keine zusätzliche verfügbare Netzanschlussleistung belegt. Die Siemens-Pressequelle war beim direkten Abruf zeitlich nicht erreichbar; ausgewertet wurde die lokal gesicherte Originalmeldung von Skeleton.
+Herstellerquelle: https://www.skeletontech.com/news/skeleton-technologies-secures-strategic-investment-led-by-siemens-to-expand-us-manufacturing
+
+Nachrichten und bekannte Fristen
+Suche beziehungsweise öffentliche Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber und Netzbetreiber. Keine vollständige Erschließung aller Tagesmeldungen behauptet.
+Die aktualisierte Golem-Listung zur möglichen Nachnutzung ehemaliger Kernkraftwerksstandorte liefert keinen neu gesicherten Standort. Der bereits dokumentierte fehlende Zugriff auf den vollständigen Unternehmensoriginaltext bleibt offen; kein doppelter Projekteintrag. Bekannte Amazon-, NVIDIA-, Crusoe- und Netzverfahrensmeldungen wurden nicht nochmals als neu angelegt.
+Bekannte Fristen unverändert: FairNetz bis 6. November 2026; Netze BW erstes Fenster 1. November bis 31. Dezember 2026. Kein konkretes iAccess-Projekt mit Anspruch auf Zuteilung identifiziert und kein Antrag gestellt. Die bereits dokumentierten Unterschiede der Betreiberverfahren bleiben erhalten.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg.
+29 offene kommunale Prüfpfade bearbeitet, alle mit mindestens einem direkt abgerufenen Inhalt. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe wurden auf verfügbaren Texten geprüft. Nicht alle Detailakten oder Kategorien waren erreichbar; die lokale Quellenmatrix dokumentiert die Grenzen. Keine vollständige Aktenprüfung einer Gemeinde behauptet.
+Gemeinden mit neuem bestätigtem Rechenzentrumsfund: keine. Vogtsburg liefert den beschriebenen unbestätigten Flächenhinweis. Bei den anderen Teilprüfungen kein neuer gesicherter Standort; vorhandene Funde bleiben erhalten. Nicht gefunden, nicht geprüft und ausgeschlossen wurden nicht gleichgesetzt. Alle Gemeinden bleiben zur systematischen Aktenprüfung offen.
+Die fünf regionalen Freiflächenangebote aus der bisherigen Trefferliste wurden nun einzeln gesichtet: Tunsel, Neuenburg, Titisee-Neustadt, Merzhausen und Vogtsburg. Diese Sichtung ist keine Eignungsbestätigung.
+
+Quellenarchiv und Dokumente
+385 unterschiedliche Rechercheadressen, 372 lokal gesichert; 16 zusätzliche Adressen im Quellenverzeichnis. 13 Abruffehler dokumentiert. Neue Sicherung bedeutet nicht automatisch neue Erkenntnis. Die dynamische Angebotsseite wurde zusätzlich über ihre sichtbare öffentliche Detailansicht dokumentiert; die gespeicherte technische Seitenhülle allein enthält die Angebotsangaben nicht.
+54 unterschiedliche Dokumentdateien mit 1027 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich erneut verwendet. 4 Dateiinhalte neu gegenüber dem Archiv; darunter das Vogtsburger Planungspaket, Umkirchs aktuelles Nachrichtenblatt und zwei Unterlagen zum Solarpark am Kapf. Der Solarpark wurde nicht als Rechenzentrumsfläche erfasst.
+Bei 8 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Keine vollständige visuelle oder sachliche Prüfung aller Seiten behauptet. Ein neues Dokumentpaket als Quellenrekord in die Website übernommen; Original vollständig lokal gesichert und öffentliche Quelle verlinkt. Keine zusätzliche Dateikopie veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen. Der Bebauungsplan ist eine kommunale Planungsunterlage.
+
+Verfügbarkeit und Linkprüfung
+105 erfasste Dokumentquellen geprüft: 105 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; ein neues Originalpaket zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1569 unterschiedliche öffentliche Links geprüft: 1534 erreichbar, 35 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; im Ordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 200 auf 202, Dokumenteinträge 104 auf 105, Standort-Prüfeinträge 29 auf 30, Bauleitpläne 30 auf 31. Neuer Standort unbestätigt. Unverändert: Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Medien 5, technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine zugesicherte Anschlussleistung.
+
+Nächster Schritt
+Aktuell geltende Grundstückspläne für Vogtsburg 3218/4 und Titisee-Neustadt 885 beschaffen, soweit öffentlich zugänglich; weitere offene Gemeinden und zugängliche Ratsakten vertiefen. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

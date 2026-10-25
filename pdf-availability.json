@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-24",
-  "total": 104,
+  "checkedAt": "2026-10-25",
+  "total": 105,
   "localAvailable": 68,
-  "publicAvailable": 104,
+  "publicAvailable": 105,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1771,6 +1771,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.titisee-neustadt.de/fileadmin/Dateien/Website/Dateien/Amtliche_Bekanntmachungen_PDFs/2025/Erneute_Bekanntmachung_Satzungsbeschluss_Bebauungsplan%C3%A4nderung_Biberwiese.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Vogtsburg im Kaiserstuhl",
+      "documentTitle": "Vogtsburg: Kleinhartäcker III, Gesamtpaket frühzeitige Beteiligung April 2026",
+      "documentType": "Kommunales Original / Planungskontext",
+      "pages": "170",
+      "publicUrl": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
+      "currentSourceUrl": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
       "contentType": "application/pdf",
       "error": ""
     }
