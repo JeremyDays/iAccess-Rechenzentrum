@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-25",
-  "total": 105,
+  "checkedAt": "2026-10-26",
+  "total": 106,
   "localAvailable": 68,
-  "publicAvailable": 105,
+  "publicAvailable": 106,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1788,6 +1788,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://stadt.vogtsburg.de/bekanntmachungen/20260424_Kleinhartaecker_III_OeBekanntmachung_fruehz_Beteiligung_einzeln_sig.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Überregional",
+      "documentTitle": "Vier Übertragungsnetzbetreiber: Technische Anforderungen für den Anschluss von Rechenzentren, 16.10.2026",
+      "documentType": "Original der Netzbetreiber / technische Anforderungen",
+      "pages": "13",
+      "publicUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
+      "currentSourceUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

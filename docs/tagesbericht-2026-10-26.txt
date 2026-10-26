@@ -1,0 +1,52 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 26. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+Zwei überholte Datenbankangaben zur Mittelspannungsauskunft von Netze BW korrigiert und ein neues Originalpapier zum Netzanschluss ausgewertet. Keine neue gesicherte Rechenzentrumsfläche, kein neuer Flächenkandidat und keine Anschlusszusage.
+Eigene Empfehlung: Bei bestätigtem Standort zuerst zuständigen Netzbetreiber und gesamte Bezugsleistung bestimmen. Verbindliche technische Anforderungen und verfügbare Kapazität projektbezogen klären. Für heute ist keine Entscheidung erforderlich.
+
+Netze BW: bisherige Beschränkung auf Erzeugung korrigiert
+Die aktuelle Betreiberseite nennt die Mittelspannungsauskunft ausdrücklich auch für Bezugsanlagen von 156 bis 10.000 Kilowatt. Zwei ältere Einträge wurden mit dokumentiertem Vorzustand berichtigt. Die Auskunft bleibt unverbindlich und reserviert keine Leistung. Ein Ergebnis für einen konkreten iAccess-Standort wurde nicht eingeholt; die Kartenfunktion wurde nicht praktisch geprüft. Das Priorisierungsverfahren ab 950 Kilowatt sowie für Graustromspeicher ist zusätzlich zu beachten.
+Aktuelle Originalquelle: https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft
+
+Originalpapier der vier Übertragungsnetzbetreiber
+Das 13-seitige Dokument vom 16. Oktober 2026 wurde vollständig lokal gesichert und textlich ausgelesen. Es betrifft insbesondere Hoch- und Höchstspannungsanschlüsse einschließlich bestimmter Mischanlagen und geschlossener Verteilungsnetze. Anwendung und konkrete Vorgaben bestimmt der zuständige Netzbetreiber. Nebenanlagen sind einbezogen. Die Anforderungen wurden nicht pauschal auf kleine Mittelspannungsprojekte übertragen.
+Geltungsbereich auf Seite 3 und Modell- sowie Nachweisanforderungen auf Seite 13 wurden zusätzlich visuell geprüft. Eigene Schlussfolgerung: Ein Lastpuffer oder ein Herstellerversprechen allein belegt keine Netzkonformität. Kein Nachweis für ein iAccess-Projekt und keine gesetzliche Standortfreigabe daraus abgeleitet.
+Original: https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf
+
+Freiburger modularer Projektansatz bleibt unbestätigter Recherchehinweis
+Zwei öffentliche Ausschreibungsaggregatoren beschreiben einen temporären modularen Rechenzentrumsbau auf einem Universitätscampus in Freiburg. Einer nennt Veröffentlichung am 17. Februar und Angebotsende am 26. März 2026. Die Originalbekanntmachung, Zuschlag und heutiger Umsetzungsstand konnten nicht verifiziert werden. Daher kein gesicherter Projekt-, Standort- oder Partnereintrag und keine Übernahme der technischen Zahlen als bestätigte Planungsgrundlage. Die beiden Wiedergaben sind keine unabhängigen Nachweise des Projekts. Kein frei verfügbares Grundstück daraus abgeleitet.
+Hinweisquelle: https://www.bauportal-deutschland.de/oeffentliche_ausschreibung_vobvol_details_79110_Freiburg_3888_Generalunternehmerleistungen_schluesselfertige_Herstellung_eines_eingeschossigen_3060225.html
+Weitere Wiedergabe: https://auftragone.com/notices/generalunternehmerleistungen-schluesselfertige-herstellung-eines-eingeschossigen-gebaeudes-in-modulb
+Betreiberseite zusätzlich geprüft: https://rz.uni-freiburg.de/de
+
+Nachrichten und bekannte Fristen
+Suche und Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse, Betreiber und Netzbetreiber. Nicht jede Tagesmeldung vollständig erschlossen; keine umfassende Negativaussage über die gesamte Nachrichtenlage.
+Die bekannten Amazon-, NVIDIA-, Crusoe-, Skeleton- und Kernkraftwerks-Nachnutzungshinweise wurden nicht nochmals als neue Erkenntnis angelegt. FairNetz-Frist 6. November 2026 und erstes Netze-BW-Fenster 1. November bis 31. Dezember 2026 bleiben als bereits dokumentierte Verfahrensdaten erhalten. Kein Antrag und keine Reservierung ausgeführt.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg.
+29 offene kommunale Prüfpfade bearbeitet, alle mit mindestens einem direkt abgerufenen Inhalt. Gemeinde-, Rats-, Planungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe wurden auf verfügbaren Texten geprüft. Einzelne Kategorien und Detailakten bleiben unzugänglich oder nicht vollständig erschlossen. Die Quellenmatrix dokumentiert die Teilprüfung; kein Gemeindeaktenbestand als abschließend geprüft ausgegeben.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Freiburg hat den oben genannten noch unverifizierten Ausschreibungshinweis. Bei den übrigen Teilprüfungen kein neuer gesicherter Standort. Bekannte Flächenhinweise bleiben erhalten; fehlende Treffer und gesperrte Zugänge sind keine Standort-Ausschlüsse. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+Vogtsburgs reduzierte Internetseite und Weiterleitungen alter Fachpfade bleiben eine Zugangsbeschränkung. Der gestern dokumentierte räumliche Unterschied zwischen Flurstück 3218/4 und Kleinhartäcker III bleibt erhalten. Biberwiese-Flurstück 885 wurde weiterhin nicht mit den Gutachten für die Bäckereiänderung gleichgesetzt.
+
+Quellenarchiv und Dokumente
+395 unterschiedliche Rechercheadressen, 382 lokal gesichert; 15 zusätzliche Adressen im Quellenverzeichnis. 13 Abruffehler dokumentiert. Wiederholte Sicherung ist keine neue Erkenntnis.
+54 unterschiedliche Dokumentdateien mit 870 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich erneut verwendet. 4 Dateiinhalte neu gegenüber dem Archiv: das Netzbetreiberpapier, Hochdorf aktuell vom 22. Oktober sowie zwei Kirchzartener Mitteilungsblätter. Diese Gemeindeblätter wurden nicht als neue Rechenzentrumsstandorte ausgegeben.
+Bei 8 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Keine vollständige visuelle oder sachliche Prüfung aller Seiten behauptet. Ein neues Original als Dokumentquelle in der Website erfasst; vollständige Dateikopie nur im lokalen Quellenarchiv. Keine zusätzlichen Dokumentkopien auf GitHub veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Zeichnungen aufgenommen. Keine erfundene technische Illustration.
+
+Verfügbarkeit und Linkprüfung
+106 erfasste Dokumentquellen geprüft: 106 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; ein neues Originalpaket zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1570 unterschiedliche öffentliche Links geprüft: 1535 erreichbar, 35 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 202 auf 204, Dokumenteinträge 105 auf 106. Zwei vorhandene Einträge in Netzprüfungen und Marktangeboten fachlich korrigiert; Vorzustände nachvollziehbar erhalten.
+Unverändert: Standort-Prüfeinträge 30, Unternehmen 22, Planungsfälle 7, Bauleitpläne 31, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine zugesicherte Anschlussleistung, keine gesicherte Fläche.
+
+Nächster Schritt
+Öffentlich zugängliche Originalbekanntmachung und Umsetzungsstand des Freiburger Hinweises klären. Aktuelle Grundstücksunterlagen für vorhandene Kandidaten und offene Ratsakten weiter prüfen. Keine Kontaktaufnahme, Registrierung oder Einträge in fremden Projektportalen ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

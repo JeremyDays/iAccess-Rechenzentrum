@@ -3350,6 +3350,22 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/stadt.vogtsburg.de/32373bb036895332.pdf",
       "tags": "Original, räumliche und zeitliche Zuordnung beachten"
+    },
+    {
+      "id": "id-2026-10-26-pdf-01",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "municipality": "Überregional",
+      "documentTitle": "Vier Übertragungsnetzbetreiber: Technische Anforderungen für den Anschluss von Rechenzentren, 16.10.2026",
+      "documentType": "Original der Netzbetreiber / technische Anforderungen",
+      "pages": "13",
+      "keyFacts": "Gesamtes Rechenzentrum einschließlich Nebenanlagen; Anwendung durch zuständigen Netzbetreiber. Geltungsbereich und Projektzuordnung vor Übernahme prüfen.",
+      "technicalFacts": "Behandelt Störungsrobustheit, Leistungswiederkehr, Laständerungen, Blindleistung und validierte Simulationsmodelle.",
+      "planningFacts": "Keine gesetzliche Standortfreigabe oder nachgewiesene Projektkonformität. Original lokal gesichert, Seiten 3 und 13 zusätzlich visuell geprüft.",
+      "sourceUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.netztransparenz.de/00da30120417bb08.pdf",
+      "tags": "Original 16.10.2026, Anwendungsbereich prüfen"
     }
   ],
   "media": [
@@ -7528,13 +7544,37 @@
       "confidence": "Erklärung des Herstellers; keine unabhängige Leistungsprüfung",
       "action": "Eigene Schlussfolgerung: Als Technologiehinweis für Lastsprünge vormerken. Keine Partnerschaft mit iAccess, kein belegter konkreter Lieferumfang, keine verfügbare Netzanschlussleistung und keine unabhängige Bestätigung von Einsparungsversprechen.",
       "tags": "Herstellerankündigung, Superkondensatoren, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-10-26-mittelspannung",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "title": "Netze BW: Mittelspannungsauskunft ausdrücklich auch für Bezugsanlagen",
+      "topic": "Netzanschluss / Datenkorrektur",
+      "summary": "Aktuelle Betreiberseite nennt Einspeise- und Bezugsanlagen von 156 bis 10.000 Kilowatt. Zwei ältere Datenbankeinträge mit Beschränkung auf Erzeugung beziehungsweise 135 Kilowatt wurden nachvollziehbar aktualisiert. Keine Reservierung und kein Rechtsanspruch aus dem Ergebnis.",
+      "sourceUrl": "https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft",
+      "confidence": "Aktuelle Betreiberseite; keine Projektabfrage durchgeführt",
+      "action": "Eigene Schlussfolgerung: Für bestätigte Standorte im zuständigen Netzgebiet als frühes Indiz nutzbar. Anschlusszuständigkeit, Leitungsweg, Leistung und Termin gesondert bestätigen; Priorisierungsverfahren ab 950 Kilowatt und für Graustromspeicher beachten.",
+      "tags": "Bezugsanlage, unverbindliche Auskunft, keine Leistungsreservierung"
+    },
+    {
+      "id": "id-2026-10-26-netzanforderungen",
+      "created": "2026-10-26",
+      "updated": "2026-10-26",
+      "title": "Vier Übertragungsnetzbetreiber: Anschlussanforderungen vom 16. Oktober 2026",
+      "topic": "Technik / Netzanschluss",
+      "summary": "13-seitiges Originalpapier für Rechenzentren mit Hoch- oder Höchstspannungsbezug, einschließlich bestimmter Mischanlagen und geschlossener Verteilungsnetze. Die Anwendung obliegt dem zuständigen Netzbetreiber. Nebenanlagen sind einbezogen. Keine pauschale Übertragung auf kleine Mittelspannungsprojekte.",
+      "sourceUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
+      "confidence": "Originalpapier der vier deutschen Übertragungsnetzbetreiber; projektbezogene Anwendung offen",
+      "action": "Eigene Schlussfolgerung: Netzverträglichkeit früh abstimmen; keine automatische Konformität durch Herstellerversprechen oder Lastpuffer annehmen. Konkrete Vorgaben und Nachweise vom Betreiber bestätigen lassen.",
+      "tags": "Anwendungsbereich beachten, keine Anschlusszusage"
     }
   ],
   "gridChecks": [
     {
       "id": "id-0.1286019288475474",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-10-26",
       "site": "Denzlingen - Gewerbestandort/Geringfeldele",
       "municipality": "Denzlingen",
       "targetPowerMw": "Start: 0,25-2 MW; Perspektive: 5 MW",
@@ -7542,10 +7582,33 @@
       "voltageLevel": "Mittelspannung fuer Startklasse; 110-kV-Naehe strategisch pruefen",
       "distanceHint": "Netze BW nennt fuer Denzlingen ein 110-kV-Netzausbauprojekt. Das ist kein freier Kapazitaetsnachweis, aber ein starkes Infrastruktur-Indiz fuer weitere Pruefung.",
       "capacityStatus": "Anfrage noetig",
-      "connectionCheck": "Netze BW Kundenportal; Digitale Mittelspannungsauskunft fuer Erzeugungsanlagen nur als Indiz fuer NVP-Nahe nutzbar",
-      "nextAction": "Flaechenkoordinaten und Ziel-Bezugsleistung definieren; danach unverbindliche Voranfrage fuer Verbrauchslast und separate Erzeugungs-/Speicheroption vorbereiten.",
+      "connectionCheck": "Netze BW nennt die Mittelspannungsauskunft inzwischen auch für Bezugsanlagen von 156 bis 10.000 Kilowatt. Sie liefert unverbindliche Tagesaussagen ohne Leistungsreservierung; konkreten Standort, Betreiberzuständigkeit und Anschluss erst separat prüfen.",
+      "nextAction": "Bestätigte Grundstückskoordinaten und gesamte Ziel-Bezugsleistung bestimmen; danach mögliche Anschlusspunkte bei zuständigem Betreiber prüfen. Ein Kartenresultat ist keine Anschlusszusage.",
       "source": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
-      "tags": "Denzlingen, Netze BW, 110 kV, Mittelspannung, RZ-Startklasse"
+      "tags": "Denzlingen, Netze BW, 110 kV, Mittelspannung, RZ-Startklasse",
+      "revisionHistory": [
+        {
+          "recordedOn": "2026-10-26",
+          "previousRecord": {
+            "id": "id-0.1286019288475474",
+            "created": "2026-06-02",
+            "updated": "2026-06-02",
+            "site": "Denzlingen - Gewerbestandort/Geringfeldele",
+            "municipality": "Denzlingen",
+            "targetPowerMw": "Start: 0,25-2 MW; Perspektive: 5 MW",
+            "gridOperator": "Netze BW / vorgelagert TransnetBW; lokale Zustaendigkeit pruefen",
+            "voltageLevel": "Mittelspannung fuer Startklasse; 110-kV-Naehe strategisch pruefen",
+            "distanceHint": "Netze BW nennt fuer Denzlingen ein 110-kV-Netzausbauprojekt. Das ist kein freier Kapazitaetsnachweis, aber ein starkes Infrastruktur-Indiz fuer weitere Pruefung.",
+            "capacityStatus": "Anfrage noetig",
+            "connectionCheck": "Netze BW Kundenportal; Digitale Mittelspannungsauskunft fuer Erzeugungsanlagen nur als Indiz fuer NVP-Nahe nutzbar",
+            "nextAction": "Flaechenkoordinaten und Ziel-Bezugsleistung definieren; danach unverbindliche Voranfrage fuer Verbrauchslast und separate Erzeugungs-/Speicheroption vorbereiten.",
+            "source": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
+            "tags": "Denzlingen, Netze BW, 110 kV, Mittelspannung, RZ-Startklasse"
+          },
+          "reason": "Überholte Beschränkung der Auskunft auf Erzeugungsanlagen korrigiert."
+        }
+      ],
+      "additionalSourceUrl": "https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft"
     },
     {
       "id": "id-0.917285076095089",
@@ -7841,15 +7904,34 @@
     {
       "id": "id-0.15088559403712998",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-10-26",
       "name": "Netze BW Digitale Mittelspannungsauskunft",
       "category": "Netzanschlussauskunft",
       "region": "Baden-Wuerttemberg / Netze BW",
-      "relevance": "Online-Indiz fuer Netzverknuepfungspunkte bei Erzeugungsanlagen von 135 kW bis 10 MW. Fuer RZ-Bezug nicht direkt dasselbe, aber als Infrastruktur- und NVP-Nahe-Indikator strategisch wertvoll.",
-      "status": "nutzbar",
-      "url": "https://www.pv-magazine.de/2024/07/01/netze-bw-digitale-netzanschlusspruefung-in-drei-schritten/",
-      "notes": "Unverbindlich und tagesaktuell; Ziel ist weniger Testanfragen und bessere Vorplanung. Fuer Verbrauchslasten trotzdem separate Netzanschlussanfrage noetig.",
-      "tags": "Netze BW, Mittelspannung, 135 kW, 10 MW, NVP"
+      "relevance": "Laut aktueller Betreiberseite für Einspeise- und Bezugsanlagen zwischen 156 und 10.000 Kilowatt vorgesehen; unverbindliche Tagesauskunft zu möglichen Anschlusspunkten.",
+      "status": "Informationsseite geprüft; Kartenfunktion und konkretes Projekt nicht geprüft",
+      "url": "https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft",
+      "notes": "Keine Leistungsreservierung und kein Rechtsanspruch. Ergebnis ist nicht zwangsläufig der gesetzliche Anschlusspunkt. Anfrage- und Priorisierungsverfahren ab 950 Kilowatt sowie für Graustromspeicher zusätzlich beachten.",
+      "tags": "Netze BW, Mittelspannung, Bezug und Einspeisung, 156 bis 10.000 Kilowatt, unverbindlich",
+      "revisionHistory": [
+        {
+          "recordedOn": "2026-10-26",
+          "previousRecord": {
+            "id": "id-0.15088559403712998",
+            "created": "2026-06-02",
+            "updated": "2026-06-02",
+            "name": "Netze BW Digitale Mittelspannungsauskunft",
+            "category": "Netzanschlussauskunft",
+            "region": "Baden-Wuerttemberg / Netze BW",
+            "relevance": "Online-Indiz fuer Netzverknuepfungspunkte bei Erzeugungsanlagen von 135 kW bis 10 MW. Fuer RZ-Bezug nicht direkt dasselbe, aber als Infrastruktur- und NVP-Nahe-Indikator strategisch wertvoll.",
+            "status": "nutzbar",
+            "url": "https://www.pv-magazine.de/2024/07/01/netze-bw-digitale-netzanschlusspruefung-in-drei-schritten/",
+            "notes": "Unverbindlich und tagesaktuell; Ziel ist weniger Testanfragen und bessere Vorplanung. Fuer Verbrauchslasten trotzdem separate Netzanschlussanfrage noetig.",
+            "tags": "Netze BW, Mittelspannung, 135 kW, 10 MW, NVP"
+          },
+          "reason": "Aktuelle Betreiberquelle nennt auch Bezugsanlagen und 156 statt 135 Kilowatt."
+        }
+      ]
     },
     {
       "id": "id-0.21513713503989262",
@@ -7923,7 +8005,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-25",
+    "lastRun": "2026-10-26",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -7951,8 +8033,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-25",
-    "lastResearchSummary": "29 kommunale Teilprüfungen; Vogtsburg-Achkarren als vorläufiger Kandidat. Flurstück 3218/4 von Vorentwurf Kleinhartäcker III getrennt. Herstellerhinweis zu kurzzeitiger Leistungsstützung ausgewertet.",
+    "lastResearchRun": "2026-10-26",
+    "lastResearchSummary": "29 kommunale Teilprüfungen; Mittelspannungsauskunft für Bezugsanlagen aktualisiert und technische Anforderungen der vier Übertragungsnetzbetreiber ausgewertet. Keine gesicherte neue Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

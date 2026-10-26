@@ -1,6 +1,6 @@
 {
-  "checked": 1569,
-  "ok": 1534,
+  "checked": 1570,
+  "ok": 1535,
   "blocked": 35,
   "broken": 0,
   "results": [
@@ -24,18 +24,6 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 79,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.hermaringen.de/",
-      "status": 503,
-      "finalUrl": "https://www.hermaringen.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -198,6 +186,18 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "collection": "findings",
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
@@ -206,7 +206,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.ratshausen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ratshausen.de', port=443) at 0x1b25e540470>, 'Connection to www.ratshausen.de timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.ratshausen.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ratshausen.de', port=443) at 0x19247c7b470>, 'Connection to www.ratshausen.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -456,18 +456,6 @@
       "url": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
       "status": 200,
       "finalUrl": "https://raue.com/aktuell/branchen/energie-und-klimaschutz/unverbindliche-netzanschlussauskunft-nach-%C2%A7-17a-enwg-e/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "capacityMarkets",
-      "index": 0,
-      "field": "url",
-      "title": "Netze BW Digitale Mittelspannungsauskunft",
-      "url": "https://www.pv-magazine.de/2024/07/01/netze-bw-digitale-netzanschlusspruefung-in-drei-schritten/",
-      "status": 200,
-      "finalUrl": "https://www.pv-magazine.de/2024/07/01/netze-bw-digitale-netzanschlusspruefung-in-drei-schritten/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5685,6 +5673,18 @@
       "index": 79,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.hermaringen.de/",
+      "status": 200,
+      "finalUrl": "https://hermaringen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 79,
+      "field": "sourceUrl",
+      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.igersheim.de/974490.html",
       "status": 200,
       "finalUrl": "https://www.igersheim.de/974490.html",
@@ -10890,6 +10890,18 @@
     },
     {
       "collection": "findings",
+      "index": 202,
+      "field": "sourceUrl",
+      "title": "Netze BW: Mittelspannungsauskunft ausdrücklich auch für Bezugsanlagen",
+      "url": "https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft",
+      "status": 200,
+      "finalUrl": "https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 189,
       "field": "sourceUrl",
       "title": "Netze BW: Vergabeverfahren für große Bezugsanschlüsse präzisiert",
@@ -13728,18 +13740,6 @@
       "url": "https://www.voehrenbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.voehrenbach.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17964,6 +17964,18 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/OTE3ZmMyMGVlYzk1NzM5M3NGT25YVy9EeURtOXVvU1NOU1AwWndqR1k0SU43VFRNRk0vUE14OTRrR3Y2bUFSVWs4RTRwdVpEVWY4b2VDemlZOEpHVE80c0hJZzFGdm1Dem5vT0JBSTVpSVhnSFNoYlJkckt0Y0hKVGM5SEdtSUlrMmVKUms3dXBKeUVCcnRBOFAwb04wWS8wWU50Z2dXVzVYV2JtdnlRdk55VGw4YlcwYUhDNVg2TnVLZz0",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/OTE3ZmMyMGVlYzk1NzM5M3NGT25YVy9EeURtOXVvU1NOU1AwWndqR1k0SU43VFRNRk0vUE14OTRrR3Y2bUFSVWs4RTRwdVpEVWY4b2VDemlZOEpHVE80c0hJZzFGdm1Dem5vT0JBSTVpSVhnSFNoYlJkckt0Y0hKVGM5SEdtSUlrMmVKUms3dXBKeUVCcnRBOFAwb04wWS8wWU50Z2dXVzVYV2JtdnlRdk55VGw4YlcwYUhDNVg2TnVLZz0",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 105,
+      "field": "sourceUrl",
+      "title": "Vier Übertragungsnetzbetreiber: Technische Anforderungen für den Anschluss von Rechenzentren, 16.10.2026",
+      "url": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
+      "status": 200,
+      "finalUrl": "https://www.netztransparenz.de/cdn/files/ba0bf8e3-5aae-47ca-a680-08df22d1ba8a/20261016_technische_anforderungen_fuer_den_anschluss_von_rechenzentren.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
