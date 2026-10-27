@@ -1,0 +1,68 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 27. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+31 kommunale Teilprüfungen, vier neue Recherchehinweise und elf Dokumentquellen ergänzt. Keine neue gesicherte Rechenzentrumsfläche und kein neuer Flächenkandidat. Vertieft wurden Buchenbach-Himmelreich, Oberrieds Wärmeplanung, die Auswirkungen des Freiburger Stromausfalls sowie ein regionaler Konnektivitätshinweis.
+Eigene Empfehlung: Grundstück, zugesicherte Verbrauchsleistung, voneinander unabhängige Verbindungen und ein zur Dienstklasse passendes Ersatzversorgungskonzept gemeinsam prüfen. Oberrieds Entwurf ist keine zugesicherte Abwärmeabnahme; Himmelreich bietet aus den geprüften Unterlagen keine neue freie Fläche. Für heute ist keine Entscheidung erforderlich.
+
+Freiburg: Stromausfall und tatsächlich betroffene Dienste
+Die Stadt meldet für den 25. Oktober einen Stromausfall, besonders in Kappel, Ebnet und Teilen von Littenweiler; teilweise war auch Mobilfunk betroffen. Die Stadtmeldung nennt für das Stadtgebiet eine Wiederherstellung am Vormittag. Unterschiedliche Zeit- und Gebietsangaben der Meldungen wurden nicht zu einer scheinbar exakten Gesamtausfalldauer verrechnet. Keine heutige fortbestehende Stadtstörung aus älteren Meldungen behauptet.
+Kommunale Originalquelle: https://www.freiburg.de/pb/2659386.html
+Das Universitätsrechenzentrum erklärt in seinen eigenen Meldungen: Die über Batterie und Ersatzstrom abgesicherten Kerndienste waren nicht betroffen. Ausgefallen waren teilweise bewusst nicht abgesicherte stromintensive Rechenressourcen. Die Wiederinbetriebnahme wurde am 25. Oktober gemeldet; einzelne virtuelle Maschinen konnten noch Probleme haben. Dies belegt keinen Totalausfall des Rechenzentrums.
+Eigene Schlussfolgerung: Beim Standortvergleich Schutzumfang, Kühlung, Überbrückung, Ersatzversorgung und Wiederanlauf je Dienstklasse abfragen. Eine Wiederherstellung des öffentlichen Stromnetzes bedeutet nicht automatisch, dass alle Anwendungen wieder betriebsbereit sind. Aus einem Einzelereignis folgen keine belastbare Ausfallwahrscheinlichkeit und kein genereller Standort-Ausschluss.
+Betreiberquelle: https://rz.uni-freiburg.de/de/rz/aktuell/stoerungen/2026-10-25-17-05
+Die alte Suchmaschinenfassung einer Universitätsseite enthielt andere Nachrichtenstände; maßgeblich waren die direkt abgerufenen aktuellen Originalmeldungen. Allgemeine Störungslisten des Netzbetreibers sind veränderlich und wurden nicht als abgeschlossener Ereignisbericht behandelt.
+
+Oberried: Wärmeplanentwurf, keine gesicherte Abwärmesenke
+Der kommunale Internetauftritt legt den Entwurf des Fachgutachtens bis zum 9. November 2026 offen. Das 101-seitige Gutachten vom September und sieben Kartenanhänge wurden lokal gesichert und textlich erschlossen; die entscheidenden Seiten 43 und 92 zusätzlich visuell geprüft.
+Seite 43 nennt neben genutzter Biogasabwärme keine weiteren identifizierten relevanten Quellen. Seite 92 beschreibt zwei kommunale Wärmenetze und keinen kurzfristig geplanten Ausbau. Dies sind Aussagen eines Entwurfs über untersuchten Bestand und Planung; keine zugesicherte Aufnahme von Wärme eines neuen Rechenzentrums.
+Eigene Schlussfolgerung: Fehlende heutige Abwärmequellen sind kein Beleg dafür, dass es für eine künftige Anlage keine Wärmeabnehmer geben könnte. Abnahmemengen, Temperaturniveau, Anschlussentfernung, Sommerbedarf, Wirtschaftlichkeit und Vertragsbereitschaft bleiben offen. Keine Stellungnahme eingereicht und keine Abnahme vereinbart.
+Kommunale Quelle mit Originaldokumenten: https://www.oberried.de/p/kommunale-waermeplanung.php
+
+Buchenbach: Himmelreich als Bestandsverdichtung eingeordnet
+Die Begründung zur ersten Änderung „Gewerbegebiet Himmelreich 2. Erweiterung“, Offenlagefassung vom 9. Februar 2026, beschreibt das Gebiet als vollständig aufgesiedelt. Anlass ist eine Mitarbeiterunterkunft für den bestehenden Speditionsbetrieb. Seite 2 wurde visuell geprüft. Der Titel „2. Erweiterung“ ist deshalb kein Nachweis einer neu verfügbaren unbebauten Fläche.
+Die Bekanntmachung vom 2. Juli 2026 meldet den Satzungsbeschluss am 22. Juni und das Inkrafttreten mit der Bekanntmachung. Die daneben verlinkten Offenlageunterlagen wurden als ältere Verfahrensfassung erhalten und nicht als vollständig abgeglichene endgültige Festsetzungen ausgegeben. Bekanntmachung, Begründung und Satzungsunterlagen sind neu als Dokumentquellen erfasst.
+Eigene Schlussfolgerung: Keine neue freie Fläche und keine Rechenzentrumsgenehmigung belegt. Eine künftige private Vermarktung wird dadurch nicht widerlegt. Kein neuer Standort-Prüfeintrag. Die auf Buchenbachs Internetseite ebenfalls verlinkte Planung Fischerrain III betrifft Gemarkung Kirchzarten; sie wurde nicht Buchenbach zugeschrieben und nicht doppelt als neuer Plan angelegt.
+Kommunale Quelle: https://www.buchenbach.de/p/bebauungsplaene-gewerbegebiet-himmelreich
+
+TelemaxX: Anbieterhinweis zur Konnektivität
+Neu ausgewertet wurde eine ältere Betreibererklärung vom September 2026. Sie nennt einen Ausbau des eigenen Netzes auf 400 Gigabit je Sekunde und Kundenanschlüsse bis 100 Gigabit je Sekunde in Baden-Württemberg und Hessen. Dies ist eine Anbieterangabe, keine unabhängige Messung oder parzellenspezifische Verfügbarkeitsprüfung. Keine konkrete Anschlusszusage für Freiburg oder Denzlingen belegt.
+Eigene Schlussfolgerung: Als regionalen Anbieterhinweis vormerken. Bandbreite im übergeordneten Netz ersetzt keinen Grundstücksanschluss und keinen Nachweis physisch getrennter Wege. Übergabepunkte, Trassen, Liefertermin und zugesicherte Leistung wären einzeln zu prüfen. Den vorhandenen Unternehmenseintrag ergänzt; keine neue Partnerschaft mit iAccess vereinbart.
+Betreiberquelle: https://blog.telemaxx.de/telemaxx-ermoglicht-100gbit-s-anbindung-fur-ki-affine-start-ups-mittelstand-und-industrie/
+
+Nachrichten und bekannte Fristen
+Suche und Quellenabrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse, Betreiber- und Netzbetreiberquellen. Nicht jede Tagesmeldung vollständig erschlossen; keine umfassende Negativaussage über die Nachrichtenlage.
+Bekannte Amazon-, NVIDIA-, Crusoe-, Skeleton- und Netzanschlussmeldungen nicht nochmals als neu angelegt. Die gestern korrigierte Mittelspannungsauskunft für Bezugsanlagen und die Anforderungen der vier Übertragungsnetzbetreiber bleiben erhalten. Der unverifizierte modulare Freiburger Ausschreibungshinweis wurde nicht durch den Stromausfall als bestätigt behandelt.
+Bereits dokumentierte Verfahrensdaten unverändert: FairNetz bis 6. November; erstes Netze-BW-Fenster 1. November bis 31. Dezember 2026. Kein Antrag und keine Reservierung ausgeführt. Die Oberrieder Frist 9. November betrifft die Beteiligung am Wärmeplanentwurf und ist keine Frist für einen Rechenzentrumsstandort.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried.
+31 offene kommunale Prüfpfade bearbeitet, darunter die 21 priorisierten Gemeinden sowie zusätzlich Buchenbach und Oberried. Mindestens ein direkt abgerufener Inhalt pro Gemeinde. Gemeinde-, Rats-, Planungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf den verfügbaren Texten geprüft. Nicht alle Detailakten oder Kategorien waren zugänglich; die lokale Quellenmatrix weist Lücken aus. Keine Gemeinde als vollständig aktengeprüft ausgegeben.
+Gemeinden mit neuem bestätigtem Rechenzentrumsfund: keine. Neue freie Fläche aus Buchenbach und gesicherte Wärmeabnahme in Oberried nicht belegt. In den übrigen Teilprüfungen kein neuer gesicherter Standort. Fehlender Treffer, fehlender Zugriff und Standort-Ausschluss wurden nicht gleichgesetzt. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+
+Lokales Quellenarchiv und Dokumente
+438 unterschiedliche Rechercheadressen, 417 lokal gesichert; 55 zusätzliche Adressen im Quellenverzeichnis. 21 Abruffehler dokumentiert. Wiederholtes Sichern bekannter Quellen bedeutet keine neue Erkenntnis.
+78 unterschiedliche Dokumentdateien mit 1117 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 26 Dateiinhalte neu gegenüber dem Archiv. Dazu gehören Wärmeplan und Karten, Buchenbacher Planungsunterlagen, Unterlagen zur bestehenden Fischerrain-Planung sowie Gemeindeblätter. Elf Dokumentquellen neu in der Website erfasst; weitere Sicherungen dienen dem lokalen Kontext und sind keine zusätzlichen gesicherten Projekte.
+Bei 15 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Keine vollständige visuelle oder sachliche Prüfung sämtlicher Karten und Seiten behauptet. Originaldateien vollständig lokal gesichert und öffentliche Quellen verlinkt; keine zusätzlichen Dokumentkopien auf GitHub veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Kommunale Karten sind Planungsunterlagen und keine technischen Rechenzentrumszeichnungen.
+
+Quellenkorrekturen
+Fünf frühere Breisacher Quelladressen liefern aktuell 404. Die offizielle Startseite kündigt eine neue Internetseite an. Eine gekennzeichnete Rückfallquelle mit kurzen historischen Originalauszügen und Prüfsummen wurde vorbereitet; sie bestätigt weder heutige Vermarktung noch aktuelles Planrecht. Vollständige historische Seiten bleiben lokal. Der zuletzt gesicherte allgemeine Offenlageindex bestätigt insbesondere nicht den aktuellen Stand der früher dort geführten Planung Neumatten II / Wasserloch.
+Das Gottenheimer Wärmeplan-Original ist unter seiner bisherigen Gemeindeadresse ebenfalls nicht mehr erreichbar. Die bereits am 17. Oktober veröffentlichte vollständige Originalkopie wurde anhand ihrer Prüfsumme verifiziert und als Rückfallquelle gesetzt. Frühere Adressen und Archivstände bleiben in der Quellenhistorie erhalten. Keine neue Fassung oder heutige Gültigkeit aus der Rückfallkopie abgeleitet.
+Rückfallquelle Breisach: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/quellenstatus-breisach-2026-10-27.txt
+Gottenheimer Originalkopie: https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-01-original.pdf
+
+Dokumentverfügbarkeit und Linkprüfung
+117 erfasste Dokumentquellen geprüft: 117 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; elf neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1582 unterschiedliche öffentliche Links geprüft: 1548 erreichbar, 34 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Sechs defekte Quellenadressen durch dokumentierte Rückfallquellen ersetzt; die neuen öffentlichen Rückfallziele wurden separat geprüft.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 204 auf 208, Dokumenteinträge 106 auf 117, Bauleitpläne 31 auf 32. Ein vorhandener Unternehmenseintrag mit nachvollziehbarem Vorzustand ergänzt.
+Unverändert: Standort-Prüfeinträge 30, Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte neue Fläche und keine zugesicherte Anschlussleistung.
+
+Nächster Schritt
+Öffentliche Detailakten weiterer offener Gemeinden sowie geltende Grundstücksunterlagen der vorhandenen Kandidaten vertiefen. Ein kommunales Wärmeplangebiet nur bei konkreter Fläche und technisch geeigneter Wärmeschnittstelle weiterverfolgen. Keine Kontaktaufnahme, Registrierung oder Einträge in fremden Projektportalen ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
