@@ -1,0 +1,59 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Quellenstatus Breisach am Rhein – 27. Oktober 2026
+
+Fünf bisherige kommunale Adressen liefern beim aktuellen Abruf Fehler 404. Die offizielle Startseite kündigt eine neue Internetseite an. Diese Datei ist eine dokumentierte Rückfallquelle mit kurzen archivierten Originalauszügen, kein aktueller Vermarktungs- oder Planrechtsnachweis. Vollständige historische Originalseiten bleiben ausschließlich im lokalen Quellenarchiv.
+
+Aktueller Einstieg: https://stadt.breisach.de/
+
+Quelle 1: Städtische Gewerbeflächen - Stadt Breisach am Rhein
+
+Frühere Originaladresse: https://stadt.breisach.de/de/wirtschaft/gewerbeflaechen/staedtische_gewerbeflaechen
+
+Lokal archiviert am: 2026-10-01T09:15:17+0200
+
+Prüfsumme des vollständig lokal vorhandenen Originals: e6b4b5a098343b3429f3046019031bd10093ff8398da0363b762ea7b3409f462
+
+Archivierter Originalauszug, höchstens 20 Wörter: Navigation: Inhalte Städtische Gewerbeflächen Gewerbepark Rheinbrücke - Breisach am Rhein Die Stadt Breisach am Rhein bietet Ihnen zu attraktiven Konditionen
+
+Quelle 2: Stadt Breisach am Rhein
+
+Frühere Originaladresse: https://stadt.breisach.de/de/city/service/167/156/Energieversorgung
+
+Lokal archiviert am: 2026-06-30T11:01:28+0200
+
+Prüfsumme des vollständig lokal vorhandenen Originals: 1dd43f9761cca333681dd39bac8b7eabf1da2d9ce6e48e63e8ce32fffb1adbb2
+
+Archivierter Originalauszug, höchstens 20 Wörter: Navigation: Inhalte Energieversorgung Badenova AG&Co. KG Bahnhofstraße 35 79206 Breisach Tel: 0180 2 83 84 85 (6 cent/Anruf) Fax: 07667/
+
+Quelle 3: Aktuelles - Stadt Breisach am Rhein
+
+Frühere Originaladresse: https://stadt.breisach.de/de/ip/news/44/10205/0/BadenCampus-in_Breisach_foerdert_Unternehmensgruender
+
+Lokal archiviert am: 2026-06-30T11:01:27+0200
+
+Prüfsumme des vollständig lokal vorhandenen Originals: 9195b26f26864d110366fc83105703f63c24de6041e90d0c64be5f513060fcc2
+
+Archivierter Originalauszug, höchstens 20 Wörter: Navigation: Inhalte „BadenCampus“ in Breisach fördert Unternehmensgründer Stuttgart unterstützt Badenova Gründungszentrum Innovatoren und Gründer in der Region zu unterstützen ist
+
+Quelle 4: Aktuelles - Stadt Breisach am Rhein
+
+Frühere Originaladresse: https://stadt.breisach.de/de/ip/news/7/12971/0/Startschuss_fuer_den_Waermeverbund_Breisach
+
+Lokal archiviert am: 2026-06-30T11:01:27+0200
+
+Prüfsumme des vollständig lokal vorhandenen Originals: 947df347e346584b28db1214077a45585c0a6d2a81fcabc3eaf53c066d2d6025
+
+Archivierter Originalauszug, höchstens 20 Wörter: Navigation: Inhalte Startschuss für den Wärmeverbund Breisach am Rhein: Informationsveranstaltung am 03. März 2026 Nachhaltige Fernwärme für Breisach: Der Wärmeverbund
+
+Quelle 6: Offenlage - Stadt Breisach am Rhein
+
+Frühere Originaladresse: https://stadt.breisach.de/de/aktuelles/bauleitplanung/offenlage
+
+Lokal archiviert am: 2026-10-26T07:29:27+0100
+
+Prüfsumme des vollständig lokal vorhandenen Originals: 88862a1130cf6a3988838fb53a399fa87aa307faa176d25d085e09849d2a4f23
+
+Archivierter Originalauszug, höchstens 20 Wörter: Navigation: Inhalte Offenlage Offenlage „Solarpark Hochstetten Deponie“ Öffentliche Bekanntmachung Offenlage Solarpark Hochstetten Deponie.pdf - (pdf) (339.12 kB) (1) 26-09-22 Cover
+
+Grenze: Der zuletzt gesicherte allgemeine Offenlageindex betrifft Solarpark-Unterlagen. Er bestätigt nicht den aktuellen Stand der früher dort geführten Änderung Neumatten II / Wasserloch.
