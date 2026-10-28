@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-27",
-  "total": 117,
+  "checkedAt": "2026-10-28",
+  "total": 119,
   "localAvailable": 68,
-  "publicAvailable": 117,
+  "publicAvailable": 119,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -1992,6 +1992,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.oberried.de/eip/eip_media.php?f=w-Warmeversorgungsgebiete_Anhang.pdf&m=4931&i=6&fl=52983698&d=017",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Oberried",
+      "documentTitle": "Oberried Brühl: Satzung, Textteil und Begründung, Stand 19.09.2000",
+      "documentType": "Kommunales Original / historischer Bebauungsplan",
+      "pages": "44",
+      "publicUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "currentSourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Oberried",
+      "documentTitle": "Oberried Brühl: historische Planzeichnung",
+      "documentType": "Kommunales Original / historischer Bebauungsplan",
+      "pages": "1",
+      "publicUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "currentSourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
       "contentType": "application/pdf",
       "error": ""
     }

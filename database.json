@@ -1751,6 +1751,20 @@
       "source": "Gemeinde Buchenbach",
       "sourceUrl": "https://www.buchenbach.de/p/bebauungsplaene-gewerbegebiet-himmelreich",
       "notes": "Offenlagebegründung 09.02.2026 beschreibt vollständig aufgesiedeltes Gebiet und Mitarbeiterunterkunft. Frühere Offenlageunterlagen nicht als vollständig abgeglichene finale Festsetzungen ausgegeben. Fischerrain III auf derselben Gemeindewebsite liegt auf Gemarkung Kirchzarten und wurde nicht Buchenbach zugeordnet."
+    },
+    {
+      "id": "id-2026-10-28-bruehl",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "municipality": "Oberried",
+      "state": "Baden-Württemberg",
+      "planName": "Gewerbegebiet Brühl – historischer Textteil und Planzeichnung",
+      "status": "Historische Satzungsfassung 19.09.2000; heutiger Rechtsstand und Änderungen offen",
+      "dataCenter": "Keine konkrete Rechenzentrumsgenehmigung oder freie Parzelle nachgewiesen.",
+      "documents": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "source": "Gemeinde Oberried / kommunales Planarchiv",
+      "sourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "notes": "Trafostationsfläche ist kein Leistungsnachweis. Straßenlärmbetrachtung auf Basis älterer Verkehrsdaten ist keine Bewertung des Betriebs einer neuen Anlage. Historische Überschwemmungsgrenze nicht als heutige amtliche Hochwasserkarte ausgegeben."
     }
   ],
   "pdfExtracts": [
@@ -3605,6 +3619,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.oberried.de/14082133ebc67b15.pdf",
       "tags": "Original, Planstand und räumliche Zuordnung beachten"
+    },
+    {
+      "id": "id-2026-10-28-pdf-01",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "municipality": "Oberried",
+      "documentTitle": "Oberried Brühl: Satzung, Textteil und Begründung, Stand 19.09.2000",
+      "documentType": "Kommunales Original / historischer Bebauungsplan",
+      "pages": "44",
+      "keyFacts": "Historischer Planstand 2000; aktueller Grundstücks- und Rechtsstand offen.",
+      "technicalFacts": "Keine Verbrauchsnetzleistung oder Rechenzentrumszulässigkeit belegt.",
+      "planningFacts": "Textauslesung mit erkennbaren Fehlern; Planzeichnung ohne eingebetteten Text zusätzlich visuell gelesen. Kernstellen Dateiseiten 6 und 23 visuell geprüft. Keine vollständige fachliche Prüfung aller Anlagen.",
+      "sourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.oberried.de/85fbcbc6d01206be.pdf",
+      "tags": "Historisches Original, keine aktuelle Standortfreigabe"
+    },
+    {
+      "id": "id-2026-10-28-pdf-02",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "municipality": "Oberried",
+      "documentTitle": "Oberried Brühl: historische Planzeichnung",
+      "documentType": "Kommunales Original / historischer Bebauungsplan",
+      "pages": "1",
+      "keyFacts": "Historischer Planstand 2000; aktueller Grundstücks- und Rechtsstand offen.",
+      "technicalFacts": "Keine Verbrauchsnetzleistung oder Rechenzentrumszulässigkeit belegt.",
+      "planningFacts": "Textauslesung mit erkennbaren Fehlern; Planzeichnung ohne eingebetteten Text zusätzlich visuell gelesen. Kernstellen Dateiseiten 6 und 23 visuell geprüft. Keine vollständige fachliche Prüfung aller Anlagen.",
+      "sourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.oberried.de/6954b991868b5266.pdf",
+      "tags": "Historisches Original, keine aktuelle Standortfreigabe"
     }
   ],
   "media": [
@@ -7931,6 +7977,43 @@
       "confidence": "Amtliche Bekanntmachung und ältere Offenlageunterlagen; finale Festsetzungen nicht vollständig abgeglichen",
       "action": "Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag. Den Titel 2. Erweiterung nicht als neue unbebaute Erweiterungsfläche verstehen. Eine spätere private Vermarktung ist dadurch nicht widerlegt.",
       "tags": "Bestandsgebiet, Mitarbeiterunterkunft, kein aktuelles Flächenangebot"
+    },
+    {
+      "id": "id-2026-10-28-bruehl",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "title": "Oberried-Brühl: historische Unterlagen ohne aktuelles Flächenangebot",
+      "topic": "Kommunale Bauleitplanung",
+      "summary": "Kommunale Satzung und Textteil mit Begründung, 44 Seiten, Stand 19.09.2000, sowie gescannte Planzeichnung lokal gesichert. Historische Festsetzungen enthalten eine Trafostationsfläche und Regelungen für ein damaliges Überschwemmungsgebiet. Das belegt keine heutige freie Netzkapazität oder Grundstücksverfügbarkeit.",
+      "sourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99",
+      "additionalSourceUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "confidence": "Historische kommunale Originale; heutiger parzellenscharfer Rechtsstand offen",
+      "action": "Eigene Schlussfolgerung: Bei konkreter Parzelle Änderungen, aktuelle Hochwasserlage und Verbrauchsanschluss prüfen. Die damalige Betrachtung des Straßenlärms der Landesstraße 126 ist kein Nachweis zulässiger Rechenzentrumsimmissionen.",
+      "tags": "Historischer Planstand 2000, keine gesicherte freie Fläche"
+    },
+    {
+      "id": "id-2026-10-28-rimac-ecoblox",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "title": "Rimac und ECOBLOX: modularer Demonstrator für November angekündigt",
+      "topic": "Technik / modulare Rechenzentren",
+      "summary": "Herstellerankündigung vom 07.10.2026 beschreibt gemeinsame Entwicklung eines modularen Rechenzentrums mit Batterie, Leistungselektronik und Kühlung. Installation am Rimac-Campus in Kroatien für November 2026 vorgesehen. Neu ausgewertete ältere Meldung, kein Nachweis eines bereits abgenommenen Betriebs.",
+      "sourceUrl": "https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics",
+      "confidence": "Herstellererklärung; keine unabhängige Prüfung oder bestätigte Lieferung",
+      "action": "Eigene Schlussfolgerung: Als Technologiehinweis vormerken. Puffertechnik ersetzt weder einen erforderlichen Verbrauchsanschluss noch eine Energieversorgung. Lieferumfang, Überbrückung unter Last, Sicherheit, Wartung und deutsches Anschlussverhalten bleiben zu bestätigen.",
+      "tags": "Ankündigung, kein Betriebsnachweis, keine iAccess-Partnerschaft"
+    },
+    {
+      "id": "id-2026-10-28-petit-landau",
+      "created": "2026-10-28",
+      "updated": "2026-10-28",
+      "title": "Petit-Landau: grenznaher Verfahrenshinweis, Originalbescheid nicht geprüft",
+      "topic": "Regionale Nachrichten / Genehmigungsrisiken",
+      "summary": "Regionaler Bericht vom 27.10.2026 behandelt Widerstand gegen das Microsoft-Projekt bei Petit-Landau und Hombourg. Vollständiger aktueller Originalbescheid und aktuelle Baugenehmigungen konnten nicht geprüft werden. Beteiligung, Stellungnahme, Umweltentscheidung und Baufreigabe dürfen nicht gleichgesetzt werden.",
+      "sourceUrl": "https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/microsoft-rechenzentrum-in-petit-landau-grenzueberschreitender-protest-formiert-sich-100.html",
+      "confidence": "Journalistische Hinweisquelle; amtliche Detailprüfung wegen Zugriffsgrenzen offen",
+      "action": "Eigene Schlussfolgerung: Als grenznahen Verfahrenshinweis weiterführen. Keine bestandskräftige Gesamtgenehmigung, tatsächliche Umsetzung, freie Fläche oder zugesicherte Abwärmenutzung behaupten. Nicht als neuer Standort in Baden-Württemberg erfasst.",
+      "tags": "Sekundärhinweis, Originalstand offen, kein Standortangebot"
     }
   ],
   "gridChecks": [
@@ -8386,7 +8469,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-10-27",
+    "lastRun": "2026-10-28",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -8414,8 +8497,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-10-27",
-    "lastResearchSummary": "31 kommunale Teilprüfungen; Oberried-Wärmeplan, Buchenbach-Himmelreich, Freiburger Ausfallfolgen und TelemaxX-Konnektivität ausgewertet. Keine neue gesicherte Fläche.",
+    "lastResearchRun": "2026-10-28",
+    "lastResearchSummary": "31 kommunale Teilprüfungen; historischer Brühl-Plan, modulare Rimac/ECOBLOX-Ankündigung und grenznaher Verfahrenshinweis. Keine neue gesicherte Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

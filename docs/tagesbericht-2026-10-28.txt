@@ -1,0 +1,56 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 28. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+31 kommunale Teilprüfungen fortgeführt. Drei Recherchehinweise und zwei Dokumentquellen ergänzt: historische Planung Oberried-Brühl, modulare Herstellerankündigung Rimac/ECOBLOX und grenznaher Verfahrenshinweis Petit-Landau. Keine neue gesicherte Rechenzentrumsfläche, kein neuer Flächenkandidat und keine Anschlusszusage.
+Eigene Empfehlung: Vor weiterer Standortvertiefung konkrete Parzelle, geltendes Baurecht, Verbrauchsleistung und geeignete Wärme- sowie Glasfaserschnittstellen bestätigen. Historische Trafostationsflächen und Herstellerankündigungen reichen dafür nicht. Für heute ist keine Entscheidung erforderlich.
+
+Oberried-Brühl: historische Planung richtig eingeordnet
+Neu ausgewertet wurden die kommunale Satzung mit Textteil und Begründung, 44 Seiten mit Stand 19. September 2000, sowie eine gescannte Planzeichnung. Die Unterlagen sind historische Originale aus dem heutigen Gemeinde-Planarchiv. Sie bestätigen keine heutige Grundstücksverfügbarkeit; spätere Änderungen und der aktuelle parzellenscharfe Rechtsstand bleiben offen.
+Dateiseite 6 nennt eine Fläche für eine Trafostation beziehungsweise ein Schalthaus und Regeln für ein in der damaligen Zeichnung dargestelltes Überschwemmungsgebiet. Eigene Schlussfolgerung: Weder freie Verbrauchsleistung noch heutige Hochwassergrenzen lassen sich daraus ableiten. Eine konkrete Parzelle ist nicht als verfügbar belegt; kein Standort-Prüfeintrag angelegt.
+Dateiseite 23 behandelt den Straßenlärm der Landesstraße 126 auf Basis älterer Verkehrsdaten und einer überschlägigen Rechnung. Dies ist kein Immissionsnachweis für Kühlung, Transformatoren oder Ersatzstromanlagen eines neuen Rechenzentrums. Beide Kernseiten wurden visuell kontrolliert; die Planzeichnung zusätzlich visuell gelesen. Die vorhandene Textauslesung enthält erkennbare Fehler.
+Kommunales Original: https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet+Bruehl+Satzung+mit+Textteil+und+Begrundung+sowie+Rechtskraftvermerk.pdf&m=2378&i=0&fl=47256977&d=d99
+Die zusätzlich erfasste Steinwasen-Unterlage betrifft einen Freizeitpark und wurde nicht als Rechenzentrums- oder Gewerbeflächenangebot übernommen.
+
+Rimac und ECOBLOX: Entwicklung und künftiger Demonstrator
+Die Originalmeldung vom 7. Oktober 2026 beschreibt eine gemeinsame Entwicklung modularer Rechenzentrumstechnik mit Batterie, Leistungselektronik und Kühlung. Eine Installation am Rimac-Campus in Kroatien wird für November angekündigt. Neu ausgewertete ältere Meldung, kein Nachweis eines bereits abgenommenen oder laufenden Demonstrators.
+Eigene Schlussfolgerung: Als Technologiehinweis vormerken. Batterie und Leistungselektronik ersetzen weder erforderlichen Netzanschluss noch laufende Energieversorgung. Lieferumfang, Überbrückung unter tatsächlicher Last, Sicherheit, Wartung und Verhalten am deutschen Netz bleiben zu bestätigen. Keine Lieferfrist für iAccess, keine verfügbare Fläche in Baden-Württemberg und keine unabhängige Leistungsprüfung belegt. Die gleichlautenden Erklärungen beider Hersteller sind keine unabhängigen Bestätigungen.
+Herstelleroriginal: https://www.rimac-newsroom.com/press-releases/rimac-technology/rimac-technology-and-ecoblox-partner-to-bring-rimac-battery-and-power-electronics
+
+Petit-Landau: regionaler Verfahrenshinweis mit offenen Originalen
+Ein regionaler Bericht vom 27. Oktober behandelt Widerstand gegen das Microsoft-Projekt bei Petit-Landau und Hombourg im Elsass sowie Fragen zu Standort und Abwärme. Der vollständige aktuelle Originalbescheid und die aktuellen Baugenehmigungen konnten nicht geprüft werden. Die Präfekturseite lieferte lokal Zugriffscode 401, das Verfahrensregister 403. Keine Anmeldung oder Umgehung vorgenommen.
+Eigene Schlussfolgerung: Als grenznahen Verfahrenshinweis weiterführen. Beteiligung, Stellungnahme, Umweltentscheidung, Baugenehmigung, Bestandskraft und tatsächliche Umsetzung sind getrennte Stände. Keine vollständige oder bestandskräftige Gesamtgenehmigung behauptet, kein freies Grundstück und keine zugesicherte Abwärmenutzung daraus abgeleitet. Nicht als neuer Standort in Baden-Württemberg erfasst.
+Journalistische Hinweisquelle: https://www.swr.de/swraktuell/baden-wuerttemberg/freiburg/microsoft-rechenzentrum-in-petit-landau-grenzueberschreitender-protest-formiert-sich-100.html
+Die Registerübersicht beschreibt einen älteren Beteiligungsstand. Sie wurde nicht als heutiger Genehmigungsstand ausgegeben. Für eine weitere rechtliche Einordnung wäre zuerst der vollständige aktuelle amtliche Bescheid erforderlich.
+
+Nachrichten und bekannte Fristen
+Suche beziehungsweise Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen. Nicht jede Tagesmeldung vollständig erschlossen; keine umfassende Negativaussage über die Nachrichtenlage.
+Die bekannten Netzverfahren, Oberrieds Wärmeplanentwurf, der Freiburger Stromausfall und der TelemaxX-Konnektivitätshinweis wurden nicht nochmals als neue Erkenntnis angelegt. Die Schutzunterscheidung zwischen Kerndiensten und nicht abgesicherten Rechenressourcen bleibt erhalten. Das modulare Freiburger Ausschreibungsprojekt bleibt ohne verifizierte Originalbekanntmachung offen.
+Bereits dokumentierte Termine unverändert: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November, erstes Netze-BW-Fenster 1. November bis 31. Dezember 2026. Kein Antrag, keine Reservierung und keine Stellungnahme ausgeführt. Diese unterschiedlichen Verfahrensfristen wurden nicht als Standortzusage verstanden.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried.
+31 offene kommunale Prüfpfade mit den 21 priorisierten Gemeinden fortgeführt. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf verfügbaren Texten geprüft. Je Gemeinde mindestens ein direkt abgerufener Inhalt. Nicht alle Kategorien und Detailakten waren zugänglich; die lokale Quellenmatrix dokumentiert die Lücken. Keine vollständige Aktenprüfung einer Gemeinde behauptet.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Oberried liefert historischen Planungskontext, kein neues Flächenangebot. Bei den anderen Teilprüfungen kein neuer gesicherter Standort; vorhandene Hinweise bleiben erhalten. Nicht gefunden, nicht geprüft und ausgeschlossen wurden nicht gleichgesetzt. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+Die eingeschränkten kommunalen Internetauftritte Breisach und Vogtsburg bleiben als Zugangsgrenze dokumentiert. Die gestern gesetzten Breisacher und Gottenheimer Rückfallquellen bleiben historische Belege, keine neue Bestätigung heutiger Vermarktung oder Rechtsstände.
+
+Quellenarchiv und Dokumente
+418 unterschiedliche Rechercheadressen, 396 lokal gesichert; 17 zusätzliche Adressen im Quellenverzeichnis. 22 Abruffehler dokumentiert. Wiederholte Sicherung ist keine neue Erkenntnis.
+57 unterschiedliche Dokumentdateien mit 910 Seiten textlich ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 3 Dateiinhalte neu gegenüber dem Archiv: Brühl-Textunterlage, Brühl-Planzeichnung und Steinwasen-Unterlage. Zwei Brühl-Dokumentquellen neu in die Website übernommen; Steinwasen bleibt lokal als nicht einschlägiger Kontext.
+Bei 9 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Die Brühl-Zeichnung enthält keinen eingebetteten Text und wurde visuell gelesen. Keine vollständige visuelle oder sachliche Prüfung aller Seiten und Anlagen behauptet. Vollständige Originale lokal archiviert und öffentliche Quellen verlinkt; keine zusätzlichen Dateikopien auf GitHub veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Der kommunale Bebauungsplan ist keine technische Rechenzentrumszeichnung.
+
+Dokumentverfügbarkeit und Linkprüfung
+119 erfasste Dokumentquellen geprüft: 119 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1586 unterschiedliche öffentliche Links geprüft: 1553 erreichbar, 33 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 208 auf 211, Dokumenteinträge 117 auf 119, Bauleitpläne 32 auf 33. Alle bisherigen Array-Einträge unverändert erhalten.
+Unverändert: Standort-Prüfeinträge 30, Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche, keine Anschlusszusage.
+
+Nächster Schritt
+Öffentliche Detailakten weiterer offener Gemeinden sowie aktuelle Grundstücksunterlagen vorhandener Kandidaten vertiefen. Grenznahen Genehmigungsstand nur anhand aktueller amtlicher Originale weiter konkretisieren. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
