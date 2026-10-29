@@ -1,6 +1,6 @@
 {
-  "checked": 1586,
-  "ok": 1553,
+  "checked": 1591,
+  "ok": 1558,
   "blocked": 33,
   "broken": 0,
   "results": [
@@ -27,6 +27,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 73,
+      "field": "sourceUrl",
+      "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
+      "url": "https://www.winnenden.de/start",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "findings",
@@ -171,18 +183,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.eco.de/news/zwischen-ausbauzielen-und-netzrealitaet-der-anschluss-von-rechenzentren-auf-dem-pruefstand/",
-      "status": 503,
-      "finalUrl": "https://www.eco.de/news/zwischen-ausbauzielen-und-netzrealitaet-der-anschluss-von-rechenzentren-auf-dem-pruefstand/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
     },
     {
       "collection": "sites",
@@ -2133,18 +2133,6 @@
       "index": 73,
       "field": "sourceUrl",
       "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
-      "url": "https://www.winnenden.de/start",
-      "status": 200,
-      "finalUrl": "https://www.winnenden.de/start",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 73,
-      "field": "sourceUrl",
-      "title": "20 weitere offene Gemeinden im Rems-Murr-/Ludwigsburg-Fortsetzungsblock geprueft: kein direkter RZ-Fund",
       "url": "https://www.winterbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.winterbach.de/startseite",
@@ -2435,7 +2423,7 @@
       "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
       "url": "https://www.breisach.de/",
       "status": 200,
-      "finalUrl": "https://www.breisach.de/",
+      "finalUrl": "https://stadt.breisach.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -4068,6 +4056,30 @@
       "url": "https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte",
       "status": 200,
       "finalUrl": "https://www.badenova.de/kommunen/dienstleistungen/baulanderschliessung/bauprojekte",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 211,
+      "field": "sourceUrl",
+      "title": "Bahlingen und Riegel: keine gesicherte neue Gewerbefläche aus den Angebotsseiten",
+      "url": "https://www.bahlingen.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze",
+      "status": 200,
+      "finalUrl": "https://www.bahlingen.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 211,
+      "field": "additionalSourceUrl",
+      "title": "Bahlingen und Riegel: keine gesicherte neue Gewerbefläche aus den Angebotsseiten",
+      "url": "https://www.gemeinde-riegel.de/de/Wirtschaft,Bauen-Wohnen/Gewerbeflaechen",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-riegel.de/de/Wirtschaft,Bauen-Wohnen/Gewerbeflaechen/Gemeinde-Gewerbegrundstuecke",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8940,6 +8952,18 @@
       "url": "https://www.hohentengen.de/de/",
       "status": 200,
       "finalUrl": "https://www.hohentengen.de/de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 213,
+      "field": "sourceUrl",
+      "title": "Infineon und Enphase: 900-Volt-Schalter in Entwicklung, Produktionsqualifizierung offen",
+      "url": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
+      "status": 200,
+      "finalUrl": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15825,6 +15849,18 @@
       "index": 113,
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.eco.de/news/zwischen-ausbauzielen-und-netzrealitaet-der-anschluss-von-rechenzentren-auf-dem-pruefstand/",
+      "status": 200,
+      "finalUrl": "https://www.eco.de/news/zwischen-ausbauzielen-und-netzrealitaet-der-anschluss-von-rechenzentren-auf-dem-pruefstand/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.engstingen.de/site/Engstingen-2024/get/documents_E-1539600458/engstingen/Engstingen_Objekte/PdfDokumente/10.%20%C3%84nderung%20FP%20Engstingen-Hohenstein/Umweltbericht%20vom%2026.03.2026.pdf",
       "status": 304,
       "finalUrl": "https://www.engstingen.de/site/Engstingen-2024/get/documents_E-1539600458/engstingen/Engstingen_Objekte/PdfDokumente/10.%20%C3%84nderung%20FP%20Engstingen-Hohenstein/Umweltbericht%20vom%2026.03.2026.pdf",
@@ -17292,6 +17328,18 @@
       "url": "https://www.kuchen.de/media/files/hp-kw-49-bbpl-oestlicher-gewerbepark-lageplan-satzung-04.12.2023.pdf",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/media/files/hp-kw-49-bbpl-oestlicher-gewerbepark-lageplan-satzung-04.12.2023.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 119,
+      "field": "sourceUrl",
+      "title": "Bahlingen Unter Gereuth Süd, erste Änderung: schriftlicher Teil, Juni 2025",
+      "url": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_2-Schriftlicher-Teil_20250624.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_2-Schriftlicher-Teil_20250624.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19032,6 +19080,18 @@
       "url": "https://www.merzhausen.de/unsere-gemeinde/projekte/aktuelle-projekte",
       "status": 200,
       "finalUrl": "https://www.merzhausen.de/unsere-gemeinde/projekte/aktuelle-projekte",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 33,
+      "field": "documents",
+      "title": "Unter Gereuth Süd – erste Änderung, Lebensmittelmarkt",
+      "url": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

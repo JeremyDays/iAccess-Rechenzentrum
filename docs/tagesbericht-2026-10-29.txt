@@ -1,0 +1,58 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 29. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+34 kommunale Teilprüfungen fortgeführt, darunter zusätzlich Herbolzheim, Bahlingen und Riegel im Raum Emmendingen. Drei Recherchehinweise, ein Planungseintrag und zwei Dokumentquellen ergänzt. Keine neue gesicherte Rechenzentrumsfläche und kein neuer Flächenkandidat.
+Eigene Empfehlung: Angebot, Verfahren und konkrete Grundstücksverfügbarkeit getrennt prüfen. Für neue Stromwandlungstechnik Entwicklungsstand und Nachweise der Gesamtanlage abwarten; eine Bauteilankündigung löst keinen Standort- oder Netzanschlussnachweis ab. Für heute ist keine Entscheidung erforderlich.
+
+Bahlingen, Riegel und Herbolzheim
+Die kommunale Bahlinger Gewerbebauplatzseite nennt derzeit keine freien Gewerbebauplätze. Das ist eine Aussage zum kommunalen Angebotsstand, kein Nachweis, dass private Möglichkeiten ausgeschlossen sind.
+Quelle: https://www.bahlingen.de/unsere-gemeinde/wirtschaft-gewerbe/gewerbebauplaetze
+Riegels kommunale Gewerbeflächenseite beschreibt die nächste Erweiterung Kleinfeldele als Flächennutzungsplanverfahren. Eine heute verfügbare Parzelle, eine Rechenzentrumsgenehmigung oder ein zugesicherter Verbrauchsanschluss sind damit nicht belegt.
+Quelle: https://www.gemeinde-riegel.de/de/Wirtschaft,Bauen-Wohnen/Gewerbeflaechen
+Herbolzheims Seite bewirbt den Gewerbepark Nord und verweist für die digitale Vermarktung auf ein externes Portal. Die kommunale Seite enthält keine belastbare heutige Zusage für eine bestimmte Rechenzentrumsparzelle. Die einzelnen Portalobjekte wurden heute nicht vollständig erschlossen. Allgemeine Standortwerbung und gute Straßenanbindung wurden nicht als Strom- oder Glasfasernachweis verwendet.
+Quelle: https://www.stadt-herbolzheim.de/wirtschaft-handel/gewerbeflaechen
+Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag aus diesen Seiten. Bei einem konkreten privaten Angebot wären Eigentumszugang, Baurecht, Verbrauchsleistung, getrennte Glasfaserwege und Wärmeabnahme gesondert zu bestätigen. Keine Kontaktaufnahme oder Bewerbung ausgeführt.
+
+Bahlingen Unter Gereuth Süd: Lebensmittelmarkt statt Rechenzentrumshinweis
+Vier Originaldateien zur ersten Änderung lokal gesichert: Satzungsvorlage, Zeichnung, schriftlicher Teil und Begründung. Die Begründung mit Stand 24. Juni 2025 trägt ausdrücklich die Fassung Entwurf zur Veröffentlichung. Der Satzungstext enthält Leerstellen für Beschlussdaten. Ein aktuelles Inkrafttreten wurde daraus nicht behauptet.
+Begründungsseite 13 und Seite 1 des schriftlichen Teils nennen die Zweckbestimmung Sondergebiet Großflächiger Lebensmittelmarkt. Beide Stellen wurden zusätzlich visuell geprüft. Die Unterlagen betreffen die Erweiterung des Lebensmittelmarktes und ergeben kein neues Rechenzentrums- oder frei verfügbares Gewerbegrundstück. Begründung und schriftlicher Teil wurden als zwei Dokumentquellen erfasst; weitere Dateien dienen dem lokalen Verfahrenskontext.
+Eigene Schlussfolgerung: Heutige Satzung, räumliche Zuordnung und Zweckbestimmung zuerst klären. Keine Immissionswerte oder zulässigen Nebenanlagen des Lebensmittelmarkts auf einen Rechenzentrumsbetrieb übertragen. Entwurf von nachgewiesener endgültiger Genehmigung getrennt.
+Kommunale Originalbegründung: https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf
+
+Infineon und Enphase: Produktionsqualifizierung steht noch aus
+Die Herstellererklärung vom 26. Oktober 2026 beschreibt getestete bidirektionale Galliumnitrid-Schalter für Stromwandlungsmodule. Laut Infineon werden die Bauteile in die Produktentwicklung integriert; die Produktionsqualifizierung soll folgen. Kein Nachweis eines bereits lieferbaren vollständigen Systems oder eines damit betriebenen Rechenzentrums.
+Eigene Schlussfolgerung: Als Technologiehinweis vormerken. Die Spannungsangabe eines Bauteils ist keine Netzanschlussleistung. Sicherheitsnachweise, Verfügbarkeit, Wartung, Schutzkonzept und Netzverträglichkeit der Gesamtanlage bleiben gesondert zu bestätigen. Keine unabhängige Leistungsprüfung oder Partnerschaft mit iAccess behauptet. Die zweite Herstellerseite war beim lokalen Abruf mit Zugriffscode 403 blockiert; ausgewertet wurde die gesicherte Infineon-Originalmeldung.
+Herstellerquelle: https://www.infineon.com/de/technology-news/2026/inftn202610-014
+
+Nachrichten und bekannte Fristen
+Suche beziehungsweise Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen. Nicht jede Tagesmeldung vollständig erschlossen; keine umfassende Negativaussage zur Nachrichtenlage.
+Bekannte Rimac/ECOBLOX-, TelemaxX-, Solarpark- und Netzverfahrensmeldungen wurden nicht erneut als neu angelegt. Der ältere PreussenElektra-Hinweis bleibt ohne vollständig erschlossene Originalmeldung; eine neue journalistische Erwähnung wurde nicht als neue Standortfreigabe behandelt. Der Petit-Landau-Genehmigungsstand und der modulare Freiburger Ausschreibungshinweis bleiben mit ihren bereits dokumentierten Grenzen erhalten.
+Unveränderte bekannte Termine: FairNetz bis 6. November; Oberrieds Wärmeplan-Offenlage bis 9. November; erstes Netze-BW-Fenster 1. November bis 31. Dezember 2026. Kein Antrag, keine Reservierung und keine Stellungnahme ausgeführt.
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel.
+34 offene kommunale Prüfpfade bearbeitet; die 21 priorisierten Gemeinden wurden weiter berücksichtigt. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf den verfügbaren Texten geprüft. Je Gemeinde mindestens ein direkt abgerufener Inhalt. Detailakten und einzelne Kategorien bleiben offen oder unzugänglich; die lokale Quellenmatrix dokumentiert diese Grenzen. Keine Gemeinde als vollständig aktengeprüft ausgegeben.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Bahlingen nennt keinen kommunalen freien Gewerbebauplatz; Riegel nennt ein Verfahren. Bei den anderen Teilprüfungen kein neuer gesicherter Standort. Nicht gefunden, nicht geprüft und ausgeschlossen wurden nicht gleichgesetzt. Vorhandene Hinweise bleiben erhalten und alle Gemeinden für die systematische Aktenprüfung offen.
+
+Quellenarchiv und Dokumente
+453 unterschiedliche Rechercheadressen, 434 lokal gesichert; 41 zusätzliche Adressen im Quellenverzeichnis. 19 Abruffehler dokumentiert. Wiederholtes Sichern bekannter Quellen ist keine neue Erkenntnis.
+65 unterschiedliche Dokumentdateien mit 1093 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 13 Dateiinhalte neu gegenüber dem Archiv. Dazu gehören die vier Bahlinger Dateien, Rats- und Bekanntmachungsunterlagen, ein aktuelles Gemeindeblatt sowie weitere kommunale Planungsdokumente. Zwei Dokumentquellen neu in die Website übernommen. Nicht jede archivierte Datei liefert einen neuen Standortbefund.
+Die neuen Umwelt- und Schallunterlagen aus Breisach betreffen Solarpark Hochstetten Deponie; sie wurden nicht als Rechenzentrumsgutachten ausgegeben. Bei 8 Dateien bleibt die eingebettete Textauslesbarkeit eingeschränkt. Keine vollständige visuelle oder sachliche Prüfung aller Seiten, Ratsakten und Karten behauptet.
+Vollständige Originale lokal gesichert, öffentliche Quellen verlinkt. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Kommunale Planzeichnungen werden als Planungsunterlagen geführt.
+
+Dokumentverfügbarkeit und Linkprüfung
+121 erfasste Dokumentquellen geprüft: 121 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1591 unterschiedliche öffentliche Links geprüft: 1558 erreichbar, 33 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich.
+Recherchehinweise 211 auf 214, Dokumenteinträge 119 auf 121, Bauleitpläne 33 auf 34. Alle bisherigen Array-Einträge unverändert erhalten.
+Unverändert: Standort-Prüfeinträge 30, Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Nächster Schritt
+Einzelne öffentliche Gewerbeangebote im nördlichen Breisgau weiter konkretisieren und bei vorhandenen Kandidaten die aktuellen parzellenscharfen Unterlagen vertiefen. Offene Ratsakten und Zugangsgrenzen fortschreiben. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

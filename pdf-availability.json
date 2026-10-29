@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-28",
-  "total": 119,
+  "checkedAt": "2026-10-29",
+  "total": 121,
   "localAvailable": 68,
-  "publicAvailable": 119,
+  "publicAvailable": 121,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2026,6 +2026,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Bahlingen am Kaiserstuhl",
+      "documentTitle": "Bahlingen Unter Gereuth Süd, erste Änderung: schriftlicher Teil, Juni 2025",
+      "documentType": "Kommunales Original / Planentwurf",
+      "pages": "2",
+      "publicUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_2-Schriftlicher-Teil_20250624.pdf",
+      "currentSourceUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_2-Schriftlicher-Teil_20250624.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_2-Schriftlicher-Teil_20250624.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Bahlingen am Kaiserstuhl",
+      "documentTitle": "Bahlingen Unter Gereuth Süd, erste Änderung: Begründung, Entwurf Juni 2025",
+      "documentType": "Kommunales Original / Planentwurf",
+      "pages": "18",
+      "publicUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf",
+      "currentSourceUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.bahlingen.de/fileadmin/Dateien/Website/Dateien/Projekte___Massnahmen/Bebauungsplan_%E2%80%9EUnter_Gereuth_-_S%C3%BCd%E2%80%9C/Bahlingen_BP_Unter-Gereuth_Sued_1-Aenderung_3-Begruendung_20250611.pdf",
       "contentType": "application/pdf",
       "error": ""
     }
