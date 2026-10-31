@@ -1,0 +1,66 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 31. Oktober 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+34 kommunale Teilprüfungen fortgeführt. Zwei vorläufige Grundstückskandidaten in Herbolzheim, zwei Recherchehinweise, ein Planungseintrag und fünf Originaldokumentquellen ergänzt. Keine gesicherte neue Rechenzentrumsfläche, kein neuer Partner und keine Anschlusszusage.
+Eigene Empfehlung: Beide Angebote vorerst nachrangig prüfen. Vor jeder weiteren Projektbewertung den tatsächlich angebotenen Teilbereich, geltenden Grundstücksplan, aktuellen Erschließungsstand und die freie Verbrauchsleistung klären. Schutzstreifen und Hochwasserrisiken können die nutzbare Fläche wesentlich einschränken. Keine Entscheidung oder Kontaktfreigabe für heute erforderlich; keine Bewerbung oder Reservierung ausgeführt.
+
+Herbolzheim Allmendstraße: konkrete Angebote, technische Eignung offen
+Belegt als Anbieterangabe: Objekt GR14883, Flurstück 3196/28, 3.000 Quadratmeter, 360.000 Euro. Objekt GR14884, Flurstück 3197/14, 2.971 Quadratmeter, 356.520 Euro. Beide nennen 120 Euro je Quadratmeter. Die Rechenprüfung ergibt jeweils den genannten Gesamtpreis; keine zusätzliche Kostenschätzung vorgenommen.
+Das zweite Angebot ist ausdrücklich privat, obwohl die Stadt als Ansprechpartner und Portalverantwortliche auftritt. Eigentum und heutige Reservierungsfreiheit wurden nicht unabhängig bestätigt.
+Widerspruch beziehungsweise offene Abgrenzung: Beim ersten Objekt nennt das Portal das Erschließungsdatum unbekannt, das erzeugte Exposé dagegen noch nicht erschlossen. Ein Kaufpreis einschließlich bestimmter Erschließungskosten belegt keine bereits abgeschlossene Erschließung. Hausanschlusskosten werden beim ersten Angebot zusätzlich genannt; beim zweiten nennt das Portal diese als eingeschlossen. Umfang und Aktualität bleiben zu bestätigen.
+Quellen:
+https://www.baupilot.com/herbolzheim/allmendstrasse
+https://www.baupilot.com/herbolzheim/allmendstrasse-GR14884
+https://www.baupilot.com/Expose/Download/GR14883
+https://www.baupilot.com/Expose/Download/GR14884
+
+Originalpläne Allmendstraße: räumliche Zuordnung und Risiken
+Drei unterschiedliche Originaldateien gesichert: Planzeichnung mit einer Seite, Begründung mit 13 Seiten, Bebauungsvorschriften mit 19 Seiten. Die drei Dateien sind bei beiden Objekten unter unterschiedlichen Adressen verlinkt, haben aber jeweils identische Prüfsummen. Sie wurden nicht doppelt als Dokumente gezählt. Stand 18. April 2024, Fassung Satzung; Begründung mit unterzeichnetem Schlussblatt. Eine heutige unveränderte Geltung einschließlich Bekanntmachung wurde nicht vollständig nachgeprüft.
+Die Dateien sind Bildscans. Ausgewählte Stellen visuell gelesen: Vorschriften Seiten 1 bis 8, Begründung Seiten 1 und 13 sowie Planzeichnung. Keine vollständige Texterkennung oder Prüfung sämtlicher Anhänge behauptet.
+Die Planzeichnung führt 3197/14 im abgegrenzten Bereich. Das westlich beschriftete Flurstück 3196/28 wird durch den dargestellten Bereich nicht vollständig abgedeckt. Heutiger Katasterstand, angebotener Teilbereich und eine mögliche Teilung sind offen. Deshalb werden die Planwerte nicht pauschal auf beide gesamten Angebotsflächen übertragen.
+Belegt aus den Vorschriften: Gewerbegebiet; Schutzstreifen einer 110-Kilovolt-Freileitung mit möglichen Einschränkungen der Gebäudehöhe; Anforderungen an Dach- und Fassadenbegrünung, Versickerung und Bauen im Grundwasser. Die historische Planunterlage nennt nahezu flächendeckend Gefahren bei extremem Hochwasser sowie einen geschützten Bereich, in dem bei Versagen von Rückhalteanlagen oder Dämmen Überflutung möglich ist. Das ersetzt keine heutige amtliche Gefahrenkarten- und Fachprüfung.
+Eigene Bewertung: Leitungsnähe ist kein Nachweis freier Stromleistung. Im Plan markierte Leitungen ergeben auch keinen zugesicherten Glasfaseranschluss. Rechenzentrumszulässigkeit, Kühlung, Notstrom, Immissionen, Brandschutz, Löschwasser und Wärmeabnahme bleiben projektbezogen offen. Keine Betriebsfreigabe aus einer allgemeinen Gewerbegebietsausweisung abgeleitet.
+Originale:
+https://www.baupilot.com/Files.ashx?File=d6c08eec-9827-4419-807a-040451b390c0.pdf
+https://www.baupilot.com/Files.ashx?File=d3325a69-a621-4cb1-9c39-176e4958053c.pdf
+https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf
+
+Gewerbepark Nord: Platzhalter nicht als Grundstücksgröße übernommen
+Das ebenfalls verlinkte Objekt zeigt einen Quadratmeter und 120 Euro an. Der Beschreibungstext erklärt, die Grundstücke seien noch nicht vermessen und würden nach Prüfung der Anfragen zugeteilt. Außerdem steht dort eine ältere Erschließungsankündigung für Mitte 2024 und ein Hinweis auf bestehende Reservierungsanfragen. Eigene Schlussfolgerung: Keine einzelne verfügbare Parzelle und keinen aktuellen Erschließungsabschluss aus diesen Angaben ableiten; kein weiterer Standort angelegt.
+Quelle: https://www.baupilot.com/herbolzheim/grundstueck-im-gewerbepark-nord
+
+Nachrichten und bekannte Termine
+Breite Suche und Quellenabrufe: Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen. Keine vollständige Auswertung jeder Tagesmeldung; Suchtreffer allein nicht als Belege neuer Standorte übernommen. Internationale Finanz- und Hardwaremeldungen ergaben keinen neuen gesicherten Flächenbefund im Suchraum.
+Borderstep kündigt die Vorstellung der nächsten Studie mit Stand 2026 für den 12. November 2026 an. Nicht als bereits veröffentlichte neue Studie oder als neue Marktzahlen behandelt.
+Quelle: https://www.borderstep.de/projekte/rechenzentren-in-deutschland/
+Bekannte Fristen bleiben erhalten: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November; erstes Netze-BW-Fenster laut bisher gesicherter Betreiberunterlage vom 1. November bis 31. Dezember 2026. Keine Anmeldung, kein Antrag und keine Reservierung ausgeführt. Bekannte Hersteller-, Petit-Landau- und Freiburger Hinweise nicht doppelt angelegt und ihre früher dokumentierten Prüfgrenzen erhalten.
+
+Gemeinden und Grenzen der Recherche
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel.
+34 offene kommunale Prüfpfade bearbeitet, einschließlich der 21 priorisierten Gemeinden. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf verfügbaren Texten geprüft. Ausgewählte Originaldokumente heruntergeladen oder nach Prüfsummenabgleich wiederverwendet. Einzelne Kategorien und vollständige Ratsakten bleiben offen; die lokale Quellenmatrix weist fehlende und gescheiterte Abrufe aus. Keine Gemeinde als vollständig aktengeprüft geschlossen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Herbolzheim mit zwei vorläufigen Angeboten; übrige Gemeinden ohne neuen gesicherten Standortbefund in den geprüften Quellen. Kein Beweis, dass dort keine weiteren Möglichkeiten bestehen. Nicht gefunden, nicht geprüft und ausgeschlossen bleiben getrennt.
+
+Quellenarchiv, Dokumente und Medien
+479 unterschiedliche Rechercheadressen, 461 lokal gesichert; 20 zusätzliche Adressen gegenüber dem Archiv zu Beginn des heutigen Laufs. 18 Abruffehler dokumentiert.
+75 unterschiedliche Dokumentdateien mit 1402 Seiten ausgelesen beziehungsweise anhand unveränderter Prüfsummen wiederverwendet; 7 Dateiinhalte neu gegenüber dem Archiv. Bei 12 Dateien ist die eingebettete Textauslesbarkeit eingeschränkt, darunter die drei neuen Allmendstraße-Scans. Fünf Dokumentquellen neu in die Website aufgenommen: drei Planunterlagen und zwei Anbieterexposés. Keine neuen Rechenzentrumsgutachten behauptet.
+Vollständige Originaldateien lokal gesichert, öffentliche Originalquellen verlinkt. Vier bereits vorhandene historische Tannheimer Originale als Ersatz für entfernte amtliche Quellen auf GitHub veröffentlicht und bytegenau geprüft. Die übrigen neuen Originale bleiben nur lokal. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Kommunale Planzeichnungen bleiben Planungsunterlagen.
+
+Dokumentverfügbarkeit und Linkprüfung
+126 erfasste Dokumentquellen geprüft: 126 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; fünf neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1598 unterschiedliche öffentliche Links geprüft: 1565 erreichbar, 33 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Vier amtliche Tannheimer Adressen nach Webseitenumstellung mit 404 bestätigt. Vorhandene Originalkopien als Ersatz veröffentlicht, Prüfsummen und Ersatzlinks erfolgreich geprüft; historische Adressen nachvollziehbar erhalten. Keine heutige Rechtskraft aus der Sicherung abgeleitet.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen; keine manuellen Uploads, nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Standort-Prüfeinträge 30 auf 32, Recherchehinweise 214 auf 216, Dokumenteinträge 121 auf 126, Bauleitpläne 34 auf 35. Alle bisherigen Einträge erhalten. Ausschließlich die vier defekten Tannheimer Quelladressen wurden durch geprüfte Originalkopien ersetzt; vorherige Adressen und betroffene Datensätze sind im Änderungsprotokoll erhalten.
+Unverändert: Unternehmen 22, Planungsfälle 7, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Fortschrittskontrolle
+Der Lauf vom 30. Oktober hatte Recherchedateien gesichert, aber keinen abgeschlossenen Tagesbericht sowie keinen Veröffentlichungs- oder Versandnachweis. Die gespeicherten Ergebnisse wurden heute abgeglichen und weiterbearbeitet. Es wird kein rückdatierter zweiter Bericht versendet. Vor Änderungen stimmten die veröffentlichten Daten und der lokale Bestand überein. Laufzeitordner, Anmeldedaten und lokale Sicherungen werden nicht veröffentlicht.
+
+Nächster Schritt
+Räumliche Zuordnung und aktuelle Bekanntmachung der Allmendstraße weiter auflösen; Originalgutachten und bislang offene kommunale Akten vertiefen. Die heutige Bewertung rechtfertigt noch keine Standortfestlegung. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
