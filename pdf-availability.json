@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-31",
-  "total": 126,
+  "checkedAt": "2026-11-01",
+  "total": 128,
   "localAvailable": 68,
-  "publicAvailable": 126,
+  "publicAvailable": 128,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2145,6 +2145,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.baupilot.com/Expose/Download/GR14884",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Pfaffenhofen an der Ilm, Bayern",
+      "documentTitle": "Fsas Technologies: Herstellerreferenz Bürgerenergie Pfaffenhofen an der Ilm, 2026",
+      "documentType": "Herstellerreferenz, kein unabhängiger Betriebsnachweis",
+      "pages": "2",
+      "publicUrl": "https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf",
+      "currentSourceUrl": "https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Netze-BW-Netzgebiet",
+      "documentTitle": "Netze BW: Wirtschaftszweig-Codes für essenzielle Daseinsvorsorge, Juli 2026",
+      "documentType": "Betreiber-Verfahrensunterlage",
+      "pages": "3",
+      "publicUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/4dVd1JY6t0q9dlsfo3rjLe/b7a2c5c4b3969a7ac1523606ebee9b0e/wz-codes.pdf",
+      "currentSourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/4dVd1JY6t0q9dlsfo3rjLe/b7a2c5c4b3969a7ac1523606ebee9b0e/wz-codes.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/4dVd1JY6t0q9dlsfo3rjLe/b7a2c5c4b3969a7ac1523606ebee9b0e/wz-codes.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

@@ -1,0 +1,56 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 1. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und nächster Schritt
+34 kommunale Teilprüfungen fortgeführt. Zwei Recherchehinweise und zwei Dokumentquellen ergänzt. Keine neue gesicherte Rechenzentrumsfläche und kein zusätzlicher Grundstückskandidat.
+Neu dokumentiert: regionale Voraussetzung des ab heute vorgesehenen Netze-BW-Anmeldefensters und ein geplantes kleines Container-Rechenzentrum in Pfaffenhofen an der Ilm als Referenzmodell. Eigene Empfehlung: Bei bestätigten Flächen zuerst zuständigen Netzbetreiber, regionale Verfahrensöffnung, Gesamtbezugsleistung und erforderliche Nachweise klären. Das Referenzprojekt liefert ein Konzept, keinen Nachweis gleicher Genehmigungsfähigkeit oder Wirtschaftlichkeit im Suchraum. Keine Entscheidung für heute erforderlich.
+
+Netze BW: Anmeldefenster nur bei regionaler Öffnung
+Belegt aus der aktuellen Betreiberseite: erster Anmeldezeitraum 1. November bis 31. Dezember 2026, erste Vergabe voraussichtlich März 2027. Das Punkteverfahren wird regional eröffnet, sofern zusätzliche Anschlussleistung verfügbar ist. Findet in der Region des geplanten Anschlusses kein Punkteverfahren statt, ist laut Betreiber keine Einreichung möglich.
+Das Datum allein belegt deshalb weder eine geöffnete Region noch eine Antragmöglichkeit für alle Standorte in Baden-Württemberg. Kundenportal und Kapazitätskarte wurden nicht funktional geprüft; keine konkrete Gemeindeöffnung oder zugesicherte Leistung ermittelt. Der reguläre Bezugsanschluss ab 950 Kilowatt und Speicher mit Netzbezug unterliegen unterschiedlichen Voraussetzungen. Unterhalb dieser Grenze besteht daraus keine freie Leistungszusage. Keine automatische Ausnahme wegen erneuerbarer Versorgung oder Rechenzentrumstätigkeit behauptet.
+Der erneut gesicherte Verfahrensleitfaden ist weiterhin Version 1.1 vom 16. Oktober 2026 mit 15 Dateiseiten. Zusätzlich wurde die dreiseitige Betreiberliste zur Wirtschaftszweigzuordnung, Stand Juli 2026, als Dokumentquelle aufgenommen. Die konkrete Zuordnung entscheidet der Betreiber; keine Einordnung für ein nicht bestimmtes iAccess-Projekt vorgenommen.
+Quellen:
+https://www.netze-bw.de/netzanschluss/vergabe
+https://assets.cdn.netze-bw.de/xytfb1vrn7of/2k017cOqd87lxuZruWCjKS/15d3da011d455ea8c1f47a7a357bbeba/vergabeverfahren-netze-bw.pdf
+https://assets.cdn.netze-bw.de/xytfb1vrn7of/4dVd1JY6t0q9dlsfo3rjLe/b7a2c5c4b3969a7ac1523606ebee9b0e/wz-codes.pdf
+Die Mittelspannungsauskunft bleibt laut Betreiber eine unverbindliche Tagesauskunft für Einspeise- und Bezugsanlagen von 156 bis 10.000 Kilowatt. Keine Reservierung, kein Rechtsanspruch und kein Funktions- oder Projekttest durch diese Recherche.
+Quelle: https://www.netze-bw.de/stromeinspeisung/mittelspannungsauskunft
+
+Kleine modulare Anlage: Pfaffenhofen an der Ilm als Referenz
+Die gemeinsame Erklärung von Projektbeteiligten vom 7. Oktober 2026 beschreibt zwei gekoppelte Container mit geplanter Rechnerleistung von 80 Kilowatt. Netzanschluss, Batteriespeicher, unterbrechungsfreie Stromversorgung und zwei Internetanbindungen sollen die lokale erneuerbare Erzeugung ergänzen. Inbetriebnahme ist für Spätherbst 2026 vorgesehen. Die neuere journalistische Erwähnung wurde nicht als neues Projektdatum verwendet.
+Der Herstellerbericht von Fsas Technologies nennt Prior1 für die Containertechnik und Regio AI für Betrieb und Vermarktung. Das Original umfasst zwei Seiten, Copyright 2026 ohne eindeutiges Tagesdatum. Beide Seiten wurden ausgelesen und visuell geprüft. Hersteller und Projektbeteiligte sind keine unabhängigen Bestätigungen. Kein aktueller Betriebsnachweis und keine gemessene Auslastung oder Gesamtbezugsleistung vorhanden. Die formulierten Vorteile bei Genehmigungsaufwand, Klimaneutralität und Profitabilität wurden nicht als geprüfte Tatsachen übernommen.
+Eigene Schlussfolgerung: Für kleine energiegekoppelte Standorte fachlich relevant, aber Rechnerleistung nicht mit Gesamtanschlussleistung gleichsetzen. Dauerbetrieb erfordert ein nachgewiesenes Versorgungs-, Kühlungs- und Internetkonzept; die Containerbauweise ersetzt keine projektspezifische Zulässigkeitsprüfung. Projekt in Bayern, kein neuer Flächenfund in Baden-Württemberg und keine Partnerschaft mit iAccess.
+Quellen:
+https://www.pr-newscenter.com/public/pm/read/7196422/KI-Rechenleistung_aus_regionaler_Energie
+https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf
+
+Herbolzheim und Gemeinden
+Die beiden Allmendstraße-Angebote wurden erneut abgerufen. Kein neuer sachlicher Angebotsstand aus dem Textabruf nachgewiesen. Die bisherigen Vorbehalte zu aktueller Reservierungsfreiheit, Erschließung, räumlicher Planabdeckung, Schutzstreifen, Hochwasser und Verbrauchsleistung bleiben erhalten. Keine aus dem Portal abgeleitete Anschlusszusage. Die öffentliche Seite der aktuellen Planverfahren ersetzt nicht die noch offene Prüfung der geltenden Satzung und heutigen Grundstücksgrenzen.
+Bearbeitete Gemeinden: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel.
+34 offene kommunale Prüfpfade, einschließlich aller 21 priorisierten Gemeinden. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade und die elf vorgegebenen Suchbegriffe auf den verfügbaren Texten geprüft. Je Gemeinde mindestens ein direkt abgerufener Inhalt. Einzelne Kategorien, Detailakten, Kartenfunktionen und Zugangswege bleiben offen; diese Grenzen sind in der lokalen Quellenmatrix dokumentiert. Keine Gemeinde als vollständig aktengeprüft geschlossen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Übrige Gemeinden ohne neuen gesicherten Befund in den geprüften Quellen beziehungsweise weiterhin offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten und Termine
+Suche beziehungsweise aktuelle Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse und Betreiber-/Netzbetreiberquellen. Keine lückenlose Auswertung aller Tagesmeldungen. Suchtreffer allein nicht als Standortnachweis verwendet; Mehrfachveröffentlichungen derselben Projektmeldung nicht als unabhängige Quellen gezählt.
+Bekannte Fristen fortgeführt: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November und angekündigte nächste Borderstep-Studie am 12. November 2026. Keine Anmeldung, Stellungnahme, Anfrage oder Reservierung ausgeführt. Ältere Hersteller- und Standortmeldungen nicht doppelt als neu erfasst.
+
+Quellenarchiv und Dokumente
+476 unterschiedliche Rechercheadressen, 457 lokal gesichert; 6 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 19 Abruffehler dokumentiert. Ein fehlgeschlagener zusätzlicher Herbolzheimer Pfad wurde durch die tatsächlich verlinkte Seite der aktuellen Planverfahren ergänzt; fehlgeschlagener Abruf bleibt im Protokoll.
+70 unterschiedliche Dokumentdateien mit 1359 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 1 Dateiinhalte neu gegenüber dem Archiv. Zwei Quellen neu in der Dokumentdatenbank: Herstellerreferenz und Betreiber-Wirtschaftszweigliste. Ein neuer Dokumenteintrag ist nicht automatisch ein neuer Dateiinhaltsstand.
+Bei 9 Dateien ist die eingebettete Textauslesbarkeit eingeschränkt. Keine vollständige Texterkennung oder visuelle Prüfung aller Archivseiten behauptet. Keine neuen Rechenzentrumsgutachten, Fotos oder technischen Rechenzentrumszeichnungen aufgenommen. Das Herstellerdokument zeigt Windradfoto und Logos; diese wurden nicht als Rechenzentrumsbilder übernommen. Originale lokal gesichert und öffentlich verlinkt; keine zusätzlichen Originalkopien auf GitHub veröffentlicht.
+
+Dokumentverfügbarkeit und Linkprüfung
+128 erfasste Dokumentquellen geprüft: 128 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1601 unterschiedliche öffentliche Links geprüft: 1569 erreichbar, 32 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 216 auf 218; Dokumenteinträge 126 auf 128. Alle bisherigen Array-Einträge unverändert erhalten.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Fortschritt und Veröffentlichung
+Vor Änderungen veröffentlichten Datenbestand mit lokalen Daten und vorherigem Abschlussprotokoll abgeglichen. Der Lauf vom 31. Oktober war vollständig veröffentlicht und versandt; kein Doppelbericht. Ausschließlich aktuelle Recherchedaten, Website und Tagesbericht veröffentlichen. Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal. Veröffentlichung und Versand werden anhand des tatsächlichen Ergebnisses im Fortschrittsprotokoll kontrolliert.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
