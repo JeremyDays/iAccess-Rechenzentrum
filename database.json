@@ -857,7 +857,7 @@
     {
       "id": "id-2026-10-31-allmend-1",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "name": "Allmendstraße 3196/28 – vorläufiger Prüfkandidat",
       "city": "Herbolzheim",
       "postalCode": "79336",
@@ -869,13 +869,38 @@
       "connectivity": "Keine zugesicherten getrennten Glasfaserwege belegt",
       "source": "Von der Stadt verlinktes Baupilot-Portal und Originalunterlagen",
       "sourceUrl": "https://www.baupilot.com/herbolzheim/allmendstrasse",
-      "notes": "Angebot 360.000 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Exposé nennt noch nicht erschlossen; Portal nennt Erschließungsdatum unbekannt und Kaufpreis einschließlich Erschließungskosten. Zeitpunkt, Leistungsumfang und geltender Grundstücksplan offen. Der beigefügte Plan deckt das westlich beschriftete Flurstück 3196/28 nicht vollständig ab; keine vollständige räumliche Zuordnung des angebotenen Teilbereichs bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung.",
-      "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen"
+      "notes": "Angebot 360.000 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Exposé nennt noch nicht erschlossen; Portal nennt Erschließungsdatum unbekannt und Kaufpreis einschließlich Erschließungskosten. Zeitpunkt, Leistungsumfang und geltender Grundstücksplan offen. Der beigefügte Plan deckt das westlich beschriftete Flurstück 3196/28 nicht vollständig ab; keine vollständige räumliche Zuordnung des angebotenen Teilbereichs bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung. Ergänzung 02.11.2026: Historischer Satzungsbeschluss 18.04.2024 nun amtlich belegt. Planbekanntmachung, heutige Grundstücksgrenzen, Erschließung und Rechenzentrumszulässigkeit weiter offen. Abwägung Seite 17: Netze BW macht Netzerweiterung vom noch unbekannten Leistungsbedarf abhängig. Bahnstromleitung der DB Energie innerhalb, Netze-BW-Hochspannungsleitung mit Schutzstreifen laut planerischer Erwiderung außerhalb des Plangeltungsbereichs. Historische Leitungsaussagen sind keine aktuelle Anschluss- oder Baufreigabe. Artenschutzmaßnahmen für Vögel und Reptilien vorhabenbezogen nachweisen.",
+      "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-allmend-1",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "name": "Allmendstraße 3196/28 – vorläufiger Prüfkandidat",
+            "city": "Herbolzheim",
+            "postalCode": "79336",
+            "address": "Allmendstraße; laut Portal Flurstück 3196/28",
+            "operator": "Kein Rechenzentrumsbetreiber belegt; kommunales Portalangebot",
+            "status": "Vorläufiger Prüfkandidat; Verfügbarkeit, Baurecht und Verbrauchsanschluss offen",
+            "area": "3.000 Quadratmeter laut Anbieter",
+            "powerMw": "Unbekannt; keine zugesicherte freie Bezugsleistung",
+            "connectivity": "Keine zugesicherten getrennten Glasfaserwege belegt",
+            "source": "Von der Stadt verlinktes Baupilot-Portal und Originalunterlagen",
+            "sourceUrl": "https://www.baupilot.com/herbolzheim/allmendstrasse",
+            "notes": "Angebot 360.000 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Exposé nennt noch nicht erschlossen; Portal nennt Erschließungsdatum unbekannt und Kaufpreis einschließlich Erschließungskosten. Zeitpunkt, Leistungsumfang und geltender Grundstücksplan offen. Der beigefügte Plan deckt das westlich beschriftete Flurstück 3196/28 nicht vollständig ab; keine vollständige räumliche Zuordnung des angebotenen Teilbereichs bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung.",
+            "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen"
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092"
     },
     {
       "id": "id-2026-10-31-allmend-2",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "name": "Allmendstraße 3197/14 – vorläufiger Prüfkandidat",
       "city": "Herbolzheim",
       "postalCode": "79336",
@@ -887,8 +912,33 @@
       "connectivity": "Keine zugesicherten getrennten Glasfaserwege belegt",
       "source": "Von der Stadt verlinktes Baupilot-Portal und Originalunterlagen",
       "sourceUrl": "https://www.baupilot.com/herbolzheim/allmendstrasse-GR14884",
-      "notes": "Angebot 356.520 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Privates Angebot trotz kommunaler Ansprechpartner; Eigentümer nicht unabhängig bestätigt. Portal-Infrastrukturfelder teilweise ausdrücklich nein, kein positiver Glasfasernachweis. Planzeichnung führt 3197/14 im Geltungsbereich; heutige Grenzen und eventuelle Teilung nicht bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung.",
-      "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen"
+      "notes": "Angebot 356.520 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Privates Angebot trotz kommunaler Ansprechpartner; Eigentümer nicht unabhängig bestätigt. Portal-Infrastrukturfelder teilweise ausdrücklich nein, kein positiver Glasfasernachweis. Planzeichnung führt 3197/14 im Geltungsbereich; heutige Grenzen und eventuelle Teilung nicht bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung. Ergänzung 02.11.2026: Historischer Satzungsbeschluss 18.04.2024 nun amtlich belegt. Planbekanntmachung, heutige Grundstücksgrenzen, Erschließung und Rechenzentrumszulässigkeit weiter offen. Abwägung Seite 17: Netze BW macht Netzerweiterung vom noch unbekannten Leistungsbedarf abhängig. Bahnstromleitung der DB Energie innerhalb, Netze-BW-Hochspannungsleitung mit Schutzstreifen laut planerischer Erwiderung außerhalb des Plangeltungsbereichs. Historische Leitungsaussagen sind keine aktuelle Anschluss- oder Baufreigabe. Artenschutzmaßnahmen für Vögel und Reptilien vorhabenbezogen nachweisen.",
+      "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-allmend-2",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "name": "Allmendstraße 3197/14 – vorläufiger Prüfkandidat",
+            "city": "Herbolzheim",
+            "postalCode": "79336",
+            "address": "Allmendstraße; laut Portal Flurstück 3197/14",
+            "operator": "Kein Rechenzentrumsbetreiber belegt; privates Angebot auf kommunalem Portal",
+            "status": "Vorläufiger Prüfkandidat; Verfügbarkeit, Baurecht und Verbrauchsanschluss offen",
+            "area": "2.971 Quadratmeter laut Anbieter",
+            "powerMw": "Unbekannt; keine zugesicherte freie Bezugsleistung",
+            "connectivity": "Keine zugesicherten getrennten Glasfaserwege belegt",
+            "source": "Von der Stadt verlinktes Baupilot-Portal und Originalunterlagen",
+            "sourceUrl": "https://www.baupilot.com/herbolzheim/allmendstrasse-GR14884",
+            "notes": "Angebot 356.520 Euro, 120 Euro je Quadratmeter. Anbieterangabe, keine heutige Reservierungs- oder Erwerbszusage. Privates Angebot trotz kommunaler Ansprechpartner; Eigentümer nicht unabhängig bestätigt. Portal-Infrastrukturfelder teilweise ausdrücklich nein, kein positiver Glasfasernachweis. Planzeichnung führt 3197/14 im Geltungsbereich; heutige Grenzen und eventuelle Teilung nicht bestätigt. Gemeinsame Planunterlagen Allmendstraße, Satzungsfassung 18.04.2024: 110-Kilovolt-Freileitung und Schutzstreifen, Hochwasser- und Grundwasserhinweise. Keine Rechenzentrumsgenehmigung, keine aktuelle Rechtsstandsprüfung oder Standortfreigabe. Eigene Bewertung: zunächst nachrangiger Kandidat bis zu räumlicher, wasserrechtlicher und elektrischer Klärung.",
+            "tags": "Vorläufig, Schutzstreifen, Hochwasserrisiko, Netzanschluss offen"
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092"
     }
   ],
   "companies": [
@@ -1819,16 +1869,37 @@
     {
       "id": "id-2026-10-31-allmend",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "municipality": "Herbolzheim",
       "state": "Baden-Württemberg",
       "planName": "Allmendstraße",
-      "status": "Originale Satzungsfassung 18.04.2024; heutige unveränderte Geltung und Bekanntmachung nicht vollständig nachgeprüft",
+      "status": "Satzungsbeschluss am 18.04.2024 amtlich bestätigt; Bekanntmachungsdatum, heutige unveränderte Geltung und Grundstückszuordnung offen",
       "dataCenter": "Keine spezifische Rechenzentrumsgenehmigung belegt.",
       "documents": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
       "source": "Stadt Herbolzheim, Unterlagen im verlinkten Baupilot-Portal",
       "sourceUrl": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
-      "notes": "Planzeichnung mit 3197/14; westlich 3196/28 nicht vollständig im dargestellten Geltungsbereich. Heutige Grundstücksgrenzen und angebotener Teilbereich offen. Schutzstreifen, Wasser- und Begrünungsanforderungen beachten."
+      "notes": "Planzeichnung mit 3197/14; westlich 3196/28 nicht vollständig im dargestellten Geltungsbereich. Heutige Grundstücksgrenzen und angebotener Teilbereich offen. Schutzstreifen, Wasser- und Begrünungsanforderungen beachten. Öffentliche Niederschrift Seite 6: Beschluss mit 16 Ja, 1 Nein und 3 Enthaltungen. Die im Ratsportal abgelegte Satzungsdatei enthält leere Ausfertigungs- und Bekanntmachungsfelder; die dort so bezeichnete Öffentliche Bekanntmachung betrifft die Sitzungseinladung, nicht den Nachweis des Planinkrafttretens. Historische Betreiberauflagen und fachliche Maßnahmen nicht als heute abgearbeitete Freigaben behandeln.",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-allmend",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "municipality": "Herbolzheim",
+            "state": "Baden-Württemberg",
+            "planName": "Allmendstraße",
+            "status": "Originale Satzungsfassung 18.04.2024; heutige unveränderte Geltung und Bekanntmachung nicht vollständig nachgeprüft",
+            "dataCenter": "Keine spezifische Rechenzentrumsgenehmigung belegt.",
+            "documents": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
+            "source": "Stadt Herbolzheim, Unterlagen im verlinkten Baupilot-Portal",
+            "sourceUrl": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
+            "notes": "Planzeichnung mit 3197/14; westlich 3196/28 nicht vollständig im dargestellten Geltungsbereich. Heutige Grundstücksgrenzen und angebotener Teilbereich offen. Schutzstreifen, Wasser- und Begrünungsanforderungen beachten."
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092"
     }
   ],
   "pdfExtracts": [
@@ -3751,50 +3822,122 @@
     {
       "id": "id-2026-10-31-pdf-01",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "municipality": "Herbolzheim",
       "documentTitle": "Allmendstraße: Planzeichnung, Satzungsfassung 18.04.2024",
       "documentType": "Kommunale Originalunterlage / Anbieterexposé",
       "pages": "1",
       "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
       "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
-      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten. Ergänzung 02.11.2026: Textlich auslesbare Originalfassung desselben Planstands aus dem Ratsportal zusätzlich gesichert. Kein neuer Planstand allein aus anderer Dateiprüfsumme abgeleitet.",
       "sourceUrl": "https://www.baupilot.com/Files.ashx?File=d6c08eec-9827-4419-807a-040451b390c0.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.baupilot.com/2005ac15f8c38b65.pdf",
-      "tags": "Herbolzheim, Angebot und Eignung trennen"
+      "tags": "Herbolzheim, Angebot und Eignung trennen",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-pdf-01",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "municipality": "Herbolzheim",
+            "documentTitle": "Allmendstraße: Planzeichnung, Satzungsfassung 18.04.2024",
+            "documentType": "Kommunale Originalunterlage / Anbieterexposé",
+            "pages": "1",
+            "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
+            "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
+            "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+            "sourceUrl": "https://www.baupilot.com/Files.ashx?File=d6c08eec-9827-4419-807a-040451b390c0.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.baupilot.com/2005ac15f8c38b65.pdf",
+            "tags": "Herbolzheim, Angebot und Eignung trennen"
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27889&type=do",
+      "additionalLocalArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/38a1ff538d529cff.pdf"
     },
     {
       "id": "id-2026-10-31-pdf-02",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "municipality": "Herbolzheim",
       "documentTitle": "Allmendstraße: Begründung, Satzungsfassung 18.04.2024",
       "documentType": "Kommunale Originalunterlage / Anbieterexposé",
       "pages": "13",
       "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
       "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
-      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten. Ergänzung 02.11.2026: Textlich auslesbare Originalfassung desselben Planstands aus dem Ratsportal zusätzlich gesichert. Kein neuer Planstand allein aus anderer Dateiprüfsumme abgeleitet.",
       "sourceUrl": "https://www.baupilot.com/Files.ashx?File=d3325a69-a621-4cb1-9c39-176e4958053c.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.baupilot.com/7c55849264edf0ea.pdf",
-      "tags": "Herbolzheim, Angebot und Eignung trennen"
+      "tags": "Herbolzheim, Angebot und Eignung trennen",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-pdf-02",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "municipality": "Herbolzheim",
+            "documentTitle": "Allmendstraße: Begründung, Satzungsfassung 18.04.2024",
+            "documentType": "Kommunale Originalunterlage / Anbieterexposé",
+            "pages": "13",
+            "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
+            "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
+            "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+            "sourceUrl": "https://www.baupilot.com/Files.ashx?File=d3325a69-a621-4cb1-9c39-176e4958053c.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.baupilot.com/7c55849264edf0ea.pdf",
+            "tags": "Herbolzheim, Angebot und Eignung trennen"
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27901&type=do",
+      "additionalLocalArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/f3a7d261099d8292.pdf"
     },
     {
       "id": "id-2026-10-31-pdf-03",
       "created": "2026-10-31",
-      "updated": "2026-10-31",
+      "updated": "2026-11-02",
       "municipality": "Herbolzheim",
       "documentTitle": "Allmendstraße: Bebauungsvorschriften, Satzungsfassung 18.04.2024",
       "documentType": "Kommunale Originalunterlage / Anbieterexposé",
       "pages": "19",
       "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
       "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
-      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+      "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten. Ergänzung 02.11.2026: Textlich auslesbare Originalfassung desselben Planstands aus dem Ratsportal zusätzlich gesichert. Kein neuer Planstand allein aus anderer Dateiprüfsumme abgeleitet.",
       "sourceUrl": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.baupilot.com/f027899f15d0a998.pdf",
-      "tags": "Herbolzheim, Angebot und Eignung trennen"
+      "tags": "Herbolzheim, Angebot und Eignung trennen",
+      "revisionHistory": [
+        {
+          "date": "2026-11-02",
+          "reason": "Amtliche Allmendstraße-Akten erstmals vertieft; Beschluss belegt, heutiges Inkrafttreten weiterhin offen.",
+          "previousRecord": {
+            "id": "id-2026-10-31-pdf-03",
+            "created": "2026-10-31",
+            "updated": "2026-10-31",
+            "municipality": "Herbolzheim",
+            "documentTitle": "Allmendstraße: Bebauungsvorschriften, Satzungsfassung 18.04.2024",
+            "documentType": "Kommunale Originalunterlage / Anbieterexposé",
+            "pages": "19",
+            "keyFacts": "Zwei vorläufige Angebote, keine gesicherte Rechenzentrumsfläche. Räumliche Zuordnung und heutiger Verfahrensstand offen.",
+            "technicalFacts": "Keine freie Verbrauchsleistung oder getrennten Glasfaserwege bestätigt.",
+            "planningFacts": "Original lokal gesichert. Planunterlagen sind Bildscans; ausgewählte Seiten visuell geprüft, keine vollständige Textauslesbarkeit. Schutzstreifen und Wasserhinweise beachten.",
+            "sourceUrl": "https://www.baupilot.com/Files.ashx?File=3aa306ee-ee76-4c5a-bb3c-c774ac07f393.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.baupilot.com/f027899f15d0a998.pdf",
+            "tags": "Herbolzheim, Angebot und Eignung trennen"
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27890&type=do",
+      "additionalLocalArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/f0ad9e561e67ec5d.pdf"
     },
     {
       "id": "id-2026-10-31-pdf-04",
@@ -3859,6 +4002,86 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/1b7f881929dd9316.pdf",
       "tags": "Wirtschaftszweig, Betreiberverfahren"
+    },
+    {
+      "id": "id-2026-11-02-pdf-01",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "municipality": "Herbolzheim",
+      "documentTitle": "Allmendstraße: Öffentliche Niederschrift 18.04.2024, Satzungsbeschluss Seite 6",
+      "documentType": "Kommunale Originalakte / Gutachten zum Planverfahren",
+      "pages": "11",
+      "keyFacts": "Historischer Satzungsbeschluss belegt; keine aktuelle Rechenzentrums- oder Anschlussfreigabe.",
+      "technicalFacts": "Leitungsauflagen und Versorgungsvorbehalt beziehungsweise Wasser- und Artenschutzbelange vorhabenbezogen prüfen.",
+      "planningFacts": "Original aus Ratsportal lokal gesichert und ausgelesen. Niederschrift Seite 6, Abwägung Seiten 17 und 21, Satzung Seite 3 und Artenschutz-Dateiseite 25 zusätzlich visuell geprüft. Heutige Geltung und Umsetzung offen.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=28342&type=do",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/056fa9c1987aca8e.pdf",
+      "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
+    },
+    {
+      "id": "id-2026-11-02-pdf-02",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "municipality": "Herbolzheim",
+      "documentTitle": "Allmendstraße: Abwägung der Offenlage, Stand 18.04.2024",
+      "documentType": "Kommunale Originalakte / Gutachten zum Planverfahren",
+      "pages": "27",
+      "keyFacts": "Historischer Satzungsbeschluss belegt; keine aktuelle Rechenzentrums- oder Anschlussfreigabe.",
+      "technicalFacts": "Leitungsauflagen und Versorgungsvorbehalt beziehungsweise Wasser- und Artenschutzbelange vorhabenbezogen prüfen.",
+      "planningFacts": "Original aus Ratsportal lokal gesichert und ausgelesen. Niederschrift Seite 6, Abwägung Seiten 17 und 21, Satzung Seite 3 und Artenschutz-Dateiseite 25 zusätzlich visuell geprüft. Heutige Geltung und Umsetzung offen.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27887&type=do",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/1c31664289eb5f38.pdf",
+      "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
+    },
+    {
+      "id": "id-2026-11-02-pdf-03",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "municipality": "Herbolzheim",
+      "documentTitle": "Allmendstraße: Satzungstext 18.04.2024 mit offenen Ausfertigungs- und Bekanntmachungsfeldern",
+      "documentType": "Kommunale Originalakte / Gutachten zum Planverfahren",
+      "pages": "3",
+      "keyFacts": "Historischer Satzungsbeschluss belegt; keine aktuelle Rechenzentrums- oder Anschlussfreigabe.",
+      "technicalFacts": "Leitungsauflagen und Versorgungsvorbehalt beziehungsweise Wasser- und Artenschutzbelange vorhabenbezogen prüfen.",
+      "planningFacts": "Original aus Ratsportal lokal gesichert und ausgelesen. Niederschrift Seite 6, Abwägung Seiten 17 und 21, Satzung Seite 3 und Artenschutz-Dateiseite 25 zusätzlich visuell geprüft. Heutige Geltung und Umsetzung offen.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27888&type=do",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/264c892002624b62.pdf",
+      "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
+    },
+    {
+      "id": "id-2026-11-02-pdf-04",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "municipality": "Herbolzheim",
+      "documentTitle": "Allmendstraße: Umweltbeitrag, Stand 18.04.2024",
+      "documentType": "Kommunale Originalakte / Gutachten zum Planverfahren",
+      "pages": "21",
+      "keyFacts": "Historischer Satzungsbeschluss belegt; keine aktuelle Rechenzentrums- oder Anschlussfreigabe.",
+      "technicalFacts": "Leitungsauflagen und Versorgungsvorbehalt beziehungsweise Wasser- und Artenschutzbelange vorhabenbezogen prüfen.",
+      "planningFacts": "Original aus Ratsportal lokal gesichert und ausgelesen. Niederschrift Seite 6, Abwägung Seiten 17 und 21, Satzung Seite 3 und Artenschutz-Dateiseite 25 zusätzlich visuell geprüft. Heutige Geltung und Umsetzung offen.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27892&type=do",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/13adeb0a9359ae69.pdf",
+      "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
+    },
+    {
+      "id": "id-2026-11-02-pdf-05",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "municipality": "Herbolzheim",
+      "documentTitle": "Allmendstraße: Spezielle artenschutzrechtliche Prüfung, Stand 18.04.2024",
+      "documentType": "Kommunale Originalakte / Gutachten zum Planverfahren",
+      "pages": "33",
+      "keyFacts": "Historischer Satzungsbeschluss belegt; keine aktuelle Rechenzentrums- oder Anschlussfreigabe.",
+      "technicalFacts": "Leitungsauflagen und Versorgungsvorbehalt beziehungsweise Wasser- und Artenschutzbelange vorhabenbezogen prüfen.",
+      "planningFacts": "Original aus Ratsportal lokal gesichert und ausgelesen. Niederschrift Seite 6, Abwägung Seiten 17 und 21, Satzung Seite 3 und Artenschutz-Dateiseite 25 zusätzlich visuell geprüft. Heutige Geltung und Umsetzung offen.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/5fa44f3819befe5c.pdf",
+      "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
     }
   ],
   "media": [
@@ -8336,6 +8559,32 @@
       "confidence": "Projektbeteiligte und Herstellerreferenz; keine unabhängigen Betriebsdaten, kein neuer Flächenfund in Baden-Württemberg",
       "action": "Eigene Bewertung: Relevantes Referenzmodell für kleine energiegekoppelte Anlagen. Rechnerleistung nicht als Gesamtbezugsleistung behandeln. Herstellerformulierungen zu geringerem Genehmigungsaufwand, Klimaneutralität oder hoher Profitabilität nicht als geprüfte Tatsachen übernehmen. Standort, Zulässigkeit, Ganzjahresversorgung, Kühlung, Internetwege und reale Auslastung gesondert prüfen; keine iAccess-Partnerschaft.",
       "tags": "Planung, Bayern, Container, keine Betriebsbestätigung"
+    },
+    {
+      "id": "id-2026-11-02-allmend-beschluss",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "title": "Allmendstraße: historischer Satzungsbeschluss amtlich bestätigt, Inkrafttreten offen",
+      "topic": "Kommunale Bauleitplanung",
+      "summary": "Öffentliche Niederschrift zur Sitzung vom 18.04.2024, Seite 6, und Tagesordnungspunkt im Ratsportal bestätigen den Satzungsbeschluss mit 16 Ja, 1 Nein und 3 Enthaltungen. Die Satzungsdatei hat leere Ausfertigungs- und Bekanntmachungsfelder. Die als Öffentliche Bekanntmachung verlinkte Datei ist eine Sitzungseinladung.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092",
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=28342&type=do",
+      "confidence": "Amtlicher Beschlussnachweis; kein vollständiger Nachweis heutiger unveränderter Geltung oder parzellenscharfer Bebaubarkeit",
+      "action": "Eigene Schlussfolgerung: Historische Beschlusslücke geschlossen; keine aktuelle Rechtskraft, Rechenzentrumsgenehmigung oder Grundstücksverfügbarkeit erfunden. Aktuelle Bekanntmachung und Grundstücksgrenzen gesondert prüfen.",
+      "tags": "Beschluss 2024, Inkrafttreten offen, bestehende Kandidaten"
+    },
+    {
+      "id": "id-2026-11-02-allmend-auflagen",
+      "created": "2026-11-02",
+      "updated": "2026-11-02",
+      "title": "Allmendstraße: historische Leitungsauflagen, bedingte Versorgung und Artenschutz",
+      "topic": "Standortrisiken / Netz und Umwelt",
+      "summary": "Abwägung Stand 18.04.2024: Netze BW hält Stromversorgung aus Bestandsnetz voraussichtlich für möglich, erforderliche Erweiterung aber erst nach Kenntnis des Leistungsbedarfs bestimmbar. Bahnstromleitung der DB Energie und benachbarte Netze-BW-Leitung räumlich getrennt behandeln. Artenschutzprüfung verlangt Vermeidungs- und vorgezogene Ausgleichsmaßnahmen für Vögel und Reptilien.",
+      "sourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27887&type=do",
+      "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do",
+      "confidence": "Historische Originalunterlagen und Stellungnahmen, keine heutige Betreiberbestätigung und kein Umsetzungsnachweis",
+      "action": "Eigene Bewertung: Kandidaten vorerst nachrangig. Keine verfügbare Bezugsleistung aus Leitungsnähe oder allgemeiner Versorgungsaussage ableiten. Tatsächliche Vermessung, Betreiberabstimmungen, Hochwasser- und Artenschutzstand vor einem Projektentwurf klären. Frühere Bahn-Einwände nicht als neue aktuelle Ablehnung behandeln.",
+      "tags": "Netze BW und Bahnstrom trennen, keine Anschlusszusage, Maßnahmen offen"
     }
   ],
   "gridChecks": [
@@ -8791,7 +9040,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-01",
+    "lastRun": "2026-11-02",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -8819,8 +9068,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-01",
-    "lastResearchSummary": "34 kommunale Teilprüfungen; regional bedingtes Netzverfahren und geplantes 80-Kilowatt-Containerprojekt aus Originalquellen dokumentiert. Keine gesicherte neue Fläche.",
+    "lastResearchRun": "2026-11-02",
+    "lastResearchSummary": "34 kommunale Teilprüfungen; Allmendstraße-Beschluss, Umwelt- und Artenschutzoriginale sowie historische Netzbetreiberauflagen ergänzt. Keine gesicherte neue Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

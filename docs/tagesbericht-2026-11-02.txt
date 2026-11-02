@@ -1,0 +1,69 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 2. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+34 kommunale Teilprüfungen fortgeführt, dabei 28 zusätzlich ausgewählte Ratsinformationspfade gezielt abgerufen. Allmendstraße in Herbolzheim anhand amtlicher Originalakten vertieft. Zwei Recherchehinweise und fünf Dokumentquellen ergänzt; sechs bestehende Einträge mit nachvollziehbar gesicherten Vorfassungen fortgeschrieben. Keine neue gesicherte Rechenzentrumsfläche und kein zusätzlicher Grundstückskandidat.
+Eigene Empfehlung: Die beiden Allmendstraße-Kandidaten weiter nachrangig behandeln. Der historische Satzungsbeschluss ist jetzt belegt; aktuelles Inkrafttreten, Grundstückszuordnung, Leitungskonflikte und freie Verbrauchsleistung bleiben zu klären. Artenschutzmaßnahmen können den Bauablauf beeinflussen. Keine Entscheidung oder zusätzliche Kontaktfreigabe für heute erforderlich.
+
+Allmendstraße: Beschluss vom 18. April 2024 nachgewiesen
+Das von der Stadt verlinkte Ratsportal war über zwei öffentliche Weiterleitungen erreichbar. Die dortige Suche nach Allmendstraße erschloss die Sitzungsvorlage 038/24, die Beratungen und den konkreten Tagesordnungspunkt. Suche nach Rechenzentrum ohne Treffer; daraus keine Aussage über die grundsätzliche Möglichkeit einer späteren Ansiedlung abgeleitet.
+Belegt: Die öffentliche Niederschrift, Seite 6, bestätigt den Beschluss des Bebauungsplans und der örtlichen Bauvorschriften als Satzung mit 16 Ja-Stimmen, einer Nein-Stimme und drei Enthaltungen. Der Tagesordnungspunkt im Portal stimmt damit überein. Damit ist die bisher offene historische Beschlusslage genauer geklärt.
+Weiter offen: Die abgelegte Satzungsdatei enthält leere Datumsfelder für Ausfertigung und Bekanntmachung. Die im Beratungsverlauf als Öffentliche Bekanntmachung bezeichnete Datei ist die Einladung zur Gemeinderatssitzung, kein Nachweis der ortsüblichen Planbekanntmachung. Ein aktuelles Inkrafttretensdatum oder eine heute unveränderte Geltung wurden deshalb nicht behauptet.
+Quellen:
+https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092
+https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=28342&type=do
+https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27888&type=do
+
+Stromleitungen und Versorgung: Betreiber und Aussagekraft getrennt
+Die Abwägung, Stand 18. April 2024, enthält historische Stellungnahmen der Netzbetreiber. Seite 17 nennt eine angrenzende Netze-BW-Hochspannungsleitung; laut planerischer Erwiderung liegen diese Leitung und ihr Schutzstreifen außerhalb des hier behandelten Plangeltungsbereichs. Daneben verläuft eine Bahnstromleitung der DB Energie im Geltungsbereich. Gleiche Spannungsangabe bedeutet nicht gleicher Betreiber, gleiche Leitung oder verfügbare Anschlussmöglichkeit.
+Zur örtlichen Versorgung erklärt Netze BW in der historischen Stellungnahme, sie könne voraussichtlich aus dem bestehenden Netz erfolgen. Ob und in welchem Umfang eine Erweiterung erforderlich sei, lasse sich erst nach Kenntnis des elektrischen Leistungsbedarfs bestimmen. Das ist keine gesicherte Leistung für ein Rechenzentrum im Jahr 2026.
+Die historische Bahn-Stellungnahme beanstandete frühere Aussagen zur Bebaubarkeit im Schutzbereich und verlangte tatsächliche Vermessung, Prüfung der Ausführungsplanung sowie Abstimmungen für Baugeräte und Anlagen. Die planerische Erwiderung sah eine Übernahme der Hinweise vor. Kein neuer aktueller Ablehnungsbescheid gegenüber iAccess und keine erledigte Betreiberfreigabe daraus abgeleitet. Aktuelle technische Vorgaben und räumliche Betroffenheit sind vor einem konkreten Vorhaben zu bestätigen.
+Quelle, besonders Dateiseiten 17 sowie 20 bis 22:
+https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27887&type=do
+
+Umwelt, Wasser und Artenschutz
+Zusätzlich gesichert: Umweltbeitrag mit 21 Dateiseiten und spezielle artenschutzrechtliche Prüfung mit 33 Dateiseiten, jeweils Stand 18. April 2024. Die Artenschutz-Zusammenfassung steht auf Dateiseite 25, intern Seite 21, und wurde zusätzlich visuell gelesen.
+Die Prüfung beschreibt Nachweise von Mauer- und Zauneidechsen sowie betroffene Vogelarten. Sie verlangt Vermeidungsmaßnahmen und vorgezogene Ausgleichsmaßnahmen, darunter Bauzeitensteuerung, Reptilienschutz, fachkundige Kontrollen und Ersatzlebensräume. Die günstige fachliche Schlussfolgerung ist an die Umsetzung dieser Maßnahmen gebunden. Heutige Umsetzung und Wirksamkeit nicht nachgewiesen; keine pauschale Freigabe für ein späteres Rechenzentrum.
+Die Akten enthalten weiterhin Hochwasser- und Grundwasserbelange. Die Abwägung verweist bei der Aussage, es seien keine Altlasten bekannt, ausdrücklich auf einen Katasterstand vom 31. Dezember 2015. Dieser alte Datenstand wurde nicht als aktueller Altlastenausschluss oder Baugrundnachweis übernommen. Ebenso wurden allgemeine Trinkwasseraussagen nicht als gesicherte Kühl- oder Löschwasserkapazität gewertet.
+Quellen:
+https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27892&type=do
+https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do
+
+Bestehende Angebote und Datenabgleich
+Die beiden vorläufigen Angebote Allmendstraße 3196/28 und 3197/14 bleiben mit ihren bisherigen Vorbehalten erhalten. Heutige Verfügbarkeit, Erschließung und räumliche Abdeckung des tatsächlich angebotenen Teilbereichs sind nicht bestätigt. Der historische Beschluss beseitigt diese Lücken nicht. Kein neuer Standort angelegt.
+Der bestehende Bauleitplaneintrag und die beiden Kandidaten wurden um den Beschlussnachweis ergänzt. Bei drei bereits vorhandenen Plan-Dokumenteinträgen wurden zusätzliche, textlich auslesbare Originalfassungen desselben Planstands verknüpft. Andere Dateiprüfsummen wurden nicht als neue Planfassungen oder zusätzliche Planverfahren gezählt.
+
+Gemeinden und Prüfgrenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel.
+34 offene kommunale Prüfpfade einschließlich aller 21 priorisierten Gemeinden. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf verfügbaren Texten berücksichtigt. Zusätzlich 28 beobachtete Ratsinformationspfade gezielt abgerufen; einzelne Systeme waren blockiert oder lieferten nur eine Anwendungsoberfläche. Diese Abrufe wurden nicht als vollständige Aktenprüfung ausgegeben.
+Je Gemeinde mindestens ein direkt abgerufener Inhalt. Fehlende Kategorien, Zugangsfehler und noch nicht vollständig erschlossene Detailakten stehen in der lokalen Quellenmatrix. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Herbolzheim mit vertieftem historischem Planungsnachweis; übrige Gemeinden ohne neuen gesicherten Befund in den geprüften Quellen oder weiterhin offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten und bekannte Termine
+Suche und Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen. Keine vollständige Auswertung jeder Tagesmeldung und keine umfassende Negativaussage zur Nachrichtenlage. Suchtreffer allein nicht als Nachweis neuer verfügbarer Flächen verwendet.
+Die Veranstalterseite zum Tag der offenen Rechenzentren am 6. November nennt seit 23. Oktober keine weiteren Anmeldemöglichkeiten. Keine Anmeldung oder Umgehung versucht. Bekannte Hersteller- und Pfaffenhofen-Meldungen nicht doppelt erfasst.
+Quelle: https://tdorz.de/
+Bekannte Termine fortgeführt: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November, angekündigte Borderstep-Studie am 12. November. Das Netze-BW-Fenster bis 31. Dezember bleibt regional bedingt; keine konkrete regionale Öffnung oder freie Leistung behauptet. Keine Anfrage, Reservierung oder Stellungnahme ausgeführt.
+
+Quellenarchiv, Dokumente und Medien
+497 unterschiedliche Rechercheadressen, 474 lokal gesichert; 22 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 23 Abruffehler dokumentiert. Öffentliche Suchergebnisse und Suchgrenzen zusätzlich im Tagesordner gesichert.
+77 unterschiedliche Dokumentdateien mit 1475 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. 11 Dateiinhalte neu gegenüber dem Archiv. Zehn historische Originaldateien aus den Allmendstraße-Akten gesichert; fünf Dokumentquellen neu in der Website erfasst: Niederschrift, Abwägung, Satzungstext, Umweltbeitrag und Artenschutzprüfung. Weitere Fassungen dienen dem Abgleich bestehender Einträge und dem Verfahrenskontext.
+Bei 9 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige visuelle oder fachliche Prüfung sämtlicher Akten und Seiten behauptet. Schlüsselseiten zu Beschluss, Satzung, Netzbetreibern und Artenschutz zusätzlich visuell geprüft.
+Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Originale und Planungsunterlagen lokal gesichert und öffentlich verlinkt. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht; insbesondere keine Leitungsbestandspläne als frei weiterverwendbare technische Rechenzentrumszeichnungen ausgegeben.
+
+Dokumentverfügbarkeit und Linkprüfung
+133 erfasste Dokumentquellen geprüft: 133 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; fünf neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1610 unterschiedliche öffentliche Links geprüft: 1576 erreichbar, 34 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 218 auf 220; Dokumenteinträge 128 auf 133. Sechs vorhandene Einträge fortgeschrieben, frühere Fassungen vollständig im Änderungsprotokoll erhalten; alle anderen bisherigen Array-Einträge unverändert.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Fortschritt und nächster Schritt
+Veröffentlichten Bestand, lokale Daten und Abschlussprotokoll vor Änderungen abgeglichen. Der Vortagsbericht war vollständig veröffentlicht und versandt; kein Doppelversand. Laufzeitordner, Anmeldedaten und lokale Sicherungen werden nicht veröffentlicht.
+Als Nächstes aktuelle Planbekanntmachung, angebotenen Grundstücksteil und heutige Betreiber- sowie Maßnahmenbestätigungen auflösen. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt. Veröffentlichung und Versand werden anhand des tatsächlichen Ergebnisses im Fortschrittsprotokoll kontrolliert.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

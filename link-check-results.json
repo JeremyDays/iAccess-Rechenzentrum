@@ -1,7 +1,7 @@
 {
-  "checked": 1601,
-  "ok": 1569,
-  "blocked": 32,
+  "checked": 1610,
+  "ok": 1576,
+  "blocked": 34,
   "broken": 0,
   "results": [
     {
@@ -39,6 +39,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 213,
+      "field": "sourceUrl",
+      "title": "Infineon und Enphase: 900-Volt-Schalter in Entwicklung, Produktionsqualifizierung offen",
+      "url": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.infineon.com', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "findings",
@@ -171,6 +183,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -8958,18 +8982,6 @@
     },
     {
       "collection": "findings",
-      "index": 213,
-      "field": "sourceUrl",
-      "title": "Infineon und Enphase: 900-Volt-Schalter in Entwicklung, Produktionsqualifizierung offen",
-      "url": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
-      "status": 200,
-      "finalUrl": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 63,
       "field": "sourceUrl",
       "title": "KI-Racks: Sidecar-Architektur verschiebt Standortanforderungen",
@@ -13794,18 +13806,6 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -17286,6 +17286,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 129,
+      "field": "sourceUrl",
+      "title": "Allmendstraße: Abwägung der Offenlage, Stand 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27887&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27887&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 124,
       "field": "sourceUrl",
       "title": "Allmendstraße: Anbieterexposé GR14883",
@@ -17310,6 +17322,30 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 123,
+      "field": "additionalSourceUrl",
+      "title": "Allmendstraße: Bebauungsvorschriften, Satzungsfassung 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27890&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27890&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 122,
+      "field": "additionalSourceUrl",
+      "title": "Allmendstraße: Begründung, Satzungsfassung 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27901&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27901&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 122,
       "field": "sourceUrl",
       "title": "Allmendstraße: Begründung, Satzungsfassung 18.04.2024",
@@ -17323,11 +17359,71 @@
     {
       "collection": "pdfExtracts",
       "index": 121,
+      "field": "additionalSourceUrl",
+      "title": "Allmendstraße: Planzeichnung, Satzungsfassung 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27889&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27889&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 121,
       "field": "sourceUrl",
       "title": "Allmendstraße: Planzeichnung, Satzungsfassung 18.04.2024",
       "url": "https://www.baupilot.com/Files.ashx?File=d6c08eec-9827-4419-807a-040451b390c0.pdf",
       "status": 200,
       "finalUrl": "https://www.baupilot.com/Files.ashx?File=d6c08eec-9827-4419-807a-040451b390c0.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 130,
+      "field": "sourceUrl",
+      "title": "Allmendstraße: Satzungstext 18.04.2024 mit offenen Ausfertigungs- und Bekanntmachungsfeldern",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27888&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27888&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "Allmendstraße: Spezielle artenschutzrechtliche Prüfung, Stand 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Allmendstraße: Umweltbeitrag, Stand 18.04.2024",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27892&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27892&type=do",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 128,
+      "field": "sourceUrl",
+      "title": "Allmendstraße: Öffentliche Niederschrift 18.04.2024, Satzungsbeschluss Seite 6",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=28342&type=do",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=28342&type=do",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18360,6 +18456,18 @@
       "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79235/PROPERTY/aaefc293-961a-401d-a6b9-ccbb9a76a31f",
       "status": 200,
       "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79235/PROPERTY/aaefc293-961a-401d-a6b9-ccbb9a76a31f",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 30,
+      "field": "additionalSourceUrl",
+      "title": "Allmendstraße 3196/28 – vorläufiger Prüfkandidat",
+      "url": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092",
+      "status": 200,
+      "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092",
       "ok": true,
       "blocked": false,
       "error": ""
