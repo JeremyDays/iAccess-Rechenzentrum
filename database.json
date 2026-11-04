@@ -4082,6 +4082,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/herbolzheim-sitzungsdienst.komm.one/5fa44f3819befe5c.pdf",
       "tags": "Historische Originale, Beschluss und Inkrafttreten trennen"
+    },
+    {
+      "id": "id-2026-11-04-pdf-01",
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "municipality": "Kenzingen",
+      "documentTitle": "Kenzingen Industriegebiet West IV, erste Änderung: Begründung mit Umweltbericht, Satzungsfassung 23.01.2017",
+      "documentType": "Historische kommunale Planungsunterlage",
+      "pages": "32",
+      "keyFacts": "Planungsbestand, keine heute verfügbare Rechenzentrumsfläche. Zweite und dritte Änderung gesondert berücksichtigen.",
+      "technicalFacts": "Allgemeine Erschließungs- und Nutzungsvorgaben sind keine zugesicherte Verbrauchsleistung oder Carrierverfügbarkeit.",
+      "planningFacts": "Aus kommunal verlinkter Planübersicht lokal gesichert und textlich ausgelesen. Deckblatt Begründung und Textteil Seite 3 visuell geprüft. Heutige vollständige Geltung und räumliche Zuordnung nicht bestätigt.",
+      "sourceUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.wagner-it.de/178e8cc08f4d4be1.pdf",
+      "tags": "2017, erste Änderung, aktuelle Geltung offen"
+    },
+    {
+      "id": "id-2026-11-04-pdf-02",
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "municipality": "Kenzingen",
+      "documentTitle": "Kenzingen Industriegebiet West IV, erste Änderung: Textteil, Satzungsfassung 23.01.2017",
+      "documentType": "Historische kommunale Planungsunterlage",
+      "pages": "10",
+      "keyFacts": "Planungsbestand, keine heute verfügbare Rechenzentrumsfläche. Zweite und dritte Änderung gesondert berücksichtigen.",
+      "technicalFacts": "Allgemeine Erschließungs- und Nutzungsvorgaben sind keine zugesicherte Verbrauchsleistung oder Carrierverfügbarkeit.",
+      "planningFacts": "Aus kommunal verlinkter Planübersicht lokal gesichert und textlich ausgelesen. Deckblatt Begründung und Textteil Seite 3 visuell geprüft. Heutige vollständige Geltung und räumliche Zuordnung nicht bestätigt.",
+      "sourceUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.wagner-it.de/20ee50a91d248bfd.pdf",
+      "tags": "2017, erste Änderung, aktuelle Geltung offen"
     }
   ],
   "media": [
@@ -8585,6 +8617,18 @@
       "confidence": "Historische Originalunterlagen und Stellungnahmen, keine heutige Betreiberbestätigung und kein Umsetzungsnachweis",
       "action": "Eigene Bewertung: Kandidaten vorerst nachrangig. Keine verfügbare Bezugsleistung aus Leitungsnähe oder allgemeiner Versorgungsaussage ableiten. Tatsächliche Vermessung, Betreiberabstimmungen, Hochwasser- und Artenschutzstand vor einem Projektentwurf klären. Frühere Bahn-Einwände nicht als neue aktuelle Ablehnung behandeln.",
       "tags": "Netze BW und Bahnstrom trennen, keine Anschlusszusage, Maßnahmen offen"
+    },
+    {
+      "id": "id-2026-11-04-kenzingen-west",
+      "created": "2026-11-04",
+      "updated": "2026-11-04",
+      "title": "Kenzingen West IV: kommunale Angebotsseite nennt derzeit keine freien Flächen",
+      "topic": "Kommunale Flächensuche",
+      "summary": "Aktuelle städtische Seite bewirbt Gewerbegebiet West IV, nennt aber ausdrücklich keine freien Flächen. Allgemeine Angaben zu Versorgung, Gesamtgebietsgröße und Bebauung sind keine Bestätigung einer heute verfügbaren Rechenzentrumsparzelle. Historische Unterlagen zur ersten bis dritten Änderung lokal gesichert.",
+      "sourceUrl": "https://www.kenzingen.de/wirtschaft/gewerbeflaechen/",
+      "confidence": "Kommunale Aussage zum öffentlichen Angebotsstand, kein umfassender Nachweis über private Flächen oder heutiges parzellenscharfes Baurecht",
+      "action": "Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag. Private Möglichkeiten nicht ausgeschlossen; aktuelle Verfügbarkeit, geltende Pläne, Verbrauchsanschluss und getrennte Glasfaserwege wären bei einer konkreten Fläche separat zu bestätigen. Keine Kontaktaufnahme ausgeführt.",
+      "tags": "Kein kommunales freies Angebot, historische Planung, keine Anschlusszusage"
     }
   ],
   "gridChecks": [
@@ -9040,7 +9084,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-02",
+    "lastRun": "2026-11-04",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9068,8 +9112,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-02",
-    "lastResearchSummary": "34 kommunale Teilprüfungen; Allmendstraße-Beschluss, Umwelt- und Artenschutzoriginale sowie historische Netzbetreiberauflagen ergänzt. Keine gesicherte neue Fläche.",
+    "lastResearchRun": "2026-11-04",
+    "lastResearchSummary": "35 kommunale Teilprüfungen; Kenzingen West IV kommunaler Angebotsstand und historische Originalunterlagen ergänzt; Vortagsfortschritt erhalten.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

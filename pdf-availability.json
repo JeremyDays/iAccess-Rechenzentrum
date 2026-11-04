@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-02",
-  "total": 133,
+  "checkedAt": "2026-11-04",
+  "total": 135,
   "localAvailable": 68,
-  "publicAvailable": 133,
+  "publicAvailable": 135,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2265,6 +2265,40 @@
       "status": 200,
       "finalUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/getfile.asp?id=27893&type=do",
       "contentType": "application/pdf; Charset=utf-8",
+      "error": ""
+    },
+    {
+      "municipality": "Kenzingen",
+      "documentTitle": "Kenzingen Industriegebiet West IV, erste Änderung: Begründung mit Umweltbericht, Satzungsfassung 23.01.2017",
+      "documentType": "Historische kommunale Planungsunterlage",
+      "pages": "32",
+      "publicUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "currentSourceUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Kenzingen",
+      "documentTitle": "Kenzingen Industriegebiet West IV, erste Änderung: Textteil, Satzungsfassung 23.01.2017",
+      "documentType": "Historische kommunale Planungsunterlage",
+      "pages": "10",
+      "publicUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "currentSourceUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "contentType": "application/pdf",
       "error": ""
     }
   ]

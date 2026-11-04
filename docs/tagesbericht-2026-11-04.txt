@@ -1,0 +1,61 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 4. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+35 kommunale Teilprüfungen fortgeführt beziehungsweise vertieft, einschließlich der 21 priorisierten Gemeinden und zusätzlich Kenzingen. Ein Recherchehinweis und zwei historische Dokumentquellen ergänzt. Keine neue gesicherte Rechenzentrumsfläche, kein zusätzlicher Grundstückskandidat und keine Anschlusszusage.
+Kenzingens kommunale Angebotsseite nennt derzeit keine freien Flächen im Gewerbegebiet West IV. Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag daraus. Private Möglichkeiten bleiben gesondert zu prüfen. Für heute ist keine Entscheidung erforderlich.
+
+Wiederaufnahme nach dem gestrigen technischen Abbruch
+Der Vortagslauf hatte seine Recherche und Prüfungen lokal abgeschlossen, konnte aber weder veröffentlichen noch versenden. Ursache der Veröffentlichungssperre waren zwei Zeitüberschreitungen der automatischen Freigabeprüfung vor Prozessstart; keine inhaltliche Sicherheitsablehnung. Die Mailvorbereitung scheiterte anschließend am Zugriff auf die Originalsignatur im Standardzugriff. Kein Vortagsbericht in Gesendete Elemente gefunden.
+Heute zunächst ausschließlich lesend geprüft: Die Originalsignatur ist wieder lesbar, das persönliche Outlook-Konto hornick@iaccess.de ist eindeutig feststellbar, und für den 3. sowie den 4. November lagen vor der Vorbereitung keine gleichnamigen gesendeten Berichte vor. Keine erneute geschäftliche Versandfreigabe verlangt; die bestehende Freigabe bleibt maßgeblich.
+Der aktuelle veröffentlichte Datenbestand stimmte mit der zuletzt erfolgreichen Veröffentlichungsbasis überein. Der unveröffentlichte lokale Fortschritt vom 3. November wurde erhalten und in den heutigen Prüfstand übernommen. Kein rückdatierter Einzelversand des Vortags; die Nachverfolgung wird mit dem heutigen Bericht zusammengeführt. Der historische Vortagsbericht wird zur Nachvollziehbarkeit zusätzlich als Archivdokument bereitgestellt. Tatsächliche Veröffentlichung und heutigen Versand erst nach Ergebniskontrolle im Fortschrittsprotokoll als erfolgreich führen.
+
+Kenzingen West IV: kein kommunales freies Angebot
+Die städtische Gewerbeflächenseite beschreibt West IV, erklärt aber ausdrücklich, dass aktuell keine freien Flächen zur Verfügung stehen. Die genannte Gesamtgebietsgröße ist keine freie Grundstücksfläche. Preis-, Versorgungs- und Bebauungsangaben wurden deshalb nicht als heute erwerbbare Rechenzentrumsparzelle oder verfügbare Verbrauchsleistung behandelt.
+Die Aussage betrifft den öffentlichen Angebotsstand. Daraus wird nicht abgeleitet, dass private Verkäufe oder andere Standorte ausgeschlossen sind. Keine Kontaktaufnahme oder Bewerbung ausgeführt.
+Quelle: https://www.kenzingen.de/wirtschaft/gewerbeflaechen/
+
+Historische Originalunterlagen und räumliche Grenzen
+Die Stadt verlinkt eine Planübersicht mit Originaldateien. Zwölf Dateien zur ersten, zweiten und dritten Änderung von Industriegebiet West IV lokal gesichert und soweit textlich möglich ausgelesen. Erste Änderung Stand 23. Januar 2017, zweite Änderung Stand 17. Januar 2018; Deckblatt der dritten Änderung nennt 1. Oktober 2021. Die dritte Änderung liegt teilweise als Bildscan vor; ausgewählte Seiten visuell geprüft, keine vollständige Texterkennung behauptet.
+Zwei Quellen neu in die Dokumentdatenbank übernommen: Begründung mit Umweltbericht zur ersten Änderung mit 32 Seiten und zugehöriger Textteil mit zehn Seiten. Weitere Änderungen und Plankarten dienen dem lokalen Abgleich; sie wurden nicht als neue Planverfahren oder zusätzliche freie Standorte gezählt.
+Eigene Schlussfolgerung: Historische Gebietsunterlagen sind keine aktuelle Grundstücks- oder Rechenzentrumsgenehmigung. Geltende Änderungen, räumliche Teilbereiche und ein konkretes Grundstück wären zusammen zu prüfen. Keine allgemeinen Zahlen der Vermarktungsseite pauschal auf einen unbestimmten Teilbereich übertragen. Keine freie Stromleistung, unabhängigen Glasfaserwege, Kühl- oder Löschwasserkapazität nachgewiesen.
+Ein zusätzlich im Planverzeichnis enthaltenes Grundwasserblatt gehört ausdrücklich zu Balger Süd II. Dieses andere Plangebiet wurde nicht auf West IV übertragen. Kommunale Planzeichnungen wurden nicht als technische Rechenzentrumszeichnungen ausgegeben.
+Originale:
+https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf
+https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf
+
+Gemeinden und Prüfgrenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen.
+35 offene kommunale Prüfpfade einschließlich der 21 priorisierten Gemeinden. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade und die elf vorgegebenen Suchbegriffe auf verfügbaren Texten berücksichtigt. Zusätzliche beobachtete Ratsinformationspfade erneut abgerufen. In Kenzingen wurden außerdem Amtsblatt, Ratsportal, Bauleitplanungsbekanntmachungen und Flächennutzungsplanzugang geprüft; das aktuelle Amtsblatt mit 20 Seiten lokal gesichert und ausgelesen.
+Je Gemeinde mindestens ein direkt abgerufener Inhalt. Einzelne Ratsportale und Karten liefern nur Weiterleitungen oder eine Anwendungsoberfläche; das ist keine vollständige Akten- oder Kartenprüfung. Fehlende Kategorien, blockierte Zugänge und offene Detailakten stehen in der lokalen Quellenmatrix. Alle Gemeinden bleiben für die systematische Prüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Kenzingen ohne kommunales freies Angebot für West IV; übrige Gemeinden ohne neuen gesicherten Befund in den geprüften Quellen oder weiterhin offen. Nicht gefunden, nicht geprüft und ausgeschlossen getrennt.
+
+Bekannte Herbolzheimer Kandidaten
+Die bisherige Bewertung der Allmendstraße bleibt erhalten: historischer Satzungsbeschluss vom 18. April 2024 amtlich belegt; aktuelles Inkrafttreten, Grundstückszuordnung, Erschließung und Betreiberfreigaben weiter offen. Die bisherigen Hochwasser-, Grundwasser-, Leitungs- und Artenschutzvorbehalte wurden nicht abgeschwächt. Keine wiederholte Erfassung des Beschlusses als neuer Befund.
+
+Nachrichten und bekannte Termine
+Suche und Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse und Betreiber-/Netzbetreiberquellen. Suchtreffer und ältere Zweitmeldungen nicht als neue Flächenbelege übernommen; keine vollständige Auswertung jeder Tagesmeldung behauptet.
+Die bereits bekannte TelemaxX-Meldung und das Lahrer Richtfest wurden nicht als neue Inbetriebnahme erfasst. Ein aktueller Hinweis auf einen Aufstellungsbeschluss in Memmingen liegt außerhalb Baden-Württembergs und wurde nicht als neue Fläche im Suchraum oder abgeschlossene Genehmigung behandelt. Keine unabhängige Bestätigung aus mehreren Veröffentlichungen derselben Ursprungsinformation abgeleitet.
+Bekannte Termine fortgeführt: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November, angekündigte Borderstep-Studie am 12. November. Netze-BW-Fenster bis 31. Dezember weiterhin regional bedingt; keine konkrete regionale Öffnung oder freie Leistung behauptet. Keine Anfrage, Reservierung oder Stellungnahme ausgeführt.
+
+Quellenarchiv, Dokumente und Medien
+502 unterschiedliche Rechercheadressen, 480 lokal gesichert; 29 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 22 Abruffehler dokumentiert.
+81 unterschiedliche Dokumentdateien mit 1444 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet; 20 Dateiinhalte neu gegenüber dem Archiv. Bei 14 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige visuelle oder fachliche Prüfung aller Seiten und Anhänge behauptet.
+Zwei historische Originalquellen neu in die Website-Dokumentdatenbank aufgenommen. Keine neuen Rechenzentrumsfotos, technischen Rechenzentrumszeichnungen oder Partnerschaften. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht. Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal.
+
+Dokumentverfügbarkeit und Linkprüfung
+135 erfasste Dokumentquellen geprüft: 135 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1613 unterschiedliche öffentliche Links geprüft: 1585 erreichbar, 28 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 220 auf 221; Dokumenteinträge 133 auf 135. Alle bisherigen Array-Einträge unverändert erhalten. Gemeindeabdeckung um die heutige Kenzinger Teilprüfung erweitert.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Nächster Schritt
+Offene Aktenpfade und konkrete Flächenverfügbarkeit weiter klären. Für die bestehenden Kandidaten aktuelle Grundstücksgrenzen, geltendes Baurecht sowie Verbrauchsanschluss und unabhängige Glasfaserwege bestätigen. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Archivbericht zum ausgefallenen Vortag: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-03.txt

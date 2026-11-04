@@ -1,0 +1,54 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 3. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis
+34 kommunale Teilprüfungen fortgeführt. Keine neue gesicherte Rechenzentrumsfläche, keine neue Anschlusszusage, kein zusätzlicher Grundstückskandidat und kein neuer Partner. Keine neuen kuratierten Recherchehinweise oder Dokumenteinträge. Die bekannten Vorbehalte bleiben bestehen; für heute ist keine Entscheidung erforderlich.
+Eigene Schlussfolgerung: Die vorhandenen Kandidaten weiter anhand aktueller Grundstücks-, Planungs- und Netzunterlagen prüfen. Ein unveränderter öffentlicher Text ist keine Bestätigung fortbestehender Verfügbarkeit.
+
+Herbolzheim: Bekanntmachung weiterhin offen
+Die amtliche Amtsblattseite und die öffentliche Bekanntmachungsseite wurden erneut gelesen. Der kommunale Verweis führt für die Amtsblattausgaben zum öffentlichen Portal eBlättle. Diese Oberfläche wurde lokal gesichert; eine historische Ausgabe mit der Bekanntmachung des Planinkrafttretens Allmendstraße wurde darüber heute nicht erschlossen.
+Der gestern gesicherte historische Satzungsbeschluss vom 18. April 2024 bleibt erhalten. Er wurde nicht erneut als neuer Befund erfasst. Aus fehlender erschlossener Bekanntmachung folgt weder ein Nachweis fehlender Rechtskraft noch ein Nachweis heutigen unveränderten Baurechts. Bekanntmachung, heutige Grundstücksgrenzen, Erschließung und Rechenzentrumszulässigkeit bleiben offen.
+Die bekannten Aussagen zur Bahnstromleitung, zur benachbarten Netze-BW-Leitung, zur vom Leistungsbedarf abhängigen Versorgung sowie zu Wasser- und Artenschutzbelangen bleiben mit ihren historischen Dokumentständen erhalten. Kein Nachweis heutiger Betreiberfreigaben oder umgesetzter Maßnahmen.
+Quellenwege:
+https://www.stadt-herbolzheim.de/verwaltung-buergerservice/amtsblatt
+https://www.myeblaettle.de/?group=1342
+https://www.stadt-herbolzheim.de/verwaltung-buergerservice/oeffentliche-bekanntmachungen
+Bekannter Beschlussnachweis:
+https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092
+
+Gemeinden und Prüfumfang
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel.
+34 offene kommunale Prüfpfade, einschließlich aller 21 priorisierten Gemeinden. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf verfügbaren Texten berücksichtigt. Zusätzlich 28 beobachtete Ratsinformationspfade erneut abgerufen. Einzelne Systeme waren blockiert oder lieferten lediglich eine Oberfläche; diese Abrufe sind keine vollständige Prüfung der Ratsakten.
+Je Gemeinde mindestens ein direkt abgerufener Inhalt. Fehlende Kategorien, Zugangsfehler und noch nicht erschlossene Detailakten bleiben in der lokalen Quellenmatrix dokumentiert. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Bei den übrigen Gemeinden kein neuer gesicherter Befund in den geprüften Quellen oder weiterhin offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt; keine umfassende Aussage über das Fehlen weiterer Flächenmöglichkeiten.
+
+Nachrichten und bekannte Termine
+Suche beziehungsweise Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse und Betreiber-/Netzbetreiberquellen. Suchtreffer und ältere Zweitveröffentlichungen allein nicht als neue Standortbelege verwendet. Keine vollständige Auswertung jeder Tagesmeldung und keine umfassende Negativaussage zur Nachrichtenlage.
+Die bereits dokumentierten Hersteller-, Pfaffenhofen-, Netzverfahrens- und Standortmeldungen wurden nicht doppelt angelegt. Ein Suchtreffer zu einer anderen Gemeinde oder gleichnamigen Straße wurde nicht auf Herbolzheim übertragen.
+Bekannte Termine bleiben vorgemerkt: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November, angekündigte Borderstep-Studie am 12. November. Das Netze-BW-Fenster bis 31. Dezember ist regional bedingt; keine konkrete regionale Öffnung oder freie Leistung heute bestätigt. Keine Anmeldung, Stellungnahme, Anfrage oder Reservierung ausgeführt.
+
+Neue und lokal archivierte Quellen
+480 unterschiedliche Rechercheadressen, 458 lokal gesichert; 1 zusätzliche Adresse gegenüber dem Archiv vor dem heutigen Lauf. 22 Abruffehler dokumentiert. Die zusätzliche Adresse betrifft den öffentlich verlinkten Amtsblattzugang; daraus kein neuer Planungsbefund abgeleitet.
+66 unterschiedliche Dokumentdateien mit 1342 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet. Keine Dateiinhalte neu gegenüber dem Archiv und keine neuen Dokumentquellen in die Website aufgenommen. Bei 9 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige Texterkennung oder visuelle Prüfung sämtlicher Aktenseiten behauptet.
+Keine neuen Gutachten, Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen aufgenommen. Bekannte Originale bleiben lokal gesichert, öffentliche Originalquellen verlinkt. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht und keine technischen Zeichnungen erfunden.
+
+Dokumentverfügbarkeit und Linkprüfung
+133 erfasste Dokumentquellen geprüft: 133 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; keine neu kuratierten Originalquellen. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1610 unterschiedliche öffentliche Links geprüft: 1577 erreichbar, 33 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Alle bisherigen Array-Einträge und Stückzahlen unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Dokumenteinträge 133, Recherchehinweise 220, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+Fortgeschrieben wurden der Prüfzeitpunkt, die Gemeindeabdeckung und die tatsächlichen Verfügbarkeitsprüfungen. Wiederholte Sicherung einer bekannten Quelle ist kein neuer sachlicher Befund.
+
+Fortschritt und nächster Schritt
+Auch der Versand wurde nicht ausgeführt. Nach einer Zeitüberschreitung der automatischen Freigabeprüfung scheiterte die Vorbereitung im Standardzugriff am verweigerten Lesen der Original-Outlook-Signatur unter AppData. Keine Nachricht erstellt und keine erfolgreiche Absender- oder Versandprüfung behauptet. Signaturzugriff und Freigabedienst müssen vor Abschluss geklärt werden.
+Die heutige Veröffentlichung wurde nicht ausgeführt: Die automatische Freigabeprüfung überschritt vor Prozessstart zweimal ihr Zeitlimit. Keine inhaltliche Sicherheitsablehnung und keine erfolgreiche Veröffentlichung behauptet. Beim Abbruch am 3. November war der Bericht nur lokal vorhanden.
+Vor Änderungen veröffentlichten Datenbestand, lokale Daten und Abschlussprotokoll abgeglichen. Der Vortagsbericht war vollständig veröffentlicht und versandt; kein Doppelversand. Laufzeitordner, Anmeldedaten und lokale Sicherungen werden nicht veröffentlicht.
+Aktuelle Planbekanntmachung, angebotenen Grundstücksteil und heutige Betreiber- sowie Maßnahmenbestätigungen weiter klären. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt. Veröffentlichung und Versand werden anhand des tatsächlichen Ergebnisses im Fortschrittsprotokoll kontrolliert.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Nachtrag vom 4. November 2026: Dieses Archivdokument hält den technischen Ausfall des Vortags fest. Die aktuelle Recherche und Nachverfolgung stehen im Tagesbericht vom 4. November; kein rückdatierter Einzelversand. Der tatsächliche Abschluss wird im Fortschrittsprotokoll vom 4. November kontrolliert.

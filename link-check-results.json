@@ -1,7 +1,7 @@
 {
-  "checked": 1610,
-  "ok": 1576,
-  "blocked": 34,
+  "checked": 1613,
+  "ok": 1585,
+  "blocked": 28,
   "broken": 0,
   "results": [
     {
@@ -39,78 +39,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 213,
-      "field": "sourceUrl",
-      "title": "Infineon und Enphase: 900-Volt-Schalter in Entwicklung, Produktionsqualifizierung offen",
-      "url": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.infineon.com', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://stadt.todtnau.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='stadt.todtnau.de', port=443): Max retries exceeded with url: /fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -8982,6 +8910,18 @@
     },
     {
       "collection": "findings",
+      "index": 213,
+      "field": "sourceUrl",
+      "title": "Infineon und Enphase: 900-Volt-Schalter in Entwicklung, Produktionsqualifizierung offen",
+      "url": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
+      "status": 200,
+      "finalUrl": "https://www.infineon.com/de/technology-news/2026/inftn202610-014",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 63,
       "field": "sourceUrl",
       "title": "KI-Racks: Sidecar-Architektur verschiebt Standortanforderungen",
@@ -9000,6 +8940,18 @@
       "url": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
       "status": 200,
       "finalUrl": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 220,
+      "field": "sourceUrl",
+      "title": "Kenzingen West IV: kommunale Angebotsseite nennt derzeit keine freien Flächen",
+      "url": "https://www.kenzingen.de/wirtschaft/gewerbeflaechen/",
+      "status": 200,
+      "finalUrl": "https://www.kenzingen.de/wirtschaft/gewerbeflaechen/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -9540,6 +9492,66 @@
       "url": "https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/",
       "status": 200,
       "finalUrl": "https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://stadt.todtnau.de/",
+      "status": 200,
+      "finalUrl": "https://stadt.todtnau.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
+      "status": 200,
+      "finalUrl": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Ergebnisbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
+      "status": 200,
+      "finalUrl": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Methodenbericht_Fachgutachten_KWP_Todtnau_2025.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf",
+      "status": 200,
+      "finalUrl": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/OEffentliche_Bekanntmachung_Waermeleitplanung__Energieleitplanung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf",
+      "status": 200,
+      "finalUrl": "https://stadt.todtnau.de/fileadmin/user_upload/Oeffentliche_Bekanntmachungen/Waermeleitplanung/Todtnau_UIWP-Bericht__Waermeplanung_Landkreis_Stadt_Todtnau.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -12095,7 +12107,7 @@
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.leibertingen.de/wp-content/uploads/2024/04/unterschr.-Abwassersatzung-vom-12.12.2023.pdf",
       "status": 200,
-      "finalUrl": "https://www.leibertingen.de/produkt/betreuungszeit-von-12-40-uhr-13-45-uhr-september-dezember-2024/",
+      "finalUrl": "https://www.leibertingen.de/produkt/betreuungszeit-von-12-40-uhr-13-45-uhr-21-september-2026-04-februar-2027/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17952,6 +17964,30 @@
       "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
       "status": 200,
       "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/2kHxpk8bB8YXKIewesrp50/f99ef34b6a11c93a81b6b7767b888b7e/pressemitteilung-modernes-umspannwerk-in-kehl-in-betrieb-genommen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 133,
+      "field": "sourceUrl",
+      "title": "Kenzingen Industriegebiet West IV, erste Änderung: Begründung mit Umweltbericht, Satzungsfassung 23.01.2017",
+      "url": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 134,
+      "field": "sourceUrl",
+      "title": "Kenzingen Industriegebiet West IV, erste Änderung: Textteil, Satzungsfassung 23.01.2017",
+      "url": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "status": 200,
+      "finalUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
