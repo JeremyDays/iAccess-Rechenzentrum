@@ -1,0 +1,56 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 5. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+36 kommunale Teilprüfungen fortgeführt beziehungsweise vertieft, einschließlich aller 21 priorisierten Gemeinden und zusätzlich Endingen. Vier falsche Webseitenzuordnungen im historischen Abdeckungsverzeichnis berichtigt. Zwei Recherchehinweise und eine Dokumentquelle ergänzt. Keine neue gesicherte Rechenzentrumsfläche, kein zusätzlicher Grundstückskandidat und keine Anschlusszusage.
+Eigene Empfehlung: Quellenidentität vor der Übernahme älterer Gemeindebefunde prüfen. Endinger Betriebsentwicklungsplanung nicht als freies Grundstücksangebot behandeln. Für heute ist keine Entscheidung erforderlich; keine Kontaktaufnahme ausgeführt.
+
+Vier Gemeindequellen berichtigt
+Im bisherigen Verzeichnis waren folgende falsche Einstiegspfade hinterlegt: Rheinhausen im Breisgau war Hohentengen zugeordnet, Weisweil Herrischried, Forchheim Bernau im Schwarzwald und Wyhl Höchenschwand. Diese fremden Quellen dürfen nicht als Sachbelege zu den genannten Gemeinden verwendet werden.
+Die amtliche Kreisübersicht verlinkt die richtigen Gemeindeauftritte. Drei richtige Gemeindeseiten wurden direkt gesichert. Forchheims Seite war beim direkten Abruf mit 403 blockiert; die Identität des Verweises ist über die Kreisübersicht belegt. Erreichbarkeit und richtige Zuordnung wurden damit getrennt.
+Berichtigte Quellen:
+Rheinhausen im Breisgau: https://www.rheinhausen.de/pb/131800.html
+Weisweil: https://www.weisweil.de/
+Forchheim am Kaiserstuhl: https://www.forchheim-am-kaiserstuhl.de/de
+Wyhl am Kaiserstuhl: https://www.wyhl.de/
+Amtlicher Zuordnungsnachweis: https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden
+Die bisherigen Datensätze sind im lokalen Änderungsprotokoll und in der Zuordnungshistorie erhalten. Die vier Identitätskorrekturen wurden nicht als vier abgeschlossene fachliche Gemeindeprüfungen gezählt. Sachliche Aktenprüfung dort weiterhin offen. Keine vollständige Validierung sämtlicher historischer Quellen- und Kreiszuordnungen behauptet; weitere Altzuordnungen bleiben gezielt zu prüfen.
+
+Endingen: Radacker als Betriebsentwicklung, kein heutiges Flächenangebot
+Kommunale Planbegründung mit 14 Seiten und Stand 4. Februar 2026 lokal gesichert und ausgelesen. Seiten 1 und 6 zusätzlich visuell geprüft. Der Dokumenttitel lautet Radacker I, zweite Änderung und Erweiterung; im Ablageordner steht dagegen Radacker II. Verfahrensidentität und aktuelle Fassung bleiben deshalb gesondert zu bestätigen.
+Die Begründung beschreibt Bedarf für Erweiterung und Entwicklung örtlicher Betriebe. Seite 6 nennt zum damaligen Planungsstand bereits verkaufte oder als Option zugesagte Gewerbeflächen. Das ist keine heutige Abfrage sämtlicher Reservierungen oder privater Angebote und wurde nicht als aktueller Ausschluss weiterer Flächenmöglichkeiten ausgegeben.
+Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag. Planungsbedarf eines Betriebes, frei verfügbares Grundstück und heutiges Baurecht getrennt behandeln. Keine Rechenzentrumsgenehmigung, freie Verbrauchsleistung, unabhängigen Glasfaserwege oder Kühlkapazität aus dieser Begründung ableiten. Das Kartenbild wurde nicht als technische Rechenzentrumszeichnung übernommen.
+Original: https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf
+
+Gemeinden und Prüfgrenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen.
+36 offene kommunale Prüfpfade. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die elf vorgegebenen Suchbegriffe auf verfügbaren Texten berücksichtigt. Beobachtete Ratsinformationspfade zusätzlich abgerufen. Für Endingen außerdem Ratsinformation, Amtsblatt, Bürgerinformationskarte und Flächennutzungsplanzugang betrachtet; Ratsinformation beim Abruf mit 403 blockiert.
+Je Gemeinde mindestens ein direkt abgerufener Inhalt. Eine Anwendungsoberfläche oder Weiterleitung ist keine abgeschlossene Akten- oder Kartenprüfung. Fehlende Kategorien, blockierte Zugänge und nicht vollständig erschlossene Detailakten sind in der lokalen Quellenmatrix dokumentiert. Alle Gemeinden bleiben für die systematische Prüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Endingen mit dem beschriebenen Planungsdokument, sonst kein neuer gesicherter Befund in den geprüften Quellen beziehungsweise weiterhin offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten und bekannte Termine
+Suche und Abrufe umfassten Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse und Betreiber-/Netzbetreiberquellen. Suchtreffer und Zweitveröffentlichungen nicht als unabhängige Standortnachweise übernommen. Keine vollständige Auswertung jeder Tagesmeldung behauptet.
+Neue journalistische Hinweise außerhalb des Suchraums, darunter Hohenems, wurden nicht als geeignete Fläche in Baden-Württemberg übernommen. Bekannte Pfaffenhofen-, TelemaxX-, Lahr- und Schwarz-Digits-Meldungen nicht doppelt angelegt; keine Inbetriebnahme allein aus einer älteren Ankündigung oder einem Richtfest behauptet.
+Bekannte Termine bleiben im Blick: FairNetz bis 6. November, Oberrieds Wärmeplan-Offenlage bis 9. November und angekündigte Borderstep-Studie am 12. November. Das Netze-BW-Fenster bis 31. Dezember bleibt regional bedingt. Keine konkrete regionale Öffnung, Leistungsreservierung oder freie Anschlusskapazität heute bestätigt. Keine Anmeldung, Anfrage oder Stellungnahme ausgeführt.
+
+Quellenarchiv, Dokumente und Medien
+502 unterschiedliche Rechercheadressen, 478 lokal gesichert; 15 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 24 Abruffehler dokumentiert.
+69 unterschiedliche Dokumentdateien mit 1358 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet; 2 Dateiinhalte neu gegenüber dem Archiv. Bei 10 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige Texterkennung oder visuelle Prüfung sämtlicher Archivseiten behauptet.
+Eine kommunale Planbegründung neu in der Dokumentdatenbank aufgenommen. Keine neuen Rechenzentrumsgutachten, Fotos oder technischen Rechenzentrumszeichnungen. Originale lokal gesichert und öffentlich verlinkt; keine zusätzlichen Originalkopien auf GitHub veröffentlicht. Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal.
+
+Dokumentverfügbarkeit und Linkprüfung
+136 erfasste Dokumentquellen geprüft: 136 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; eine neue Originalquelle zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1615 unterschiedliche öffentliche Links geprüft: 1587 erreichbar, 28 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 221 auf 223; Dokumenteinträge 135 auf 136. Alle bisherigen Datenbank-Array-Einträge unverändert erhalten. Die Gemeindeabdeckung wurde um Endingen fortgeschrieben und vier nachgewiesene Quellenzuordnungen mit Vorfassungen berichtigt.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5 und technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche und keine Anschlusszusage.
+
+Fortschritt und nächster Schritt
+Aktuellen veröffentlichten Bestand, lokale Daten und Abschlussprotokoll vor Änderungen abgeglichen. Der Vortagslauf war veröffentlicht und versandt; kein Doppelversand. Die frühere technische Unterbrechung ist im Vortagsprotokoll als nachverfolgt dokumentiert.
+Weitere historische Quellenidentitäten gezielt prüfen und für die bestehenden Kandidaten aktuelle Grundstücksgrenzen, Planbekanntmachung, Verbrauchsanschluss sowie unabhängige Glasfaserwege klären. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt. Veröffentlichung und Versand werden anhand des tatsächlichen Ergebnisses kontrolliert.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

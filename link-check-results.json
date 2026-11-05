@@ -1,6 +1,6 @@
 {
-  "checked": 1613,
-  "ok": 1585,
+  "checked": 1615,
+  "ok": 1587,
   "blocked": 28,
   "broken": 0,
   "results": [
@@ -111,18 +111,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -336,6 +324,18 @@
       "url": "https://rechenzentrum-eiche.de/download",
       "status": 403,
       "finalUrl": "https://rechenzentrum-eiche.de/download",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 5,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
+      "url": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
+      "status": 503,
+      "finalUrl": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -8214,6 +8214,18 @@
     },
     {
       "collection": "findings",
+      "index": 221,
+      "field": "sourceUrl",
+      "title": "Gemeindeabdeckung: vier falsche Quellenzuordnungen berichtigt",
+      "url": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "status": 200,
+      "finalUrl": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 20,
       "field": "source",
       "title": "Golem: Netzanschluss wird zum Engpass auch fuer kleinere KI-/Colocation-RZ",
@@ -13818,6 +13830,18 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -17766,6 +17790,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 135,
+      "field": "sourceUrl",
+      "title": "Endingen: Radacker I, zweite Änderung und Erweiterung, Begründung 04.02.2026",
+      "url": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+      "status": 200,
+      "finalUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 35,
       "field": "sourceUrl",
       "title": "FNP-Begründung Langacker II",
@@ -19152,18 +19188,6 @@
       "url": "https://www.biochem.mpg.de/8714065/Bauausschuss",
       "status": 200,
       "finalUrl": "https://www.biochem.mpg.de/8714065/Bauausschuss",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 5,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
-      "url": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
-      "status": 200,
-      "finalUrl": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
       "ok": true,
       "blocked": false,
       "error": ""

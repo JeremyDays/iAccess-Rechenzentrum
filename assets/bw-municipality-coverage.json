@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04",
-  "source": "35 offene kommunale Prüfpfade; Kenzingen West IV ohne kommunales freies Angebot, weitere Eignungsprüfung offen.",
+  "generatedAt": "2026-11-05",
+  "source": "36 offene kommunale Teilprüfungen; Endinger Planbegründung ergänzt, vier fremde Gemeindequellen berichtigt. Keine gesicherte neue Fläche.",
   "total": 1101,
   "found": 17,
   "notSystematicallyChecked": 25,
@@ -33,7 +33,7 @@
         "notes": "Offizieller Gemeindepfad offen; heute kein direkter Rechenzentrums-, Carrier- oder Umspannwerksfund auf der Start- und Bauleitplanungsnavigation."
       },
       "qualityReviewDate": "2026-10-18",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.aidlingen.de/",
         "https://www.aidlingen.de/rathaus-service/politik-gremien/gemeinderat-ausschuesse-1",
@@ -71,7 +71,7 @@
         "notes": "Offizielle Stadtseite im A5-/Europa-Park-Korridor geprueft; wirtschaftlicher Standortpfad sichtbar, aber heute kein direkter RZ-Hinweis."
       },
       "qualityReviewDate": "2026-10-18",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.gemeindegrafenau.de/",
         "https://www.gemeindegrafenau.de/rathaus-buergerservice/gemeinderat/gemeinderat-2024-2029",
@@ -116,7 +116,7 @@
         "notes": "Offizielle Gemeinde-/Tourismusseite geoeffnet; heute kein direkter Rechenzentrumsfund im frei sichtbaren Einstiegspfad."
       },
       "qualityReviewDate": "2026-10-18",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.ehningen.de/",
         "https://www.ehningen.de/de/buergerservice/ebis-buergerinformationssystem",
@@ -168,7 +168,7 @@
         "notes": "Offizielle Stadtseite geprueft; heute kein direkter Rechenzentrumsfund auf den kommunalen Bau- und Wirtschaftswegen."
       },
       "qualityReviewDate": "2026-10-18",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.deckenpfronn.de/",
         "https://www.deckenpfronn.de/rathaus-service/gemeinderat/ratsinformationssystem",
@@ -6566,7 +6566,7 @@
       "source": "https://www.systemhaus-jerg.de/managed-service/rechenzentrum-neu ; https://bauleitplanung.freiburg.de/verfahren/6-26o/public/aktuelles/42444e0a-6f18-4df7-8bcb-875dbe64f953",
       "notes": "2026-06-20 revalidiert: offizieller Stadtpfad bleibt breit, aber heute kein neuer direkter RZ-Fund ausser bekanntem Bestand.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Detailquellen, Betreiberangaben, Strom-/Glasfaser- und Bauleitplanungsdaten vertiefen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.freiburg.de/",
@@ -6600,7 +6600,7 @@
       "source": "https://www.badenovakonzept.de/projekte/aktuelle-projekte-gewerbebau/ ; https://www.badische-zeitung.de/auf-dem-weg-zum-neuen-gewerbegebiet",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.bad-krozingen.de/",
@@ -6643,7 +6643,7 @@
       "source": "https://www.gewerbepark-rheinbruecke.de/ ; https://stadt.breisach.de/de/ip/news/44/10205/0/BadenCampus-in_Breisach_foerdert_Unternehmensgruender ; https://stadt.breisach.de/de/ip/news/7/12971/0/Startschuss_fuer_den_Waermeverbund_Breisach ; https://stadt.breisach.de/de/aktuelles/bauleitplanung/offenlage",
       "notes": "2026-06-30 vertieft: Die offizielle badenova-Spur fuehrt zum BadenCampus im ehemaligen badenova-Servicecenter, zur lokalen Energieversorgung und zum Waermeverbund; der Gewerbepark Rheinbruecke bleibt mit 5,8 ha plus 16 ha Reserve ein valider Flaechenkandidat, aber ein belastbarer Nachweis fuer ein badenova-/badenIT-Rechenzentrum in Breisach fehlt weiterhin.",
       "nextAction": "Prioritaet Raum Freiburg/BW: RIM, Baugenehmigungen, Gewerbepark-Vermarktung, Netzbetreiber und Carrier standortgenau weiterpruefen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.breisach.de/",
@@ -6697,7 +6697,7 @@
       "source": "https://buchenbach.de/p/bebauungsplaene ; https://www.buchenbach.de/p/flaechennutzungsplan-aenderung-ge-fischerrain",
       "notes": "Bauleitplanung vorhanden; keine eigene belastbare RZ-Flaeche sichtbar",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://buchenbach.de/",
         "https://buchenbach.de/p/ratsinformationssystem",
@@ -6729,7 +6729,7 @@
       "source": "https://session.kirchzarten.de/buergerinfo/getfile.asp?id=16986&type=do",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.kirchzarten.de/",
@@ -6764,7 +6764,7 @@
       "source": "https://www.oberried.de/",
       "notes": "Oberried ist topographisch anspruchsvoll und eher Randkandidat; auf dem kommunalen Einstiegspfad heute kein belastbarer Gewerbe- oder RZ-Hinweis.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.oberried.de/",
         "https://www.oberried.de/de/gemeinderat/",
@@ -6829,7 +6829,7 @@
       "source": "https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/gundelfingen.html ; https://www.gundelfingen.de/buerger-rathaus/verwaltung/aemter",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.gundelfingen.de/",
@@ -6842,6 +6842,7 @@
         "https://www.gundelfingen.de/fileadmin/Dateien/Teaserbilder/Aktuelles/2025-01_Bilder_Januar/Leitfaden-Kommunale-Waermeplanung_2040.jpg",
         "https://www.gundelfingen.de/buerger-rathaus/gemeinderat-politik/ratsinformationssystem",
         "https://www.gundelfingen.de/unsere-gemeinde/aktuelles/ueberblick/2995/oeffentliche-bekanntmachung-der-gemeinde-gundelfingen-ueber-die-feststellung-der-jahresrechnung-2021",
+        "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2794.pdf",
         "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2793.pdf",
         "https://gundelfingen.ratsinfomanagement.net/"
       ],
@@ -6927,7 +6928,7 @@
       "source": "https://www.merzhausen.de/unsere-gemeinde/projekte/abgeschlossene-projekte/bebauungsplaene-abgeschlossen ; https://www.merzhausen.de/rathaus-service/bauen/buergergis",
       "notes": "Bestandsgewerbe Sauermatte wird geordnet und verdichtet; keine freie RZ-Flaeche erkennbar",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.merzhausen.de/",
         "https://www.merzhausen.de/rathaus-service/gemeinderat-politik/mitglieder",
@@ -7005,7 +7006,7 @@
       "notes": "Datenkorrektur: vorherige Coverage-Quelle zeigte irrtümlich auf Bernau. Frohmatten II/Industriegebiet-Süd bleiben als planungsseitig gut dokumentierte Gewerbe-/Industriekulisse wertvoll, aber ohne RZ-Nachweis.",
       "nextAction": "Nur bei konkretem Eigentümer-/Restflächen- oder Netzsignal vertiefen; Schallkontingente, Geotechnik, Löschwasser, Entwässerung und Carrier/PoP-Nähe prüfen.",
       "lastCheckedAt": "2026-07-22",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.boetzingen.de/",
@@ -7050,7 +7051,7 @@
       "source": "https://www.gottenheim.de/Rathaus/Planung/Naegelsee/ ; https://www.gottenheim.de/Gewerbe/",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.gottenheim.de/",
@@ -7107,7 +7108,7 @@
       "source": "https://www.umkirch.de/resources/01%20Website/Unterseiten/%C3%96ffentliche%20Bekanntmachungen/01-FNP%20March-Umkirch-9.%20%C3%84nd.%20Wiesenstra%C3%9Fe-Begr%C3%BCndung-Fassung%20fr%C3%BChzeitige%20Beteiligungen-240916.pdf ; https://de.wikipedia.org/wiki/March_%28Breisgau%29",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.march.de/",
@@ -7146,7 +7147,7 @@
       "source": "https://www.umkirch.de/resources/02%20Datenobjekte/Mitteilungen/2024/2024-09-02-Inkraftreten-Bebauungsplan-und-der-%C3%B6rtlichen-Bauvorschriften-Heger-Areal-e-sign.pdf ; https://www.vodafone.de/business/festnetz-internet/glasfaser-in-umkirch-freiburg/",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.umkirch.de/",
@@ -7233,7 +7234,7 @@
       "source": "https://www.gemeinde-glottertal.de/",
       "notes": "Falschen beziehungsweise ungeeigneten früheren Gemeindequellpfad korrigiert. Kein neuer bestätigter Rechenzentrumsstandort.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.gemeinde-glottertal.de/",
@@ -7386,7 +7387,7 @@
       "source": "https://www.titisee-neustadt.de/startseite",
       "notes": "Titisee-Neustadt verlinkt auf offizieller Seite Bebauungs- und Flaechennutzungsplaene, aktuelle Planverfahren, Grundstuecke, Breitbandinformationen, kommunale Waermeplanung und das Gewerbegebiet Schlossaecker; heute kein direkter RZ-Fund.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.titisee-neustadt.de/",
         "https://www.titisee-neustadt.de/rathaus-service/gemeinderat/ratsinformationssystem",
@@ -7429,7 +7430,7 @@
       "source": "https://www.murg.de/",
       "notes": "Offizielle Hochrhein-Gemeindeseite geoeffnet; heute kein direkter Rechenzentrumsfund auf dem frei sichtbaren Einstiegspfad.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.neuenburg.de/",
         "https://www.neuenburg.de/Startseite/rathaus+_+politik/ratsinformationssystem.html",
@@ -7461,7 +7462,7 @@
       "source": "https://www.vogtsburg.de/",
       "notes": "Vogtsburg fuehrt offiziell Wirtschaft mit Standortprofil und Solarpark, dazu Bebauungsplaene, Flaechennutzungsplaene, BuergerGIS, Breitbandversorgung und Ratsinfosystem; kein direkter RZ-Fund, aber ein belastbarer Kaiserstuhl-Suchpfad.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.vogtsburg.de/",
         "https://www.vogtsburg.de/de-de/buergerservice-aktuelles/buergergis-der-stadt-vogtsburg",
@@ -7484,7 +7485,7 @@
       "source": "https://www.denzlingen.de/de/bekanntmachungen/?file=9&id=4 ; https://www.denzlingen.de/de/aktuelles/show.php?id=1877",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.denzlingen.de/",
@@ -7520,7 +7521,7 @@
       "source": "https://www.reute.de/bauen-wohnen/baugebiete/bebauungsplaene",
       "notes": "2026-06-20 revalidiert: offizielle Buendelung aus Gewerbebauplaetzen, Bebauungsplaenen, FNP, Energiemonitor und Waermeplanung sichtbar; kein direkter RZ-Fund, aber plausibler Micro-DC-Suchpunkt im Denzlingen-Teningen-Korridor.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.reute.de/",
@@ -7555,7 +7556,7 @@
       "notes": "Datenkorrektur: vorherige Coverage-Quelle zeigte irrtümlich auf Häusern. Langacker II bleibt als kleine Gewerbeflächen-/Micro-DC-Potenzialfläche im Denzlingen-Reute-Vörstetten-Korridor relevant; Original-PDFs lokal gesichert.",
       "nextAction": "Bei konkreter Flächenverfügbarkeit Netzanschluss, Carrier-Redundanz, Schall, Löschwasser, Entwässerung und Wärmeabnehmer objektscharf prüfen.",
       "lastCheckedAt": "2026-07-22",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.voerstetten.de/",
@@ -7622,7 +7623,7 @@
       "source": "https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.emmendingen.de/",
@@ -7683,7 +7684,7 @@
       "source": "https://www.sexau.de/",
       "notes": "Falschen beziehungsweise ungeeigneten früheren Gemeindequellpfad korrigiert. Kein neuer bestätigter Rechenzentrumsstandort.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.sexau.de/",
@@ -7695,7 +7696,7 @@
         "https://www.sexau.de/rathaus-service/buergerservice/amtsblatt-sexauer-bote",
         "https://www.sexau.de/leben-wohnen/bauen/kommunale-waermeplanung",
         "https://www.sexau.de/freizeit-erlebnis/veranstaltungskalender/140/gemeinderatsitzung",
-        "https://www.sexau.de/rathaus-service/neuigkeiten/oeffentliche-bekanntmachungen/seite-1/suche",
+        "https://www.sexau.de/rathaus-service/neuigkeiten/aktuelles/123/oeffentliche-bekanntmachung",
         "https://www.sexau.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Am_Erlengraben_Feuerwehr/6_-_Umweltbericht__13.07.2026_.pdf",
         "https://www.sexau.de/fileadmin/Website/Dateien/Bebauungspl%C3%A4ne/Am_Erlengraben_Feuerwehr/6_-_26-09-24_Umweltbericht__26-09-24_.pdf"
       ],
@@ -7716,7 +7717,7 @@
       "source": "https://www.teningen.de/leben-und-wohnen/bauen/bauleitplanung",
       "notes": "2026-06-20 revalidiert: offizielle Waermeplanung mit Fachgutachten, Gewerbeflaechenpipeline und tiefer Bauleitplanpfad sichtbar; kein neuer direkter RZ-Fund, aber Kandidatur fuer Edge-/Container-RZ verstaerkt.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.teningen.de/",
@@ -7728,7 +7729,7 @@
         "https://www.teningen.de/rathaus-und-service/amtsblatt",
         "https://www.teningen.de/leben-und-wohnen/gewerbe/gewerbegebiet",
         "https://www.teningen.de/leben-und-wohnen/klima-+und+umweltschutz/waermeplanung",
-        "https://www.teningen.de/1737435",
+        "http://www.ratsinfo-teningen.de/buergerinfo/infobi.php",
         "https://www.teningen.de/,(anker1535570)/rathaus-und-service/aktuelles/oeffentliche+bekanntmachungen",
         "https://www.teningen.de/auth/index.html?secure=true&url=%2Fleben-und-wohnen%2Fgewerbe%2Fgewerbegebiet",
         "https://www.teningen.de/site/Teningen-2020/get/documents_E2031072025/teningen/Dateien/Bebauungspl%C3%A4ne/K%C3%B6ndringen%20und%20Landeck/BPlan%20Frei%C3%A4mter%20Stra%C3%9Fe/BPlan%20Frei%C3%A4mterstra%C3%9Fe,%20Satzungsbeschluss/Umweltbericht%20Anlage%202%20BPL%20Frei%C3%A4mter%20Stra%C3%9Fe.pdf",
@@ -7750,7 +7751,7 @@
       "source": "https://www.stadt-herbolzheim.de/startseite",
       "notes": "Offizielle Stadtseite im A5-Korridor erneut geoeffnet; wirtschaftlicher Standortpfad bleibt sichtbar, heute aber ohne direkten RZ-Fund.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.stadt-herbolzheim.de/startseite",
         "https://www.stadt-herbolzheim.de/verwaltung-buergerservice/gemeinderat-politik/gemeinderat",
@@ -7782,32 +7783,20 @@
       "source": "https://www.kenzingen.de/",
       "notes": "Offizieller Stadtpfad laut kommunalem Webauftritt heute als Einstieg in Bauen, Wirtschaft und Verwaltung geprueft; A5-/Elz-Korridor bleibt verkehrlich interessant, aber ohne direkten RZ-, Carrier- oder Sondergebiets-Fund auf dem Einstiegspfad.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.kenzingen.de/",
-        "https://www.kenzingen.de/wirtschaft/gewerbeflaechen/",
-        "https://wagner-it.de/kenzingen/bp/kenzingen.html",
-        "https://www.kenzingen.de/rathaus/amtsblatt/",
         "https://kenzingen-sitzungsdienst.komm.one/bi",
         "https://www.kenzingen.de/wirtschaft/bekanntmachungen-bauleitplanung/",
         "https://fnp.kenzingen.webgis.biz",
-        "https://www.kenzingen.de/tools/downloads/?archiv=1996",
-        "https://wagner-it.de/kenzingen/bp/bp_kenzingen.js",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Balger_Sued_II_Grundwasserstand.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Begruendung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Satzung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_2_Aenderung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_2_Aenderung_Begruendung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_2_Aenderung_Satzung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_2_Aenderung_Textteil.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_3_Aenderung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_3_Aenderung_Begruendung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_3_Aenderung_Satzung.pdf",
-        "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_3_Aenderung_Textteil.pdf"
+        "https://www.kenzingen.de/rathaus/amtsblatt/",
+        "https://www.kenzingen.de/wirtschaft/gewerbeflaechen/",
+        "https://www.kenzingen.de/kenzingen/ratsmitglieder/",
+        "https://bauleitplanung.kenzingen.webgis.biz",
+        "https://www.kenzingen.de/rathaus/buergernachrichten/",
+        "https://www.kenzingen.de/wirtschaft/kommunaler-waermeplan/"
       ],
-      "lastScreeningNote": "Kommunale Angebotsseite und Planungsunterlagen vertieft; keine aktuelle Grundstücks- oder Rechenzentrumseignung bestätigt.",
+      "lastScreeningNote": "Quellenpfade und ausgewählte Originaldokumente; vollständige Aktenprüfung und technische Grundstückseignung offen.",
       "lastScreeningStatus": "Teilprüfung; Aktenprüfung offen",
       "systematicReviewPending": true
     },
@@ -7815,23 +7804,65 @@
       "name": "Rheinhausen im Breisgau",
       "district": "Emmendingen",
       "code": "053",
-      "status": "heute geprueft - Gemeindewerke/Bauleitplanung/Waerme, kein RZ-Fund",
+      "status": "Quellenzuordnung berichtigt; Sachprüfung offen",
       "priority": "normal",
       "evidence": "",
-      "source": "https://www.hohentengen.de/de/",
-      "notes": "Gemeinde fuehrt Gemeindewerke, Internet-TV-Telefon, kommunale Waermeplanung, Bauleitplanung, Baugrundstuecke und Gewerbe; starker Micro-/Edge-Suchpfad, heute ohne direkten RZ-Fund.",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "source": "https://www.rheinhausen.de/pb/131800.html",
+      "notes": "Quellenzuordnung am 05.11.2026 berichtigt. Keine vollständige kommunale Sachprüfung oder Aussage über fehlende Rechenzentrumsflächen aus der Identitätsprüfung ableiten. Frühere Angaben im Änderungsprotokoll erhalten.",
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
+      "sourceMappingHistory": [
+        {
+          "date": "2026-11-05",
+          "reason": "Vorheriger Einstieg gehörte zu anderer Gemeinde; amtliche Kreisübersicht belegt richtigen Gemeindeverweis.",
+          "previousRecord": {
+            "name": "Rheinhausen im Breisgau",
+            "district": "Emmendingen",
+            "code": "053",
+            "status": "heute geprueft - Gemeindewerke/Bauleitplanung/Waerme, kein RZ-Fund",
+            "priority": "normal",
+            "evidence": "",
+            "source": "https://www.hohentengen.de/de/",
+            "notes": "Gemeinde fuehrt Gemeindewerke, Internet-TV-Telefon, kommunale Waermeplanung, Bauleitplanung, Baugrundstuecke und Gewerbe; starker Micro-/Edge-Suchpfad, heute ohne direkten RZ-Fund.",
+            "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+          }
+        }
+      ],
+      "systematicReviewPending": true,
+      "sourceIdentityVerifiedAt": "2026-11-05",
+      "sourceIdentityEvidence": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "sourceDirectAccessStatus": "Amtliche Gemeindeseite direkt gesichert"
     },
     {
       "name": "Weisweil",
       "district": "Emmendingen",
       "code": "049",
-      "status": "heute geprueft - B-Plan/Breitband/Gewerbegebiet, kein RZ-Fund",
+      "status": "Quellenzuordnung berichtigt; Sachprüfung offen",
       "priority": "normal",
       "evidence": "",
-      "source": "https://www.herrischried.de/",
-      "notes": "Gemeinde fuehrt Bebauungsplaene, Gewerbegebiet Ruetteweidling, Breitband-Ausbaustatus, Masterplanung und Gemeinderatsbeschluesse; heute kein direkter RZ-Fund.",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "source": "https://www.weisweil.de/",
+      "notes": "Quellenzuordnung am 05.11.2026 berichtigt. Keine vollständige kommunale Sachprüfung oder Aussage über fehlende Rechenzentrumsflächen aus der Identitätsprüfung ableiten. Frühere Angaben im Änderungsprotokoll erhalten.",
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
+      "sourceMappingHistory": [
+        {
+          "date": "2026-11-05",
+          "reason": "Vorheriger Einstieg gehörte zu anderer Gemeinde; amtliche Kreisübersicht belegt richtigen Gemeindeverweis.",
+          "previousRecord": {
+            "name": "Weisweil",
+            "district": "Emmendingen",
+            "code": "049",
+            "status": "heute geprueft - B-Plan/Breitband/Gewerbegebiet, kein RZ-Fund",
+            "priority": "normal",
+            "evidence": "",
+            "source": "https://www.herrischried.de/",
+            "notes": "Gemeinde fuehrt Bebauungsplaene, Gewerbegebiet Ruetteweidling, Breitband-Ausbaustatus, Masterplanung und Gemeinderatsbeschluesse; heute kein direkter RZ-Fund.",
+            "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+          }
+        }
+      ],
+      "systematicReviewPending": true,
+      "sourceIdentityVerifiedAt": "2026-11-05",
+      "sourceIdentityEvidence": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "sourceDirectAccessStatus": "Amtliche Gemeindeseite direkt gesichert"
     },
     {
       "name": "Bahlingen am Kaiserstuhl",
@@ -7843,7 +7874,7 @@
       "source": "https://www.bahlingen.de/startseite",
       "notes": "Gemeinde fuehrt Gewerbebauplaetze, Glasfaserbau im Gewerbegebiet, Bauleitplanung und Bekanntmachungen; heute kein direkter RZ-Fund.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.bahlingen.de/startseite",
         "https://www.bahlingen.de/rathaus-service/gemeinderat/gemeinderat",
@@ -7871,18 +7902,52 @@
       "evidence": "",
       "source": "https://www.endingen.de/startseite",
       "notes": "Offizielle Stadtseite mit Bauen, BuergerGIS, Hochwasserschutz, Sanierung und Bekanntmachungen geprueft; kein direkter RZ-Hinweis.",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
+      "lastScreenedAt": "2026-11-05",
+      "lastScreeningSources": [
+        "https://www.endingen.de/startseite",
+        "https://www.endingen.de/rathaus-service/neuigkeiten/amtsblatt",
+        "https://endingen.ratsinfomanagement.net/startseite",
+        "https://www.endingen.de/leben-wohnen/bauen/buergergis",
+        "https://service.endingen.de/online-dienste/dienstleistungen/191/flaechennutzungsplan-einsehen",
+        "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+        "https://www.endingen.de/rathaus-service/bekanntmachungen/amtliche-bekanntmachungen"
+      ],
+      "lastScreeningNote": "Kommunale Einstiegspfade und Planbegründung Radacker vertieft; heutige Verfügbarkeit, Verfahrensstand und Grundstückseignung offen.",
+      "lastScreeningStatus": "Teilprüfung; Aktenprüfung offen",
+      "systematicReviewPending": true
     },
     {
       "name": "Forchheim",
       "district": "Emmendingen",
       "code": "013",
-      "status": "heute geprueft - Startseite/Schwarzwald, kein RZ-Fund",
+      "status": "Quellenzuordnung berichtigt; Sachprüfung offen",
       "priority": "normal",
       "evidence": "",
-      "source": "https://www.bernau-schwarzwald.de/startseite",
-      "notes": "Offizielle Gemeinde-/Tourismusseite geoeffnet; heute kein direkter Rechenzentrumsfund im frei sichtbaren Einstiegspfad.",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "source": "https://www.forchheim-am-kaiserstuhl.de/de",
+      "notes": "Quellenzuordnung am 05.11.2026 berichtigt. Keine vollständige kommunale Sachprüfung oder Aussage über fehlende Rechenzentrumsflächen aus der Identitätsprüfung ableiten. Frühere Angaben im Änderungsprotokoll erhalten.",
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
+      "sourceMappingHistory": [
+        {
+          "date": "2026-11-05",
+          "reason": "Vorheriger Einstieg gehörte zu anderer Gemeinde; amtliche Kreisübersicht belegt richtigen Gemeindeverweis.",
+          "previousRecord": {
+            "name": "Forchheim",
+            "district": "Emmendingen",
+            "code": "013",
+            "status": "heute geprueft - Startseite/Schwarzwald, kein RZ-Fund",
+            "priority": "normal",
+            "evidence": "",
+            "source": "https://www.bernau-schwarzwald.de/startseite",
+            "notes": "Offizielle Gemeinde-/Tourismusseite geoeffnet; heute kein direkter Rechenzentrumsfund im frei sichtbaren Einstiegspfad.",
+            "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+          }
+        }
+      ],
+      "systematicReviewPending": true,
+      "sourceIdentityVerifiedAt": "2026-11-05",
+      "sourceIdentityEvidence": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "sourceDirectAccessStatus": "403; Identität über amtliche Kreisübersicht belegt"
     },
     {
       "name": "Riegel am Kaiserstuhl",
@@ -7894,7 +7959,7 @@
       "source": "https://www.gemeinde-riegel.de/",
       "notes": "Riegel bleibt wegen A5, Bahnanschluss und bestehender Industrie-/Logistikspur interessant; auf dem heute geprueften Einstiegspfad jedoch kein direkter Rechenzentrums- oder Carrier-Fund.",
       "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.gemeinde-riegel.de/",
         "https://www.gemeinde-riegel.de/de/Rathaus-Service/Gemeinderat",
@@ -7928,12 +7993,33 @@
       "name": "Wyhl am Kaiserstuhl",
       "district": "Emmendingen",
       "code": "051",
-      "status": "heute geprueft - Startseite/Kurort, kein RZ-Fund",
+      "status": "Quellenzuordnung berichtigt; Sachprüfung offen",
       "priority": "normal",
       "evidence": "",
-      "source": "https://www.hoechenschwand.de/startseite",
-      "notes": "Offizielle Gemeindeseite des Kurorts geoeffnet; heute kein direkter RZ-Fund auf dem sichtbaren Einstiegspfad.",
-      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+      "source": "https://www.wyhl.de/",
+      "notes": "Quellenzuordnung am 05.11.2026 berichtigt. Keine vollständige kommunale Sachprüfung oder Aussage über fehlende Rechenzentrumsflächen aus der Identitätsprüfung ableiten. Frühere Angaben im Änderungsprotokoll erhalten.",
+      "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
+      "sourceMappingHistory": [
+        {
+          "date": "2026-11-05",
+          "reason": "Vorheriger Einstieg gehörte zu anderer Gemeinde; amtliche Kreisübersicht belegt richtigen Gemeindeverweis.",
+          "previousRecord": {
+            "name": "Wyhl am Kaiserstuhl",
+            "district": "Emmendingen",
+            "code": "051",
+            "status": "heute geprueft - Startseite/Kurort, kein RZ-Fund",
+            "priority": "normal",
+            "evidence": "",
+            "source": "https://www.hoechenschwand.de/startseite",
+            "notes": "Offizielle Gemeindeseite des Kurorts geoeffnet; heute kein direkter RZ-Fund auf dem sichtbaren Einstiegspfad.",
+            "nextAction": "Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen."
+          }
+        }
+      ],
+      "systematicReviewPending": true,
+      "sourceIdentityVerifiedAt": "2026-11-05",
+      "sourceIdentityEvidence": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "sourceDirectAccessStatus": "Amtliche Gemeindeseite direkt gesichert"
     },
     {
       "name": "Gutach im Breisgau",
@@ -7967,7 +8053,7 @@
       "source": "https://www.stadt-waldkirch.de/start/bauen%2B_%2Bmobilitaet/plaene.html ; https://www.wagner-it.de/waldkirch/bp/pdf/waldkirch/BPlan_Gewerbegebiet_Inried_Bebauungsvorschriften.pdf",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.stadt-waldkirch.de/",
@@ -8257,19 +8343,19 @@
       "source": "https://www.lahr.de/bebauungsplan-gewerbegebiet-rheinstrasse-sued-dritte-aenderung.247816.htm ; https://www.lahr.de/telekommunikation.11687.htm",
       "notes": "2026-06-20 revalidiert auf offiziellem Kommunalpfad; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningSources": [
         "https://www.lahr.de/",
         "https://www.lahr.de/uebersicht-ratsinfosystem.286283.htm",
         "https://lahr.ratsinfomanagement.net/gremien",
-        "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm?target_language=ar",
         "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm?target_language=bg",
+        "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm?target_language=id",
         "https://www.lahr.de/oeffentliche-bekanntmachungen.221113.htm?target_language=ar",
         "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm",
         "https://www.lahr.de/kommunale-waermeplanung.148751.htm?target_language=id",
         "https://www.lahr.de/oeffentliche-einrichtungen-wirtschaftsfoerderung.3415.htm",
         "https://lahr.ratsinfomanagement.net/fraktionen",
-        "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm?target_language=id",
+        "https://www.lahr.de/oeffentlichkeitsbeteiligung-bebauungsplaene.229874.htm?target_language=ar",
         "https://www.lahr.de/oeffentliche-bekanntmachungen.221113.htm",
         "https://www.lahr.de/kommunale-waermeplanung.148751.htm"
       ],
@@ -8367,7 +8453,7 @@
       "source": "https://www.offenburg.de/",
       "notes": "Falschen beziehungsweise ungeeigneten früheren Gemeindequellpfad korrigiert. Kein neuer bestätigter Rechenzentrumsstandort.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.offenburg.de/",
@@ -8379,9 +8465,8 @@
         "https://www.offenburg.de/de/gemeinderat-und-stadtverwaltung/bekanntmachungen/",
         "https://offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/wirtschaftsstandort-offenburg/",
         "https://www.offenburg.de/de/arbeit-und-wirtschaft/wirtschaft/daten-fakten/wirtschaftsstandort-offenburg/",
-        "https://www.offenburg.de/de/gemeinderat-und-stadtverwaltung/bekanntmachungen/ergaenzende-bekanntmachungen-nach-dem-baugb/",
-        "https://www.offenburg.de/de/bauen-und-umwelt/planen/stadtplanung/flaechennutzungsplan/allgemeine-informationen-zum-flaechennutzungsplan/",
-        "https://www.offenburg.de/de/arbeit-und-wirtschaft/ausschreibungen-oeffentliche-bekanntmachungen-vermietungen/",
+        "https://offenburg.de/de/gemeinderat-und-stadtverwaltung/bekanntmachungen/",
+        "https://offenburg.de/de/bauen-und-umwelt/planen/stadtplanung/flaechennutzungsplan/allgemeine-informationen-zum-flaechennutzungsplan/",
         "https://app-eu.readspeaker.com/cgi-bin/rsent?customerid=7373&lang=de_de&readid=maincontent&url=http%3A%2F%2Foffenburg.de%2Fde%2Farbeit-und-wirtschaft%2Fwirtschaft%2Fdaten-fakten%2Fwirtschaftsstandort-offenburg%2F",
         "https://www.offenburg.de/media/download/integration/102380/2026-05-22_-nachtragswirtschaftsplan-2026_zweckverband--gewerbepark-raum-offenburg--gro--.pdf",
         "http://www.offenburg.de/ratsinformation"
@@ -8538,7 +8623,7 @@
       "source": "https://www.appenweier.de/de/aktuelles/meldungen/2021/glasfaser.php ; https://appenweier.de/wMedia/docs/wirtschaft-bauen/bebauungsplaene/appenweier/Im-See-Sued/Begruendung.pdf",
       "notes": "2026-06-20 revalidiert: Wirtschaft & Bauen mit Bebauungsplaenen, FNP, RIS und Starkregenmanagement weiterhin offen; kein neuer direkter RZ-Fund.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Gemeindeseite, Ratsinformationssystem, BebauungsplÃ¤ne/FNP, GewerbeflÃ¤chen, Netzbetreiber und Glasfaser prÃ¼fen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.appenweier.de/",
@@ -8595,7 +8680,7 @@
       "source": "https://www.datacenters.com/exa-infrastructure-exa-edge-dc-kehl ; https://www.kehl.de/leben%2Bin%2Bkehl/stadtplanung/stadtentwicklungsprojekte/breitbandausbau",
       "notes": "2026-06-20 revalidiert: offizieller Stadtplanungs- und Wirtschaftspfad weiter offen; bestehender Edge-Standort bleibt der wichtigste direkte RZ-Anker im Ortenaukorridor.",
       "nextAction": "PrioritÃ¤t Raum Freiburg/BW: Detailquellen, Betreiberangaben, Strom-/Glasfaser- und Bauleitplanungsdaten vertiefen.",
-      "lastScreenedAt": "2026-11-04",
+      "lastScreenedAt": "2026-11-05",
       "lastScreeningScope": "Einstiegsscreening; Ratsvorlagen/Planakten nicht vollständig geprüft",
       "lastScreeningSources": [
         "https://www.kehl.de/",
@@ -13671,9 +13756,10 @@
     "Herbolzheim",
     "Bahlingen",
     "Riegel",
-    "Kenzingen"
+    "Kenzingen",
+    "Endingen"
   ],
-  "todayCheckedDate": "2026-11-04",
+  "todayCheckedDate": "2026-11-05",
   "priorityCorrections": [
     "BÃ¶tzingen",
     "VÃ¶rstetten"
@@ -13689,5 +13775,11 @@
       "Deckenpfronn"
     ],
     "note": "Übrige historische Abschlüsse ungeprüft; offene Anzahl ist nur bekannte Mindestzahl."
+  },
+  "sourceAssignmentQuality": {
+    "checkedAt": "2026-11-05",
+    "correctedEntries": 4,
+    "requiresFurtherLegacyAssignmentAudit": true,
+    "note": "Vier konkret nachgewiesene Fremdzuordnungen berichtigt. Übrige historische Quellen- und Kreiszuordnungen nicht vollständig validiert."
   }
 }

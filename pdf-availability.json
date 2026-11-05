@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-04",
-  "total": 135,
+  "checkedAt": "2026-11-05",
+  "total": 136,
   "localAvailable": 68,
-  "publicAvailable": 135,
+  "publicAvailable": 136,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2298,6 +2298,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.wagner-it.de/kenzingen/bp/pdf/kenzingen/BP_Industriegebiet_West_IV_1_Aenderung_Textteil.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Endingen am Kaiserstuhl",
+      "documentTitle": "Endingen: Radacker I, zweite Änderung und Erweiterung, Begründung 04.02.2026",
+      "documentType": "Kommunales Planungsoriginal",
+      "pages": "14",
+      "publicUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+      "currentSourceUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
       "contentType": "application/pdf",
       "error": ""
     }
