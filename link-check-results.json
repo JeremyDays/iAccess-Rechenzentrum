@@ -1,7 +1,7 @@
 {
-  "checked": 1615,
+  "checked": 1617,
   "ok": 1587,
-  "blocked": 28,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -113,6 +113,18 @@
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
     },
     {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
       "collection": "sites",
       "index": 7,
       "field": "link",
@@ -159,6 +171,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 23,
+      "field": "sourceUrl",
+      "title": "KIT KI-Rechenzentrum Campus Nord",
+      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Max retries exceeded with url: /kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kit.edu', port=443) at 0x1c92e116360>, 'Connection to www.kit.edu timed out. (connect timeout=25)'))"
     },
     {
       "collection": "sites",
@@ -321,21 +345,21 @@
       "index": 0,
       "field": "documents",
       "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
-      "url": "https://rechenzentrum-eiche.de/download",
-      "status": 403,
-      "finalUrl": "https://rechenzentrum-eiche.de/download",
+      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
+      "status": null,
+      "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": ""
+      "error": "HTTPSConnectionPool(host='bb.beteiligung.diplanung.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "zoningPlans",
-      "index": 5,
+      "index": 0,
       "field": "documents",
-      "title": "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
-      "url": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
-      "status": 503,
-      "finalUrl": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
+      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
+      "url": "https://rechenzentrum-eiche.de/download",
+      "status": 403,
+      "finalUrl": "https://rechenzentrum-eiche.de/download",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -13830,18 +13854,6 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -18222,6 +18234,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 137,
+      "field": "sourceUrl",
+      "title": "Oberried: Sitzungsunterlagen 09.11.2026, Vorlage 69/2026 Serverbeschaffung",
+      "url": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 114,
       "field": "sourceUrl",
       "title": "Oberried: Wärmedichte 2,97 MB download",
@@ -18288,6 +18312,18 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/YTViMjQyZjdhNzg3ZDFjZVp3Z2UxM3hLcURNRnEyd2Vkb0M5VjgrUkI4aGExN2F0MjF1ZlgzVUFpSHJhczdvMGsxTy82MU1yRTdPVVRWSm1ZVnA2QjRHaVplSUJxL0padnZKdHFsTENYVjEwait6VjJHOWZOMktGamJnd3pVRTY0eHRMNmRweVJqRU5iWk1R",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/YTViMjQyZjdhNzg3ZDFjZVp3Z2UxM3hLcURNRnEyd2Vkb0M5VjgrUkI4aGExN2F0MjF1ZlgzVUFpSHJhczdvMGsxTy82MU1yRTdPVVRWSm1ZVnA2QjRHaVplSUJxL0padnZKdHFsTENYVjEwait6VjJHOWZOMktGamJnd3pVRTY0eHRMNmRweVJqRU5iWk1R",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 136,
+      "field": "sourceUrl",
+      "title": "Rheinhausen: Gewerbegebiet Elzmatten, Beschlussvorlage 27/2023 zur Erschließung",
+      "url": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "status": 304,
+      "finalUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18612,18 +18648,6 @@
       "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
       "status": 200,
       "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 23,
-      "field": "sourceUrl",
-      "title": "KIT KI-Rechenzentrum Campus Nord",
-      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
-      "status": 200,
-      "finalUrl": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19029,18 +19053,6 @@
       "index": 0,
       "field": "documents",
       "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
-      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
-      "status": 200,
-      "finalUrl": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 0,
-      "field": "documents",
-      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
       "url": "https://www.ahrensfelde.de/regional/bauleitplanung/bebauungsplan-rechenzentrum-eiche-900000063-30601.html?plantyp=900000063&titel=Bebauungsplan+%22Rechenzentrum+Eiche%22",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/regional/bauleitplanung/bebauungsplan-rechenzentrum-eiche-900000063-30601.html?plantyp=900000063&titel=Bebauungsplan+%22Rechenzentrum+Eiche%22",
@@ -19188,6 +19200,18 @@
       "url": "https://www.biochem.mpg.de/8714065/Bauausschuss",
       "status": 200,
       "finalUrl": "https://www.biochem.mpg.de/8714065/Bauausschuss",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 5,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 83 / Data-Center der MPG auf dem Campus Martinsried",
+      "url": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
+      "status": 200,
+      "finalUrl": "https://www.merkur.de/lokales/wuermtal/planegg-ort29296/trotz-enormem-stromverbrauch-bebauungsplan-fuer-datacenter-gebilligt-94071384.html",
       "ok": true,
       "blocked": false,
       "error": ""

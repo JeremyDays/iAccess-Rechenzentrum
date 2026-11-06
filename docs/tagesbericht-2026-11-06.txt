@@ -1,0 +1,50 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 6. November 2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+37 kommunale Teilprüfungen, einschließlich der 21 priorisierten Gemeinden. Zwei Recherchehinweise und zwei Originaldokumente in der Datenbank ergänzt. Keine neue gesicherte Rechenzentrumsfläche, kein neuer Grundstückskandidat und keine Anschlusszusage.
+Eigene Bewertung: Rheinhausens historische Gewerbeentwicklung ist kein heutiges Flächenangebot. Oberrieds Serverersatz ist kommunaler Infrastrukturbedarf, kein Flächenfund oder bereits beschlossener Auftrag. Für heute ist keine Entscheidung erforderlich; keine Kontaktaufnahme oder Bewerbung ausgeführt.
+
+Rheinhausen: historischer Verkauf statt aktuellem Angebot
+Die zweitseitige Beschlussvorlage 27/2023 für die Sitzung am 27. September 2023 wurde lokal gesichert, ausgelesen und auf beiden Seiten visuell geprüft. Sie beschreibt eine Erweiterung des Gewerbegebiets an der Ringsheimer Straße um rund 2,6 Hektar durch den Bebauungsplan Elzblick. Die neu entstandenen Grundstücke waren laut damaliger Vorlage an zwei örtliche Gewerbebetriebe veräußert.
+Vorgeschlagen war die Ausschreibung der Erschließung sowie der Asphaltdeckschicht im vorhergehenden Abschnitt Elzwiesen. Überschrift Elzmatten, Erweiterungsabschnitt Elzblick und vorhergehender Abschnitt Elzwiesen wurden nicht gleichgesetzt. Die Vorlage belegt weder einen gefassten Beschluss noch die heutige Fertigstellung oder heutige Verfügbarkeit sämtlicher Gewerbeflächen. Keine Rechenzentrumsgenehmigung, freie Verbrauchsleistung oder Glasfaserwege daraus abgeleitet.
+Gemeindeseite, Gewerbeverzeichnis, Ratszugänge, Bekanntmachungen und Amtsblatt 45/2026 betrachtet. Das Ratsportal antwortete mit 403; aktuelle Planunterlagen und Flächennutzungsplan bleiben offen. Kein neuer Standort-Prüfeintrag angelegt.
+Original: https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf
+
+Oberried: Ersatzserver und langfristiges Cloudziel
+Die 20-seitigen Sitzungsunterlagen für den 9. November 2026 enthalten auf Seiten 18 und 19 die Vorlage 69/2026; diese Seiten zusätzlich visuell geprüft. Die Verwaltung schlägt einen neuen Server vor. Laut Vorlage steht ein eigener Server im Rathaus; die Betreuung erfolgt durch einen Dienstleister aus Kirchzarten. Die Verwaltung bewertet den damaligen Wechsel zur Cloudlösung über das kommunale Rechenzentrum als unwirtschaftlich. Dies ist ihre Bewertung, kein unabhängiger Kostenvergleich.
+Die Vorlage nennt rund 40.000 Euro einschließlich Installation und einen vorgesehenen Mittelabfluss 2027. Dies ist ein Verwaltungsansatz, keine eigene Schätzung, bestätigte Bestellung oder allgemeiner Kostenmaßstab für Rechenzentren. Ziel ist eine schrittweise Umstellung auf Cloudanwendungen. Die Sitzung steht zum Recherchezeitpunkt noch aus; Beschluss, Auftrag und Umsetzung nicht bestätigt.
+Eigene Bewertung: Infrastrukturhinweis im erweiterten Themenbereich; kein neuer Partner, kein freier Auftrag an iAccess und kein Flächenangebot. Ratsentscheidung nach der Sitzung gezielt prüfen.
+Original: https://www.oberried.de/de/gemeinderat/?download=607
+
+Gemeinden und Grenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen.
+Verfügbare Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie elf Suchbegriffe betrachtet. Die Prüfung der einzelnen Kategorien ist nicht überall vollständig: Weiterleitungen, reine Anwendungsoberflächen, blockierte Zugänge und fehlende Detailakten bleiben in der Quellenmatrix vermerkt. Alle Gemeinden bleiben für die systematische Aktenprüfung offen. Kein vollständiger Negativnachweis über alle Bebauungspläne, Flächennutzungspläne oder Amtsblätter behauptet.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: keine. Rheinhausen mit historischem Gewerbeentwicklungsbefund und Oberried mit vorgesehener Serverbeschaffung; übrige Gemeinden ohne neuen gesicherten Befund in den gelesenen Quellen beziehungsweise weiter offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten und Termine
+Breite Recherche über Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen fortgeführt. Suchtreffer und Mehrfachveröffentlichungen nicht als unabhängige Bestätigungen übernommen. Keine vollständige Auswertung jeder Tagesmeldung behauptet. Bekannte Pfaffenhofen-, Lahr- und TelemaxX-Hinweise nicht erneut angelegt; Ankündigung und Inbetriebnahme weiter getrennt.
+FairNetz nennt auf der heute abgerufenen Verfahrensseite den 6. November 2026 als Fristende. Keine genaue Schlussuhrzeit bestätigt. Die bekannte Frist wurde erneut geprüft, keine Anmeldung oder Leistungsreservierung ausgeführt.
+Quelle: https://www.fairnetzgmbh.de/vergabeverfahren-netzanschlussleistungen
+Weitere bekannte Termine: Oberrieds Wärmeplan-Offenlage bis 9. November und angekündigte Borderstep-Studie am 12. November. Netze-BW-Fenster bis 31. Dezember bleibt regional bedingt. Keine regionale Öffnung oder freie Anschlusskapazität aus allgemeinen Verfahrenshinweisen abgeleitet.
+
+Quellenarchiv und Dokumente
+518 unterschiedliche Rechercheadressen, 494 lokal gesichert; 21 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 24 Abruffehler dokumentiert.
+73 unterschiedliche Dokumentdateien mit 1368 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet; 7 Inhalte neu gegenüber dem Archiv. Bei 10 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige Texterkennung oder visuelle Prüfung aller Archivseiten behauptet.
+Zwei Originaldokumente neu in der Dokumentdatenbank; weitere neue Archivdateien umfassen Amtsblätter und Sitzungseinladungen. Keine neuen Rechenzentrumsgutachten, Fotos oder technischen Rechenzentrumszeichnungen. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht; Quellenarchiv, Laufzeit und Anmeldedaten bleiben lokal.
+
+Dokumentverfügbarkeit und Linkprüfung
+138 erfasste Dokumentquellen geprüft: 138 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1617 unterschiedliche öffentliche Links geprüft: 1587 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+Keine neuen, freizugebenden oder verdächtigen Fragen. Keine manuellen Uploads; nur die Platzhalterdatei im Uploadordner. Kein Fragenbericht erforderlich.
+Recherchehinweise 223 auf 225; Dokumenteinträge 136 auf 138. Alle bisherigen Datenbank-Array-Einträge unverändert erhalten. Gemeindeabdeckung um Rheinhausen fortgeschrieben; die vier Quellenkorrekturen des Vortags bleiben erhalten und wurden nicht erneut als neue Korrekturen gezählt.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5, technische Zeichnungen 6. Kein neuer Partner, keine gesicherte Fläche oder Anschlusszusage.
+
+Fortschritt und nächster Schritt
+Veröffentlichten Datenstand und vorhandene Fortschrittsprotokolle vor Änderungen abgeglichen. Vortagsveröffentlichung und Versand dokumentiert; kein doppelter Bericht. Aktuelle Grundstücksverfügbarkeit, geltenden Planumfang, Bekanntmachungen, Verbrauchsanschluss und unabhängige Glasfaserwege der bisherigen Kandidaten weiter klären. Oberrieds Ratsentscheidung nach dem 9. November nachverfolgen. Keine Kontaktaufnahme, Registrierung oder fremde Projekteingabe ausgeführt. Veröffentlichung und Versand werden am tatsächlichen Ergebnis geprüft.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-05",
-  "total": 136,
+  "checkedAt": "2026-11-06",
+  "total": 138,
   "localAvailable": 68,
-  "publicAvailable": 136,
+  "publicAvailable": 138,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2315,6 +2315,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2026/Bauleitplanungen/Aufstellung_des_Bebauungsplanes_%E2%80%9E2._%C3%84nderung_und_Erweiterung_des_Bebauungsplanes_Radacker_II%E2%80%9C___Beteiligung_der_%C3%96ffentlichkeit_sowie_fr%C3%BChzeitige_Beh%C3%B6rdenbeteiligung/BPlan_2_.%C3%84nd_Radacker_I_Begr%C3%BCndung_260204_1.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Rheinhausen im Breisgau",
+      "documentTitle": "Rheinhausen: Gewerbegebiet Elzmatten, Beschlussvorlage 27/2023 zur Erschließung",
+      "documentType": "Kommunale Beschlussvorlage",
+      "pages": "2",
+      "publicUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "currentSourceUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 304,
+      "finalUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "contentType": "",
+      "error": ""
+    },
+    {
+      "municipality": "Oberried",
+      "documentTitle": "Oberried: Sitzungsunterlagen 09.11.2026, Vorlage 69/2026 Serverbeschaffung",
+      "documentType": "Kommunale Sitzungsvorlage",
+      "pages": "20",
+      "publicUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "currentSourceUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
       "contentType": "application/pdf",
       "error": ""
     }

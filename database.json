@@ -4130,6 +4130,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.endingen.de/c2fdf5fecf6bea6c.pdf",
       "tags": "Februar 2026, Begründung, Verfügbarkeit und Verfahrensidentität offen"
+    },
+    {
+      "id": "id-2026-11-06-pdf-01",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "municipality": "Rheinhausen im Breisgau",
+      "documentTitle": "Rheinhausen: Gewerbegebiet Elzmatten, Beschlussvorlage 27/2023 zur Erschließung",
+      "documentType": "Kommunale Beschlussvorlage",
+      "pages": "2",
+      "keyFacts": "Historische Erweiterung um rund 2,6 Hektar; Grundstücke laut Vorlage bereits an zwei örtliche Betriebe veräußert. Kein heutiges Angebot.",
+      "technicalFacts": "Vorgesehene Straßen-, Trinkwasser- und Abwassererschließung; kein heutiger Vollzugsnachweis oder Verbrauchsanschluss belegt.",
+      "planningFacts": "Beschlussvorschlag vom September 2023 unterscheidet Elzblick als Erweiterungsabschnitt und Elzwiesen als vorgelagerten Bauabschnitt. Kein nachgewiesenes Abstimmungsergebnis oder heutiges Baurecht. Beide Seiten visuell geprüft.",
+      "sourceUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.rheinhausen.de/8e6259680c000440.pdf",
+      "tags": "September 2023, Vorlage, heutige Verfügbarkeit und Umsetzung offen"
+    },
+    {
+      "id": "id-2026-11-06-pdf-02",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "municipality": "Oberried",
+      "documentTitle": "Oberried: Sitzungsunterlagen 09.11.2026, Vorlage 69/2026 Serverbeschaffung",
+      "documentType": "Kommunale Sitzungsvorlage",
+      "pages": "20",
+      "keyFacts": "Vorlage 69/2026 schlägt Serverersatz vor; langfristig schrittweise Cloudumstellung angestrebt. Kein bestätigter Ratsbeschluss oder Auftrag.",
+      "technicalFacts": "Eigener Server im Rathaus und Betreuung durch einen Dienstleister aus Kirchzarten laut Verwaltung. Keine konkrete Serverleistung, Anschlussleistung oder freie Kapazität nachgewiesen.",
+      "planningFacts": "Sitzung am 09.11.2026. Seiten 18 und 19 visuell geprüft. Rund 40.000 Euro inklusive Installation als Verwaltungsansatz, kein Rechenzentrums-Kostenvergleich.",
+      "sourceUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.oberried.de/44159126c01f3a1a.pdf",
+      "tags": "Vorlage 69/2026, kommunaler Server, Beschluss und Umsetzung offen"
     }
   ],
   "media": [
@@ -8669,6 +8701,30 @@
       "confidence": "Kommunales Original, 14 Seiten ausgelesen; Seiten 1 und 6 visuell geprüft, aktueller Verfahrensstand offen",
       "action": "Eigene Bewertung: Kein neuer Standort-Prüfeintrag. Betriebsbedarf, verfügbares Flächenangebot und heutiges Baurecht getrennt behandeln; keine Rechenzentrumsgenehmigung oder freie Verbrauchsleistung ableiten.",
       "tags": "Planstand Februar 2026, betrieblicher Bedarf, Namensabweichung"
+    },
+    {
+      "id": "id-2026-11-06-rheinhausen-elzmatten",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "title": "Rheinhausen Elzmatten: historische Erweiterungsflächen bereits 2023 veräußert",
+      "topic": "Kommunale Gewerbeentwicklung",
+      "summary": "Beschlussvorlage 27/2023 zur Sitzung am 27.09.2023 beschreibt eine Erweiterung um rund 2,6 Hektar durch den Bebauungsplan Elzblick. Die entstandenen Grundstücke waren laut damaliger Vorlage an zwei örtliche Gewerbebetriebe verkauft. Vorgeschlagen wird die Ausschreibung der Erschließung und der Feindecke im vorhergehenden Abschnitt Elzwiesen. Dies ist weder ein nachgewiesener Ratsbeschluss noch eine heutige Verfügbarkeitsabfrage.",
+      "sourceUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "confidence": "Amtliches Original, zwei Seiten textlich und visuell geprüft; historischer Stand September 2023",
+      "action": "Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag. Heutige Grundstücksverfügbarkeit, geltender Planumfang und Beschlussvollzug separat bestätigen. Keine Rechenzentrumsgenehmigung oder freie Verbrauchsleistung aus Gewerbegebietsbezeichnung und Erschließungsplanung ableiten.",
+      "tags": "Elzmatten, Elzblick, Elzwiesen, Vorlage 2023, heutiger Stand offen"
+    },
+    {
+      "id": "id-2026-11-06-oberried-server",
+      "created": "2026-11-06",
+      "updated": "2026-11-06",
+      "title": "Oberried: Serverersatz und spätere Cloudumstellung zur Beratung am 9. November",
+      "topic": "Kommunale Informationstechnik",
+      "summary": "Vorlage 69/2026 für die Sitzung am 09.11.2026 schlägt einen Ersatzserver für die Gemeindeverwaltung vor. Laut Verwaltung steht ein eigener Server im Rathaus; die Cloudlösung über das kommunale Rechenzentrum wird derzeit als unwirtschaftlich bewertet. Ziel bleibt eine schrittweise Cloudumstellung. Rund 40.000 Euro einschließlich Installation sind als Verwaltungsansatz genannt, keine eigene Kostenschätzung oder bestätigte Bestellung.",
+      "sourceUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "confidence": "Amtliche Sitzungsvorlage, Seiten 18 und 19 textlich und visuell geprüft; Sitzung und Beschluss stehen zum Recherchezeitpunkt noch aus",
+      "action": "Eigene Bewertung: Hinweis auf lokalen Infrastrukturbedarf, kein neues Grundstück oder freier Auftrag an iAccess. Ratsentscheidung nach der Sitzung prüfen. Keine allgemeine Wirtschaftlichkeitsaussage über Cloudbetrieb oder Übertragung der Kosten auf Rechenzentren.",
+      "tags": "Serverersatz, Vorlage 69/2026, Cloudziel, Beschluss offen"
     }
   ],
   "gridChecks": [
@@ -9124,7 +9180,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-05",
+    "lastRun": "2026-11-06",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9152,8 +9208,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-05",
-    "lastResearchSummary": "36 kommunale Teilprüfungen; Endingen Radacker und vier berichtigte Quellenzuordnungen. Keine neue gesicherte Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-06",
+    "lastResearchSummary": "37 kommunale Teilprüfungen; historische Rheinhausener Gewerbeentwicklung belegt keine heutige Flächenverfügbarkeit. Keine neue gesicherte Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
