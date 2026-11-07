@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-06",
-  "total": 138,
+  "checkedAt": "2026-11-07",
+  "total": 140,
   "localAvailable": 68,
-  "publicAvailable": 138,
+  "publicAvailable": 140,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2349,6 +2349,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Weisweil",
+      "documentTitle": "Weisweil Heuweg 11: Zwischenbericht hydraulische Sicherung vom 20.07.2021",
+      "documentType": "Umweltgutachten / historischer Sanierungsbericht",
+      "pages": "133",
+      "publicUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "currentSourceUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Klagenfurt / Villach, Österreich",
+      "documentTitle": "ALPSiX: originale Betreibermitteilung vom 18.09.2026",
+      "documentType": "Betreiberreferenz / Container-Internetknoten",
+      "pages": "4",
+      "publicUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "currentSourceUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

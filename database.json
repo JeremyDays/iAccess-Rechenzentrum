@@ -4162,6 +4162,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.oberried.de/44159126c01f3a1a.pdf",
       "tags": "Vorlage 69/2026, kommunaler Server, Beschluss und Umsetzung offen"
+    },
+    {
+      "id": "id-2026-11-07-pdf-01",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "municipality": "Weisweil",
+      "documentTitle": "Weisweil Heuweg 11: Zwischenbericht hydraulische Sicherung vom 20.07.2021",
+      "documentType": "Umweltgutachten / historischer Sanierungsbericht",
+      "pages": "133",
+      "keyFacts": "Belasteter ehemaliger IVECO-Standort; historische Sicherungsmaßnahmen und verbleibende offene Fragen. Keine heutige Sanierungsfreigabe.",
+      "technicalFacts": "Grundwasser und Boden standortbezogen bewertet; keine Übertragung auf andere Flächen.",
+      "planningFacts": "133 Dateiseiten, Zusammenfassung Dateiseite 114 / intern 102. Titel nennt Mai 2021; Bericht datiert 20.07.2021. Titel-Postleitzahl 76367 weicht von kommunaler Kontaktadresse 79367 ab; Original unverändert erhalten.",
+      "sourceUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.weisweil.de/f0715cca5b47fe55.pdf",
+      "tags": "Original lokal gesichert, heutiger Stand gesondert zu bestätigen"
+    },
+    {
+      "id": "id-2026-11-07-pdf-02",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "municipality": "Klagenfurt / Villach, Österreich",
+      "documentTitle": "ALPSiX: originale Betreibermitteilung vom 18.09.2026",
+      "documentType": "Betreiberreferenz / Container-Internetknoten",
+      "pages": "4",
+      "keyFacts": "Verteilte Internetknoten in Edge-Containern, Datenaustausch ab Ende 2026 angekündigt.",
+      "technicalFacts": "Kein Nachweis von freier Verbrauchsleistung, konkreter Kühltechnik oder Rechenzentrumsrackkapazität.",
+      "planningFacts": "Originalmitteilung und Webseitenfassung sind dieselbe Ursprungsinformation. Keine unabhängige Betriebsbestätigung oder neue Fläche in Baden-Württemberg.",
+      "sourceUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.de-cix.net/3f96413a0326faf5.pdf",
+      "tags": "Original lokal gesichert, heutiger Stand gesondert zu bestätigen"
     }
   ],
   "media": [
@@ -8725,6 +8757,42 @@
       "confidence": "Amtliche Sitzungsvorlage, Seiten 18 und 19 textlich und visuell geprüft; Sitzung und Beschluss stehen zum Recherchezeitpunkt noch aus",
       "action": "Eigene Bewertung: Hinweis auf lokalen Infrastrukturbedarf, kein neues Grundstück oder freier Auftrag an iAccess. Ratsentscheidung nach der Sitzung prüfen. Keine allgemeine Wirtschaftlichkeitsaussage über Cloudbetrieb oder Übertragung der Kosten auf Rechenzentren.",
       "tags": "Serverersatz, Vorlage 69/2026, Cloudziel, Beschluss offen"
+    },
+    {
+      "id": "id-2026-11-07-weisweil-gewerbe",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "title": "Weisweil: keine freien Bestandsflächen laut Gemeindeseite, 5,5 ha nur bedingt in Aussicht",
+      "topic": "Kommunale Flächenverfügbarkeit",
+      "summary": "Die abgerufene Gemeindeseite nennt keine freien Flächen im Gewerbegebiet Innerer Heuweg. Weitere 5,5 ha werden mit einer Fortschreibung des Flächennutzungsplans 2030 und noch laufenden Eigentümerverhandlungen verknüpft; Verfügbarkeit erst nach Planung und Erschließung beschrieben. Veröffentlichungsdatum und heutiger Verhandlungsstand sind nicht ersichtlich.",
+      "sourceUrl": "https://www.weisweil.de/freie-gewerbeflaechen/",
+      "confidence": "Amtlicher Seiteninhalt am 07.11.2026 gesichert; undatierte Sachangabe, heutiger Vollzug offen",
+      "action": "Eigene Bewertung: Kein gesichertes Flächenangebot und kein neuer Standort-Prüfeintrag. Aktuelle Eigentümerverfügbarkeit, Planidentität und Erschließung bestätigen. Nicht auf sämtliche privaten Alternativen oder eine fehlende Genehmigungsfähigkeit schließen.",
+      "tags": "5,5 ha bedingt, Innerer Heuweg, heutiger Stand offen"
+    },
+    {
+      "id": "id-2026-11-07-weisweil-pfas",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "title": "Weisweil Heuweg 11: historischer Sanierungsbericht zu Boden und Grundwasser",
+      "topic": "Altlasten / Umweltprüfung",
+      "summary": "Der von der Gemeinde veröffentlichte Zwischenbericht vom 20.07.2021 dokumentiert am ehemaligen IVECO-Standort Heuweg 11 Belastungen durch per- und polyfluorierte Alkylsubstanzen und eine seit 21.04.2020 betriebene hydraulische Sicherung. Die Zusammenfassung nennt damalige Verbesserungen, aber weiterhin nicht vollständig unterbundenen Abfluss belasteten Grundwassers.",
+      "sourceUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "confidence": "Originalgutachten von 2021, 133 Dateiseiten ausgelesen; Seiten 1, 13 und 114 visuell geprüft. Heutiger Sanierungsstand nicht bestätigt",
+      "action": "Eigene Bewertung: Bei einem konkret betroffenen Grundstück aktuelle Behörden- und Sanierungsunterlagen klären. Keine Belastung anderer Flächen oder der genannten 5,5 ha ohne räumlichen Nachweis ableiten. Kein gesamter Gemeindeausschluss.",
+      "tags": "Heuweg 11, historischer Stand 2021, räumliche Übertragung unzulässig"
+    },
+    {
+      "id": "id-2026-11-07-alpsix-container",
+      "created": "2026-11-07",
+      "updated": "2026-11-07",
+      "title": "ALPSiX: Container-Internetknoten als Betreiberreferenz außerhalb Baden-Württembergs",
+      "topic": "Containerinfrastruktur / Konnektivität",
+      "summary": "Betreibermitteilung vom 18.09.2026 beschreibt Internetknoten in kompakten Edge-Containern in Klagenfurt und Villach. Lokaler Datenaustausch wird ab Ende 2026 angekündigt. Dies ist eine Referenz für verteilte Netztechnik, kein Flächenangebot in Baden-Württemberg oder Nachweis eines allgemeinen Container-Rechenzentrums.",
+      "sourceUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "confidence": "Originalmitteilung, 4 Seiten ausgelesen; Seiten 1 und 2 visuell geprüft. Ankündigung, keine unabhängig bestätigte Inbetriebnahme",
+      "action": "Eigene Schlussfolgerung: Anschluss- und Redundanzkonzept als getrennten Planungsbaustein beachten. Keine konkrete Anschlussleistung, Kühlung, Bauzulässigkeit oder Kosten eines kleinen Rechenzentrums aus der Meldung ableiten.",
+      "tags": "18.09.2026, Österreich, Internetknoten, Inbetriebnahme offen"
     }
   ],
   "gridChecks": [
@@ -9180,7 +9248,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-06",
+    "lastRun": "2026-11-07",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9208,8 +9276,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-06",
-    "lastResearchSummary": "37 kommunale Teilprüfungen; historische Rheinhausener Gewerbeentwicklung belegt keine heutige Flächenverfügbarkeit. Keine neue gesicherte Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-07",
+    "lastResearchSummary": "38 kommunale Teilprüfungen; Weisweiler Verfügbarkeit, historischer Sanierungsbericht und Container-Internetknoten als Referenz ergänzt. Keine neue gesicherte Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

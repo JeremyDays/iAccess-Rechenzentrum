@@ -1,9 +1,45 @@
 {
-  "checked": 1617,
-  "ok": 1587,
-  "blocked": 30,
+  "checked": 1620,
+  "ok": 1574,
+  "blocked": 46,
   "broken": 0,
   "results": [
+    {
+      "collection": "companies",
+      "index": 18,
+      "field": "source",
+      "title": "EnerSys",
+      "url": "https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "companies",
+      "index": 19,
+      "field": "source",
+      "title": "Socomec",
+      "url": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "companies",
+      "index": 15,
+      "field": "source",
+      "title": "nLighten",
+      "url": "https://www.datacenter-insider.de/nlighten-verkuerzt-co-location-bereitstellung-auf-drei-werktage-a-125938695495715ce2bbfca3ba8bc6b3/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
     {
       "collection": "companies",
       "index": 15,
@@ -30,6 +66,78 @@
     },
     {
       "collection": "findings",
+      "index": 82,
+      "field": "sourceUrl",
+      "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
+      "url": "https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 82,
+      "field": "sourceUrl",
+      "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
+      "url": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 22,
+      "field": "source",
+      "title": "Datacenter-Insider: Atlas Edge skaliert mit 4,4-MW-Modul in Leverkusen",
+      "url": "https://www.datacenter-insider.de/atlas-edge-baut-zweites-rechenzentrum-in-leverkusen-a-c8317f6181d56c43ed7e6533d25786fd/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 21,
+      "field": "source",
+      "title": "Datacenter-Insider: Brainqubes positioniert 2,8-MW-KI-Container als Baukasten",
+      "url": "https://www.datacenter-insider.de/brainqubes-liefert-ki-datacenter-container-ab-28-megawatt-a-55f5db0d1e02695854c2b9a9f785e01a/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 29,
+      "field": "source",
+      "title": "Datacenter-Insider: Mittelgrosse Staedte gewinnen wegen Netz und Abwaerme",
+      "url": "https://www.datacenter-insider.de/strom-fuer-rechenzentren-ist-zukunftssicherung-a-803403f9fbc5fe7e6fd12f197e492014/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 91,
+      "field": "sourceUrl",
+      "title": "Fachquellen-Sichtung: Lahr staerkt Edge-Case, Freiburg bleibt Carrier-Pruefraum",
+      "url": "https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
@@ -39,6 +147,90 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 63,
+      "field": "sourceUrl",
+      "title": "KI-Racks: Sidecar-Architektur verschiebt Standortanforderungen",
+      "url": "https://www.datacenter-insider.de/mit-sidecars-zu-1-mw-pro-rack-a-b3e236c0608c21796446b0cdb2244af2/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 60,
+      "field": "sourceUrl",
+      "title": "KI-Strombedarf: Eigenerzeugung und Lieferketten werden Standortfilter",
+      "url": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 108,
+      "field": "sourceUrl",
+      "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.cloudcomputing-insider.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.cloudcomputing-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 108,
+      "field": "sourceUrl",
+      "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.datacenter-insider.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 71,
+      "field": "sourceUrl",
+      "title": "Microsoft Grevenbroich: Strukturwandel- und Grossflaechenbenchmark fuer RZ-Standorte",
+      "url": "https://www.cloudcomputing-insider.de/von-der-kohle-zur-ki-microsoft-investiert-weiter-in-rechenzentren-in-nrw-a-3a170243ab68b7bc7ba85f9efd1d9458/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.cloudcomputing-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.cloudcomputing-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 132,
+      "field": "sourceUrl",
+      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
+      "url": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "findings",
@@ -60,18 +252,6 @@
       "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "status": 403,
       "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -114,15 +294,27 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "index": 163,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: Am Dachsrain als schwacher Flaechenpruefhinweis und KIT als 2-bis-10-MW-Referenz erfasst",
+      "url": "https://www.datacenter-insider.de/kit-baut-ki-rechenzentrum-mit-zehn-megawatt-ausbaupotenzial-a-36129753d961cb6b005240cabb79d5b7/",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 113,
+      "field": "sourceUrl",
+      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -182,7 +374,7 @@
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Max retries exceeded with url: /kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kit.edu', port=443) at 0x1c92e116360>, 'Connection to www.kit.edu timed out. (connect timeout=25)'))"
+      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -243,6 +435,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 20,
+      "field": "sourceUrl",
+      "title": "Philippsburg Energiepark / Rechenzentrumscampus in Pruefung",
+      "url": "https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.datacenter-insider.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -339,18 +543,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 0,
-      "field": "documents",
-      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
-      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='bb.beteiligung.diplanung.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "zoningPlans",
@@ -523,18 +715,6 @@
     {
       "collection": "companies",
       "index": 18,
-      "field": "source",
-      "title": "EnerSys",
-      "url": "https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/600-kw-batterie-von-enersys-fuer-ki-rechenzentren-a-054948142de1f242ef04d0cad1db1c35/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "companies",
-      "index": 18,
       "field": "contact",
       "title": "EnerSys",
       "url": "https://www.enersys.com/",
@@ -619,18 +799,6 @@
     {
       "collection": "companies",
       "index": 19,
-      "field": "source",
-      "title": "Socomec",
-      "url": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/socomec-praesentiert-batteriespeicher-im-schrank-und-containerformat-a-cc1e3052a33d52336b9e5ca30974a0bb/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "companies",
-      "index": 19,
       "field": "contact",
       "title": "Socomec",
       "url": "https://www.socomec.com/",
@@ -696,18 +864,6 @@
       "url": "https://www.virtusdatacentres.com",
       "status": 200,
       "finalUrl": "https://virtusdatacentres.com/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "companies",
-      "index": 15,
-      "field": "source",
-      "title": "nLighten",
-      "url": "https://www.datacenter-insider.de/nlighten-verkuerzt-co-location-bereitstellung-auf-drei-werktage-a-125938695495715ce2bbfca3ba8bc6b3/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/nlighten-verkuerzt-co-location-bereitstellung-auf-drei-werktage-a-125938695495715ce2bbfca3ba8bc6b3/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -6753,30 +6909,6 @@
       "index": 82,
       "field": "sourceUrl",
       "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
-      "url": "https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/bess-und-gas-diesel-und-erneuerbare-sind-kein-widerspruch-fuer-datacenter-so-rolls-royce-a-d592429120419553be4ac03edbc88862/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 82,
-      "field": "sourceUrl",
-      "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
-      "url": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 82,
-      "field": "sourceUrl",
-      "title": "Cron #3: Baden-Baden und Karlsruhe-Nord geprueft; Philippsburg als RZ-Fund revalidiert",
       "url": "https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen",
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen",
@@ -7008,42 +7140,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
       "status": 200,
       "finalUrl": "https://www.datacenterdynamics.com/en/news/germanys-stadtwerke-l%C3%BCbeck-launches-first-data-center/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 22,
-      "field": "source",
-      "title": "Datacenter-Insider: Atlas Edge skaliert mit 4,4-MW-Modul in Leverkusen",
-      "url": "https://www.datacenter-insider.de/atlas-edge-baut-zweites-rechenzentrum-in-leverkusen-a-c8317f6181d56c43ed7e6533d25786fd/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/atlas-edge-baut-zweites-rechenzentrum-in-leverkusen-a-c8317f6181d56c43ed7e6533d25786fd/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 21,
-      "field": "source",
-      "title": "Datacenter-Insider: Brainqubes positioniert 2,8-MW-KI-Container als Baukasten",
-      "url": "https://www.datacenter-insider.de/brainqubes-liefert-ki-datacenter-container-ab-28-megawatt-a-55f5db0d1e02695854c2b9a9f785e01a/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/brainqubes-liefert-ki-datacenter-container-ab-28-megawatt-a-55f5db0d1e02695854c2b9a9f785e01a/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 29,
-      "field": "source",
-      "title": "Datacenter-Insider: Mittelgrosse Staedte gewinnen wegen Netz und Abwaerme",
-      "url": "https://www.datacenter-insider.de/strom-fuer-rechenzentren-ist-zukunftssicherung-a-803403f9fbc5fe7e6fd12f197e492014/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/strom-fuer-rechenzentren-ist-zukunftssicherung-a-803403f9fbc5fe7e6fd12f197e492014/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7596,18 +7692,6 @@
       "url": "https://www.wurmberg.de/",
       "status": 200,
       "finalUrl": "https://www.wurmberg.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 91,
-      "field": "sourceUrl",
-      "title": "Fachquellen-Sichtung: Lahr staerkt Edge-Case, Freiburg bleibt Carrier-Pruefraum",
-      "url": "https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8958,30 +9042,6 @@
     },
     {
       "collection": "findings",
-      "index": 63,
-      "field": "sourceUrl",
-      "title": "KI-Racks: Sidecar-Architektur verschiebt Standortanforderungen",
-      "url": "https://www.datacenter-insider.de/mit-sidecars-zu-1-mw-pro-rack-a-b3e236c0608c21796446b0cdb2244af2/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/mit-sidecars-zu-1-mw-pro-rack-a-b3e236c0608c21796446b0cdb2244af2/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 60,
-      "field": "sourceUrl",
-      "title": "KI-Strombedarf: Eigenerzeugung und Lieferketten werden Standortfilter",
-      "url": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 220,
       "field": "sourceUrl",
       "title": "Kenzingen West IV: kommunale Angebotsseite nennt derzeit keine freien Flächen",
@@ -10125,30 +10185,6 @@
       "index": 108,
       "field": "sourceUrl",
       "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.cloudcomputing-insider.de/",
-      "status": 200,
-      "finalUrl": "https://www.cloudcomputing-insider.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 108,
-      "field": "sourceUrl",
-      "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.datacenter-insider.de/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 108,
-      "field": "sourceUrl",
-      "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.denzlingen.de/de/aktuelles/",
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/de/aktuelles/",
@@ -10512,18 +10548,6 @@
       "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
       "status": 200,
       "finalUrl": "https://www.datacenterdynamics.com/en/news/microsoft-signs-land-purchase-agreement-for-data-center-in-grevenbroich-germany/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 71,
-      "field": "sourceUrl",
-      "title": "Microsoft Grevenbroich: Strukturwandel- und Grossflaechenbenchmark fuer RZ-Standorte",
-      "url": "https://www.cloudcomputing-insider.de/von-der-kohle-zur-ki-microsoft-investiert-weiter-in-rechenzentren-in-nrw-a-3a170243ab68b7bc7ba85f9efd1d9458/",
-      "status": 200,
-      "finalUrl": "https://www.cloudcomputing-insider.de/von-der-kohle-zur-ki-microsoft-investiert-weiter-in-rechenzentren-in-nrw-a-3a170243ab68b7bc7ba85f9efd1d9458/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11001,30 +11025,6 @@
       "index": 132,
       "field": "sourceUrl",
       "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
-      "url": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
-      "status": 200,
-      "finalUrl": "https://www.cloudcomputing-insider.de/enterprise-cloud-index-dach-cloud-ki-edge-container-a-674b8bf40d944b8043fd821b302bb103/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 132,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
-      "url": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/flexible-netzanschluesse-fuer-rechenzentren-die-branche-muss-jetzt-handeln-a-0da72e0ae22e2ce5b0ae324ec5a44463/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 132,
-      "field": "sourceUrl",
-      "title": "News-Screening: Netzanschluss, Souveraenitaet und Standortakzeptanz",
       "url": "https://www.golem.de/news/bitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html",
       "status": 200,
       "finalUrl": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fbitkom-cloud-report-2026-cloud-ausfall-wuerde-jedes-zweite-unternehmen-lahmlegen-2607-210560.html",
@@ -11484,6 +11484,18 @@
       "url": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
       "status": 200,
       "finalUrl": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13854,6 +13866,18 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -14340,18 +14364,6 @@
       "url": "https://www.badenit.de/",
       "status": 200,
       "finalUrl": "https://www.badenit.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 163,
-      "field": "sourceUrl",
-      "title": "Tagesmonitoring: Am Dachsrain als schwacher Flaechenpruefhinweis und KIT als 2-bis-10-MW-Referenz erfasst",
-      "url": "https://www.datacenter-insider.de/kit-baut-ki-rechenzentrum-mit-zehn-megawatt-ausbaupotenzial-a-36129753d961cb6b005240cabb79d5b7/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/kit-baut-ki-rechenzentrum-mit-zehn-megawatt-ausbaupotenzial-a-36129753d961cb6b005240cabb79d5b7/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -15873,18 +15885,6 @@
       "index": 113,
       "field": "sourceUrl",
       "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/unternehmen-wollen-rechenzentren-in-deutschland-doch-der-ausbau-stockt-a-2dd804f57ed40a77a522eea834355983/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 113,
-      "field": "sourceUrl",
-      "title": "Wehr-/Reutlingen-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.datacenterdynamics.com/en/",
       "status": 200,
       "finalUrl": "https://www.datacenterdynamics.com/en/",
@@ -16320,6 +16320,18 @@
       "url": "https://www.zwiefalten.de/startseite",
       "status": 200,
       "finalUrl": "https://www.zwiefalten.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 225,
+      "field": "sourceUrl",
+      "title": "Weisweil: keine freien Bestandsflächen laut Gemeindeseite, 5,5 ha nur bedingt in Aussicht",
+      "url": "https://www.weisweil.de/freie-gewerbeflaechen/",
+      "status": 200,
+      "finalUrl": "https://www.weisweil.de/freie-gewerbeflaechen/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17316,6 +17328,18 @@
       "url": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/eip/eip_media.php?f=5_Umweltbericht_FNPA+Solarpark.pdf&m=7505&i=5&fl=53061470&d=2ac",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 139,
+      "field": "sourceUrl",
+      "title": "ALPSiX: originale Betreibermitteilung vom 18.09.2026",
+      "url": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "status": 200,
+      "finalUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18533,6 +18557,18 @@
       "error": ""
     },
     {
+      "collection": "pdfExtracts",
+      "index": 138,
+      "field": "sourceUrl",
+      "title": "Weisweil Heuweg 11: Zwischenbericht hydraulische Sicherung vom 20.07.2021",
+      "url": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "status": 200,
+      "finalUrl": "https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
       "collection": "planning",
       "index": 0,
       "field": "url",
@@ -18684,18 +18720,6 @@
       "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7",
       "status": 200,
       "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79189/PROPERTY/e1b6f159-110c-49e2-9e8b-82cf0426d2a7",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 20,
-      "field": "sourceUrl",
-      "title": "Philippsburg Energiepark / Rechenzentrumscampus in Pruefung",
-      "url": "https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/",
-      "status": 200,
-      "finalUrl": "https://www.datacenter-insider.de/700-mw-anschlussleistung-aus-akw-standort-soll-rechenzentrum-werden-a-05f79cc4ffc9272e4ac4292f365ba183/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19044,6 +19068,18 @@
       "url": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
       "status": 200,
       "finalUrl": "https://www.kuchen.de/oestlicher-gewerbepark-01.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 0,
+      "field": "documents",
+      "title": "Bebauungsplan \"Rechenzentrum Eiche\"",
+      "url": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
+      "status": 200,
+      "finalUrl": "https://bb.beteiligung.diplanung.de/verfahren/a64484bd-1484-44d5-bd68-1f353065e4e2/public/detail",
       "ok": true,
       "blocked": false,
       "error": ""

@@ -1,0 +1,54 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 07.11.2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+38 kommunale Teilprüfungen, einschließlich der 21 priorisierten Gemeinden. 3 Recherchehinweise und 2 Dokumenteinträge ergänzt. Keine neue gesicherte Rechenzentrumsfläche, kein neuer Grundstückskandidat und keine Anschlusszusage.
+Eigene Bewertung: Weisweils undatierte Gewerbeflächenangaben sind kein gesichertes heutiges Angebot. Ein historischer Sanierungsbericht ist grundstücksbezogen nachzuverfolgen; keine Belastung anderer Flächen daraus ableiten. Ein österreichischer Container-Internetknoten wurde als technische Referenz aufgenommen. Keine Entscheidung oder Kontaktaufnahme heute erforderlich.
+
+Weisweil: Verfügbarkeit und Planungsgrenzen
+Die Gemeindeseite nennt keine freien Flächen im bestehenden Gewerbegebiet Innerer Heuweg. 5,5 ha weiterer Gewerbeflächen werden mit der Fortschreibung des Flächennutzungsplans 2030 verknüpft. Eigentümerverhandlungen, Planung und Erschließung werden als Voraussetzungen beschrieben. Die Sachangabe ist undatiert; aktueller Verhandlungsstand, konkrete Grundstücke und heutige Verfügbarkeit wurden nicht bestätigt.
+Eigene Schlussfolgerung: Kein neuer Standort-Prüfeintrag. Die Darstellung eines Flächennutzungsplans ersetzt keine gesicherte Eigentümerverfügbarkeit, kein geltendes grundstücksbezogenes Baurecht und keine Anschlussprüfung. Private Alternativen wurden nicht pauschal ausgeschlossen.
+Quelle: https://www.weisweil.de/freie-gewerbeflaechen/
+Die verlinkten Planungsunterlagen und Gutachten wurden lokal gesichert und textlich ausgelesen. Unterlagen zu Feuerwehr/Rettungszentrum, Kreuzacker und anderen Baugebieten wurden nicht den genannten 5,5 ha gleichgesetzt. Aktuelle Identität und Abgrenzung dieser Gewerbeentwicklung bleiben offen. Ratsportal mit 403 blockiert; Ratsprotokollzugang zusätzlich betrachtet. Amtsblattseite abrufbar, aktuelle Ausgabe darüber nicht als direkt lesbare Datei erschlossen. Keine vollständige Amtsblatt- oder Aktenprüfung behauptet.
+Planungsindex: https://www.weisweil.de/bebauungsplaene-neubaugebiete/
+
+Weisweil Heuweg 11: historischer Sanierungsbericht
+Der von der Gemeinde verlinkte Zwischenbericht vom 20.07.2021 umfasst 133 Dateiseiten. Titel nennt Stand Mai 2021. Dateiseiten 1, 13 und 114 zusätzlich visuell geprüft. Er dokumentiert Belastungen durch per- und polyfluorierte Alkylsubstanzen am ehemaligen IVECO-Standort und im näheren Grundwasserabstrom sowie eine seit 21.04.2020 betriebene hydraulische Sicherung.
+Die damalige Zusammenfassung beschreibt Verbesserungen, zugleich einen nicht vollständig unterbundenen Abfluss belasteten Grundwassers und weiteren Untersuchungsbedarf. Dies belegt keinen heutigen Sanierungsstand. Zusätzlich wurde der 90-seitige Sanierungsplan Bodenaushub vom 18.06.2020 lokal gesichert und ausgelesen; keine aktuelle Freigabe daraus abgeleitet.
+Eigene Bewertung: Bei einem konkret betroffenen Grundstück aktuelle Behörden- und Sanierungsunterlagen sowie räumlichen Bezug klären. Keine Übertragung auf andere Weisweiler Flächen oder die genannten 5,5 ha. Die Postleitzahl 76367 im Gutachtentitel weicht von der kommunalen Kontaktadresse 79367 ab; Original unverändert erhalten, keine stillschweigende Korrektur des Quelldokuments.
+Originalbericht: https://www.weisweil.de/wp-content/uploads/2021/09/2021-07-20-Hydraulische-Sicherung-Weisweil-2021-06-30-Kontrollebene-2021-05-12-Anlag.pdf
+
+Container-Internetknoten als Referenz
+Die Originalmitteilung vom 18.09.2026 beschreibt ALPSiX in Klagenfurt und Villach als Internetknoten in kompakten Edge-Containern. Lokaler Datenaustausch ist ab Ende 2026 angekündigt. 4 Seiten ausgelesen, Seiten 1 und 2 visuell geprüft. Webseitenfassung und Presseunterlage sind dieselbe Ursprungsinformation.
+Eigene Bewertung: Referenz für verteilte Netztechnik und regionale Zusammenschaltung. Keine unabhängig bestätigte Inbetriebnahme, keine neue Fläche in Baden-Württemberg und kein Nachweis eines allgemeinen Container-Rechenzentrums. Keine Anschlussleistung, Kühlkapazität oder Bauzulässigkeit für iAccess daraus ableiten. Keine Projekt-Gesamtkosten als Kosten eines kleinen Rechenzentrums übernommen.
+Original: https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf
+
+Gemeinden und Prüfgrenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil.
+38 offene kommunale Teilprüfungen. Gemeinde-, Rats-, Planungs-, Amtsblatt- und Wirtschaftspfade sowie die 11 vorgegebenen Suchbegriffe auf verfügbaren Texten berücksichtigt. Mindestens 1 direkter Inhalt je Gemeinde. Fehlende Kategorien, Weiterleitungen, Anwendungsoberflächen, blockierte Zugänge und nicht erschlossene Detailakten sind in der lokalen Quellenmatrix dokumentiert. Alle Gemeinden bleiben für die systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund: 0. Weisweil mit den beschriebenen Flächen- und historischen Umweltbefunden; übrige Gemeinden ohne neuen gesicherten Flächenbefund in den gelesenen Quellen beziehungsweise weiter offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten, Betreiber und Termine
+Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen betrachtet. Suchtreffer und Mehrfachveröffentlichungen nicht als unabhängige Bestätigungen übernommen. Keine vollständige Auswertung jeder Tagesmeldung behauptet. Die neu erfasste Containerreferenz ist vom 18.09.2026; keine neue Tagesmeldung oder Inbetriebnahme behauptet. Bekannte Pfaffenhofen-, Lahr- und TelemaxX-Befunde nicht doppelt angelegt.
+Die bekannte FairNetz-Frist 06.11.2026 liegt zurück; keine Bewerbung oder Reservierung ausgeführt. Oberrieds Servervorlage bleibt vor der Sitzung am 09.11.2026 ohne bestätigtes Beschlussergebnis. Wärmeplan-Offenlage Oberried bis 09.11.2026 und angekündigte Borderstep-Studie am 12.11.2026 weiter nachverfolgen. Netze-BW-Fenster bis 31.12.2026 bleibt regional bedingt; keine aktuelle regionale Öffnung oder freie Leistung aus allgemeinen Hinweisen abgeleitet.
+
+Quellenarchiv, Gutachten und Medien
+624 unterschiedliche Rechercheadressen, 597 lokal gesichert; 111 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 27 Abruffehler dokumentiert.
+163 unterschiedliche Dokumentdateien mit 2956 Seiten textlich ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet; 92 Dateiinhalte neu gegenüber dem Archiv. Bei 18 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige Texterkennung, visuelle Prüfung oder fachliche Gesamtbewertung sämtlicher Archivseiten behauptet.
+Der Bestand wurde besonders um Weisweiler Planbegründungen, Umwelt-, Schall-, Verkehrs-, Entwässerungs- und geotechnische Unterlagen erweitert. 2 ausgewählte Originaldokumente neu in der Dokumentdatenbank, darunter 1 historischer Umweltbericht zur hydraulischen Sicherung und 1 Betreiberreferenz. Kein neues speziell für ein Rechenzentrum erstelltes Gutachten. Keine neuen Fotos oder technischen Rechenzentrumszeichnungen. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht; Quellenarchiv, Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal.
+
+Dokumentverfügbarkeit und Linkprüfung
+140 erfasste Dokumentquellen geprüft: 140 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1620 unterschiedliche öffentliche Links geprüft: 1574 erreichbar, 46 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+0 neue oder verdächtige Fragen und 0 manuelle Uploads; im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich. Keine neuen Partner, keine Registrierung, Kontaktaufnahme oder fremde Projekteingabe.
+Recherchehinweise 225 auf 228, Dokumenteinträge 138 auf 140. Bisherige Datenbank-Array-Einträge unverändert erhalten. Gemeindeabdeckung um Weisweil fortgeschrieben; ältere Quellenkorrekturen erhalten.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5, technische Zeichnungen 6. Keine gesicherte neue Fläche oder Anschlusszusage.
+
+Fortschritt und nächster Schritt
+Veröffentlichten Bestand und Fortschrittsprotokoll vor Änderungen abgeglichen. Vortagsveröffentlichung und Versand dokumentiert; kein Doppelbericht. Aktuellen Eigentümer- und Planungsstand der Weisweiler Gewerbeentwicklung sowie bei konkret betroffenen Grundstücken den heutigen Sanierungsstand klären. Bisherige Kandidaten weiter auf aktuelle Grenzen, Planbekanntmachung, Verbrauchsanschluss und unabhängige Glasfaserwege prüfen. Veröffentlichung und Versand werden am tatsächlichen Ergebnis kontrolliert.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
