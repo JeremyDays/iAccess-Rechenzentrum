@@ -40,7 +40,7 @@ Quellenarchiv, Gutachten und Medien
 Der Bestand wurde besonders um Weisweiler Planbegründungen, Umwelt-, Schall-, Verkehrs-, Entwässerungs- und geotechnische Unterlagen erweitert. 2 ausgewählte Originaldokumente neu in der Dokumentdatenbank, darunter 1 historischer Umweltbericht zur hydraulischen Sicherung und 1 Betreiberreferenz. Kein neues speziell für ein Rechenzentrum erstelltes Gutachten. Keine neuen Fotos oder technischen Rechenzentrumszeichnungen. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht; Quellenarchiv, Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal.
 
 Dokumentverfügbarkeit und Linkprüfung
-140 erfasste Dokumentquellen geprüft: 140 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; zwei neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+140 erfasste Dokumentquellen geprüft: 140 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 2 neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
 1620 unterschiedliche öffentliche Links geprüft: 1574 erreichbar, 46 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
 
 Fragen, Uploads, Partner und Statistiken
