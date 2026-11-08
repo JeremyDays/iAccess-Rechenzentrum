@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-07",
-  "total": 140,
+  "checkedAt": "2026-11-08",
+  "total": 141,
   "localAvailable": 68,
   "publicAvailable": 140,
-  "publicBlocked": 0,
+  "publicBlocked": 1,
   "publicUnavailable": 0,
   "items": [
     {
@@ -84,12 +84,12 @@
       "localFile": "pdfs/brieselang-uvpg-vorprÃ¼fung-bebauungsplan-nr-117-rechenzentrum.pdf",
       "localExists": false,
       "localBytes": 0,
-      "ok": true,
-      "blocked": false,
-      "status": 200,
-      "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
-      "contentType": "application/pdf; charset=UTF-8",
-      "error": ""
+      "ok": false,
+      "blocked": true,
+      "status": null,
+      "finalUrl": "",
+      "contentType": "",
+      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=20)"
     },
     {
       "municipality": "Ankum",
@@ -2383,6 +2383,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.de-cix.net/_Resources/Persistent/3/d/3/f/3d3ff3a651a2d2cb6de2a2e6854b218e77f9adf6/2026-09-18%20Pressemitteilung%20AlpsIX%20Launch%20DE.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Offenburg",
+      "documentTitle": "Ortenau Klinikum Offenburg: Ergebnisbekanntmachung Rechenzentrum, übermittelt 17.04.2026",
+      "documentType": "Amtliche Zuschlagsbekanntmachung",
+      "pages": "9",
+      "publicUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
+      "currentSourceUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
       "contentType": "application/pdf",
       "error": ""
     }

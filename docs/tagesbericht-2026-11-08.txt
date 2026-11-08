@@ -1,0 +1,50 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+
+Rechenzentrum-Recherche – 08.11.2026
+Automatische Recherche und Versand durch Codex. Persönliche Prüfung nicht bestätigt.
+
+Ergebnis und Handlungsbedarf
+39 kommunale Teilprüfungen, einschließlich aller 21 priorisierten Gemeinden. 1 Recherchehinweis und 1 Dokumenteintrag ergänzt: amtliche Ergebnisbekanntmachung für ein kleines Klinikrechenzentrum in Offenburg. Keine neue gesicherte freie Rechenzentrumsfläche, kein zusätzlicher Grundstückskandidat und keine Anschlusszusage.
+Eigene Bewertung: Als regionale Referenz für vorgefertigte kleine Rechenzentren relevant, für die freie Standortsuche kein Angebot. Keine Entscheidung oder Kontaktaufnahme heute erforderlich.
+
+Offenburg: kleiner Rechenzentrumsauftrag bereits vergeben
+Die 9-seitige amtliche Bekanntmachung nennt die DC-Datacenter-Group GmbH als Gewinner. Als Übermittlungsdatum ist der 17.04.2026 angegeben. Dies ist ein neu erfasster älterer Befund, keine neue Tagesmeldung. Ein in einem sekundären Vergabeverzeichnis genanntes Datum 30.03.2026 wurde nicht als amtlich bestätigtes Zuschlagsdatum übernommen.
+Die Leistungsbeschreibung nennt 75 kW IT-Leistung und 10 Racks im Erstausbau sowie 2 weitere Rackstellplätze als Option. Diese IT-Leistung ist keine bestätigte Netzbezugsleistung. Maximale Vorfertigung wird angestrebt; modulare Skalierbarkeit ist ausdrücklich nicht vorgesehen. Verfügbarkeitsklasse 3 nach EN 50600, Brandfrüherkennung und Gaslöschtechnik sind Anforderungen, keine nachgewiesenen Betriebseigenschaften.
+Das Grundstück an der Lise-Meitner-Straße gehört laut Bekanntmachung dem Ortenau Klinikum. Die genannte Fläche von rund 200.000 m² bezieht sich auf den Campus laut Planbezug; sie wurde nicht als Rechenzentrumsgrundfläche oder frei verfügbares Angebot übernommen. Keine neue Fläche in die Standort-Prüfliste aufgenommen.
+Die Endausbauangabe enthält zusätzlich zu einer Erweiterung um 25 kW einen widersprüchlichen MW-Zusatz. Beim Effizienz-Zielwert ist das Vergleichszeichen unklar. Keine stillschweigende Korrektur zu einer gesicherten Endausbauleistung oder einem bestimmten Effizienznachweis. Die geplante Übergabe Ende 11.2026 und die Option eines weiteren Standorts 2028/2029 sind keine bestätigte Fertigstellung oder Inbetriebnahme.
+Original vollständig textlich ausgelesen; Seiten 3 und 9 zusätzlich visuell geprüft. Die Klinik-Baufortschrittsseite wurde als Gegenprüfung betrachtet, ohne daraus einen heutigen Rechenzentrums-Betriebsnachweis abzuleiten.
+Original: https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf
+Gegenprüfung: https://ortenau2030.de/baufortschritte/
+
+Wyhl: Einstiegspfade ergänzt, Verfügbarkeit offen
+Die amtlichen Bauplatz- und Gewerbeseiten verweisen auf eine Kontaktmöglichkeit zu freien Grundstücken, nennen aber keine überprüfbare konkrete Parzelle, Fläche oder bestätigte heutige Verfügbarkeit. Dies wurde nicht als freies Flächenangebot ausgegeben. Ratsportal mit 403 blockiert; Gemeinderatsseite mit Mitgliederinformationen ersetzt keine Aktenprüfung. Amtsblattseite und verlinkter Portalzugang betrachtet, aktuelle Ausgabe nicht vollständig erschlossen. Geltende Bebauungspläne und Flächennutzungsplan bleiben offen.
+Quelle: https://www.wyhl.de/seite/501626/gewerbegebiete.html
+Keine zusätzlichen Quellenkorrekturen des Verzeichnisses behauptet; die früheren Identitätskorrekturen bleiben erhalten.
+
+Gemeinden und Prüfgrenzen
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl.
+39 offene kommunale Teilprüfungen. Gemeinde-, Rats-, Bauleitplanungs-, Amtsblatt- und Wirtschaftspfade sowie die 11 Suchbegriffe auf verfügbaren Texten berücksichtigt. Je Gemeinde mindestens 1 direkt abgerufener Inhalt. Vollständige Akten-, Karten- und Grundstücksprüfung nicht überall möglich; fehlende Kategorien, Weiterleitungen und blockierte Zugänge in der lokalen Quellenmatrix vermerkt. Alle Gemeinden bleiben für die systematische Prüfung offen.
+Gemeinden mit neu erfasstem konkretem Rechenzentrumsbefund: Offenburg, als vergebener Referenzfall. Gemeinden mit neuer gesicherter freier Rechenzentrumsfläche: 0. Übrige Gemeinden ohne neuen gesicherten Flächenbefund in den gelesenen Quellen beziehungsweise weiter offen. Nicht gefunden, nicht geprüft und ausgeschlossen wurden getrennt.
+
+Nachrichten, Betreiber und Termine
+Breite Suche und Abrufe über Heise einschließlich iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionale Presse sowie Betreiber- und Netzbetreiberquellen fortgeführt. Suchtreffer und Mehrfachveröffentlichungen nicht als unabhängige Bestätigungen übernommen. Keine vollständige Auswertung jeder Tagesmeldung behauptet. Die konkret kuratierte Neuaufnahme ist die amtliche Offenburger Bekanntmachung; bekannte Pfaffenhofen-, Lahr-, TelemaxX- und ALPSiX-Befunde nicht doppelt angelegt.
+FairNetz-Frist 06.11.2026 liegt zurück. Oberrieds Servervorlage bleibt vor der Sitzung am 09.11.2026 ohne bestätigtes Beschlussergebnis. Wärmeplan-Offenlage Oberried bis 09.11.2026 und angekündigte Borderstep-Studie am 12.11.2026 weiter nachverfolgen. Netze-BW-Fenster bis 31.12.2026 bleibt regional bedingt. Keine Bewerbung, Registrierung, Stellungnahme oder Leistungsreservierung ausgeführt.
+
+Quellenarchiv, Dokumente und Medien
+542 unterschiedliche Rechercheadressen, 516 lokal gesichert; 9 zusätzliche Adressen gegenüber dem Archiv vor dem heutigen Lauf. 26 Abruffehler dokumentiert.
+77 unterschiedliche Dokumentdateien mit 1448 Seiten ausgelesen beziehungsweise nach Prüfsummenabgleich wiederverwendet; 1 Dateiinhalte neu gegenüber dem Archiv. Bei 10 Dateien eingeschränkte eingebettete Textauslesbarkeit. Keine vollständige Texterkennung oder visuelle Prüfung sämtlicher Archivseiten behauptet.
+1 amtliche Ergebnisbekanntmachung neu in der Dokumentdatenbank. Keine neuen Gutachten speziell zur Flächeneignung, Fotos oder technischen Rechenzentrumszeichnungen. Keine zusätzlichen Originalkopien auf GitHub veröffentlicht. Quellenarchiv, Laufzeitordner, Anmeldedaten und lokale Sicherungen bleiben lokal.
+
+Dokumentverfügbarkeit und Linkprüfung
+141 erfasste Dokumentquellen geprüft: 140 erreichbar, 1 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 1 neue Originalquelle zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1621 unterschiedliche öffentliche Links geprüft: 1590 erreichbar, 31 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen, Uploads, Partner und Statistiken
+0 neue oder verdächtige Fragen und 0 manuelle Uploads; im Uploadordner nur die Platzhalterdatei. Kein Fragenbericht erforderlich. Keine neue Partnerschaft. Der genannte Auftragnehmer ist ein belegter Projektbeteiligter, kein bestätigter Partner von iAccess.
+Recherchehinweise 228 auf 229, Dokumenteinträge 140 auf 141. Bisherige Datenbank-Array-Einträge unverändert erhalten. Gemeindeabdeckung um Wyhl fortgeschrieben.
+Unverändert: Standort-Prüfeinträge 32, Unternehmen 22, Planungsfälle 7, Bauleitpläne 35, Anforderungen 15, Netzprüfungen 13, Konnektivitätsprüfungen 7, Marktangebote 6, Medien 5, technische Zeichnungen 6. Keine gesicherte neue freie Fläche oder Anschlusszusage.
+
+Fortschritt und nächster Schritt
+Veröffentlichten Datenbestand und Fortschrittsprotokoll vor Änderungen abgeglichen. Vortagsveröffentlichung und Versand dokumentiert; kein Doppelbericht. Offenburger Projekt als Referenz nachverfolgen, ohne aus dem Terminplan einen Betriebsstatus abzuleiten. Für bisherige Grundstückskandidaten aktuelle Verfügbarkeit, Planbekanntmachung, Verbrauchsanschluss und unabhängige Glasfaserwege klären. Keine Kontaktaufnahme oder fremde Projekteingabe ausgeführt. Veröffentlichung und Versand werden anhand des tatsächlichen Ergebnisses geprüft.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/

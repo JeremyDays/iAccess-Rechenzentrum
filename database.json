@@ -4194,6 +4194,22 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.de-cix.net/3f96413a0326faf5.pdf",
       "tags": "Original lokal gesichert, heutiger Stand gesondert zu bestätigen"
+    },
+    {
+      "id": "id-2026-11-08-pdf-01",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "municipality": "Offenburg",
+      "documentTitle": "Ortenau Klinikum Offenburg: Ergebnisbekanntmachung Rechenzentrum, übermittelt 17.04.2026",
+      "documentType": "Amtliche Zuschlagsbekanntmachung",
+      "pages": "9",
+      "keyFacts": "Vergebener Planungs- und Bauauftrag; Gewinner DC-Datacenter-Group GmbH. 75 kW IT-Leistung und 10 Racks im Erstausbau beschrieben, keine bestätigte Inbetriebnahme.",
+      "technicalFacts": "Mindestens Verfügbarkeitsklasse 3 nach EN 50600 als Anforderung, Brandfrüherkennung und Gaslöschtechnik genannt. Vorfertigung angestrebt; modulare Skalierbarkeit nicht vorgesehen. Unklare Endausbau- und Effizienzangaben nicht korrigierend als Fakten ergänzt.",
+      "planningFacts": "Klinikeigener Campus, kein verfügbares Grundstücksangebot. Geplante Übergabe Ende 11.2026 und weiterer Standort 2028/2029 als Option, nicht als Umsetzung bestätigt. Übermittlungsdatum 17.04.2026; abweichendes Zuschlagsdatum aus Sekundärverzeichnis nicht als amtlich bestätigt übernommen.",
+      "sourceUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/oeffentlichevergabe.de/969b3163b15e6172.pdf",
+      "tags": "17.04.2026, Zuschlagsbekanntmachung, Referenzfall, Vollzug offen"
     }
   ],
   "media": [
@@ -8793,6 +8809,18 @@
       "confidence": "Originalmitteilung, 4 Seiten ausgelesen; Seiten 1 und 2 visuell geprüft. Ankündigung, keine unabhängig bestätigte Inbetriebnahme",
       "action": "Eigene Schlussfolgerung: Anschluss- und Redundanzkonzept als getrennten Planungsbaustein beachten. Keine konkrete Anschlussleistung, Kühlung, Bauzulässigkeit oder Kosten eines kleinen Rechenzentrums aus der Meldung ableiten.",
       "tags": "18.09.2026, Österreich, Internetknoten, Inbetriebnahme offen"
+    },
+    {
+      "id": "id-2026-11-08-ortenau-rechenzentrum",
+      "created": "2026-11-08",
+      "updated": "2026-11-08",
+      "title": "Offenburg: Zuschlag für kleines Klinikrechenzentrum als regionaler Referenzfall",
+      "topic": "Öffentliche Beschaffung / kleine Rechenzentren",
+      "summary": "Amtliche Ergebnisbekanntmachung, übermittelt am 17.04.2026, nennt DC-Datacenter-Group GmbH als Gewinner. Beschrieben sind 75 kW IT-Leistung im Erstausbau, 10 Racks und 2 weitere Rackstellplätze als Option. Maximale Vorfertigung vorgesehen, modulare Skalierbarkeit ausdrücklich nicht. Grundstück beim Ortenau Klinikum; kein freies Angebot an iAccess.",
+      "sourceUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
+      "confidence": "Originalbekanntmachung, 9 Seiten ausgelesen; Seiten 3 und 9 visuell geprüft. Heutige Fertigstellung und Inbetriebnahme nicht bestätigt",
+      "action": "Eigene Bewertung: Regionaler Referenzfall für kleine vorgefertigte Rechenzentren, kein neuer verfügbarer Grundstückskandidat. IT-Leistung nicht mit Netzbezugsleistung gleichsetzen. Endausbauangabe enthält zusätzlich zu 25 kW ein widersprüchliches MW; Effizienz-Zielwert enthält ein unlesbares Vergleichszeichen. Nicht als bestätigte technische Werte übernehmen. Geplante Übergabe Ende 11.2026 ist kein Vollzugsnachweis.",
+      "tags": "Offenburg, Zuschlag, Vorfertigung, Endausbau und heutiger Vollzug offen"
     }
   ],
   "gridChecks": [
@@ -9248,7 +9276,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-07",
+    "lastRun": "2026-11-08",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9276,8 +9304,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-07",
-    "lastResearchSummary": "38 kommunale Teilprüfungen; Weisweiler Verfügbarkeit, historischer Sanierungsbericht und Container-Internetknoten als Referenz ergänzt. Keine neue gesicherte Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-08",
+    "lastResearchSummary": "39 kommunale Teilprüfungen; amtliche Zuschlagsbekanntmachung für ein kleines Klinikrechenzentrum in Offenburg ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
