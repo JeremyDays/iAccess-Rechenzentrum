@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-08",
-  "total": 141,
+  "checkedAt": "2026-11-09",
+  "total": 143,
   "localAvailable": 68,
-  "publicAvailable": 140,
-  "publicBlocked": 1,
+  "publicAvailable": 143,
+  "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
     {
@@ -84,12 +84,12 @@
       "localFile": "pdfs/brieselang-uvpg-vorprÃ¼fung-bebauungsplan-nr-117-rechenzentrum.pdf",
       "localExists": false,
       "localBytes": 0,
-      "ok": false,
-      "blocked": true,
-      "status": null,
-      "finalUrl": "",
-      "contentType": "",
-      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+      "contentType": "application/pdf; charset=UTF-8",
+      "error": ""
     },
     {
       "municipality": "Ankum",
@@ -2400,6 +2400,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://oeffentlichevergabe.de/api/notices/51acc538-145b-4f94-8077-1a8a4465fa69?format=pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Forchheim",
+      "documentTitle": "GVV Nördlicher Kaiserstuhl: Unterlagen zur Sitzung 16.09.2024, einschließlich 66. Änderung Forchheim",
+      "documentType": "Kommunale Planungsunterlagensammlung",
+      "pages": "182",
+      "publicUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "currentSourceUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Deutschland",
+      "documentTitle": "SustainDC: vorläufiger Richtlinientext, am 09.11.2026 abgerufen",
+      "documentType": "Vorläufige Forschungsförderrichtlinie",
+      "pages": "19",
+      "publicUrl": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
+      "currentSourceUrl": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

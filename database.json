@@ -4210,6 +4210,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/oeffentlichevergabe.de/969b3163b15e6172.pdf",
       "tags": "17.04.2026, Zuschlagsbekanntmachung, Referenzfall, Vollzug offen"
+    },
+    {
+      "id": "id-2026-11-09-pdf-01",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "municipality": "Forchheim",
+      "documentTitle": "GVV Nördlicher Kaiserstuhl: Unterlagen zur Sitzung 16.09.2024, einschließlich 66. Änderung Forchheim",
+      "documentType": "Kommunale Planungsunterlagensammlung",
+      "pages": "182",
+      "keyFacts": "1,93 ha gewerbliche Baufläche, Begründung 09.2024; damaliger Bedarf von 7 örtlichen Betrieben. Kein heutiges freies Angebot.",
+      "technicalFacts": "Umweltbericht zur 66. Änderung vom 03.07.2024 enthalten; heutige technische Grundstückseignung und Verbrauchsleistung nicht bestätigt.",
+      "planningFacts": "Sammlung mit 182 Dateiseiten; 66. Änderung insbesondere Seiten 153/154, Umweltbericht beginnt Seite 158. Sitzungseinladung und Planunterlagen belegen keinen heutigen Verfahrensvollzug.",
+      "sourceUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.endingen.de/63e0e43fbf9fc885.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-09-pdf-02",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "municipality": "Deutschland",
+      "documentTitle": "SustainDC: vorläufiger Richtlinientext, am 09.11.2026 abgerufen",
+      "documentType": "Vorläufige Forschungsförderrichtlinie",
+      "pages": "19",
+      "keyFacts": "Verbundforschung mit mindestens 4 Forschungssäulen; Skizzenstichtag 28.01.2027. Keine Förderzusage.",
+      "technicalFacts": "Energieeffizienz, Kühlsysteme, externe Infrastruktur, Abwärme und Ressourcennutzung als Forschungsthemen; keine pauschale Eignung eines Bauprojekts.",
+      "planningFacts": "Titelseite ohne ausgefülltes Ausfertigungsdatum. Projektträger nennt Text vorläufig und Bundesanzeiger maßgeblich. Veröffentlichung im Bundesanzeiger heute nicht bestätigt. Seiten 1, 4, 5 und 9 visuell geprüft.",
+      "sourceUrl": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/elektronikforschung.de/2d5973700da96059.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
     }
   ],
   "media": [
@@ -8821,6 +8853,30 @@
       "confidence": "Originalbekanntmachung, 9 Seiten ausgelesen; Seiten 3 und 9 visuell geprüft. Heutige Fertigstellung und Inbetriebnahme nicht bestätigt",
       "action": "Eigene Bewertung: Regionaler Referenzfall für kleine vorgefertigte Rechenzentren, kein neuer verfügbarer Grundstückskandidat. IT-Leistung nicht mit Netzbezugsleistung gleichsetzen. Endausbauangabe enthält zusätzlich zu 25 kW ein widersprüchliches MW; Effizienz-Zielwert enthält ein unlesbares Vergleichszeichen. Nicht als bestätigte technische Werte übernehmen. Geplante Übergabe Ende 11.2026 ist kein Vollzugsnachweis.",
       "tags": "Offenburg, Zuschlag, Vorfertigung, Endausbau und heutiger Vollzug offen"
+    },
+    {
+      "id": "id-2026-11-09-forchheim-bruckwasen",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "title": "Forchheim Bruckwasen: 1,93 ha für örtlichen Gewerbebedarf im Planstand 2024",
+      "topic": "Kommunale Gewerbeentwicklung",
+      "summary": "Amtliche Verbandsunterlagen zur Sitzung vom 16.09.2024 enthalten die 66. Flächennutzungsplanänderung. Begründung Stand 09.2024 beschreibt 1,93 ha nordöstlich von Forchheim am Gebiet Bruckwasen und konkreten Flächenbedarf von 7 örtlichen Betrieben. Die damalige Aussage zu fehlenden verfügbaren Gewerbeflächen ist kein heutiger Reservierungs- oder Eigentümernachweis.",
+      "sourceUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "confidence": "Amtliche Unterlagensammlung, 182 Seiten ausgelesen; Seiten 153, 154 und 158 visuell geprüft. Heutiger Verfahrensstand und Verfügbarkeit offen",
+      "action": "Eigene Bewertung: Kein neuer freier Grundstückskandidat. Planabsicht, geltendes Baurecht, Grundstücksverfügbarkeit und Netzanschluss getrennt bestätigen. Umweltbericht vom 03.07.2024 innerhalb der Sammlung betrifft diese Änderung; keine allgemeine Standortfreigabe.",
+      "tags": "66. Änderung, 1,93 ha, örtlicher Bedarf, heutiger Stand offen"
+    },
+    {
+      "id": "id-2026-11-09-sustaindc",
+      "created": "2026-11-09",
+      "updated": "2026-11-09",
+      "title": "SustainDC: Forschungsförderhinweis mit Skizzenstichtag 28.01.2027, Richtlinientext vorläufig",
+      "topic": "Forschung / Energieeffizienz / Abwärme",
+      "summary": "Projektträger kündigt eine Informationsveranstaltung am 19.11.2026 von 10:00 bis 12:00 Uhr und den Skizzenstichtag 28.01.2027 an. Der verlinkte vorläufige Text verlangt vorwettbewerbliche Verbundforschung und mindestens 4 Forschungssäulen, unter anderem Kühlung, externe Infrastruktur, Abwärmenutzung und Ressourceneffizienz.",
+      "sourceUrl": "https://elektronikforschung.de/foerderung/bekanntmachungen/sustaindc",
+      "confidence": "Projektträgerquelle und 19-seitiger vorläufiger Richtlinientext; Bundesanzeiger-Veröffentlichung und individuelle Förderfähigkeit nicht bestätigt",
+      "action": "Vorschlag: Nur bei eigenem Forschungsansatz und geeigneten Verbundpartnern vertieft prüfen; keine allgemeine Bau- oder Grundstücksförderung unterstellen. Verbindliche veröffentlichte Fassung vor einer Entscheidung abgleichen. Keine Anmeldung, Kontaktaufnahme oder Antragstellung ausgeführt.",
+      "tags": "19.11.2026, 28.01.2027, Verbundforschung, vorläufige Fassung"
     }
   ],
   "gridChecks": [
@@ -9276,7 +9332,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-08",
+    "lastRun": "2026-11-09",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9304,8 +9360,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-08",
-    "lastResearchSummary": "39 kommunale Teilprüfungen; amtliche Zuschlagsbekanntmachung für ein kleines Klinikrechenzentrum in Offenburg ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-09",
+    "lastResearchSummary": "40 kommunale Teilprüfungen; Forchheimer Gewerbeentwicklung und vorläufiger SustainDC-Forschungsförderhinweis ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

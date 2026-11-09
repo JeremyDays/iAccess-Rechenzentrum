@@ -1,6 +1,6 @@
 {
-  "checked": 1621,
-  "ok": 1590,
+  "checked": 1624,
+  "ok": 1593,
   "blocked": 31,
   "broken": 0,
   "results": [
@@ -51,6 +51,30 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.allensbach.de/",
+      "status": 503,
+      "finalUrl": "https://www.allensbach.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.gaienhofen.de/",
+      "status": 503,
+      "finalUrl": "https://www.gaienhofen.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
     },
     {
       "collection": "findings",
@@ -351,30 +375,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 2,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=25)"
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 2,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "url": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.gemeindebrieselang.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "capacityMarkets",
@@ -9021,18 +9021,6 @@
       "index": 106,
       "field": "sourceUrl",
       "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.allensbach.de/",
-      "status": 200,
-      "finalUrl": "https://www.allensbach.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
       "url": "https://www.bodman-ludwigshafen.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.bodman-ludwigshafen.de/willkommen",
@@ -9048,18 +9036,6 @@
       "url": "https://www.eigeltingen.de/",
       "status": 200,
       "finalUrl": "https://www.eigeltingen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.gaienhofen.de/",
-      "status": 200,
-      "finalUrl": "https://www.gaienhofen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -14346,6 +14322,18 @@
     },
     {
       "collection": "findings",
+      "index": 230,
+      "field": "sourceUrl",
+      "title": "SustainDC: Forschungsförderhinweis mit Skizzenstichtag 28.01.2027, Richtlinientext vorläufig",
+      "url": "https://elektronikforschung.de/foerderung/bekanntmachungen/sustaindc",
+      "status": 200,
+      "finalUrl": "https://elektronikforschung.de/foerderung/bekanntmachungen/sustaindc",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 163,
       "field": "sourceUrl",
       "title": "Tagesmonitoring: Am Dachsrain als schwacher Flaechenpruefhinweis und KIT als 2-bis-10-MW-Referenz erfasst",
@@ -17922,6 +17910,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 141,
+      "field": "sourceUrl",
+      "title": "GVV Nördlicher Kaiserstuhl: Unterlagen zur Sitzung 16.09.2024, einschließlich 66. Änderung Forchheim",
+      "url": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "status": 200,
+      "finalUrl": "https://www.endingen.de/fileadmin/Website/Dateien/Amtliche_Bekanntmachungen/2024/Unterlagen_Bekanntmachung_1.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 60,
       "field": "sourceUrl",
       "title": "GVV: Tagesordnung 30.09.2026, Solarpark B294",
@@ -18408,6 +18408,18 @@
       "url": "https://www.denzlingen.de/de/bekanntmachungen/?file=482&id=303",
       "status": 200,
       "finalUrl": "https://www.denzlingen.de/de/bekanntmachungen/?file=482&id=303",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 142,
+      "field": "sourceUrl",
+      "title": "SustainDC: vorläufiger Richtlinientext, am 09.11.2026 abgerufen",
+      "url": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
+      "status": 200,
+      "finalUrl": "https://elektronikforschung.de/dateien/bekanntmachungen/bkm_sustaindc.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19212,6 +19224,30 @@
       "url": "https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/6421/stadtpolitik-naechste-sitzung-der-stadtverordneten-am-10-juli",
       "status": 200,
       "finalUrl": "https://www.heusenstamm.de/de/buerger-und-stadt/pressecenter/aktuelle-meldungen/detail/item/6421/stadtpolitik-naechste-sitzung-der-stadtverordneten-am-10-juli",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 2,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
+      "status": 200,
+      "finalUrl": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 2,
+      "field": "documents",
+      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+      "url": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+      "status": 200,
+      "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
       "ok": true,
       "blocked": false,
       "error": ""
