@@ -1,6 +1,6 @@
 {
-  "checked": 1624,
-  "ok": 1593,
+  "checked": 1628,
+  "ok": 1597,
   "blocked": 31,
   "broken": 0,
   "results": [
@@ -30,15 +30,15 @@
     },
     {
       "collection": "findings",
-      "index": 74,
+      "index": 139,
       "field": "sourceUrl",
-      "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
-      "url": "https://www.badrappenau.de/",
+      "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
+      "url": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.badrappenau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+      "error": "HTTPSConnectionPool(host='www.1und1.net', port=443): Max retries exceeded with url: /unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "findings",
@@ -51,30 +51,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.allensbach.de/",
-      "status": 503,
-      "finalUrl": "https://www.allensbach.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 106,
-      "field": "sourceUrl",
-      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
-      "url": "https://www.gaienhofen.de/",
-      "status": 503,
-      "finalUrl": "https://www.gaienhofen.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
     },
     {
       "collection": "findings",
@@ -111,6 +87,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.buehlertal.de/de/vorseite",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.buehlertal.de', port=443): Max retries exceeded with url: /de/vorseite (Caused by NewConnectionError(\"HTTPSConnection(host='www.buehlertal.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "collection": "findings",
@@ -207,6 +195,18 @@
       "ok": false,
       "blocked": true,
       "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 23,
+      "field": "sourceUrl",
+      "title": "KIT KI-Rechenzentrum Campus Nord",
+      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -2133,6 +2133,18 @@
       "index": 74,
       "field": "sourceUrl",
       "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
+      "url": "https://www.badrappenau.de/",
+      "status": 200,
+      "finalUrl": "https://www.badrappenau.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 74,
+      "field": "sourceUrl",
+      "title": "20 weitere offene Gemeinden nach Berglen geprueft: Rems-Murr bis Heilbronn, kein direkter RZ-Fund",
       "url": "https://www.brackenheim.de/startseite",
       "status": 200,
       "finalUrl": "https://www.brackenheim.de/startseite",
@@ -3237,6 +3249,54 @@
       "index": 121,
       "field": "sourceUrl",
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-01-original.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-01-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-02-original.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-02-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-03-original.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-03-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-04-original.pdf",
+      "status": 200,
+      "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-04-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 121,
+      "field": "sourceUrl",
+      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://nerenstetten.de/",
       "status": 200,
       "finalUrl": "https://nerenstetten.de/",
@@ -3360,54 +3420,6 @@
       "url": "https://www.amstetten.de/",
       "status": 200,
       "finalUrl": "https://www.amstetten.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf",
-      "status": 200,
-      "finalUrl": "https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf",
-      "status": 200,
-      "finalUrl": "https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf",
-      "status": 200,
-      "finalUrl": "https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 121,
-      "field": "sourceUrl",
-      "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf",
-      "status": 200,
-      "finalUrl": "https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7737,18 +7749,6 @@
       "index": 139,
       "field": "sourceUrl",
       "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
-      "url": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
-      "status": 200,
-      "finalUrl": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 139,
-      "field": "sourceUrl",
-      "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
       "url": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
       "status": 200,
       "finalUrl": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
@@ -9021,6 +9021,18 @@
       "index": 106,
       "field": "sourceUrl",
       "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.allensbach.de/",
+      "status": 200,
+      "finalUrl": "https://www.allensbach.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
       "url": "https://www.bodman-ludwigshafen.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.bodman-ludwigshafen.de/willkommen",
@@ -9036,6 +9048,18 @@
       "url": "https://www.eigeltingen.de/",
       "status": 200,
       "finalUrl": "https://www.eigeltingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 106,
+      "field": "sourceUrl",
+      "title": "Konstanz-/Lörrach-Block geprüft: keine neuen RZ-Flächenfunde",
+      "url": "https://www.gaienhofen.de/",
+      "status": 200,
+      "finalUrl": "https://www.gaienhofen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11484,18 +11508,6 @@
       "url": "https://www.binau.de/startseite",
       "status": 200,
       "finalUrl": "https://www.binau.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.buehlertal.de/de/vorseite",
-      "status": 200,
-      "finalUrl": "https://www.buehlertal.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18378,6 +18390,30 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 145,
+      "field": "sourceUrl",
+      "title": "Sasbach GE Nord: Festsetzungen, Entwurf 30.07.2025",
+      "url": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/03_GE_Nord_Festsetzungen_signiert.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/03_GE_Nord_Festsetzungen_signiert.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 146,
+      "field": "sourceUrl",
+      "title": "Sasbach GE Nord: Umweltsteckbrief vom 28.07.2025",
+      "url": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/05_GE_Nord_Umweltsteckbrief_2025-07-28_signiert.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/05_GE_Nord_Umweltsteckbrief_2025-07-28_signiert.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 13,
       "field": "sourceUrl",
       "title": "Schalltechnische Untersuchung â€žRechenzentrum Eicheâ€œ",
@@ -18714,18 +18750,6 @@
     },
     {
       "collection": "sites",
-      "index": 23,
-      "field": "sourceUrl",
-      "title": "KIT KI-Rechenzentrum Campus Nord",
-      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
-      "status": 200,
-      "finalUrl": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "sites",
       "index": 18,
       "field": "link",
       "title": "KIT Scientific Computing Center",
@@ -18959,7 +18983,7 @@
       "title": "Bebauungsplan \"Gewerbegebiet Naegelsee, 5. Erweiterung\"",
       "url": "https://www.gottenheim.de/Rathaus/Mitteilung/index.php?id=20241128_GR_Naegelsee_Erweiterung",
       "status": 200,
-      "finalUrl": "https://www.gottenheim.de/Rathaus/Mitteilung/?id=20241128_GR_Naegelsee_Erweiterung",
+      "finalUrl": "https://www.gottenheim.de/Rathaus/Mitteilung/index.php?id=20241128_GR_Naegelsee_Erweiterung",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19380,6 +19404,30 @@
       "url": "https://www.buchenbach.de/p/bebauungsplaene-gewerbegebiet-himmelreich",
       "status": 200,
       "finalUrl": "https://www.buchenbach.de/p/bebauungsplaene-gewerbegebiet-himmelreich",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 35,
+      "field": "additionalSourceUrl",
+      "title": "GE Nord",
+      "url": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/01_GE_Nord_Satzung_signiert.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/01_GE_Nord_Satzung_signiert.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 35,
+      "field": "documents",
+      "title": "GE Nord",
+      "url": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

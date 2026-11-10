@@ -1900,6 +1900,21 @@
         }
       ],
       "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092"
+    },
+    {
+      "id": "id-2026-11-10-sasbach-ge-nord",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "municipality": "Sasbach am Kaiserstuhl",
+      "state": "Baden-Württemberg",
+      "planName": "GE Nord",
+      "status": "Originalentwürfe 30.07.2025, frühzeitige Beteiligung beschrieben; heutige Satzungsreife, Bekanntmachung und Geltung offen",
+      "dataCenter": "Keine spezifische Rechenzentrumsgenehmigung, freie Parzelle oder Verbrauchsanschluss belegt.",
+      "documents": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
+      "source": "Gemeinde Sasbach am Kaiserstuhl, Gewerbegebiet-Seite mit Originaldokumenten",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
+      "additionalSourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/01_GE_Nord_Satzung_signiert.pdf",
+      "notes": "Etwa 4,77 ha Geltungsbereich einschließlich Erschließung; keine freie Netto-Gewerbefläche. Ortsansässiger Bedarf im Vordergrund. Signierte Dateinamen ändern Entwurfsstatus nicht. Festsetzungen Seite 9 mit abweichender Kopfzeile Am Lehweg-Nord I; Umweltsteckbrief ist Scoping, kein vollständiger Nachweis heutiger Konfliktfreiheit. Nicht mit Sasbach im Ortenaukreis verwechseln."
     }
   ],
   "pdfExtracts": [
@@ -4242,6 +4257,70 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/elektronikforschung.de/2d5973700da96059.pdf",
       "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-10-pdf-01",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "municipality": "Sasbach am Kaiserstuhl",
+      "documentTitle": "Sasbach GE Nord: Satzungsentwurf, digital signierte Bereitstellung",
+      "documentType": "Satzungsentwurf",
+      "pages": "3",
+      "keyFacts": "Entwurf mit leeren Beschluss-, Ausfertigungs- und Bekanntmachungsfeldern. Kein Inkrafttretensnachweis.",
+      "technicalFacts": "Keine konkrete Rechenzentrumsnutzung oder Leistung nachgewiesen.",
+      "planningFacts": "3 Seiten; Seiten 1 und 3 visuell geprüft. Digitales Signaturfeld vorhanden; Satzungsbeschluss und Rechtswirksamkeit daraus nicht abgeleitet.",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/01_GE_Nord_Satzung_signiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.gemeinde-sasbach.de/6faa96f7abe30175.pdf",
+      "tags": "Original lokal gesichert, Entwurfsstand, heutige Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-10-pdf-02",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "municipality": "Sasbach am Kaiserstuhl",
+      "documentTitle": "Sasbach GE Nord: Begründung Stand 30.07.2025",
+      "documentType": "Bebauungsplanbegründung / Entwurf",
+      "pages": "13",
+      "keyFacts": "Etwa 4,77 ha Geltungsbereich, örtlicher Gewerbebedarf und Anschluss an Am Lehweg-Nord I. Kein heutiges freies Angebot.",
+      "technicalFacts": "Keine Strombezugsleistung oder unabhängigen Glasfaserwege bestätigt.",
+      "planningFacts": "13 Seiten; Seiten 2 und 5 visuell geprüft. Aufstellungsbeschluss vom 02.07.2025 beschrieben, heutiger Vollzug offen.",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.gemeinde-sasbach.de/b5695ea6e3588f48.pdf",
+      "tags": "Original lokal gesichert, Entwurfsstand, heutige Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-10-pdf-03",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "municipality": "Sasbach am Kaiserstuhl",
+      "documentTitle": "Sasbach GE Nord: Festsetzungen, Entwurf 30.07.2025",
+      "documentType": "Planungsrechtliche Festsetzungen / Entwurf",
+      "pages": "16",
+      "keyFacts": "Gewerbegebietsnutzung vorgesehen; keine verbindliche Feststellung der Zulässigkeit eines konkreten Rechenzentrums.",
+      "technicalFacts": "Passagen zu Wasser, Entwässerung und Baugrund enthalten; Seite 9 abweichend Am Lehweg-Nord I überschrieben, Zuordnung offen.",
+      "planningFacts": "16 Seiten; Seiten 1 und 9 visuell geprüft. Höhen und Nutzungsmaße an zeichnerischen Teil gebunden, keine pauschalen heutigen Werte abgeleitet.",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/03_GE_Nord_Festsetzungen_signiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.gemeinde-sasbach.de/a0345c92681c2940.pdf",
+      "tags": "Original lokal gesichert, Entwurfsstand, heutige Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-10-pdf-04",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "municipality": "Sasbach am Kaiserstuhl",
+      "documentTitle": "Sasbach GE Nord: Umweltsteckbrief vom 28.07.2025",
+      "documentType": "Scoping-Papier / Umweltsteckbrief",
+      "pages": "7",
+      "keyFacts": "Umweltbelange, Schutzgebietsumfeld und Grundwasservorkommen als Prüfgegenstände. Kein vollständiger Umweltbericht oder heutige Freigabe.",
+      "technicalFacts": "Regionale Grünzüge und Grundwasserbelange beschrieben; keine Übertragung zu einer konkreten technischen Standortfreigabe.",
+      "planningFacts": "7 Seiten textlich ausgelesen; Seite 3 visuell geprüft. Weitere Fachgutachten und aktueller Maßnahmenvollzug offen.",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/05_GE_Nord_Umweltsteckbrief_2025-07-28_signiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.gemeinde-sasbach.de/88a6c8a63f919d4c.pdf",
+      "tags": "Original lokal gesichert, Entwurfsstand, heutige Verfügbarkeit offen"
     }
   ],
   "media": [
@@ -6877,11 +6956,11 @@
       "publishedDate": "2026-08-01",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW",
-      "sourceUrl": "https://www.breitingen.de/; https://www.holzkirch.de/ortsentwicklung; https://www.langenau.de/willkommen; https://www.neenstetten.de/; https://nerenstetten.de/; https://oellingen.de/; https://www.setzingen.info/; https://weidenstetten.de/; https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf; https://www.amstetten.de/; https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf; https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf; https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf; https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf; https://www.lonsee.de/; https://ts.domainname.de/emeringen.de; https://www.emerkingen.de/start; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf; https://grundsheim.de/; https://www.hausen-am-bussen.de/; https://gemeinde-lauterach.de/; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf; https://www.munderkingen.de/startseite; https://www.oberstadion.de/de/startseite; https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf; https://rechtenstein.de/; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf; https://rottenacker.de/; https://untermarchtal.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+      "sourceUrl": "https://www.breitingen.de/; https://www.holzkirch.de/ortsentwicklung; https://www.langenau.de/willkommen; https://www.neenstetten.de/; https://nerenstetten.de/; https://oellingen.de/; https://www.setzingen.info/; https://weidenstetten.de/; https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf; https://www.amstetten.de/; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-03-original.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-04-original.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-01-original.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-11-10-amstetten-02-original.pdf; https://www.lonsee.de/; https://ts.domainname.de/emeringen.de; https://www.emerkingen.de/start; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf; https://grundsheim.de/; https://www.hausen-am-bussen.de/; https://gemeinde-lauterach.de/; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf; https://www.munderkingen.de/startseite; https://www.oberstadion.de/de/startseite; https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf; https://rechtenstein.de/; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf; https://rottenacker.de/; https://untermarchtal.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
       "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
       "summary": "Geprueft wurden Breitingen, Holzkirch, Langenau, Neenstetten, Nerenstetten, Öllingen, Setzingen, Weidenstetten, Amstetten, Lonsee, Emeringen, Emerkingen, Grundsheim, Hausen am Bussen, Lauterach, Munderkingen, Oberstadion, Rechtenstein, Rottenacker, Untermarchtal ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Amstetten, Langenau, Lonsee, Munderkingen, Rottenacker. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
-      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis ab Unterstadion fortsetzen.",
+      "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis ab Unterstadion fortsetzen. Linkpflege am 10.11.2026: 4 archivierte Originale als Ersatzquelle. Historische Sammelbewertung nicht erneut fachlich bestätigt; heutige Verfügbarkeit und Baurecht offen.",
       "status": "neu aufgenommen",
       "tags": [
         "Kommunalrecherche",
@@ -6899,7 +6978,44 @@
           "replacement": "https://www.holzkirch.de/ortsentwicklung",
           "date": "2026-10-17"
         }
-      ]
+      ],
+      "revisionHistory": [
+        {
+          "date": "2026-11-10",
+          "reason": "4 amtliche PDF-Adressen mit 404; unveränderte Originalkopien aus dem Archiv als Ersatzquelle verlinkt. Keine neue sachliche Standortbewertung.",
+          "previousRecord": {
+            "id": "id-2026-08-01-albdonau-screening",
+            "date": "2026-08-01",
+            "publishedDate": "2026-08-01",
+            "topic": "Kommunalrecherche Baden-Wuerttemberg",
+            "publisher": "Kommunale Primaerquellen BW",
+            "sourceUrl": "https://www.breitingen.de/; https://www.holzkirch.de/ortsentwicklung; https://www.langenau.de/willkommen; https://www.neenstetten.de/; https://nerenstetten.de/; https://oellingen.de/; https://www.setzingen.info/; https://weidenstetten.de/; https://www.weidenstetten.de/wp-content/uploads/2019/08/Flächennutzungsplan.pdf; https://www.amstetten.de/; https://www.amstetten.de/media/files/2-voe-aufstellungs-vorentwurfs-und-fruehzeitiger-beteiligungsbeschluss..._-002-.pdf; https://www.amstetten.de/media/files/oeffentliche-bekanntmachung-auslegungsbeschluss-bebauungsplan-saegewerk-ziegler.pdf; https://www.amstetten.de/media/files/02_anlage_kreuzstein_iii_umweltbericht_gesamtdokument-01.pdf; https://www.amstetten.de/media/files/04_bebauungsplan_kreuzstein3_zeichnteil-01.pdf; https://www.lonsee.de/; https://ts.domainname.de/emeringen.de; https://www.emerkingen.de/start; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E1430474619/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Abwassersatzung_Neufassung_01.01.2026_%28O%CC%88B%2030.07.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1180882577/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Entwurfsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_St%C3%BCtzen%20%28%C3%96B%2022.05.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E-1622521563/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Aufstellungsbeschluss_und_Auslegung_Aufhebung%20Bebauungsplan_Stu%CC%88tzen%20%28O%CC%88B%2027.03.2026%29.pdf; https://www.emerkingen.de/site/Emerkingen-Layout/get/documents_E748321914/emerkingen/Emerkingen_Dokumente/%C3%B6ffentliche%20Bekanntmachungen/2026/Satzungsbeschluss%20zur%20Aufhebung%20Bebauungsplan%20%26%20%C3%B6rtliche%20Bauvorschriften%20St%C3%BCtzen%20II,%20Gemeinde%20Emerkingen%20%28%C3%96B%2030.01.2026%29.pdf; https://grundsheim.de/; https://www.hausen-am-bussen.de/; https://gemeinde-lauterach.de/; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeummeldung-mit-Hinweisen.pdf; https://gemeinde-lauterach.de/wp-content/uploads/2025/04/Gewerbeabmeldung-mit-Hinweisen.pdf; https://www.munderkingen.de/startseite; https://www.oberstadion.de/de/startseite; https://www.oberstadion.de/fileadmin/Dateien/Dateien/Kommunikationspaket_Energiekriese_Links_und_QR-Codes.pdf; https://rechtenstein.de/; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeanmeldung-GewA1-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeummeldung-GewA2-11-25.pdf; https://rechtenstein.de/wp-content/uploads/2025/11/Gewerbeabmeldung-GewA3-11-25.pdf; https://rottenacker.de/; https://untermarchtal.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.freiburg.de/pb/%2CLde_DE/1075533.html; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://netz.swe-emmendingen.de/veroeffentlichungen/strom-netz/netzdaten-verteilnetz/; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/; https://www.datacenterdynamics.com/en/; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/",
+            "title": "Alb-Donau-Block III: 20 Gemeinden geprüft, 0 technisch offen",
+            "summary": "Geprueft wurden Breitingen, Holzkirch, Langenau, Neenstetten, Nerenstetten, Öllingen, Setzingen, Weidenstetten, Amstetten, Lonsee, Emeringen, Emerkingen, Grundsheim, Hausen am Bussen, Lauterach, Munderkingen, Oberstadion, Rechtenstein, Rottenacker, Untermarchtal ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+            "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Amstetten, Langenau, Lonsee, Munderkingen, Rottenacker. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+            "action": "Technisch offene Gemeinden erneut prüfen; danach Coverage im Alb-Donau-Kreis ab Unterstadion fortsetzen.",
+            "status": "neu aufgenommen",
+            "tags": [
+              "Kommunalrecherche",
+              "Baden-Württemberg",
+              "Alb-Donau",
+              "Gewerbe",
+              "Glasfaser",
+              "kein RZ-Fund"
+            ],
+            "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen.",
+            "sourceLinkHistory": [
+              {
+                "field": "sourceUrl",
+                "original": "https://www.holzkirch.de/willkommen-in-holzkirch",
+                "replacement": "https://www.holzkirch.de/ortsentwicklung",
+                "date": "2026-10-17"
+              }
+            ]
+          }
+        }
+      ],
+      "updated": "2026-11-10"
     },
     {
       "id": "id-2026-08-01-news-monitoring",
@@ -8877,6 +8993,18 @@
       "confidence": "Projektträgerquelle und 19-seitiger vorläufiger Richtlinientext; Bundesanzeiger-Veröffentlichung und individuelle Förderfähigkeit nicht bestätigt",
       "action": "Vorschlag: Nur bei eigenem Forschungsansatz und geeigneten Verbundpartnern vertieft prüfen; keine allgemeine Bau- oder Grundstücksförderung unterstellen. Verbindliche veröffentlichte Fassung vor einer Entscheidung abgleichen. Keine Anmeldung, Kontaktaufnahme oder Antragstellung ausgeführt.",
       "tags": "19.11.2026, 28.01.2027, Verbundforschung, vorläufige Fassung"
+    },
+    {
+      "id": "id-2026-11-10-sasbach-nord",
+      "created": "2026-11-10",
+      "updated": "2026-11-10",
+      "title": "Sasbach am Kaiserstuhl GE Nord: 4,77 ha Planentwurf, freie Grundstücke und Inkrafttreten offen",
+      "topic": "Kommunale Gewerbeentwicklung / Planungsstand",
+      "summary": "Gemeindeseite und Originale beschreiben Aufstellungsbeschluss 02.07.2025 und Entwurfsberatung 30.07.2025. Geltungsbereich etwa 4,77 ha westlich der L104 am nördlichen Ortseingang. Ziel ist Entwicklung örtlicher Gewerbebetriebe. Satzungsdatei als Entwurf gekennzeichnet, Ausfertigungs- und Bekanntmachungsdaten leer; digitales Signaturfeld ersetzt keinen Nachweis des Inkrafttretens.",
+      "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
+      "confidence": "Amtlicher Auftritt und Originalunterlagen textlich sowie ausgewählte Seiten visuell geprüft; heutiger Verfahrensvollzug und Eigentümerverfügbarkeit nicht bestätigt",
+      "action": "Eigene Bewertung: Kein neuer freier Grundstückskandidat. Aktuelles Baurecht, Eigentümerverfügbarkeit, Verbrauchsanschluss und unabhängige Glasfaserwege klären. In den Festsetzungen trägt Seite 9 abweichend Am Lehweg-Nord I als Kopfzeile; Zuordnung dortiger Wasserpassagen gesondert bestätigen. Keine allgemeine Rechenzentrumsgenehmigung aus Gewerbegebietsnutzung ableiten.",
+      "tags": "4,77 ha, Entwurf 30.07.2025, Kopfzeilenabweichung, heutiger Stand offen"
     }
   ],
   "gridChecks": [
@@ -9332,7 +9460,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-09",
+    "lastRun": "2026-11-10",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9360,8 +9488,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-09",
-    "lastResearchSummary": "40 kommunale Teilprüfungen; Forchheimer Gewerbeentwicklung und vorläufiger SustainDC-Forschungsförderhinweis ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-10",
+    "lastResearchSummary": "41 kommunale Teilprüfungen; GE Nord in Sasbach am Kaiserstuhl mit Originalentwürfen und Umweltsteckbrief ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
