@@ -1,0 +1,52 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 11.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+2 neue Befunde, 1 Planungseintrag und 3 Originaldokumente ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche. Schallstadt Mengen ist ein früher Planungshinweis. Heutige Grundstücksverfügbarkeit, geltendes Baurecht, Stromanschluss und konkrete Abwärmeabnahme bleiben offen. Keine zwingende Entscheidung erforderlich; keine Kontaktaufnahme oder Reservierung vorgenommen.
+
+Neue Quellen und Ergebnisse
+1. Schallstadt, Gewerbegebiet Mengen, 2. Erweiterung: Der Originalbeschluss zur Sitzung vom 20.10.2026, ausgefertigt am 22.10.2026, bestätigt eine grundsätzliche Zustimmung und den Auftrag, weitere Verfahrensschritte vorzubereiten. Abstimmung: 13 Ja, 0 Nein, 1 Enthaltung. Der Kalkulationsstand 13.08.2026 wurde zur Kenntnis genommen. Die öffentliche Vorlage vom 08.10.2026 nennt ungefähr 160 EUR/m² als damalige Annahme zur wirtschaftlichen Darstellbarkeit. Das ist kein heutiges Verkaufsangebot. Nichtöffentliche Kalkulationsanlagen wurden nicht aufgerufen. Kein Satzungsbeschluss und keine konkrete Rechenzentrumszulassung belegt.
+Sitzung: https://schallstadt.ris-portal.de/web/guest/sitzungen?sitzungId=224108
+Beschluss: https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161
+Vorlage: https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938
+
+2. Schallstadt, kaltes Nahwärmenetz: KEA-BW-Fallbeschreibung Stand 11.2023 beschreibt Abwasserwärme als bisherige Quelle und gewerbliche Abwärme als mögliche spätere Ergänzung. Freie Aufnahmekapazität oder ein Abnahmevertrag für Rechenzentrumswärme sind nicht belegt. Quellenwiderspruch: Fließtext und Bildunterschrift nennen 500 m³ Speicher; die Tabelle nennt 500.000 m³. Keine eigene Auflösung oder Kapazitätsrechnung vorgenommen. Historische Betreiberangaben nicht als aktuell bestätigt dargestellt.
+Quelle: https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1
+
+3. Kommunale Wärmeplanung Schallstadt/Ebringen/Pfaffenweiler: Originalpräsentation der Bürgerinformation vom 07.04.2025, 16 Seiten. Seiten 3 und 14 visuell geprüft. Sie bezeichnet die Wärmeplanung ausdrücklich nicht als Wärmenetzplanung und die Eignungsgebiete als nicht rechtlich bindend. Offenlage und Feststellungsbeschluss werden als nächste Schritte aufgeführt; deren späterer Vollzug wurde heute nicht nachgewiesen. Keine zugesicherte Abwärmeaufnahme ableiten.
+Quelle: https://www.schallstadt.de/ceasy/resource/?id=4339&download=1
+
+Nachrichtensuche
+Heise, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Suchtreffer und Ankündigungen wurden nicht allein als technischer Nachweis übernommen. DatacenterDynamics meldet am 10.11.2026 TensorBay-Container-AIPods. Die aufgerufene Herstellerseite bestätigt die dort berichtete vollständige 1-MW-Konfiguration nicht hinreichend; deshalb keine neue technische Leistungszusage oder Baden-Württemberg-Flächenverfügbarkeit eingetragen. Keine neue gesicherte Partnerschaft.
+Nachrichtenhinweis: https://www.datacenterdynamics.com/en/news/tensorbay-launches-1mw-containerized-aipods/
+Herstellerseite: https://tensorbay.io/infrastructure/
+
+Kommunale Prüfung
+42 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt.
+Gemeindeseiten, Ratsinformation, Bauleitplanung/Flächennutzungsplanung, Amtsblatt und Gewerbe-/Energiethemen wurden adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet. Nicht jede Kategorie war in jeder Gemeinde inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und nur teilweise auslesbare Dokumente sind in der lokalen Prüfmatrix dokumentiert. Alle 42 bleiben für die systematische Aktenprüfung offen. Kein bloßer Suchworttreffer als Rechenzentrumsnachweis gezählt.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder freier Fläche: 0. Schallstadt bietet einen Gewerbeplanungs- und Wärmehinweis, keinen nachgewiesenen Rechenzentrumsstandort. Die übrigen 41 Gemeinden bleiben ohne neuen gesicherten Standortfund beziehungsweise offen; dies ist keine Negativbescheinigung.
+
+Lokale Archivierung und Originaldokumente
+585 unterschiedliche Quellenadressen abgerufen, 555 erfolgreich lokal gesichert; 21 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 85 inhaltsverschiedene PDF-Dateien mit zusammen 1455 Seiten berücksichtigt, davon 5 neue Dateiinhalte. Vorhandene Extraktionen wiederverwendet, keine erneute Vollauswertung unveränderter Dokumente behauptet. 12 Dokumente textlich unvollständig erschlossen; keine vollständige optische Texterkennung vorgenommen.
+3 neue Datenbank-Dokumenteinträge: Beratungsvorlage Mengen (2 Seiten), Originalbeschluss Mengen (1 Seite), Wärmeplanungspräsentation (16 Seiten). Zusätzlich Amtsblatt 45/2026 vom 06.11.2026 (21 Seiten, Titel visuell geprüft, Textauslese unvollständig) und Flächennutzungsplankarte (1 Seite, kein extrahierbarer Text) archiviert; keine materiellen Festsetzungen oder Rechtswirksamkeit daraus behauptet. Keine neuen Gutachten zur technischen Eignung. Keine neuen Fotos oder technischen Zeichnungen übernommen. Archivierung mit vorhandenem Quellenarchiv-Programm; lokale Sicherungen werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+150 erfasste Dokumentquellen geprüft: 150 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 3 neue Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1632 unterschiedliche öffentliche Links geprüft: 1602 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht versandt.
+
+Veränderte Statistiken
+Befunde: 232 → 234 (+2)
+Planungseinträge Bauleitplanung: 36 → 37 (+1)
+Dokumentauswertungen: 147 → 150 (+3)
+Standorte: 32 (+0); Unternehmen/Partner: 22 (+0)
+Anforderungen: 15 (+0); Fotos/Medien: 5 (+0); technische Zeichnungen: 6 (+0)
+Neue bestätigte verfügbare Standorte: 0. Keine Doppelzählung von Dokumenten und Standorten.
+
+Veröffentlichung und Versand
+Website-Datenbestand vor Änderungen mit veröffentlichtem Stand abgeglichen. Veröffentlichung der 6 vorgesehenen öffentlichen Dateien und anschließende Kontrolle der tatsächlich ausgelieferten Inhalte erfolgen vor Versand. Laufzeitordner, Anmeldedaten und lokale Quellenarchive sind ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de, ohne Kopie oder Blindkopie; Erfolg wird anhand Gesendeter Elemente geprüft. Eine Zustellung oder Kenntnisnahme wird daraus nicht abgeleitet.

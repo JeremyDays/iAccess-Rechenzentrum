@@ -1915,6 +1915,21 @@
       "sourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/02_GE_Nord_Begr%C3%BCndung_signiert.pdf",
       "additionalSourceUrl": "https://www.gemeinde-sasbach.de/fileadmin/Website/Dateien/Gewerbegebiete/01_GE_Nord_Satzung_signiert.pdf",
       "notes": "Etwa 4,77 ha Geltungsbereich einschließlich Erschließung; keine freie Netto-Gewerbefläche. Ortsansässiger Bedarf im Vordergrund. Signierte Dateinamen ändern Entwurfsstatus nicht. Festsetzungen Seite 9 mit abweichender Kopfzeile Am Lehweg-Nord I; Umweltsteckbrief ist Scoping, kein vollständiger Nachweis heutiger Konfliktfreiheit. Nicht mit Sasbach im Ortenaukreis verwechseln."
+    },
+    {
+      "id": "id-2026-11-11-schallstadt-mengen",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "municipality": "Schallstadt",
+      "state": "Baden-Württemberg",
+      "planName": "Gewerbegebiet Mengen, 2. Erweiterung",
+      "status": "Grundsatzbeschluss 20.10.2026 zur Vorbereitung weiterer Verfahrensschritte; geltendes Baurecht offen",
+      "dataCenter": "Keine spezifische Rechenzentrumszulassung, freie Parzelle oder gesicherter Verbrauchsanschluss belegt.",
+      "documents": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
+      "source": "Gemeinderat Schallstadt, Originalbeschluss und öffentliche Vorlage GR-2026-52",
+      "sourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
+      "additionalSourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938",
+      "notes": "Kalkulation Stand 13.08.2026 zur Kenntnis genommen. Vorlage nennt ungefähr 160 EUR/m² als wirtschaftliche Kalkulationsannahme, keinen aktuellen Angebotspreis. Nichtöffentliche Kalkulationsanlage nicht erschlossen. Kein Satzungsbeschluss nachgewiesen."
     }
   ],
   "pdfExtracts": [
@@ -4321,6 +4336,54 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.gemeinde-sasbach.de/88a6c8a63f919d4c.pdf",
       "tags": "Original lokal gesichert, Entwurfsstand, heutige Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-11-pdf-01",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "municipality": "Schallstadt",
+      "documentTitle": "Schallstadt Mengen: öffentliche Beratungsvorlage GR-2026-52 vom 08.10.2026",
+      "documentType": "Gemeinderatsvorlage",
+      "pages": "2",
+      "keyFacts": "2. Erweiterung Gewerbegebiet Mengen, Beratung am 20.10.2026. Ungefähr 160 EUR/m² als damalige Wirtschaftlichkeitsannahme.",
+      "technicalFacts": "Keine technische Netzanschlussprüfung oder konkrete Rechenzentrumsplanung.",
+      "planningFacts": "Öffentliche Vorlage 2 Seiten vollständig gelesen; detaillierte Kalkulation als nichtöffentliche Anlage beschrieben und nicht aufgerufen.",
+      "sourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/schallstadt.ris-portal.de-443/85b415b4e6e31251.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-11-pdf-02",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "municipality": "Schallstadt",
+      "documentTitle": "Schallstadt Mengen: Grundsatzbeschluss zur Sitzung 20.10.2026, Ausfertigung 22.10.2026",
+      "documentType": "Gemeinderatsbeschluss",
+      "pages": "1",
+      "keyFacts": "Grundsätzliche Zustimmung zur Erweiterung und Vorbereitung weiterer Verfahrensschritte. 13 Ja, 0 Nein, 1 Enthaltung.",
+      "technicalFacts": "Kein Nachweis gesicherter Stromleistung, Abwärmeabnahme oder Grundstücksverfügbarkeit.",
+      "planningFacts": "1 Seite vollständig ausgelesen und visuell geprüft; kein nachgewiesener Satzungsbeschluss.",
+      "sourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/schallstadt.ris-portal.de-443/29c8ab8faa592de7.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-11-pdf-03",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "municipality": "Schallstadt",
+      "documentTitle": "Schallstadt, Ebringen, Pfaffenweiler: Bürgerinformation Wärmeplanung vom 07.04.2025",
+      "documentType": "Kommunale Wärmeplanung / Präsentation",
+      "pages": "16",
+      "keyFacts": "16 Seiten; keine Wärmenetzplanung, Eignungsgebiete nicht rechtlich bindend.",
+      "technicalFacts": "Keine zugesicherte Rechenzentrums-Abwärmeaufnahme oder reservierte Leistung.",
+      "planningFacts": "Seiten 3 und 14 visuell geprüft. Offenlage und Feststellungsbeschluss werden als nächste Schritte dargestellt; tatsächliche spätere Beschlussfassung heute nicht nachgewiesen.",
+      "sourceUrl": "https://www.schallstadt.de/ceasy/resource/?id=4339&download=1",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.schallstadt.de/b7e73f36b14bcc85.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
     }
   ],
   "media": [
@@ -9005,6 +9068,32 @@
       "confidence": "Amtlicher Auftritt und Originalunterlagen textlich sowie ausgewählte Seiten visuell geprüft; heutiger Verfahrensvollzug und Eigentümerverfügbarkeit nicht bestätigt",
       "action": "Eigene Bewertung: Kein neuer freier Grundstückskandidat. Aktuelles Baurecht, Eigentümerverfügbarkeit, Verbrauchsanschluss und unabhängige Glasfaserwege klären. In den Festsetzungen trägt Seite 9 abweichend Am Lehweg-Nord I als Kopfzeile; Zuordnung dortiger Wasserpassagen gesondert bestätigen. Keine allgemeine Rechenzentrumsgenehmigung aus Gewerbegebietsnutzung ableiten.",
       "tags": "4,77 ha, Entwurf 30.07.2025, Kopfzeilenabweichung, heutiger Stand offen"
+    },
+    {
+      "id": "id-2026-11-11-schallstadt-mengen",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "title": "Schallstadt Mengen: Grundsatzbeschluss für 2. Gewerbegebietserweiterung am 20.10.2026",
+      "topic": "Kommunale Gewerbeentwicklung",
+      "summary": "Originalbeschluss vom 22.10.2026 zur Sitzung am 20.10.2026: Grundsätzliche Zustimmung zur 2. Erweiterung und Auftrag zur Vorbereitung weiterer Verfahrensschritte; 13 Ja, 0 Nein, 1 Enthaltung. Kalkulationsstand 13.08.2026 zur Kenntnis genommen. Vorlage vom 08.10.2026 nennt wirtschaftliche Darstellbarkeit ab ungefähr 160 EUR/m² als damalige Kalkulationsannahme, kein Verkaufsangebot.",
+      "sourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
+      "additionalSourceUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938",
+      "confidence": "Amtlicher Originalbeschluss 1 Seite und öffentliche Vorlage 2 Seiten vollständig ausgelesen und visuell geprüft",
+      "action": "Eigene Bewertung: Als frühe Gewerbeentwicklung beobachten. Keine freie Parzelle, kein geltendes Baurecht und kein Stromanschluss nachgewiesen. Nichtöffentliche Kalkulationsanlage nicht aufgerufen; keine vertraulichen Preis- oder Eigentümerdetails erschlossen. Kein neuer freier Standort.",
+      "tags": "Grundsatzbeschluss, frühe Planung, Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-11-schallstadt-waerme",
+      "created": "2026-11-11",
+      "updated": "2026-11-11",
+      "title": "Schallstadt: historisches kaltes Nahwärmenetz, konkrete Rechenzentrums-Abwärmeaufnahme offen",
+      "topic": "Abwärme / kommunale Wärmeplanung",
+      "summary": "KEA-BW-Fallbeschreibung Stand 11.2023 beschreibt seit 2021 ein kaltes Netz mit Abwasserwärme als Quelle, 2,2 km und 200 Wohnungen plus Rathaus. Gewerbliche Abwärme wird als künftige Erweiterungsmöglichkeit genannt. Widerspruch innerhalb der Quelle: Fließtext und Bildunterschrift nennen 500 m³ Speicher, Tabelle 500.000 m³. Keine Auflösung ohne Bestätigung. Die kommunale Präsentation vom 07.04.2025 ist keine Wärmenetzplanung; Eignungsgebiete sind nicht rechtlich bindend.",
+      "sourceUrl": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
+      "additionalSourceUrl": "https://www.schallstadt.de/ceasy/resource/?id=4339&download=1",
+      "confidence": "Historischer KEA-BW-Bericht und kommunale Originalpräsentation 16 Seiten; Seiten 3 und 14 visuell geprüft. Heutiger Ausbau- und Beschlussstand nicht bestätigt",
+      "action": "Eigene Bewertung: Denkbarer Prüfpfad für spätere Abwärmenutzung, keine Zusage. Freie thermische Aufnahmekapazität, Temperaturanforderungen, Trasse, Betreiberzuständigkeit und Vertrag offen. Abwasserwärmeleistung und historische Speichergröße nicht als verfügbare Rechenzentrumsressource ansetzen.",
+      "tags": "Abwasserwärme, Quelle 11.2023, Speicherwiderspruch, keine Abnahmezusage"
     }
   ],
   "gridChecks": [
@@ -9460,7 +9549,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-10",
+    "lastRun": "2026-11-11",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9488,8 +9577,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-10",
-    "lastResearchSummary": "41 kommunale Teilprüfungen; GE Nord in Sasbach am Kaiserstuhl mit Originalentwürfen und Umweltsteckbrief ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-11",
+    "lastResearchSummary": "42 kommunale Teilprüfungen; Schallstadt Mengen und historische Wärmeinfrastruktur vertieft. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

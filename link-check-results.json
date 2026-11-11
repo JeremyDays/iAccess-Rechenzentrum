@@ -1,7 +1,7 @@
 {
-  "checked": 1628,
-  "ok": 1597,
-  "blocked": 31,
+  "checked": 1632,
+  "ok": 1602,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -24,6 +24,18 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 429,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -87,18 +99,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.buehlertal.de/de/vorseite",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.buehlertal.de', port=443): Max retries exceeded with url: /de/vorseite (Caused by NewConnectionError(\"HTTPSConnection(host='www.buehlertal.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
     },
     {
       "collection": "findings",
@@ -195,18 +195,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "sites",
-      "index": 23,
-      "field": "sourceUrl",
-      "title": "KIT KI-Rechenzentrum Campus Nord",
-      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.kit.edu', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -7158,18 +7146,6 @@
     },
     {
       "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 200,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 69,
       "field": "sourceUrl",
       "title": "EU-Entwurf zu RZ-Oekostrom: strengere zeit- und zonengleiche Anrechnung offenbar abgeschwaecht",
@@ -11517,6 +11493,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.buehlertal.de/de/vorseite",
+      "status": 200,
+      "finalUrl": "https://www.buehlertal.de",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
       "status": 200,
       "finalUrl": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
@@ -12912,6 +12900,18 @@
       "url": "https://www.rust.de/startseite",
       "status": 200,
       "finalUrl": "https://www.rust.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 233,
+      "field": "sourceUrl",
+      "title": "Schallstadt: historisches kaltes Nahwärmenetz, konkrete Rechenzentrums-Abwärmeaufnahme offen",
+      "url": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
+      "status": 200,
+      "finalUrl": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18414,6 +18414,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 149,
+      "field": "sourceUrl",
+      "title": "Schallstadt, Ebringen, Pfaffenweiler: Bürgerinformation Wärmeplanung vom 07.04.2025",
+      "url": "https://www.schallstadt.de/ceasy/resource/?id=4339&download=1",
+      "status": 200,
+      "finalUrl": "https://www.schallstadt.de/ceasy/resource/?id=4339&download=1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 13,
       "field": "sourceUrl",
       "title": "Schalltechnische Untersuchung â€žRechenzentrum Eicheâ€œ",
@@ -18744,6 +18756,18 @@
       "url": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
       "status": 200,
       "finalUrl": "https://gewerbeimmo-freiburg.findyourland.de/object/79249/PROPERTY/9c635309-7d91-4fae-a02c-8502cd0c5d29",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 23,
+      "field": "sourceUrl",
+      "title": "KIT KI-Rechenzentrum Campus Nord",
+      "url": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
+      "status": 200,
+      "finalUrl": "https://www.kit.edu/kit/pi_2026_076_neues-ki-rechenzentrum-am-kit.php",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19452,6 +19476,30 @@
       "url": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
       "status": 200,
       "finalUrl": "https://www.oberried.de/eip/eip_media.php?f=Gewerbegebiet_Bruehl_ZEICHNERISCHER+TEIL.pdf&m=2378&i=1&fl=47256977&d=936",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 36,
+      "field": "additionalSourceUrl",
+      "title": "Gewerbegebiet Mengen, 2. Erweiterung",
+      "url": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938",
+      "status": 200,
+      "finalUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2920938",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 36,
+      "field": "documents",
+      "title": "Gewerbegebiet Mengen, 2. Erweiterung",
+      "url": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
+      "status": 200,
+      "finalUrl": "https://schallstadt.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=224108&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2938161",
       "ok": true,
       "blocked": false,
       "error": ""
