@@ -1,0 +1,60 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 12.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+3 neue Befunde, 1 Planungseintrag, 15 Dokumenteinträge und 1 möglicher Fachplanungspartner ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche und keine neue vereinbarte Partnerschaft. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Reservierung, Anmeldung oder Antragstellung vorgenommen.
+
+Neue Quellen und Ergebnisse
+1. Bitkom/Borderstep: Die Originalpräsentation vom 03.11.2026 nennt auf Seite 8 für Baden-Württemberg aktuell 275 MW, für 2025 233 MW und 31 MW im Bau. Das sind Marktangaben, keine freien Netzanschlussleistungen. Die bundesweiten Grafiken schließen kleinere IT-Installationen ein. Widersprüche bleiben offen: Seite 3 nennt für 2026 insgesamt 3294 MW, Seite 10 nennt 3350 MW. Die Pressemitteilung nennt für 2030 einmal 5 GW und später 5,5 GW; der prognostizierte KI/HPC-Anteil für 2030 beträgt dort 36 Prozent, in der Präsentation 38 Prozent. Keine eigene Auflösung oder Punktschätzung vorgenommen. Originale sind vom 03.11.2026; das heutige Abrufdatum ist keine neue Veröffentlichung. Die zuvor verfolgte Veranstaltungsankündigung für 12.11. ersetzt diese konkreten Originale nicht.
+Originalpräsentation: https://www.bitkom.org/sites/main/files/2026-11/bitkom-praesentation-rechenzentren-in-deutschland-2026.pdf
+Presseinformation: https://www.bitkom.org/Presse/Presseinformation/KI-Boom-treibt-Rechenzentren-in-Deutschland
+PDF der Presseinformation: https://www.bitkom.org/print/pdf/node/28619
+
+2. Breisach Solarpark Hochstetten Deponie: Neue Bekanntmachung zur 26. punktuellen Flächennutzungsplanänderung mit angekündigter Offenlage 16.11.–15.12.2026, ungefähr 7,3 ha Änderungsbereich. Die getrennte Bebauungsplan-Offenlage läuft laut Gemeindeseite vom 19.10. bis verlängert 23.11.2026. Bauvorschriften Stand 22.09.2026 betreffen Solarpark-Modulfläche, Wartung und Batteriespeicher. Die Planzeichnung zeigt bestehende/geplante 380-kV-Leitungen; daraus folgt kein nutzbarer Anschluss. Kein Rechenzentrumsbaurecht und keine freie Gewerbefläche nachgewiesen. Das Brandschutzkonzept ist ausdrücklich ein Entwurf mit offenen Angaben, kein abschließend prüffähiger Nachweis. Das Bodengutachten betrifft die Rekultivierungsschicht, keinen allgemeinen Tragfähigkeitsnachweis für Rechenzentrumsgebäude. Die verschiedenen Flächenangaben 7,2/7,3/7,4 ha in Planungsdarstellungen wurden nicht als freie Nettofläche vereinheitlicht.
+FNP-Bekanntmachung: https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf
+Planungsseite: https://www.breisach.de/de/aktuelles/bauleitplanung/offenlage/
+Bauvorschriften: https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf
+
+3. Abwärme-Referenz außerhalb Baden-Württembergs: Für die Friedrich-Ebert-Siedlung Frankfurt beschreibt das projektbeteiligte Planungsbüro eine geplante Wärmepumpenkaskade. 3 Anlagen mit je ungefähr 1,1 MW thermisch, davon 1 redundant, ergeben laut Planung 2,2 MW Auslegungsleistung. Die installierte Summenleistung darf nicht als nutzbare Auslegungsleistung behandelt werden. Realisierungszeit auf der Projektseite 10.2026–05.2027; kein Nachweis einer bereits vollständig laufenden Versorgung. Eigene Bewertung: Verwertbare Referenz für Schnittstellen und Redundanz, keine Zusage für iAccess oder einen Standort in Baden-Württemberg. Projektbeteiligte und Stadtmeldung berichten über dasselbe Vorhaben, keine unabhängigen Leistungsnachweise.
+Planungsquelle: https://www.tftgmbh.de/referenzen/waermeversorgung-der-friedrich-ebert-siedlung-in-frankfurt-am-main/
+Stadtmeldung vom 11.11.2026: https://frankfurt.de/de-de/aktuelle-meldung/meldungen/rechenzentrum-heizt-kuenftig-1100-wohnungen/
+Die Stadtmeldung war im Web lesbar, der lokale Archivabruf wurde mit HTTP 403 blockiert. Diese Grenze ist im Protokoll vermerkt.
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Suchtreffer allein wurden nicht als technischer Nachweis übernommen. Überregionale Großprojekte und Branchenforderungen sind keine verfügbaren regionalen Flächen oder bereits geltende Rechtsänderungen. Keine nicht bestätigten Leistungsangaben aus älteren Nachrichten übernommen.
+
+Kommunale Prüfung
+42 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen wurden adressiert. Suchbegriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet. Nicht jede Kategorie war in jeder Gemeinde vollständig erreichbar. Dynamische Oberflächen, Weiterleitungen und blockierte Abrufe sind in der lokalen Prüfmatrix erfasst. Falsch zugeordnete Neubürgerseiten oder Logo-Bilder gelten ausdrücklich nicht als Ratsaktenprüfung. Alle 42 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder freier Fläche: 0. Breisach liefert einen Solarpark-/Speicherkontext, keinen Rechenzentrumsstandort. Die übrigen 41 Gemeinden bleiben ohne neuen gesicherten Standortfund oder offen; keine Negativbescheinigung. Neue Unterlagen: Gundelfinger Nachrichten vom 11.11.2026, Sitzungseinladungen Weisweil für 18.11.2026 und Wyhl für 19.11.2026. Einladungen belegen keine bereits gefassten Beschlüsse.
+
+Neue PDFs und Gutachten
+15 neue Dokumenteinträge: 2 Bitkom-Originale; 1 FNP-Bekanntmachung; 12 Unterlagen zum Breisacher Bebauungsplan. Letztere umfassen Bekanntmachung, Abwägung, Deckblatt/Satzungsentwurf, Planzeichnung, Bauvorschriften, Begründung, Umweltbericht mit Artenschutzbeitrag, Schalluntersuchung, Blendgutachten, Brandschutzentwurf, Bodenschutzkonzept und Rekultivierungsgutachten. Vollständig textlich ausgelesen, lokal archiviert; zentrale Nutzungsfestsetzungen, Planzeichnung und ausgewählte Gutachtentitel visuell geprüft. Das ist keine unabhängige Fachprüfung und keine vollständige visuelle Durchsicht aller Seiten. Projektbezogene Bewertungen nicht auf ein Rechenzentrum übertragen. Keine neuen Rechenzentrumsfotos oder technischen Rechenzentrumszeichnungen übernommen.
+
+Lokale Archivierung
+601 unterschiedliche Quellenadressen abgerufen, 570 erfolgreich lokal gesichert, 23 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 95 inhaltsverschiedene PDF-Dateien mit insgesamt 1632 Seiten berücksichtigt, davon 15 gegenüber dem bisherigen Archiv neue Dateiinhalte. Vorhandene Extraktionen wiederverwendet; keine erneute Vollauswertung unveränderter Inhalte behauptet. 10 Dokumente textlich unvollständig erschlossen, keine vollständige optische Texterkennung durchgeführt. Neue Datenbankeinträge und neue Dateiinhalte sind getrennte Zählungen. Archivierung mit vorhandenem Quellenarchiv-Programm; lokale Sicherungen werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+165 erfasste Dokumentquellen geprüft: 165 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 15 neu erfasste Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1649 unterschiedliche öffentliche Links geprüft: 1617 erreichbar, 32 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+TEAM FÜR TECHNIK GmbH als möglicher Fachplanungspartner ergänzt. Eigene Projektreferenz für Abwärmeauskopplung und Heizzentrale; Büro Karlsruhe auf eigener Website genannt. Keine bestätigte Verfügbarkeit, keine unabhängige Leistungsprüfung und keine iAccess-Partnerschaft. 1 neuer Partnerkandidat, 0 vereinbarte Partnerschaften.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 234 → 237 (+3)
+Bauleitplanungseinträge: 37 → 38 (+1)
+Dokumentauswertungen: 150 → 165 (+15)
+Unternehmen/Partnerkandidaten: 22 → 23 (+1)
+Standorte: 32 (+0); Anforderungen: 15 (+0)
+Fotos/Medien: 5 (+0); technische Zeichnungen: 6 (+0)
+Neue bestätigte verfügbare Standorte: 0.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Einträge erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft, daraus keine Zustellung oder Kenntnisnahme abgeleitet.

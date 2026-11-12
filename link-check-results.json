@@ -1,7 +1,7 @@
 {
-  "checked": 1632,
-  "ok": 1602,
-  "blocked": 30,
+  "checked": 1649,
+  "ok": 1617,
+  "blocked": 32,
   "broken": 0,
   "results": [
     {
@@ -30,12 +30,36 @@
     },
     {
       "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.appenweier.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.appenweier.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.appenweier.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
+    },
+    {
+      "collection": "findings",
       "index": 167,
       "field": "sourceUrl",
       "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
       "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "status": 429,
       "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 235,
+      "field": "additionalSourceUrl",
+      "title": "Frankfurt Friedrich-Ebert-Siedlung: geplante Abwärmekaskade mit Redundanz, Referenz außerhalb Baden-Württembergs",
+      "url": "https://frankfurt.de/de-de/aktuelle-meldung/meldungen/rechenzentrum-heizt-kuenftig-1100-wohnungen/",
+      "status": 403,
+      "finalUrl": "https://frankfurt.de/de-de/aktuelle-meldung/meldungen/rechenzentrum-heizt-kuenftig-1100-wohnungen/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -126,6 +150,18 @@
     },
     {
       "collection": "findings",
+      "index": 173,
+      "field": "sourceUrl",
+      "title": "Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung",
+      "url": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.hafen-kehl.de', port=443): Max retries exceeded with url: /de-de/vermietung-verpachtung/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.hafen-kehl.de', port=443) at 0x152c38529c0>, 'Connection to www.hafen-kehl.de timed out. (connect timeout=25)'))"
+    },
+    {
+      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -135,18 +171,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -636,6 +660,18 @@
       "url": "https://www.socomec.com/",
       "status": 200,
       "finalUrl": "https://www.socomec.com/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "companies",
+      "index": 22,
+      "field": "contact",
+      "title": "TEAM FÜR TECHNIK GmbH",
+      "url": "https://www.tftgmbh.de/referenzen/waermeversorgung-der-friedrich-ebert-siedlung-in-frankfurt-am-main/",
+      "status": 200,
+      "finalUrl": "https://www.tftgmbh.de/referenzen/waermeversorgung-der-friedrich-ebert-siedlung-in-frankfurt-am-main/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -2352,18 +2388,6 @@
       "url": "https://www.weinstadt.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.weinstadt.de/willkommen",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 171,
-      "field": "sourceUrl",
-      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
-      "url": "https://www.appenweier.de/",
-      "status": 200,
-      "finalUrl": "https://www.appenweier.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -12426,18 +12450,6 @@
     },
     {
       "collection": "findings",
-      "index": 173,
-      "field": "sourceUrl",
-      "title": "Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung",
-      "url": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
-      "status": 200,
-      "finalUrl": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 50,
       "field": "source",
       "title": "Rickenbach nennt Gewerbegebietserweiterung, Baugebiete und Bebauungsplaene",
@@ -13836,6 +13848,18 @@
       "url": "https://www.voehrenbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.voehrenbach.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17742,6 +17766,30 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 151,
+      "field": "sourceUrl",
+      "title": "Bitkom: Presseinformation zum Rechenzentrumsmarkt vom 03.11.2026",
+      "url": "https://www.bitkom.org/print/pdf/node/28619",
+      "status": 200,
+      "finalUrl": "https://www.bitkom.org/print/pdf/node/28619",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 150,
+      "field": "sourceUrl",
+      "title": "Bitkom: Präsentation Rechenzentren in Deutschland vom 03.11.2026",
+      "url": "https://www.bitkom.org/sites/main/files/2026-11/bitkom-praesentation-rechenzentren-in-deutschland-2026.pdf",
+      "status": 200,
+      "finalUrl": "https://www.bitkom.org/sites/main/files/2026-11/bitkom-praesentation-rechenzentren-in-deutschland-2026.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 93,
       "field": "sourceUrl",
       "title": "Blauer Engel Rechenzentren: DE-UZ 228, Juli 2026, Version 1",
@@ -17772,6 +17820,126 @@
       "url": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_textteil.pdf&path=data/files/downloads",
       "status": 200,
       "finalUrl": "https://www.gewerbepark-rheinbruecke.de/?action=download&file=b-plan_kbc-gelaende_neufassung_textteil.pdf&path=data/files/downloads",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 154,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Abwägung frühzeitige Beteiligung",
+      "url": "https://www.breisach.de/dokumente/offenlage/00-abwaegung-fruehzeitige-beteiligung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/00-abwaegung-fruehzeitige-beteiligung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 158,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Begründung",
+      "url": "https://www.breisach.de/dokumente/offenlage/04-begruendung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/04-begruendung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 153,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Bekanntmachung Bebauungsplan-Offenlage",
+      "url": "https://www.breisach.de/dokumente/offenlage/00-oeffentliche-bekanntmachung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/00-oeffentliche-bekanntmachung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 161,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Blendgutachten",
+      "url": "https://www.breisach.de/dokumente/offenlage/07-blendgutachten.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/07-blendgutachten.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 163,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Bodenschutzkonzept",
+      "url": "https://www.breisach.de/dokumente/offenlage/09-bodenschutzkonzept.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/09-bodenschutzkonzept.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 162,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Brandschutzkonzept, Entwurf 23.07.2026",
+      "url": "https://www.breisach.de/dokumente/offenlage/08-brandschutzkonzept.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/08-brandschutzkonzept.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 155,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Deckblatt und Satzungsentwurf",
+      "url": "https://www.breisach.de/dokumente/offenlage/01-deckblatt-und-satzungen.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/01-deckblatt-und-satzungen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 164,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Gutachten Rekultivierungsschicht der Erdaushubdeponie",
+      "url": "https://www.breisach.de/dokumente/offenlage/10-bodengutachten.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/10-bodengutachten.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 160,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Schalltechnische Untersuchung",
+      "url": "https://www.breisach.de/dokumente/offenlage/06-schalltechnische-untersuchung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/06-schalltechnische-untersuchung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 159,
+      "field": "sourceUrl",
+      "title": "Breisach Solarpark Hochstetten Deponie: Umweltbericht mit integriertem Artenschutzbeitrag",
+      "url": "https://www.breisach.de/dokumente/offenlage/05-umweltbericht.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/05-umweltbericht.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19572,6 +19740,42 @@
       "url": "https://www.merzhausen.de/unsere-gemeinde/projekte/aktuelle-projekte",
       "status": 200,
       "finalUrl": "https://www.merzhausen.de/unsere-gemeinde/projekte/aktuelle-projekte",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 37,
+      "field": "additionalSourceUrl",
+      "title": "Solarpark Hochstetten Deponie",
+      "url": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 37,
+      "field": "documents",
+      "title": "Solarpark Hochstetten Deponie",
+      "url": "https://www.breisach.de/dokumente/offenlage/02-bebauungsplan-planzeichnung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/02-bebauungsplan-planzeichnung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 37,
+      "field": "sourceUrl",
+      "title": "Solarpark Hochstetten Deponie",
+      "url": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
+      "status": 200,
+      "finalUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
