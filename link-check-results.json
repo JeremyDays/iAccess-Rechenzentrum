@@ -1,7 +1,7 @@
 {
-  "checked": 1649,
-  "ok": 1617,
-  "blocked": 32,
+  "checked": 1658,
+  "ok": 1629,
+  "blocked": 29,
   "broken": 0,
   "results": [
     {
@@ -30,24 +30,12 @@
     },
     {
       "collection": "findings",
-      "index": 171,
+      "index": 79,
       "field": "sourceUrl",
-      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
-      "url": "https://www.appenweier.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.appenweier.de', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.appenweier.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
-    },
-    {
-      "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 429,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.hermaringen.de/",
+      "status": 503,
+      "finalUrl": "https://www.hermaringen.de/",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -117,18 +105,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
@@ -147,18 +123,6 @@
       "ok": false,
       "blocked": true,
       "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
-    },
-    {
-      "collection": "findings",
-      "index": 173,
-      "field": "sourceUrl",
-      "title": "Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung",
-      "url": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.hafen-kehl.de', port=443): Max retries exceeded with url: /de-de/vermietung-verpachtung/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.hafen-kehl.de', port=443) at 0x152c38529c0>, 'Connection to www.hafen-kehl.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "findings",
@@ -624,6 +588,18 @@
       "url": "https://global.ntt",
       "status": 200,
       "finalUrl": "https://www.global.ntt/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "companies",
+      "index": 23,
+      "field": "contact",
+      "title": "Rittal",
+      "url": "https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter",
+      "status": 200,
+      "finalUrl": "https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -2388,6 +2364,18 @@
       "url": "https://www.weinstadt.de/willkommen",
       "status": 200,
       "finalUrl": "https://www.weinstadt.de/willkommen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 171,
+      "field": "sourceUrl",
+      "title": "21 priorisierte Gemeinden: Einstiegsscreening und vier aktuelle Amtsblätter",
+      "url": "https://www.appenweier.de/",
+      "status": 200,
+      "finalUrl": "https://www.appenweier.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5625,18 +5613,6 @@
       "index": 79,
       "field": "sourceUrl",
       "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.hermaringen.de/",
-      "status": 200,
-      "finalUrl": "https://hermaringen.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 79,
-      "field": "sourceUrl",
-      "title": "Cron #2: 20 Gemeinden nach Assamstadt/Bad Mergentheim geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.igersheim.de/974490.html",
       "status": 200,
       "finalUrl": "https://www.igersheim.de/974490.html",
@@ -7164,6 +7140,18 @@
       "url": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
       "status": 200,
       "finalUrl": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8910,6 +8898,18 @@
     },
     {
       "collection": "findings",
+      "index": 239,
+      "field": "additionalSourceUrl",
+      "title": "Hoch³ Offenburg: Trassenbündelung BA 2 seit 30.12.2025 planfestgestellt, Baufeld und Leistung weiter zu bestätigen",
+      "url": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten",
+      "status": 200,
+      "finalUrl": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 34,
       "field": "source",
       "title": "Hohberg und Schutterwald verdichten den GRO-Gewerbekorridor",
@@ -8976,6 +8976,18 @@
       "url": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
       "status": 200,
       "finalUrl": "https://www.datacenter-insider.de/strombedarf-der-ki-betreiber-wollen-eigenproduktion-lieferketten-stocken-energieversorger-ratlos-a-bb6cd2eb9b0574eb45dc1b84531f7975/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 238,
+      "field": "additionalSourceUrl",
+      "title": "KUKA Obernburg: historische Container-Referenz mit Außenkühlung, Herstellerunterlage 01/2022",
+      "url": "https://www.rittal.com/de-de/Loesungen/Referenzen/Kuka-Industries",
+      "status": 200,
+      "finalUrl": "https://www.rittal.com/de-de/Loesungen/Referenzen/Kuka-Industries",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11493,6 +11505,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.aglasterhausen.de/startseite",
       "status": 200,
       "finalUrl": "https://www.aglasterhausen.de/startseite",
@@ -12444,6 +12468,18 @@
       "url": "https://www.reute.de/unsere-gemeinde/klimaschutz/kommunale-waermeplanung",
       "status": 200,
       "finalUrl": "https://www.reute.de/unsere-gemeinde/klimaschutz/kommunale-waermeplanung",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 173,
+      "field": "sourceUrl",
+      "title": "Rheinhafen Kehl: Hafenaffinität als Einschränkung für reine RZ-Nutzung",
+      "url": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
+      "status": 200,
+      "finalUrl": "https://www.hafen-kehl.de/de-de/vermietung-verpachtung/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18282,6 +18318,42 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 170,
+      "field": "sourceUrl",
+      "title": "Netze BW / DB Energie: Lageplan Maßnahme A, BA 2 (PDF)",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/5ef3h5uS9bKJQPLGZrq85P/627ba254b3b1e65174f973ccded7e94d/erneuerung-110-kv-leitung-uw-weier-eichstetten-lageplan-massnahme-a-bauabschnitt-2.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/5ef3h5uS9bKJQPLGZrq85P/627ba254b3b1e65174f973ccded7e94d/erneuerung-110-kv-leitung-uw-weier-eichstetten-lageplan-massnahme-a-bauabschnitt-2.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 169,
+      "field": "sourceUrl",
+      "title": "Netze BW / DB Energie: Übersichtsplan Maßnahme A, BA 2 (PDF)",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/Q16GiVQ7MDBf9Jljcfz4V/50b5a5554f04e86ed182980558c58f75/erneuerung-110-kv-leitung-uw-weier-eichstetten-uebersichtsplan-massnahme-a-bauabschnitt-2.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/Q16GiVQ7MDBf9Jljcfz4V/50b5a5554f04e86ed182980558c58f75/erneuerung-110-kv-leitung-uw-weier-eichstetten-uebersichtsplan-massnahme-a-bauabschnitt-2.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 168,
+      "field": "sourceUrl",
+      "title": "Netze BW / DB Energie: Übersichtsplan Maßnahmen A + B als Gesamtübersichtsplan mit Bauabschnitten Maßnahme A (PDF)",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1SFNGd60UCL8PCOvwkPE23/aec76fe786222a094c8310ae159bc417/erneuerung-110-kv-leitung-uw-weier-eichstetten-gesamtuebersichtsplan-bauabschnitte-ab.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1SFNGd60UCL8PCOvwkPE23/aec76fe786222a094c8310ae159bc417/erneuerung-110-kv-leitung-uw-weier-eichstetten-gesamtuebersichtsplan-bauabschnitte-ab.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 81,
       "field": "sourceUrl",
       "title": "Netze BW: Pressemitteilung Vergabeverfahren, 13.08.2026",
@@ -18534,12 +18606,48 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "Regierungspräsidium Freiburg: Bekanntmachung Gemeinschaftsleitung Offenburg BA 2",
+      "url": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-BM.pdf",
+      "status": 200,
+      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-BM.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 166,
+      "field": "sourceUrl",
+      "title": "Regierungspräsidium Freiburg: Planfeststellungsbeschluss Gemeinschaftsleitung Offenburg BA 2 vom 30.12.2025",
+      "url": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
+      "status": 200,
+      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 136,
       "field": "sourceUrl",
       "title": "Rheinhausen: Gewerbegebiet Elzmatten, Beschlussvorlage 27/2023 zur Erschließung",
       "url": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
       "status": 304,
       "finalUrl": "https://www.rheinhausen.de/pb/site/Rheinhausen/get/documents_E881370485/rheinhausen/Dateien/TOP%206%20Gewerbegebiet%20Elzmatten.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 165,
+      "field": "sourceUrl",
+      "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
+      "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
+      "status": 200,
+      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""

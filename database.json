@@ -1260,6 +1260,19 @@
       "notes": "Partnerkandidat aufgrund belegter eigener Projektreferenz; keine iAccess-Partnerschaft, Verfügbarkeit oder unabhängige Leistungsprüfung bestätigt. Keine Kontaktaufnahme.",
       "source": "https://www.tftgmbh.de/referenzen/waermeversorgung-der-friedrich-ebert-siedlung-in-frankfurt-am-main/",
       "tags": "Abwärme, Wärmepumpen, Fachplanung, Partnerkandidat"
+    },
+    {
+      "id": "id-2026-11-13-rittal",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "name": "Rittal",
+      "role": "Hersteller von IT-Infrastruktur und Container-Rechenzentren; möglicher Lieferpartner",
+      "region": "Deutschland / Österreich; konkrete Liefer- und Servicezuständigkeit offen",
+      "contact": "https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter",
+      "references": "Eigene Herstellerreferenzen Künz-Dachcontainer in Österreich und KUKA-Container in Obernburg am Main.",
+      "notes": "Partnerkandidat aus eigener Herstellerreferenz; keine iAccess-Partnerschaft, kein Angebot und keine unabhängige Eignungsprüfung. Keine Kontaktaufnahme.",
+      "source": "https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter",
+      "tags": "Container, Racks, Kühlung, Partnerkandidat"
     }
   ],
   "planning": [
@@ -4652,6 +4665,102 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.breisach.de/114b7b9b273dc839.pdf",
       "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-01",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Obernburg am Main",
+      "documentTitle": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
+      "documentType": "Historische Herstellerreferenz",
+      "pages": "1",
+      "keyFacts": "1 PDF-Dateiseite mit gedruckten Seiten 38/39; Einsatz laut Hersteller seit 2021.",
+      "technicalFacts": "3 Außenkühlgeräte; beworbene Einsparung nicht unabhängig gemessen oder auf iAccess übertragbar.",
+      "planningFacts": "Vollständige Doppelseite visuell geprüft. Produktillustration ist keine ausführungsreife Zeichnung des KUKA-Standorts.",
+      "sourceUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.rittal.com/407370e2edc378a1.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-02",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Offenburg / Schutterwald / Hohberg",
+      "documentTitle": "Regierungspräsidium Freiburg: Planfeststellungsbeschluss Gemeinschaftsleitung Offenburg BA 2 vom 30.12.2025",
+      "documentType": "Amtlicher Planfeststellungsbeschluss",
+      "pages": "130",
+      "keyFacts": "130 Seiten; Feststellung des Leitungsplans, Geschäftszeichen RPF24-0513.2-147.",
+      "technicalFacts": "Netze BW LA 1610 und DB Energie BL 437 als getrennte Systeme auf gemeinsamem Gestänge.",
+      "planningFacts": "Dateiseiten 6 und 34 visuell geprüft. Kein Nachweis einer bereits freigegebenen Gewerbeparzelle oder Netzanschlusszusage. Rechtsbeständigkeit nicht gesondert bestätigt.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/rpf.baden-wuerttemberg.de/b2f22b6fe8886047.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-03",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Offenburg / Schutterwald / Hohberg",
+      "documentTitle": "Regierungspräsidium Freiburg: Bekanntmachung Gemeinschaftsleitung Offenburg BA 2",
+      "documentType": "Amtliche Bekanntmachung",
+      "pages": "2",
+      "keyFacts": "2 Seiten; bestätigt Planfeststellungsbeschluss 30.12.2025 für BA 2.",
+      "technicalFacts": "Leitungsbündelung, keine konkrete Verbrauchsleistung für Rechenzentren.",
+      "planningFacts": "Seite 1 visuell geprüft. Bekanntmachung ist kein Bauabschlussnachweis.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-BM.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/rpf.baden-wuerttemberg.de/90df47f521efbb31.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-04",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Offenburg / Weier–Eichstetten",
+      "documentTitle": "Netze BW / DB Energie: Übersichtsplan Maßnahmen A + B als Gesamtübersichtsplan mit Bauabschnitten Maßnahme A (PDF)",
+      "documentType": "Originaler Netzausbauplan",
+      "pages": "1",
+      "keyFacts": "1 PDF-Seite; Originalplan vom Betreiber verlinkt und visuell geprüft.",
+      "technicalFacts": "Leitungstrassen und geplante Bündelung; kein Kundenanschluss oder Ausführungsnachweis.",
+      "planningFacts": "Teilweise nur bildbasierter Inhalt. Genehmigungs-/Projektplan, nicht als heutiger Vermessungs- oder Bestandsplan verwenden.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/1SFNGd60UCL8PCOvwkPE23/aec76fe786222a094c8310ae159bc417/erneuerung-110-kv-leitung-uw-weier-eichstetten-gesamtuebersichtsplan-bauabschnitte-ab.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/1a7d9871db73fa2d.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-05",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Offenburg / Weier–Eichstetten",
+      "documentTitle": "Netze BW / DB Energie: Übersichtsplan Maßnahme A, BA 2 (PDF)",
+      "documentType": "Originaler Netzausbauplan",
+      "pages": "1",
+      "keyFacts": "1 PDF-Seite; Originalplan vom Betreiber verlinkt und visuell geprüft.",
+      "technicalFacts": "Leitungstrassen und geplante Bündelung; kein Kundenanschluss oder Ausführungsnachweis.",
+      "planningFacts": "Teilweise nur bildbasierter Inhalt. Genehmigungs-/Projektplan, nicht als heutiger Vermessungs- oder Bestandsplan verwenden.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/Q16GiVQ7MDBf9Jljcfz4V/50b5a5554f04e86ed182980558c58f75/erneuerung-110-kv-leitung-uw-weier-eichstetten-uebersichtsplan-massnahme-a-bauabschnitt-2.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/5c3349e5363fb570.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+    },
+    {
+      "id": "id-2026-11-13-pdf-06",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "municipality": "Offenburg / Weier–Eichstetten",
+      "documentTitle": "Netze BW / DB Energie: Lageplan Maßnahme A, BA 2 (PDF)",
+      "documentType": "Originaler Netzausbauplan",
+      "pages": "1",
+      "keyFacts": "1 PDF-Seite; Originalplan vom Betreiber verlinkt und visuell geprüft.",
+      "technicalFacts": "Leitungstrassen und geplante Bündelung; kein Kundenanschluss oder Ausführungsnachweis.",
+      "planningFacts": "Teilweise nur bildbasierter Inhalt. Genehmigungs-/Projektplan, nicht als heutiger Vermessungs- oder Bestandsplan verwenden.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/5ef3h5uS9bKJQPLGZrq85P/627ba254b3b1e65174f973ccded7e94d/erneuerung-110-kv-leitung-uw-weier-eichstetten-lageplan-massnahme-a-bauabschnitt-2.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/72d9948b78e6054c.pdf",
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
     }
   ],
   "media": [
@@ -4793,6 +4902,30 @@
       "notes": "Lokaler Snapshot ohne ASHRAE-Redirect. Original: https://handbook.ashrae.org/Handbooks/A19/IP/a19_ch20/a19_ch20_ip.aspx. Technischer Referenztext zu RechenzentrumsflÃ¤chen, LuftfÃ¼hrung, Wasserleckage, CFD-Modellierung und Betriebsparametern.",
       "tags": "ASHRAE, LuftfÃ¼hrung, CFD, Wasserleckage, Betrieb",
       "source": "ASHRAE"
+    },
+    {
+      "id": "id-2026-11-13-netzplan-2",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "title": "Gemeinschaftsleitung Offenburg BA 2: Übersichtsplan",
+      "category": "Netzinfrastruktur / Originalplan",
+      "system": "110-kV-Verteilnetz LA 1610 und Bahnstrom BL 437",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/Q16GiVQ7MDBf9Jljcfz4V/50b5a5554f04e86ed182980558c58f75/erneuerung-110-kv-leitung-uw-weier-eichstetten-uebersichtsplan-massnahme-a-bauabschnitt-2.pdf",
+      "notes": "Originaler Betreiberplan visuell geprüft; Schriftfeld Bearbeitung 08.11.2023. Keine selbst erstellte Zeichnung. Projekt-/Genehmigungsdarstellung, kein Bauabschluss, keine freie Parzelle oder Anschlussleistung belegt.",
+      "tags": "Original, Hoch³, Trasse, Projektplan",
+      "source": "Netze BW / DB Energie; auf Betreiberseite verlinkte Originalunterlage"
+    },
+    {
+      "id": "id-2026-11-13-netzplan-3",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "title": "Gemeinschaftsleitung Offenburg BA 2: Lageplan",
+      "category": "Netzinfrastruktur / Originalplan",
+      "system": "110-kV-Verteilnetz LA 1610 und Bahnstrom BL 437",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/5ef3h5uS9bKJQPLGZrq85P/627ba254b3b1e65174f973ccded7e94d/erneuerung-110-kv-leitung-uw-weier-eichstetten-lageplan-massnahme-a-bauabschnitt-2.pdf",
+      "notes": "Originaler Betreiberplan visuell geprüft; Schriftfeld Bearbeitung 08.11.2023. Keine selbst erstellte Zeichnung. Projekt-/Genehmigungsdarstellung, kein Bauabschluss, keine freie Parzelle oder Anschlussleistung belegt.",
+      "tags": "Original, Hoch³, Trasse, Projektplan",
+      "source": "Netze BW / DB Energie; auf Betreiberseite verlinkte Originalunterlage"
     }
   ],
   "findings": [
@@ -9401,6 +9534,44 @@
       "confidence": "Amtliche Bekanntmachung 4 Seiten und 12 verlinkte Originalunterlagen vollständig textlich ausgelesen; Bauvorschriften Seite 1, Planzeichnung und ausgewählte Gutachtentitel visuell geprüft",
       "action": "Eigene Bewertung: Energieplanung als Kontext dokumentieren. Nähe zu 380-kV-Leitungen nicht als Anschlussmöglichkeit ausgeben. Das Brandschutzkonzept ist ausdrücklich ein Entwurf zur Bauleitplanung mit offenen Angaben, kein abschließender prüffähiger Nachweis. Rekultivierungsgutachten nicht als Tragfähigkeitsnachweis für Rechenzentrumsgebäude verwenden. FNP- und Bebauungsplanfristen getrennt halten.",
       "tags": "Solarpark, Batteriespeicher, Planentwurf, keine Rechenzentrumsfläche"
+    },
+    {
+      "id": "id-2026-11-13-kuenz-container",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "title": "Künz: Container-Rechenzentrum auf Bestandsdach als Herstellerreferenz, kein freier Standort",
+      "topic": "Container-Rechenzentren / Bestandsnutzung",
+      "summary": "Rittal beschreibt für Künz in Hard, Österreich, einen Dachcontainer mit 8 VX-IT-Racks und 3 LCP-DX-Kühlgeräten. Betrieb seit Anfang 06.2026 laut Herstellerreferenz; keine unabhängige Betriebsprüfung. Die Dachnutzung ist ein Referenzbeispiel außerhalb Baden-Württembergs.",
+      "sourceUrl": "https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter",
+      "confidence": "Herstellerquelle mit projektspezifischen Angaben; keine behördliche Akte oder unabhängiger Leistungsnachweis",
+      "action": "Eigene Bewertung: Bestandsdächer als zusätzliche Standortoption prüfen. Tragwerk, Aufstellung, Feuerwehrzugang, Schall, Brandschutz und Anschluss standortbezogen klären. Kein Nachweis einer verfügbaren Fläche, übertragbaren IT-Leistung oder garantierten Lieferzeit.",
+      "tags": "Bestandsdach, 8 Racks, Österreich, Herstellerreferenz"
+    },
+    {
+      "id": "id-2026-11-13-kuka-container",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "title": "KUKA Obernburg: historische Container-Referenz mit Außenkühlung, Herstellerunterlage 01/2022",
+      "topic": "Container-Rechenzentren / Kühlung",
+      "summary": "Originale Rittal-Magazin-Doppelseite 38/39, Ausgabe 01/2022, als 1 PDF-Dateiseite: IT-Container mit 3 Blue-e+-Außenkühlgeräten bei KUKA Industries in Obernburg am Main. Herstellertext nennt Einsatz seit 2021. Keine neue Inbetriebnahme 2026 und kein Standortangebot.",
+      "sourceUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
+      "additionalSourceUrl": "https://www.rittal.com/de-de/Loesungen/Referenzen/Kuka-Industries",
+      "confidence": "Originale Herstellerunterlage vollständig textlich und visuell geprüft, historische Referenz; keine unabhängige Messung",
+      "action": "Eigene Bewertung: Außenkühlung als Flächen- und Wartungsoption untersuchen. Beworbene Energieeinsparung um 1/3 nicht als iAccess-Prognose oder gemessene Gesamtstandorteinsparung übernehmen. Generische Produktgrafik ist keine bestätigte Auslegung des konkreten KUKA-Standorts.",
+      "tags": "Herstellerreferenz, 2021, 01/2022, Außenkühlung"
+    },
+    {
+      "id": "id-2026-11-13-hoch3-trassenbuendelung",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "title": "Hoch³ Offenburg: Trassenbündelung BA 2 seit 30.12.2025 planfestgestellt, Baufeld und Leistung weiter zu bestätigen",
+      "topic": "Netzausbau / Gewerbeflächenerschließung",
+      "summary": "Amtlicher Planfeststellungsbeschluss vom 30.12.2025, Geschäftszeichen RPF24-0513.2-147, genehmigt Bauabschnitt 2 der Gemeinschaftsleitung LA 1610 / BL 437 in Offenburg, Schutterwald und Hohberg. Etwa 1,5 km Leitungsabschnitt zur späteren Baufeldfreimachung im Gewerbepark Hoch³. Betreiberseite nennt aktuell EU-weite Ausschreibung; baulicher Abschluss nicht nachgewiesen.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
+      "additionalSourceUrl": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten",
+      "confidence": "Amtlicher Beschluss 130 Seiten ausgelesen; Dateiseiten 6 und 34 visuell geprüft. Betreiberstatus direkt am 13.11.2026 abgerufen. Keine Bestätigung verfügbarer Anschlussleistung",
+      "action": "Eigene Bewertung: Trassenbündelung und mögliche spätere Flächenfreigabe beobachten. Keine freie Parzelle oder Bezugsleistung ableiten. Netze-BW-Verteilnetz und DB-Bahnstrom getrennt halten; gemeinsames Gestänge ist keine gemeinsame Kundenanschlusszusage. Genehmigungsstand gilt BA 2, nicht allen Teilprojekten.",
+      "tags": "Hoch³, 110 kV, Planfeststellung, Flächenfreigabe offen"
     }
   ],
   "gridChecks": [
@@ -9642,6 +9813,20 @@
       "nextAction": "Anmeldefenster 19.10.–06.11.2026 beachten; bei konkretem Projekt zuerst Betreiberzuständigkeit und Nachweise klären. Kein Antrag ausgeführt.",
       "source": "https://www.fairnetzgmbh.de/vergabeverfahren-netzanschlussleistungen",
       "tags": "Punkteverfahren, Frist, keine Netzreservierung"
+    },
+    {
+      "id": "id-2026-11-13-hoch3-trassenbuendelung",
+      "created": "2026-11-13",
+      "updated": "2026-11-13",
+      "site": "Gewerbepark Hoch³ / Gemeinschaftsleitung Bauabschnitt 2",
+      "municipality": "Offenburg, Schutterwald, Hohberg",
+      "targetPowerMw": "Keine konkrete Verbrauchsleistung angefragt oder bestätigt",
+      "gridOperator": "Netze BW GmbH; DB Energie GmbH als eigener Bahnstrom-Vorhabenträger",
+      "voltageLevel": "110 kV Leitungsprojekt; konkrete Kundenanschlussspannung offen",
+      "capacityStatus": "BA 2 am 30.12.2025 planfestgestellt; laut Betreiber Ausschreibung, keine bestätigte freie Bezugsleistung",
+      "nextAction": "Baufeldfreigabe, Eigentümerverfügbarkeit, örtliche Betreiberzuständigkeit und konkrete Anschlussleistung getrennt bestätigen. Kein Antrag und keine Reservierung ausgeführt.",
+      "source": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
+      "tags": "Originalbeschluss, Trassenbündelung, keine Netzreservierung"
     }
   ],
   "connectivityChecks": [
@@ -9856,7 +10041,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-12",
+    "lastRun": "2026-11-13",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -9884,8 +10069,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-12",
-    "lastResearchSummary": "42 kommunale Teilprüfungen; Breisach-Planung, Marktdaten und Abwärme-Referenzfall ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-13",
+    "lastResearchSummary": "42 kommunale Teilprüfungen; Netzausbau Hoch³ und Herstellerreferenzen zu Container-Rechenzentren ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

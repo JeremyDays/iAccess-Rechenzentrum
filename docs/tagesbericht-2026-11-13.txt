@@ -1,0 +1,61 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 13.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+3 Befunde, 6 Dokumenteinträge, 2 Originalzeichnungen und 1 Netzprüfeintrag ergänzt. Rittal als möglicher Lieferpartner neu erfasst; keine vereinbarte iAccess-Partnerschaft. Keine neue gesicherte freie Rechenzentrumsfläche und keine bestätigte Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Reservierung, Anmeldung oder Antragstellung vorgenommen.
+
+Neue Quellen und Ergebnisse
+1. Gewerbepark Hoch³: Originaler Planfeststellungsbeschluss des Regierungspräsidiums Freiburg vom 30.12.2025, Geschäftszeichen RPF24-0513.2-147, für Bauabschnitt 2 der Gemeinschaftsleitung LA 1610 / BL 437. Der etwa 1,5 km lange Abschnitt betrifft Offenburg, Schutterwald und Hohberg. Die Trassenbündelung soll eine spätere Baufeldfreimachung und Erschließung ermöglichen. Die direkt abgerufene Betreiberseite nennt aktuell die EU-weite Ausschreibung. Kein Bauabschluss, keine bereits freie Parzelle und keine gesicherte Verbrauchsleistung für ein Rechenzentrum nachgewiesen. Das Leitungsbaurecht betrifft diesen Bauabschnitt, nicht alle Teilmaßnahmen. Netze-BW-Verteilnetz und DB-Bahnstrom bleiben getrennte Systeme trotz gemeinsamen Gestänges.
+Originalbeschluss: https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf
+Behördliche Verfahrensseite: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/stromleitungen-weier-eichstetten/
+Betreiberquelle: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten
+Die im Web zunächst angezeigte ältere Betreiberfassung nannte für den südlichen Abschnitt noch 2027. Der direkte aktuelle Abruf beschreibt Antragsvorbereitungen beziehungsweise Einreichungen 10.2026–02.2027. Diese Terminangaben sind Planung, kein Nachweis einzelner eingereichter oder genehmigter Abschnitte. Genehmigung von BA 2 wurde separat am amtlichen Original gegengeprüft. Heutiges Auffinden des Beschlusses ist kein neues Genehmigungsdatum.
+
+2. Künz in Hard, Österreich: Herstellerreferenz beschreibt einen Container auf dem Bestandsdach mit 8 Serverracks und 3 LCP-DX-Kühlgeräten. Betrieb seit Anfang 06.2026 laut Hersteller; keine unabhängige Betriebsprüfung. Eigene Bewertung: Bestandsdächer als ergänzende Standortoption berücksichtigen. Statik, Feuerwehrzugang, Schall, Brandschutz und Anschluss für jeden Standort gesondert klären. Kein Flächenangebot in Baden-Württemberg und keine allgemeine Lieferzeit- oder Leistungszusage.
+Quelle: https://www.rittal.com/at-de_AT/Loesungen/Referenzen/KuenzDataCenter
+
+3. KUKA Industries in Obernburg am Main: Historische Rittal-Referenz für einen IT-Container mit 3 Außenkühlgeräten. Originalmagazin 01/2022, gedruckte Seiten 38/39 als 1 PDF-Dateiseite. Hersteller nennt Einsatz seit 2021; keine neue Inbetriebnahme 2026. Beworbene Energieeinsparung um 1/3 nicht unabhängig bestätigt und nicht als iAccess-Prognose übernommen. Die Produktillustration ist keine bestätigte Ausführungszeichnung des konkreten Standorts.
+Originalunterlage: https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/
+Herstellerseite: https://www.rittal.com/de-de/Loesungen/Referenzen/Kuka-Industries
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale und Betreiber-/Netzbetreiberquellen berücksichtigt. Suchtreffer, Anbieterwerbung und Ankündigungen allein sind keine Bestätigung freier Flächen oder technischer Eignung. Wiederholte Meldungen zum Frankfurter Abwärmeprojekt vom 11.11.2026 nicht als neuen zweiten Befund gezählt. Frühere Netzanschluss-Verfahrenshinweise bleiben ohne konkrete Projektanfrage keine Reservierung. Kein neuer belastbarer regionaler Flächenfund aus der Nachrichtensuche.
+
+Kommunale Prüfung
+42 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Suchbegriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet. Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der Prüfmatrix dokumentiert. Neubürgerseiten oder Logo-Bilder sind keine Ratsaktenprüfung. Alle 42 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsstandort oder freier Fläche: 0. Offenburg liefert einen amtlich bestätigten Infrastrukturhinweis, keinen verfügbaren Standort. Die übrigen 41 Gemeinden bleiben ohne neuen gesicherten Standortfund oder offen; keine Negativbescheinigung. Künz und KUKA sind Referenzanlagen außerhalb Baden-Württembergs und werden nicht als neue regionale Flächen gezählt.
+Neue amtliche Einladung Aidlingen zur Sitzung am 19.11.2026, datiert 12.11.2026, 2 Seiten ausgelesen. Das darin verlinkte Ratsinformationssystem zusätzlich aufgerufen. Eine Einladung ist kein Beschlussnachweis. Keine neue Rechenzentrumszulassung daraus abgeleitet.
+
+Neue PDFs, Gutachten und Zeichnungen
+6 neue Dokumenteinträge: historische KUKA-Herstellerreferenz (1 Dateiseite), Planfeststellungsbeschluss (130 Seiten), amtliche Bekanntmachung (2 Seiten) sowie 3 Betreiber-Netzpläne (je 1 Seite). Beschluss vollständig textlich ausgelesen; Dateiseiten 6 und 34 visuell geprüft. Bekanntmachung Seite 1 und sämtliche 3 Planblätter visuell geprüft. Das ist keine unabhängige juristische oder ingenieurtechnische Vollprüfung; Rechtsbeständigkeit und Bauvollzug nicht gesondert nachgewiesen. Keine neuen standortbezogenen Gutachten für ein Rechenzentrum.
+2 originale Netzpläne als technische Zeichnungen verlinkt: Übersichtsplan und Lageplan Bauabschnitt 2, Schriftfeld Bearbeitung 08.11.2023. Keine erfundene Zeichnung, keine Überarbeitung des Originals. Projekt-/Genehmigungsdarstellung, kein heutiger Vermessungs- oder Bestandsplan. Herstellerillustration bleibt Bestandteil der Originalreferenz und wird nicht als ausführungsreife Rechenzentrumsplanung gezählt. Keine neuen separaten Fotos übernommen.
+
+Lokale Archivierung
+598 unterschiedliche Quellenadressen abgerufen, 568 erfolgreich lokal gesichert, 13 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 88 inhaltsverschiedene PDF-Dateien mit insgesamt 1485 Seiten berücksichtigt, davon 7 gegenüber dem bisherigen Archiv neue Dateiinhalte. Neue Dokumenteinträge und neue Dateiinhalte sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet; keine erneute Vollauswertung unveränderter Inhalte behauptet. 12 Dokumente textlich unvollständig erschlossen; darunter bildbasierte Netzpläne, die ergänzend visuell geprüft wurden. Keine vollständige optische Texterkennung durchgeführt. Archivierung mit vorhandenem Quellenarchiv-Programm; lokale Sicherungen werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+171 erfasste Dokumentquellen geprüft: 171 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 6 neu erfasste Originalquellen zusätzlich nur im lokalen Quellenarchiv. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1658 unterschiedliche öffentliche Links geprüft: 1629 erreichbar, 29 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+Rittal als möglicher Hersteller-/Lieferpartner ergänzt, gestützt auf eigene Container-Referenzen. Keine bestätigte Lieferbarkeit, kein aktuelles Angebot, keine iAccess-Partnerschaft und keine Kontaktaufnahme. 1 neuer Partnerkandidat, 0 vereinbarte Partnerschaften.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 237 → 240 (+3)
+Dokumentauswertungen: 165 → 171 (+6)
+Technische Zeichnungen: 6 → 8 (+2 Originalnetzpläne)
+Netzprüfeinträge: 13 → 14 (+1)
+Unternehmen/Partnerkandidaten: 23 → 24 (+1)
+Standorte: 32 (+0); Bauleitplanungseinträge: 38 (+0)
+Anforderungen: 15 (+0); Fotos/Medien: 5 (+0)
+Neue bestätigte verfügbare Standorte: 0.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Einträge erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.
