@@ -1,7 +1,7 @@
 {
   "checked": 1658,
-  "ok": 1629,
-  "blocked": 29,
+  "ok": 1627,
+  "blocked": 31,
   "broken": 0,
   "results": [
     {
@@ -36,6 +36,18 @@
       "url": "https://www.hermaringen.de/",
       "status": 503,
       "finalUrl": "https://www.hermaringen.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 429,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -96,6 +108,18 @@
       "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "status": 403,
       "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
+      "status": 403,
+      "finalUrl": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -7146,18 +7170,6 @@
     },
     {
       "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 200,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 69,
       "field": "sourceUrl",
       "title": "EU-Entwurf zu RZ-Oekostrom: strengere zeit- und zonengleiche Anrechnung offenbar abgeschwaecht",
@@ -11496,18 +11508,6 @@
       "url": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
       "status": 200,
       "finalUrl": "https://www.voerstetten.de/p/oeffentliche-bekanntmachungen",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/c1e05b74208a6c570eec7c658ac8f187",
-      "status": 200,
-      "finalUrl": "https://apnews.com/article/new-york-data-centers-moratorium-ai-c1e05b74208a6c570eec7c658ac8f187",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18647,7 +18647,7 @@
       "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
       "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""

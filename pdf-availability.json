@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-13",
+  "checkedAt": "2026-11-14",
   "total": 171,
   "localAvailable": 68,
   "publicAvailable": 171,
@@ -2824,7 +2824,7 @@
       "ok": true,
       "blocked": false,
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "contentType": "application/pdf",
       "error": ""
     },

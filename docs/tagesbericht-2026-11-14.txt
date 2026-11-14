@@ -1,0 +1,51 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 14.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+42 offene Gemeinden teilweise geprüft. Kein neuer gesicherter Rechenzentrumsstandort, keine bestätigte freie Fläche oder Strombezugsleistung. 3 neue beziehungsweise geänderte kommunale PDF-Inhalte lokal archiviert. Keine neuen fachlichen Datenbankeinträge und keine Doppelzählung bestehender Referenzen. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Reservierung, Anmeldung oder Antragstellung vorgenommen.
+
+Ausstehender Bericht vom Vortag
+Der Bericht vom 13.11.2026 lag heute noch ungesendet im persönlichen Outlook-Postausgang und war nicht mehr zur Übertragung vorgemerkt. Nach Prüfung von Empfänger und Berichtanhang wurde dieselbe bestehende Nachricht erneut übergeben, keine neue Nachricht erstellt. Versand am 14.11.2026 um 07:34 Uhr in Gesendete Elemente nachgewiesen: Absender und einziger Empfänger hornick@iaccess.de, keine Kopie oder Blindkopie, Berichtanhang anhand des Datei-Prüfwerts bestätigt. Daraus wird keine Zustellung oder Kenntnisnahme abgeleitet. Der Fortschrittsstand vom 13.11.2026 ist damit abgeschlossen.
+
+Neue Quellen und kommunale Unterlagen
+1. Umkirch: Nachrichtenblatt Nr. 46 vom 13.11.2026, 20 PDF-Seiten, neu ausgelesen und archiviert. Die Passage zum Gewerbegebiet betrifft eine Busroute; daraus folgt kein Flächenangebot oder Rechenzentrumsprojekt.
+Quelle: https://www.umkirch.de/resources/01%20Website/Unterseiten/Nachrichtenblatt/Online-Bl%C3%A4ttle/Bl%C3%A4ttle%20Nr.%2046%2C%2013.11.2026.pdf
+
+2. Aidlingen: Aktualisierte Einladung zur Gemeinderatssitzung am 19.11.2026, datiert 13.11.2026, 2 Seiten. Die neue Fassung ist gegenüber der zuvor archivierten Einladung getrennt gesichert. Keine bereits erfolgte Beschlussfassung oder Rechenzentrumszulassung daraus abgeleitet.
+Quelle: https://www.aidlingen.de/fileadmin/Dateien/Dateien/Bekanntmachungen_2026/Bekanntmachung_der_Sitzung_Gemeinderat_am_19.11.2026_signiert_.pdf
+
+3. Endingen/Forchheim: Unter der Amtsblatt-Adresse vom 13.11.2026 wurden 2 PDF-Seiten bereitgestellt und ausgelesen. Enthalten ist unter anderem eine Einladung für Endingen am 18.11.2026. Die Datei ist nicht als vollständig geprüftes gesamtes Amtsblatt ausgegeben. Kein neuer gesicherter Standortbefund.
+Quelle: https://www.endingen.de/fileadmin/Website/Dateien/Amtsblatt/2026/Amtsblatt_Endingen_Forchheim_13.11.2026.pdf
+
+Nachrichtensuche und Abgleich
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Abrufgrenzen sind in den lokalen Protokollen erfasst. Suchtreffer, Stellenanzeigen und Presseübersichten allein wurden nicht als technischer Nachweis oder Flächenverfügbarkeit gewertet. Kein neuer gesicherter regionaler Flächenfund aus der Nachrichtensuche.
+Der Hinweis zum Abwärmenetz mit nLighten im Stuttgarter Synergiepark wurde mit dem Befund vom 17.10.2026 abgeglichen: bereits erfasst, deshalb kein neuer Eintrag. Ebenso wurden die gestern ergänzten Container- und Netzausbaureferenzen nicht erneut gezählt. Marktprognosen oder politische Forderungen sind keine Netzanschlusszusage und kein Nachweis bereits geänderten Rechts.
+Bestehende Primärquelle Stuttgart: https://www.stadtwerke-stuttgart.de/aktuelles/presse/presseinformationen/2026/sep/21/warmewende-aus-dem-rechenzentrum/
+
+Kommunale Prüfung
+42 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet. Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix erfasst. Neubürgerseiten oder Logo-Bilder zählen nicht als Ratsaktenprüfung. Alle 42 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder freier Fläche: 0. Alle 42 bleiben ohne neuen gesicherten Standortfund oder offen; das ist keine Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Lokale Archivierung und PDF-Auslese
+592 unterschiedliche Quellenadressen abgerufen, 562 erfolgreich lokal gesichert, 4 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 82 inhaltsverschiedene PDF-Dateien mit insgesamt 1353 Seiten berücksichtigt, davon 3 gegenüber dem bisherigen Archiv neue beziehungsweise geänderte Inhalte. Neue Dateiinhalte und neue Datenbankeinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet; keine erneute Vollauswertung unveränderter Inhalte behauptet. 10 Dokumente textlich unvollständig erschlossen; keine vollständige optische Texterkennung durchgeführt. Archivierung mit vorhandenem Quellenarchiv-Programm. Keine neuen standortbezogenen Fachgutachten, Fotos, Illustrationen oder technischen Zeichnungen übernommen. Keine selbst erstellten technischen Zeichnungen. Lokale Sicherungen werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+171 erfasste Dokumentquellen geprüft: 171 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 3 neue beziehungsweise geänderte kommunale PDF-Inhalte separat im lokalen Quellenarchiv, ohne neue Datenbank-Dokumenteinträge. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1658 unterschiedliche öffentliche Links geprüft: 1627 erreichbar, 31 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Bestehende Hersteller- und Betreiberreferenzen nicht als iAccess-Partnerschaft ausgegeben. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Fachliche Datenbankzahlen unverändert: Befunde 240 (+0), Dokumentauswertungen 171 (+0), Standorte 32 (+0), Bauleitplanungseinträge 38 (+0), Unternehmen/Partnerkandidaten 24 (+0), Anforderungen 15 (+0), technische Zeichnungen 8 (+0), Fotos/Medien 5 (+0), Netzprüfeinträge 14 (+0).
+Tagesprüfung und Quellenarchiv fortgeschrieben; 3 neue beziehungsweise geänderte PDF-Inhalte, keine neue gesicherte freie Fläche.
+
+Veröffentlichung und heutiger Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Einträge erhalten. 6 vorgesehene öffentliche Dateien mit Tagesstand und Bericht werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Heutiger Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.
