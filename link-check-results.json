@@ -1,7 +1,7 @@
 {
-  "checked": 1658,
-  "ok": 1627,
-  "blocked": 31,
+  "checked": 1662,
+  "ok": 1632,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -36,18 +36,6 @@
       "url": "https://www.hermaringen.de/",
       "status": 503,
       "finalUrl": "https://www.hermaringen.de/",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 429,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -7170,6 +7158,18 @@
     },
     {
       "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 69,
       "field": "sourceUrl",
       "title": "EU-Entwurf zu RZ-Oekostrom: strengere zeit- und zonengleiche Anrechnung offenbar abgeschwaecht",
@@ -7188,6 +7188,18 @@
       "url": "https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten",
       "status": 200,
       "finalUrl": "https://de.newsroom.ibm.com/2024-10-01-Erstes-IBM-Quantum-Data-Center-in-Europa-eroffnet-wird-die-leistungsstarksten-Quantensysteme-von-IBM-enthalten",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 241,
+      "field": "sourceUrl",
+      "title": "Eichstetten Bruckmatten: Maklerobjekt 1-672 ist als verkauft gekennzeichnet",
+      "url": "https://www.nord-sued-grund-immobilien.de/angebote/gewerbe-immo-kaufen/1-672-repraesentative-gewerbeimmobilie-mit-hallen-und-verwaltungsflaechen-auf-5-800-m%C2%B2-grundstueck/",
+      "status": 200,
+      "finalUrl": "https://www.nord-sued-grund-immobilien.de/angebote/gewerbe-immo-kaufen/1-672-repraesentative-gewerbeimmobilie-mit-hallen-und-verwaltungsflaechen-auf-5-800-m%C2%B2-grundstueck/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18030,6 +18042,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 174,
+      "field": "sourceUrl",
+      "title": "Eichstetten Bruckmatten III: Begründung, Stand 18.12.2025",
+      "url": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III/02_GE_Bruckmatten_III_Begr%C3%BCndung_2025-12-18.pdf",
+      "status": 200,
+      "finalUrl": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III/02_GE_Bruckmatten_III_Begr%C3%BCndung_2025-12-18.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 135,
       "field": "sourceUrl",
       "title": "Endingen: Radacker I, zweite Änderung und Erweiterung, Begründung 04.02.2026",
@@ -18120,6 +18144,18 @@
       "url": "https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf",
       "status": 200,
       "finalUrl": "https://eu.fsastech.com/media/4w2fnzkt/fsas-success-story-beg-pfaffenhofen.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 172,
+      "field": "sourceUrl",
+      "title": "GVV Kaiserstuhl-Tuniberg: Bekanntmachung Genehmigung 8. FNP-Änderung vom 31.07.2026",
+      "url": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/Bekanntmachung_Genehmigung_signed.pdf",
+      "status": 200,
+      "finalUrl": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/Bekanntmachung_Genehmigung_signed.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18647,7 +18683,7 @@
       "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
       "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19219,11 +19255,23 @@
     {
       "collection": "zoningPlans",
       "index": 21,
-      "field": "documents",
+      "field": "sourceUrl",
       "title": "Bebauungsplan \"Gewerbegebiet Bruckmatten III\"",
-      "url": "https://www.eichstetten.de/leben-bildung-bauen/bauen-in-eichstetten/bebauungsplaene",
+      "url": "https://www.eichstetten.de/fileadmin/Dateien/Website/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III_%C3%96ffentliche_Bekanntmachung_Satzung_unterschrieben.pdf",
       "status": 200,
-      "finalUrl": "https://www.eichstetten.de/leben-bildung-bauen/bauen-in-eichstetten/bebauungsplaene",
+      "finalUrl": "https://www.eichstetten.de/fileadmin/Dateien/Website/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III_%C3%96ffentliche_Bekanntmachung_Satzung_unterschrieben.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 21,
+      "field": "additionalSourceUrl",
+      "title": "Bebauungsplan \"Gewerbegebiet Bruckmatten III\"",
+      "url": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/8._Hydraulische_Untersuchung__Hydrotec__von_Juni_2025.pdf",
+      "status": 200,
+      "finalUrl": "https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/8._Hydraulische_Untersuchung__Hydrotec__von_Juni_2025.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

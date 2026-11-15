@@ -1,0 +1,63 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 15.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+44 offene Gemeinden teilweise geprüft. 2 Befunde und 4 Dokumenteinträge ergänzt; 1 bestehender Bauleitplanungseintrag fachlich korrigiert. Quellenzuordnungen für Eichstetten am Kaiserstuhl und Ihringen korrigiert. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Reservierung, Anmeldung oder Antragstellung vorgenommen.
+
+Quellenkorrekturen
+Eichstetten war in der Abdeckungsliste fälschlich mit https://www.dettighofen.de/start und einer Hochrhein-Ortsbeschreibung verknüpft. Ihringen war mit https://www.ibach.de/ und einer Hotzenwald-Bewertung verknüpft. Diese Quellenzuordnungen sind sachlich unzutreffend. Die richtigen Gemeindeseiten wurden über die amtlichen Impressumsangaben bestätigt. Frühere Datensätze bleiben in der Änderungshistorie erhalten; aus den falschen Ortsbewertungen wird kein sachlicher Negativbefund für Eichstetten oder Ihringen abgeleitet. Andere historische Gemeindezuordnungen wurden nicht vollständig geprüft.
+Eichstetten: https://www.eichstetten.de/rathaus-service-gemeinderat/impressum-service/impressum
+Ihringen: https://www.ihringen.de/%2CLde/kultur-und-freizeit/3146416
+
+Neue Ergebnisse
+1. Eichstetten Bruckmatten III: Die amtliche Bekanntmachung vom 20.10.2026 nennt den Satzungsbeschluss vom 23.04.2026 und ein Inkrafttreten mit Bekanntmachung. Auf der Gemeindeseite ist sie mit Dateidatum 29.10.2026 verlinkt. Der Planbereich umfasst ungefähr 1,54 ha; das ist keine freie Netto-Gewerbefläche. Das genaue tatsächliche Veröffentlichungsdatum wurde nicht gesondert bestätigt. Die separate FNP-Bekanntmachung vom 31.07.2026 nennt einen Beschluss vom 07.05.2026 und die Genehmigung des Landratsamts vom 22.06.2026. Das Linkdatum zur FNP-Datei lautet auf der Gemeindeseite 23.07.2026; der Unterschied zum Dokumentdatum wird nicht eigenständig aufgelöst. Kein konkretes Rechenzentrumsbaurecht oder Grundstücksangebot daraus abgeleitet.
+Bebauungsplan-Bekanntmachung: https://www.eichstetten.de/fileadmin/Dateien/Website/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III_%C3%96ffentliche_Bekanntmachung_Satzung_unterschrieben.pdf
+FNP-Bekanntmachung: https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/Bekanntmachung_Genehmigung_signed.pdf
+
+2. Hochwasserrisiko: Die Hydrotec-Untersuchung vom Juni 2025 hält beide Erweiterungsbereiche Bruckmatten III und Stegmatten III weiterhin für HQ100-betroffen. Der rechnerische Retentionsverlust von ungefähr 2304 m³ gilt gemeinsam für beide Gebiete unter Annahme vollständiger Aufschüttung und Bebauung. Das Gutachten modelliert einen Ausgleich an Fläche I; die tatsächliche Herstellung und behördliche Bestätigung der wasserrechtlichen Ausnahme sind damit nicht nachgewiesen. Ein Ausnahme-Antrag ist keine erteilte Genehmigung. Die frühere pauschale Einstufung von Bruckmatten III als Potenzialfläche für kleine/modulare Rechenzentren wurde entsprechend eingeschränkt.
+Die Begründung Stand 18.12.2025 nennt Schutzstreifen von 25/30 m an Leitungen und einen künftigen Leitungsumbau. Eine bereits umgesetzte Trassenräumung oder freie Anschlussleistung ist nicht belegt. Ältere Begründung, aktuelle Bekanntmachung und tatsächlicher Vollzug bleiben getrennt.
+Hydraulik: https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/2026/31.07.2026/8._Hydraulische_Untersuchung__Hydrotec__von_Juni_2025.pdf
+Ältere Begründung: https://www.eichstetten.de/fileadmin/Dateien/Website/Dateien/%C3%96ffentliche_Bekanntmachungen/Bruckmatten_III/02_GE_Bruckmatten_III_Begr%C3%BCndung_2025-12-18.pdf
+
+3. Gegenprüfung eines Suchtreffers: Das Hallen- und Verwaltungsobjekt 1-672 in Bruckmatten wird auf der direkt abgerufenen Maklerseite ausdrücklich als verkauft bezeichnet. Es wird deshalb nicht als freier Standort aufgenommen. Seine Grundstücksidentität und Hochwasserlage wurden nicht mit dem Erweiterungsgebiet Bruckmatten III gleichgesetzt.
+Makleroriginal: https://www.nord-sued-grund-immobilien.de/angebote/gewerbe-immo-kaufen/1-672-repraesentative-gewerbeimmobilie-mit-hallen-und-verwaltungsflaechen-auf-5-800-m%C2%B2-grundstueck/
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Suchtreffer, Anbieterwerbung und Meldungen außerhalb Baden-Württembergs sind keine verfügbaren regionalen Grundstücke. Keine wiederholte Aufnahme bestehender Abwärme-, Container- oder Marktreferenzen. Keine unbestätigten Gesetzesänderungen als geltendes Recht dargestellt. Kein neuer gesicherter regionaler Rechenzentrumsstandort aus der Nachrichtensuche.
+
+Kommunale Prüfung
+44 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet. Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix erfasst. Alle 44 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder freier Fläche: 0. Eichstetten liefert eine wichtige Planstands- und Risikovertiefung. Alle 44 bleiben ohne neuen gesicherten freien Standortfund oder offen; keine Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Neue PDFs und Gutachten
+4 neue Dokumenteinträge: Satzungsbekanntmachung Bruckmatten III (2 Seiten), FNP-Genehmigungsbekanntmachung (2 Seiten), Hydrotec Juni 2025 (18 Dateiseiten) und Begründung Stand 18.12.2025 (13 Seiten). Die 2 bildbasierten Seiten der Satzungsbekanntmachung vollständig visuell gelesen; FNP textlich und visuell geprüft; Hydraulik-Titel und Fazit auf Dateiseiten 1/17 visuell geprüft; Begründung ausgelesen und Seite 9 visuell geprüft. Die Hydraulikdatei ist nicht vollständig im Volltext erschlossen. Keine unabhängige Modell-, Rechts- oder Fachprüfung behauptet.
+Zusätzlich die öffentlich verlinkten älteren und neueren Planunterlagen, Umwelt- und Artenschutzberichte, Ausnahme-Anträge, kommunale Wärmeplanung sowie aktuelle Amtsblätter lokal gesichert. Mehrere neuere Unterlagen sind bildbasiert; eine vollständige optische Texterkennung bleibt offen. Keine materielle Eignungsfreigabe aus bloßer Archivierung ableiten. Keine neuen separaten Fotos oder technischen Zeichnungen übernommen; keine Zeichnungen erfunden.
+
+Lokale Archivierung
+649 unterschiedliche Quellenadressen abgerufen, 616 erfolgreich lokal gesichert, 56 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 122 inhaltsverschiedene PDF-Dateien mit insgesamt 2046 Seiten berücksichtigt, davon 41 gegenüber dem bisherigen Archiv neue Dateiinhalte. Neu im Archiv bedeutet nicht neu veröffentlicht; darunter befinden sich ältere Planfassungen und ein Umweltbericht Gottenheim von 2009. Neue Dateiinhalte und neue Datenbankeinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 22 Dokumente textlich unvollständig erschlossen. Archivierung mit vorhandenem Quellenarchiv-Programm; lokale Sicherungen werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+175 erfasste Dokumentquellen geprüft: 175 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 4 neu erfasste Originalquellen zusätzlich im lokalen Quellenarchiv; Bild-PDFs und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1662 unterschiedliche öffentliche Links geprüft: 1632 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 240 → 242 (+2; Planungs-/Risikovertiefung und verkauftes Angebot)
+Dokumentauswertungen: 171 → 175 (+4)
+Bauleitplanungseinträge: 38 (+0; 1 bestehender Eintrag mit erhaltener Vorfassung korrigiert)
+Gemeinde-Quellenzuordnungen: 2 korrigiert; Tagesprüfungen: 42 → 44
+Standorte: 32 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Neue bestätigte verfügbare Standorte: 0.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse erhalten und gezielte Korrekturen mit Vorfassung dokumentiert. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.
