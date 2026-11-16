@@ -1,7 +1,7 @@
 {
-  "checked": 1662,
-  "ok": 1632,
-  "blocked": 30,
+  "checked": 1666,
+  "ok": 1634,
+  "blocked": 32,
   "broken": 0,
   "results": [
     {
@@ -129,6 +129,18 @@
       "index": 131,
       "field": "sourceUrl",
       "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
+      "url": "https://www.gemeinde-wilhelmsdorf.de/",
+      "status": 500,
+      "finalUrl": "https://www.gemeinde-wilhelmsdorf.de/",
+      "ok": false,
+      "blocked": true,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 131,
+      "field": "sourceUrl",
+      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
       "url": "https://www.scheer-online.de/",
       "status": null,
       "finalUrl": "",
@@ -147,6 +159,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -10542,6 +10566,18 @@
     },
     {
       "collection": "findings",
+      "index": 242,
+      "field": "sourceUrl",
+      "title": "Merdingen Schloßmatten: Gemeinde nennt derzeit keine käuflich verfügbaren Grundstücke",
+      "url": "https://www.merdingen.de/wirtschaft%2B_%2Bbauen/gewerbegebiete",
+      "status": 200,
+      "finalUrl": "https://www.merdingen.de/wirtschaft%2B_%2Bbauen/gewerbegebiete",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 57,
       "field": "sourceUrl",
       "title": "Microsoft Grevenbroich: Flaechenkauf bedingt durch Bebauungsplan",
@@ -12000,18 +12036,6 @@
       "url": "https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/Lageplan_Grund_02.07.2026.pdf",
       "status": 200,
       "finalUrl": "https://www.gemeinde-vogt.de/fileadmin/Dateien/Bilder/Bauleitplaene_und_Baugebiete/Lageplan_Grund_02.07.2026.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 131,
-      "field": "sourceUrl",
-      "title": "Ravensburg/Sigmaringen: 20 Gemeinden geprueft",
-      "url": "https://www.gemeinde-wilhelmsdorf.de/",
-      "status": 200,
-      "finalUrl": "https://www.gemeinde-wilhelmsdorf.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13896,18 +13920,6 @@
       "url": "https://www.voehrenbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.voehrenbach.de/startseite",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18336,6 +18348,42 @@
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-01-original.pdf",
       "status": 200,
       "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-01-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 176,
+      "field": "sourceUrl",
+      "title": "Merdingen Emletweg rechts: Begründung Stand 24.06.2025, frühzeitige Beteiligung",
+      "url": "https://www.merdingen.de/site/Merdingen/get/documents_E858376099/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2025/5%20-%2025-06-24%20Begr%C3%BCndung%20BPL%20Emletweg%20rechts%20%2825-06-25%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E858376099/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2025/5%20-%2025-06-24%20Begr%C3%BCndung%20BPL%20Emletweg%20rechts%20%2825-06-25%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 175,
+      "field": "sourceUrl",
+      "title": "Merdingen Emletweg rechts: Bekanntmachung vom 30.09.2026",
+      "url": "https://www.merdingen.de/site/Merdingen/get/documents_E1970480997/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2026/Inkrafttreten%20des%20Bebauungsplan%20und%20Bauvorschriften%20Emletweg%20recht_signiert.pdf",
+      "status": 304,
+      "finalUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1970480997/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2026/Inkrafttreten%20des%20Bebauungsplan%20und%20Bauvorschriften%20Emletweg%20recht_signiert.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 177,
+      "field": "sourceUrl",
+      "title": "Merdingen Schloßmatten-Erweiterung: Begründung Stand 13.12.2022, Offenlage",
+      "url": "https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf",
+      "status": 304,
+      "finalUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf",
       "ok": true,
       "blocked": false,
       "error": ""

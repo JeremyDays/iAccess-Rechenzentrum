@@ -1,0 +1,60 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 16.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+45 offene Gemeinden teilweise geprüft. 2 Befunde und 3 Dokumentauswertungen zu Merdingen ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Reservierung oder Antragstellung vorgenommen.
+
+Neue Ergebnisse
+1. Merdingen Schloßmatten: Die aktuelle Gemeindeseite nennt keine käuflich zu erwerbenden Grundstücke im Gewerbegebiet. Das ist eine Aussage zum dort dargestellten Verkaufsangebot; private Verkäufe und Vermietungen sind damit nicht allgemein ausgeschlossen. Die Planbegründung vom 13.12.2022 beschreibt ein damals fast vollständig aufgesiedeltes Gebiet und eine Änderung für begrünte Flachdächer und 1 m zusätzliche Traufhöhe. Diese historische Offenlagefassung belegt weder heutige Verfügbarkeit noch eine Rechenzentrumszulässigkeit.
+Gemeinde: https://www.merdingen.de/wirtschaft%2B_%2Bbauen/gewerbegebiete
+
+2. Merdingen Emletweg rechts: Die unterzeichnete Bekanntmachung nennt Satzungsbeschluss 29.09.2026 und Internetbekanntmachung 30.09.2026. Die ältere Begründung Stand 24.06.2025, frühzeitige Beteiligung, beschreibt die betriebsbezogene Erweiterung für Tuniberg-Express Heinrich Schwarz KG mit ungefähr 0,95 ha Planbereich. Planbereich ist keine frei angebotene Grundstücksfläche. Der ältere Zweck- und Flächenstand bleibt vom endgültigen Stand getrennt. Keine konkrete Rechenzentrumszulassung, freie Verbrauchsleistung oder heutige private Verfügbarkeit nachgewiesen.
+Die Bekanntmachung nennt Umweltbericht, Artenschutz, schalltechnische Stellungnahme, Kampfmittelvorerkundung und geotechnischen Bericht als Einsichtsunterlagen. Daraus folgt keine bestätigte technische Eignung. Die vollständigen endgültigen Unterlagen sind vor einer Standortbewertung zuzuordnen und fachlich zu prüfen. Keine unabhängige rechtliche Wirksamkeitsprüfung behauptet.
+
+Neue Dokumenteinträge und Originalquellen
+Merdingen Emletweg rechts: Bekanntmachung vom 30.09.2026
+https://www.merdingen.de/site/Merdingen/get/documents_E1970480997/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2026/Inkrafttreten%20des%20Bebauungsplan%20und%20Bauvorschriften%20Emletweg%20recht_signiert.pdf
+Merdingen Emletweg rechts: Begründung Stand 24.06.2025, frühzeitige Beteiligung
+https://www.merdingen.de/site/Merdingen/get/documents_E858376099/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2025/5%20-%2025-06-24%20Begr%C3%BCndung%20BPL%20Emletweg%20rechts%20%2825-06-25%29.pdf
+Merdingen Schloßmatten-Erweiterung: Begründung Stand 13.12.2022, Offenlage
+https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf
+Bekanntmachung 2 Seiten vollständig textlich und visuell geprüft. Emletweg-Begründung 16 Seiten und Schloßmatten-Begründung 14 Seiten ausgelesen; jeweils Seite 2 visuell geprüft. Historische Fassungen ausdrücklich gekennzeichnet.
+30 auf der Bekanntmachungsseite verlinkte Planungs-PDFs sowie die 14-seitige Schloßmatten-Begründung lokal gesichert und ausgelesen. Nicht alle Inhalte oder Planfassungen abschließend fachlich bewertet. Keine Gutachtenergebnisse zwischen unterschiedlichen Gebieten übertragen.
+Zusätzlich eine 73-seitige Schalluntersuchung Kirchzarten Zur Sägemühle vom 31.07.2025 archiviert. Sie betrifft Wohnplanung, Sport-, Freizeit- und Verkehrslärm; daraus keine Rechenzentrums-Lärmwerte abgeleitet. Der Aufruf zum Gottenheimer Wochenmarkt ist kein Flächenangebot für Rechenzentren.
+Keine neuen separaten Fotos oder technischen Zeichnungen übernommen; keine Zeichnungen erfunden.
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Keine neue gesicherte freie Fläche im Suchraum aus Nachrichten belegt. Bestehende Container-, Abwärme- und Netzbefunde nicht nochmals als neu erfasst. Suchtreffer und Anbieterwerbung nicht als unabhängiger Eignungsnachweis gewertet.
+
+Kommunale Prüfung
+45 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet.
+Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix dokumentiert. Merdingen Ratsinformation: Zugriff mit Status 403 gescheitert. Alle 45 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder bestätigter freier Fläche: 0. Merdingen liefert eine Planstands- und Verfügbarkeitsvertiefung. Alle 45 ohne neuen gesicherten freien Standortfund oder weiter offen; keine sachliche Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Lokale Archivierung
+650 unterschiedliche Quellenadressen abgerufen, 617 erfolgreich lokal gesichert, 44 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 113 inhaltsverschiedene PDF-Dateien mit insgesamt 1621 Seiten berücksichtigt, davon 31 gegenüber dem bisherigen Archiv neue Dateiinhalte. Neu im Archiv bedeutet nicht neu veröffentlicht. Neue Dateiinhalte und 3 neue Datenbankeinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 15 Dokumente textlich unvollständig erschlossen; keine vollständige optische Texterkennung behauptet. Archivierung mit vorhandenem Quellenarchiv-Programm; lokale Quellenarchive werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+178 erfasste Dokumentquellen geprüft: 178 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 3 neu erfasste Originalquellen zusätzlich im lokalen Quellenarchiv; Planstände und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1666 unterschiedliche öffentliche Links geprüft: 1634 erreichbar, 32 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 242 → 244 (+2)
+Dokumentauswertungen: 175 → 178 (+3)
+Bauleitplanungseinträge: 38 (+0); Standorte: 32 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Tagesprüfungen: 44 → 45. Neue bestätigte verfügbare Standorte: 0.
+
+Veröffentlichung, Versand und Ausführung
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse einschließlich der Quellenkorrekturen vom 15.11.2026 erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.
+Die normale lokale Ausführung scheiterte an einer fehlenden Laufzeitzuordnung. Die vorhandene Python-Laufzeit war über den verfügbaren Ausführungsweg nutzbar; keine Rechner- oder Sicherheitseinstellungen geändert.

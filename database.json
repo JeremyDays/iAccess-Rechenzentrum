@@ -4847,6 +4847,54 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.eichstetten.de/91d1b918588e1536.pdf",
       "tags": "Original lokal gesichert; Bild-PDF und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-16-pdf-01",
+      "created": "2026-11-16",
+      "updated": "2026-11-16",
+      "municipality": "Merdingen",
+      "documentTitle": "Merdingen Emletweg rechts: Bekanntmachung vom 30.09.2026",
+      "documentType": "Amtliche Inkrafttretensbekanntmachung",
+      "pages": "2",
+      "keyFacts": "Satzungsbeschluss 29.09.2026; Internetbekanntmachung 30.09.2026 laut unterzeichneter Bekanntmachung.",
+      "technicalFacts": "Nennt Umweltbericht, Artenschutz, Schall, Kampfmittelvorerkundung und geotechnischen Bericht als Einsichtsunterlagen; keine Anschlussbestätigung.",
+      "planningFacts": "2 Seiten vollständig textlich und visuell geprüft. Keine unabhängige rechtliche Wirksamkeitsprüfung.",
+      "sourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1970480997/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2026/Inkrafttreten%20des%20Bebauungsplan%20und%20Bauvorschriften%20Emletweg%20recht_signiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.merdingen.de/9ed75559b3025a99.pdf",
+      "tags": "Original lokal gesichert; Planstand und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-16-pdf-02",
+      "created": "2026-11-16",
+      "updated": "2026-11-16",
+      "municipality": "Merdingen",
+      "documentTitle": "Merdingen Emletweg rechts: Begründung Stand 24.06.2025, frühzeitige Beteiligung",
+      "documentType": "Historische Planbegründung",
+      "pages": "16",
+      "keyFacts": "Betriebsbezogene Erweiterung für Tuniberg-Express Heinrich Schwarz KG; ungefähr 0,95 ha laut damaliger Planung.",
+      "technicalFacts": "Kein Nachweis einer freien Parzelle oder nutzbarer Rechenzentrumsleistung.",
+      "planningFacts": "16 Seiten textlich ausgelesen; Seite 2 visuell geprüft. Älterer Beteiligungsstand getrennt von Bekanntmachung 2026.",
+      "sourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E858376099/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2025/5%20-%2025-06-24%20Begr%C3%BCndung%20BPL%20Emletweg%20rechts%20%2825-06-25%29.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.merdingen.de/c0dd7d32e77c8384.pdf",
+      "tags": "Original lokal gesichert; Planstand und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-16-pdf-03",
+      "created": "2026-11-16",
+      "updated": "2026-11-16",
+      "municipality": "Merdingen",
+      "documentTitle": "Merdingen Schloßmatten-Erweiterung: Begründung Stand 13.12.2022, Offenlage",
+      "documentType": "Historische Planbegründung",
+      "pages": "14",
+      "keyFacts": "Damals fast vollständig aufgesiedelt; Änderung für begrünte Flachdächer und 1 m höhere Traufhöhe beschrieben.",
+      "technicalFacts": "Kein aktuelles Grundstücksangebot oder Nachweis einer Rechenzentrumszulässigkeit.",
+      "planningFacts": "14 Seiten textlich ausgelesen; Seite 2 visuell geprüft. Historische Offenlagefassung, nicht als abschließend geltender aktueller Stand ausgegeben.",
+      "sourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.merdingen.de/30f78ebb20c4bef7.pdf",
+      "tags": "Original lokal gesichert; Planstand und Prüfgrenzen benannt"
     }
   ],
   "media": [
@@ -9683,6 +9731,32 @@
       "confidence": "Direkter Originalabruf des öffentlichen Maklerangebots am 15.11.2026; keine Eigentümerauskunft",
       "action": "Keinen neuen freien Standort aus diesem Objekt erzeugen. Grundstücksidentität und Hochwasserlage nicht mit der Erweiterungsplanung Bruckmatten III gleichsetzen. Keine Kontaktaufnahme, kein Angebot eingeholt.",
       "tags": "verkauft, kein neuer Standort, Suchtreffer gegengeprüft"
+    },
+    {
+      "id": "id-2026-11-16-merdingen-schlossmatten",
+      "created": "2026-11-16",
+      "updated": "2026-11-16",
+      "title": "Merdingen Schloßmatten: Gemeinde nennt derzeit keine käuflich verfügbaren Grundstücke",
+      "topic": "Flächenverfügbarkeit / Gegenprüfung",
+      "summary": "Die am 16.11.2026 direkt abgerufene Gemeindeseite nennt aktuell keine käuflich zu erwerbenden Grundstücke im Gewerbegebiet Schloßmatten. Die Begründung vom 13.12.2022 beschreibt ein damals fast vollständig aufgesiedeltes Gebiet und eine Änderung für begrünte Flachdächer und 1 m zusätzliche Traufhöhe; daraus folgt kein heutiges Flächenangebot.",
+      "sourceUrl": "https://www.merdingen.de/wirtschaft%2B_%2Bbauen/gewerbegebiete",
+      "additionalSourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf",
+      "confidence": "Original-Gemeindeseite und 14-seitige historische Planbegründung ausgelesen; Seite 2 visuell geprüft. Keine Eigentümerauskunft.",
+      "action": "Eigene Bewertung: Kein neuer freier Standort. Die Gemeindeseite schließt private Verkäufe oder Vermietungen nicht allgemein aus. Aktuelle Verfügbarkeit, Rechenzentrumszulässigkeit und Verbrauchsanschluss bleiben offen. Historische Offenlagefassung nicht als heutige endgültige Festsetzung behandeln.",
+      "tags": "Merdingen, keine kommunale Verkaufsfläche, historische Planung"
+    },
+    {
+      "id": "id-2026-11-16-merdingen-emletweg",
+      "created": "2026-11-16",
+      "updated": "2026-11-16",
+      "title": "Merdingen Emletweg rechts: Inkrafttreten bekannt gemacht, frühere Begründung für Busbetrieb",
+      "topic": "Bauleitplanung / zweckbezogene Gewerbeentwicklung",
+      "summary": "Die unterzeichnete amtliche Bekanntmachung nennt Satzungsbeschluss 29.09.2026 und Bekanntmachung im Internet am 30.09.2026. Die Begründung Stand 24.06.2025, Fassung frühzeitige Beteiligung, beschreibt eine betriebsbezogene Erweiterung für Tuniberg-Express Heinrich Schwarz KG und ungefähr 0,95 ha Planbereich. Der ältere Zweck- und Flächenstand ist keine Bestätigung eines heutigen freien Grundstücks oder einer Rechenzentrumszulassung.",
+      "sourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1970480997/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2026/Inkrafttreten%20des%20Bebauungsplan%20und%20Bauvorschriften%20Emletweg%20recht_signiert.pdf",
+      "additionalSourceUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E858376099/merdingen/Merdingen_Dateien/1%20Gemeinde%20%26%20Info/%C3%96ffentliche%20Bekanntmachungen/2025/5%20-%2025-06-24%20Begr%C3%BCndung%20BPL%20Emletweg%20rechts%20%2825-06-25%29.pdf",
+      "confidence": "Bekanntmachung 2 Seiten ausgelesen und vollständig visuell geprüft; frühere Begründung 16 Seiten ausgelesen, Seite 2 visuell geprüft. Endgültige vollständige Festsetzungen nicht abschließend erschlossen.",
+      "action": "Keinen frei verfügbaren Standort anlegen. In der Bekanntmachung genannte Umwelt-, Artenschutz-, Schall-, Kampfmittel- und Geotechnikunterlagen sind anhand des endgültigen Stands zuzuordnen; allein die Bekanntmachung ersetzt deren Fachprüfung nicht. Tatsächliche Bebauung, private Verfügung und Anschluss offen.",
+      "tags": "Merdingen, Satzungsbekanntmachung, Busunternehmen, keine freie RZ-Fläche"
     }
   ],
   "gridChecks": [
@@ -10152,7 +10226,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-15",
+    "lastRun": "2026-11-16",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10180,8 +10254,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-15",
-    "lastResearchSummary": "44 kommunale Teilprüfungen; Quellenkorrektur Eichstetten/Ihringen, aktuelle Bekanntmachungen und Hochwasserrisiko Bruckmatten III vertieft. Kein neuer gesicherter freier Standort.",
+    "lastResearchRun": "2026-11-16",
+    "lastResearchSummary": "45 kommunale Teilprüfungen; 2 neue Befunde und 3 Dokumenteinträge zu Merdingen. Kein gesicherter freier Rechenzentrumsstandort.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
