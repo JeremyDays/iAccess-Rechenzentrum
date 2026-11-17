@@ -1,0 +1,63 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 17.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+45 offene Gemeinden teilweise geprüft. 1 neuer Befund und 2 Dokumentauswertungen zur Denzlinger Netzgenehmigung ergänzt; 1 veralteter Befund mit erhaltener Vorfassung aktualisiert. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Netzreservierung oder Antragstellung vorgenommen.
+
+Neuer Genehmigungsstand Denzlingen
+Belegt: Der Planfeststellungsbeschluss vom 27.10.2026 für den Ersatzneubau der 110-kV-Leitung Anschluss Denzlingen, Anlage 3590, liegt vor. Er genehmigt die Maßnahmen unter Nebenbestimmungen: Sanierung Mast 017, standortgleicher Ersatz der Masten 018–036, leistungsstärkere Leiterseile bis zum Umspannwerk sowie temporäre Umlegung einer 20-kV-Leitung der Stadtwerke Emmendingen. Das ist ein Fortschritt des Netzverfahrens, keine Rechenzentrums-Anschlusszusage.
+Die Bekanntmachung vom 03.11.2026 nennt Internetzugang ab 05.11.2026 und Ende des gesetzlichen Einsichtnahmezeitraums 19.11.2026. Das Behördenportal nennt dagegen 06.11.–19.11.2026. Der Unterschied des Starttags wird nicht eigenständig rechtlich aufgelöst. Keine Bestandskraft oder persönliche Rechtsbehelfsfrist festgestellt. Die Unterlagen sind jetzt lokal gesichert.
+Betreiberplanung: Netze BW berichtet über eine im November 2026 erhaltene Genehmigung und erwartet Baubeginn Ende 2027 mit ungefähr 2 Jahren Bauzeit. Erlassdatum laut Behörde 27.10.2026 und berichteter Erhalt im November sind unterschiedliche Angaben. Die Betreiberseite enthält daneben weiterhin den älteren Satz, der Antrag werde aktuell geprüft. Für den Erlass ist der amtliche Originalbeschluss maßgeblich. Kein bestätigter Fertigstellungstermin oder tatsächlicher Baubeginn belegt.
+Eigene Bewertung: Denzlingen bleibt ein langfristiger Netzindikator. Freie Bezugsleistung, Anschlusskosten, Anschlusszeitpunkt, Redundanz, Grundstück und konkrete Rechenzentrumszulässigkeit sind separat zu bestätigen. Der alte Befund vom 02.06.2026 wurde vom laufenden Antragsstand auf den erlassenen Beschluss fortgeschrieben; seine Vorfassung bleibt erhalten. Historische Monitoringberichte bleiben als damalige Berichte bestehen.
+Betreiber: https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen
+Behördenportal: https://rpf.baden-wuerttemberg.de/abt2/ref24/planfeststellung/leitung-ersatzneubau-denzlingen/
+
+Originale und Prüfgrenzen
+Denzlingen Anlage 3590: Planfeststellungsbeschluss vom 27.10.2026
+https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf
+Denzlingen 110-kV-Leitung: Bekanntmachung vom 03.11.2026
+https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf
+Beschluss: 94 Dateiseiten textlich ausgelesen, Tenor auf Dateiseite 9 visuell geprüft. Bekanntmachung: 3 Seiten ausgelesen, Seite 2 visuell geprüft. Keine unabhängige technische oder rechtliche Fachprüfung behauptet. Leitungsbezogene Wasser-, Boden-, Natur- und Immissionsauflagen nicht auf eine mögliche Rechenzentrumsparzelle übertragen.
+Die vom Regierungspräsidium öffentlich verlinkte Cloud-Planablage war nur als Oberfläche lesbar. Der Versuch einer direkten Dateiauflistung scheiterte mit Status 401. Die einzelnen technischen Anlagen und Gutachten sind damit nicht vollständig erschlossen; deren vollständige Archivierung und Auswertung wird nicht behauptet. Keine Rechte erweitert oder Zugangsdaten beschafft.
+Neue kommunale Archiv-Inhalte umfassen außerdem die 4-seitige Offenlagebekanntmachung zur 26. Flächennutzungsplanänderung Solarpark Hochstetten Deponie sowie das 12-seitige Merdinger Mitteilungsblatt vom 12.11.2026. Daraus keinen neuen Rechenzentrumsstandort abgeleitet. Eine Solarparkplanung ist kein verfügbarer gesicherter Verbrauchsanschluss.
+Keine neuen Fotos oder technischen Zeichnungen übernommen; keine Zeichnungen erfunden.
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Keine neue gesicherte freie Fläche im Suchraum aus Nachrichten belegt.
+Gegenprüfung geografischer Treffer: Infomaniaks Meldung vom 13.11.2026 betrifft Bulle im Schweizer Kanton Freiburg, nicht Freiburg im Breisgau. Geplante Inbetriebnahme 2028 steht unter Bewilligungsvorbehalt; Wärmenutzung ist eine Betreiberplanung. Keine verfügbare Fläche in Baden-Württemberg daraus erzeugt.
+Original: https://news.infomaniak.com/de/rechenzentrum-bulle-gruyere-energie/
+Die Meldung zu Polarises Ausbau vom 16.11.2026 nennt Bayern, Hessen und Nordrhein-Westfalen. Sie belegt keine neue freie Fläche im priorisierten Suchraum. Quelle lokal archiviert, keine neue Partnerschaft daraus abgeleitet.
+Quelle: https://www.datacenterdynamics.com/en/news/polarise-plans-150mw-ai-expansion-in-germany-by-2028/
+Bestehende Abwärme-, Container- und Netzbefunde nicht doppelt als neu erfasst. Suchtreffer und Anbieterwerbung nicht als unabhängige Eignungsbestätigung gewertet.
+
+Kommunale Prüfung
+45 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet.
+Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix dokumentiert. Alle 45 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem gesichertem Rechenzentrumsfund oder bestätigter freier Fläche: 0. Denzlingen liefert eine relevante Genehmigungsstandsvertiefung. Alle 45 ohne neuen gesicherten freien Standortfund oder weiter offen; keine sachliche Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Lokale Archivierung
+641 unterschiedliche Quellenadressen abgerufen, 609 erfolgreich lokal gesichert, 18 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 88 inhaltsverschiedene PDF-Dateien mit insgesamt 1533 Seiten berücksichtigt, davon 4 gegenüber dem bisherigen Archiv neue Dateiinhalte. Neu im Archiv bedeutet nicht neu veröffentlicht. Neue Dateiinhalte und 2 neue Datenbankeinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 11 Dokumente textlich unvollständig erschlossen. Keine vollständige optische Texterkennung behauptet. Archivierung mit dem vorhandenen Quellenarchiv-Programm; lokale Quellenarchive werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+180 erfasste Dokumentquellen geprüft: 180 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 2 neu erfasste Originalquellen zusätzlich im lokalen Quellenarchiv; Planstände und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1668 unterschiedliche öffentliche Links geprüft: 1630 erreichbar, 38 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. Keine nachgewiesen defekten Quelladressen; keine Linkkorrektur erforderlich.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 244 → 245 (+1; außerdem 1 bestehender Befund mit Vorfassung aktualisiert)
+Dokumentauswertungen: 178 → 180 (+2)
+Bauleitplanungseinträge: 38 (+0); Standorte: 32 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Tagesprüfungen: 45. Neue bestätigte verfügbare Standorte: 0.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.

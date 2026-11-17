@@ -4895,6 +4895,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.merdingen.de/30f78ebb20c4bef7.pdf",
       "tags": "Original lokal gesichert; Planstand und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-17-pdf-01",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "municipality": "Denzlingen",
+      "documentTitle": "Denzlingen Anlage 3590: Planfeststellungsbeschluss vom 27.10.2026",
+      "documentType": "Amtlicher Planfeststellungsbeschluss",
+      "pages": "94",
+      "keyFacts": "Ersatzneubau und Leistungssteigerung unter Nebenbestimmungen genehmigt. Keine Bestandskraft oder Inbetriebnahme bestätigt.",
+      "technicalFacts": "Mast 017 sanieren, Masten 018–036 standortgleich ersetzen; stärkere Leiterseile und temporäre Umlegung einer 20-kV-Leitung. Keine konkrete Anschlusskapazität für ein Rechenzentrum.",
+      "planningFacts": "94 Dateiseiten ausgelesen; Tenor Dateiseite 9 visuell geprüft. Umwelt-, Wasser-, Boden- und Schutzauflagen projektbezogen, nicht auf eine Rechenzentrumsparzelle übertragbar.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/rpf.baden-wuerttemberg.de/ec6444b86b46954f.pdf",
+      "tags": "Amtliches Original lokal archiviert; Genehmigung, Umsetzung und Anschluss getrennt"
+    },
+    {
+      "id": "id-2026-11-17-pdf-02",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "municipality": "Denzlingen",
+      "documentTitle": "Denzlingen 110-kV-Leitung: Bekanntmachung vom 03.11.2026",
+      "documentType": "Amtliche Zugänglichmachungsbekanntmachung",
+      "pages": "3",
+      "keyFacts": "Beschluss 27.10.2026, Internetzugang laut Original ab 05.11.2026, gesetzlicher Einsichtnahmezeitraum endet 19.11.2026.",
+      "technicalFacts": "Zusammenfassung der Leitungsmaßnahmen und Nebenbestimmungen; kein freier Strombezugsanschluss.",
+      "planningFacts": "3 Seiten ausgelesen; Seite 2 visuell geprüft. Portal nennt abweichenden Start 06.11.2026. Rechtsbehelfsbelehrung vorhanden; keine persönliche Frist oder Rechtsbeständigkeit eigenständig festgestellt.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/rpf.baden-wuerttemberg.de/caa6867a758f34bc.pdf",
+      "tags": "Amtliches Original lokal archiviert; Genehmigung, Umsetzung und Anschluss getrennt"
     }
   ],
   "media": [
@@ -5291,17 +5323,39 @@
     {
       "id": "id-0.6073559206403684",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
-      "title": "Denzlingen: 110-kV-NetzverstÃ¤rkung als Standortsignal",
+      "updated": "2026-11-17",
+      "title": "Denzlingen: genehmigte 110-kV-Netzverstärkung als langfristiger Netzindikator",
       "topic": "Standort",
-      "summary": "Netze BW plant die VerstÃ¤rkung der bestehenden 110-kV-Hochspannungsleitung Anschluss Denzlingen. Das RegierungsprÃ¤sidium Freiburg prÃ¼ft den Planfeststellungsantrag; Hintergrund ist u.a. der erwartete massive Ausbau erneuerbarer Erzeugungsanlagen im Kreis Emmendingen.",
-      "action": "FÃ¼r Denzlingen nicht als Anschlusszusage werten, aber als wichtigen Netzindikator verfolgen: Netze BW, RP Freiburg, UmspannwerksnÃ¤he und mÃ¶gliche Mittel-/Hochspannungsanschlusspunkte separat anfragen.",
-      "source": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
-      "confidence": "hoch",
+      "summary": "Der Planfeststellungsbeschluss vom 27.10.2026 für Anlage 3590 ist erlassen. Netze BW berichtet über erhaltene Genehmigung im November 2026 und erwartet Baubeginn Ende 2027 mit ungefähr 2 Jahren Bauzeit. Diese Betreiber-Terminannahme ist kein bestätigter Fertigstellungstermin. Keine frei verfügbare Verbrauchsleistung nachgewiesen.",
+      "action": "Eigene Bewertung: Frühere Aussage eines nur laufenden Antragsverfahrens ist überholt. Rechtsbeständigkeit, Bauvollzug und grundstücksgenauer Verbrauchsanschluss bleiben getrennt zu bestätigen. Keine Netzreservierung oder Anfrage vorgenommen.",
+      "source": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen",
+      "confidence": "Amtlicher Originalbeschluss und öffentliche Betreiberseite; keine unabhängige Rechts- oder technische Netzprüfung",
       "tags": "Denzlingen, Netze BW, 110 kV, Strom, Emmendingen",
-      "sourceUrl": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
+      "sourceUrl": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen",
       "publisher": "netze-bw.de",
-      "publishedDate": ""
+      "publishedDate": "",
+      "revisionHistory": [
+        {
+          "date": "2026-11-17",
+          "reason": "Verfahrensstand anhand des erlassenen Planfeststellungsbeschlusses aktualisiert; bisherige Fassung erhalten.",
+          "previousRecord": {
+            "id": "id-0.6073559206403684",
+            "created": "2026-06-02",
+            "updated": "2026-06-02",
+            "title": "Denzlingen: 110-kV-NetzverstÃ¤rkung als Standortsignal",
+            "topic": "Standort",
+            "summary": "Netze BW plant die VerstÃ¤rkung der bestehenden 110-kV-Hochspannungsleitung Anschluss Denzlingen. Das RegierungsprÃ¤sidium Freiburg prÃ¼ft den Planfeststellungsantrag; Hintergrund ist u.a. der erwartete massive Ausbau erneuerbarer Erzeugungsanlagen im Kreis Emmendingen.",
+            "action": "FÃ¼r Denzlingen nicht als Anschlusszusage werten, aber als wichtigen Netzindikator verfolgen: Netze BW, RP Freiburg, UmspannwerksnÃ¤he und mÃ¶gliche Mittel-/Hochspannungsanschlusspunkte separat anfragen.",
+            "source": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
+            "confidence": "hoch",
+            "tags": "Denzlingen, Netze BW, 110 kV, Strom, Emmendingen",
+            "sourceUrl": "https://www.netze-bw.de/unsernetz/netzausbau/denzlingen",
+            "publisher": "netze-bw.de",
+            "publishedDate": ""
+          }
+        }
+      ],
+      "additionalSourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf"
     },
     {
       "id": "id-0.8373457162889897",
@@ -9757,6 +9811,19 @@
       "confidence": "Bekanntmachung 2 Seiten ausgelesen und vollständig visuell geprüft; frühere Begründung 16 Seiten ausgelesen, Seite 2 visuell geprüft. Endgültige vollständige Festsetzungen nicht abschließend erschlossen.",
       "action": "Keinen frei verfügbaren Standort anlegen. In der Bekanntmachung genannte Umwelt-, Artenschutz-, Schall-, Kampfmittel- und Geotechnikunterlagen sind anhand des endgültigen Stands zuzuordnen; allein die Bekanntmachung ersetzt deren Fachprüfung nicht. Tatsächliche Bebauung, private Verfügung und Anschluss offen.",
       "tags": "Merdingen, Satzungsbekanntmachung, Busunternehmen, keine freie RZ-Fläche"
+    },
+    {
+      "id": "id-2026-11-17-denzlingen-planfeststellung",
+      "created": "2026-11-17",
+      "updated": "2026-11-17",
+      "title": "Denzlingen Anlage 3590: Beschluss 27.10.2026, Einsichtnahme bis 19.11.2026",
+      "topic": "Netz / Genehmigungsstand",
+      "summary": "Der 94-seitige Planfeststellungsbeschluss genehmigt den Ersatzneubau unter Nebenbestimmungen: Sanierung Mast 017, standortgleicher Ersatz der Masten 018–036, stärkere Leiterseile bis zum Umspannwerk und temporäre Umlegung einer 20-kV-Leitung der Stadtwerke Emmendingen. Die Bekanntmachung vom 03.11.2026 nennt Internetzugang ab 05.11.2026 und Ende der Einsichtnahme 19.11.2026. Das Behördenportal nennt als Zeitraum 06.11.–19.11.; der Unterschied des Starttags bleibt ausdrücklich offen.",
+      "sourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf",
+      "additionalSourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "confidence": "Beide Original-PDFs ausgelesen; Beschlusstenor Dateiseite 9 und Bekanntmachung Seite 2 visuell geprüft. Keine Bestandskraft oder abschließende rechtliche Fristenbewertung behauptet.",
+      "action": "Eigene Bewertung: Erheblicher Planstandsfortschritt im priorisierten Suchraum, aber kein neuer freier Standort und keine Anschlusszusage. Betreiber erwartet Baubeginn Ende 2027 und ungefähr 2 Jahre Bauzeit; Umsetzung nicht nachgewiesen. Öffentlich verlinkte Cloud-Planablage nur als Oberfläche lesbar; direkte Dateiauflistung mit Status 401 gescheitert, technische Anlagen nicht vollständig erschlossen.",
+      "tags": "Denzlingen, 110 kV, Planfeststellung, keine freie Bezugsleistung"
     }
   ],
   "gridChecks": [
@@ -10226,7 +10293,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-16",
+    "lastRun": "2026-11-17",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10254,8 +10321,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-16",
-    "lastResearchSummary": "45 kommunale Teilprüfungen; 2 neue Befunde und 3 Dokumenteinträge zu Merdingen. Kein gesicherter freier Rechenzentrumsstandort.",
+    "lastResearchRun": "2026-11-17",
+    "lastResearchSummary": "45 kommunale Teilprüfungen; 1 neuer Befund und 2 Dokumentauswertungen zur Denzlinger Netzgenehmigung, 1 veralteten Befund mit Vorfassung aktualisiert. Kein neuer freier Standort.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-16",
-  "total": 178,
+  "checkedAt": "2026-11-17",
+  "total": 180,
   "localAvailable": 68,
-  "publicAvailable": 178,
+  "publicAvailable": 180,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -3030,6 +3030,40 @@
       "status": 304,
       "finalUrl": "https://www.merdingen.de/site/Merdingen/get/documents_E1860286694/merdingen/Merdingen_Dateien/5%20Wirtschaft%20%26%20Bauen/Bauleitplanung/Bebauungspl%C3%A4ne/Schlo%C3%9Fmatten-Erweiterung/4_22-12-13%201.%20BPL%C3%84%20Schlossmatten-Erweiterung%20Begr%C3%BCndung%20Offenlage%20%2822-12-21%29.pdf",
       "contentType": "",
+      "error": ""
+    },
+    {
+      "municipality": "Denzlingen",
+      "documentTitle": "Denzlingen Anlage 3590: Planfeststellungsbeschluss vom 27.10.2026",
+      "documentType": "Amtlicher Planfeststellungsbeschluss",
+      "pages": "94",
+      "publicUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf",
+      "currentSourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/PFB_anonymisiert.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Denzlingen",
+      "documentTitle": "Denzlingen 110-kV-Leitung: Bekanntmachung vom 03.11.2026",
+      "documentType": "Amtliche Zugänglichmachungsbekanntmachung",
+      "pages": "3",
+      "publicUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "currentSourceUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "contentType": "application/pdf",
       "error": ""
     }
   ]
