@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-17",
-  "total": 180,
+  "checkedAt": "2026-11-18",
+  "total": 182,
   "localAvailable": 68,
-  "publicAvailable": 180,
+  "publicAvailable": 182,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2824,8 +2824,8 @@
       "ok": true,
       "blocked": false,
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
-      "contentType": "application/pdf",
+      "finalUrl": "https://www.rittal.com/imf2/none/75_854/KUKA%20Industries_Rittal/",
+      "contentType": "image/jpeg",
       "error": ""
     },
     {
@@ -3063,6 +3063,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/110kV-Denzlingen/Bekanntmachung.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Malterdingen",
+      "documentTitle": "Malterdingen Kleb 3. Änderung: Bekanntmachung vom 12.11.2026",
+      "documentType": "Amtliche Offenlagebekanntmachung",
+      "pages": "3",
+      "publicUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "currentSourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Malterdingen",
+      "documentTitle": "Malterdingen Kleb 3. Änderung: Schutzgüter und Artenschutz, Stand 03.11.2026",
+      "documentType": "Projektbezogene Schutzgut- und Artenschutzuntersuchung",
+      "pages": "12",
+      "publicUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "currentSourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

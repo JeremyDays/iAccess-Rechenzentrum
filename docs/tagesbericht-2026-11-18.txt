@@ -1,0 +1,63 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 18.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+
+Ergebnis und Handlungsbedarf
+46 offene Gemeinden teilweise geprüft. 1 vorläufiger Standortkandidat, 2 Befunde und 2 Dokumentauswertungen ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Netzreservierung oder Antragstellung vorgenommen.
+
+Neuer vorläufiger Standortkandidat Denzlingen
+Belegt als Anbieterangabe: Paul Becker GmbH veröffentlicht eine Kiesfläche in der Gottlieb-Daimler-Straße 11, 79211 Denzlingen, mit 2.101 m² zur Miete, verfügbar ab sofort, Preis auf Anfrage. Die Angebotsseite wurde direkt abgerufen und lokal gesichert. Das verlinkte Exposé 168658368 lieferte beim direkten Abruf Status 401.
+Eigene Bewertung: Vorläufiger Prüfhinweis für eine mögliche modulare Anlage. Die Anzeige ist keine heutige Vermieterbestätigung oder Eignungsfreigabe. Zuerst zulässige Nutzung, genehmigungsfähige Containeraufstellung, Zustimmung und Mietdauer klären; anschließend Strombezug, physisch getrennte Carrierwege, Kühlungs- und Notstromschall, Brandschutz, Boden/Altlasten, Tragfähigkeit, Entwässerung sowie Wasser- und Hochwasserrisiken. Keine Netzleistung aus Umspannwerksnähe oder dem am 17.11.2026 erfassten Leitungsbeschluss ableiten.
+Quelle: https://www.becker.eu/unsere-immobilienangebote/
+
+Getrennter älterer Hallenhinweis
+Die online erreichbare Vermarktungsseite für Markgrafenstraße 123–125 enthält den älteren Verfügbarkeitswert 2023 und beschreibt ein projektiertes Vorhaben. Der direkte Seitenabruf für das lokale Archiv scheiterte mit 401. 2 von dort öffentlich verlinkte Original-PDFs konnten dennoch gesichert werden: 3-seitige Baueingabe einer Gewerbehalle auf Flurstück 8461 aus 2022 und 1-seitiger Lageplanausschnitt. Das belegt keine heutige Verfügbarkeit, Genehmigung oder Fertigstellung. Kein weiterer Standort daraus angelegt. Diese Unterlagen gehören nicht zum neuen Kiesflächenhinweis und werden nicht dorthin übertragen.
+Anzeige: https://www.immobilienscout24.de/expose/131490752
+Baueingabe: https://d2qfnj9mv71tll.cloudfront.net/98c50310-227d-4c2f-97aa-c39a9d0c780b-1589437037.pdf
+Lageplanausschnitt: https://d2qfnj9mv71tll.cloudfront.net/427271eb-01ae-4702-ab8c-78d90d1dbaed-1589437039.pdf
+
+Malterdingen: Planung sachlich abgegrenzt
+Die Bekanntmachung vom 12.11.2026 zur 3. Änderung des Bebauungsplans Kleb betrifft die Erweiterung eines bestehenden Edeka-Markts um etwa 120 m² Verkaufsfläche. Aufstellungsbeschluss laut Original 13.10.2026, Offenlagebeschluss 03.11.2026, Veröffentlichung 13.11.–14.12.2026. Die neue Planfassung ist ein Offenlageentwurf; kein Inkrafttreten dieser Änderung daraus abgeleitet. Keine frei verfügbare Gewerbe- oder Rechenzentrumsparzelle erfasst.
+Die zugehörige Untersuchung zu Schutzgütern und Artenschutz, Stand 03.11.2026, ist projektbezogen. Ihre Bewertung ist kein Umwelt- oder Zulässigkeitsnachweis für ein Rechenzentrum. Keine unabhängige Fachprüfung behauptet.
+Malterdingen Kleb 3. Änderung: Bekanntmachung vom 12.11.2026
+https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf
+Malterdingen Kleb 3. Änderung: Schutzgüter und Artenschutz, Stand 03.11.2026
+https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf
+Bekanntmachung: 3 Seiten ausgelesen, Seite 1 visuell geprüft. Schutzgut-/Artenschutzunterlage: 12 Dateiseiten ausgelesen, Dateiseite 2 visuell geprüft. Weitere Kleb-Unterlagen, historische Planfassungen, Lärmaktionsplan und Amtsblätter lokal archiviert; nicht alle bildbasierten Inhalte vollständig erschlossen. Allgemeine Hallen- und Gebietspläne nicht als technische Rechenzentrumszeichnungen aufgenommen. Keine neuen Fotos oder separaten technischen Zeichnungen erfasst; keine Zeichnungen erfunden.
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Kein neuer gesicherter regionaler Rechenzentrumsstandort aus Nachrichten belegt. Der neue Flächenhinweis stammt aus der direkten Anbietersuche. Bereits bekannte Vorhaben und Meldungen nicht nochmals als neu erfasst.
+Der SWR-Beitrag vom 09.11.2026 zum Widerstand in Neckarwestheim wurde als ältere regionale Berichterstattung abgegrenzt. Ein aktueller Gastbeitrag zur Bedeutung kleinerer Rechenzentren ist eine interessengeleitete Fachposition, kein Grundstücksangebot oder Eignungsnachweis. Keine unbestätigte Rechtsänderung als geltendes Recht dargestellt.
+
+Kommunale Prüfung
+46 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet.
+Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix dokumentiert. Malterdinger Ratsportal: nur Oberfläche erschlossen. Alle 46 bleiben für die vollständige systematische Aktenprüfung offen.
+Gemeinden mit neuem bestätigtem Rechenzentrumsstandort: 0. Denzlingen: 1 vorläufiger Mietflächenhinweis, heutige Verfügbarkeit und Eignung offen. Malterdingen: kein Rechenzentrumsfund aus der Einzelhandelsplanung. Die übrigen Gemeinden ohne neuen gesicherten Standortfund oder weiter offen; keine sachliche Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Lokale Archivierung
+716 unterschiedliche Quellenadressen abgerufen, 682 erfolgreich lokal gesichert, 79 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 146 inhaltsverschiedene PDF-Dateien mit insgesamt 2067 Seiten berücksichtigt, davon 60 gegenüber dem bisherigen Archiv neue Dateiinhalte. Neu im Archiv bedeutet nicht neu veröffentlicht; darunter ältere Malterdinger Planfassungen und Amtsblätter. Neue Dateiinhalte und 2 neue Dokumenteinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 31 Dokumente textlich unvollständig erschlossen. Keine vollständige optische Texterkennung behauptet. Archivierung mit dem vorhandenen Quellenarchiv-Programm; lokale Quellenarchive werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+182 erfasste Dokumentquellen geprüft: 182 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 2 neu erfasste Originalquellen zusätzlich im lokalen Quellenarchiv; Planstände und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1671 unterschiedliche öffentliche Links geprüft: 1642 erreichbar, 29 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. 1 nachgewiesen defekter historischer Gemeindepfad für Ingelfingen durch die per GET geprüfte amtliche Startseite ersetzt. Vorfassung erhalten; historische inhaltliche Bewertung nicht erneut bestätigt.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Ein Immobilienanbieter ist keine vereinbarte Infrastrukturpartnerschaft. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Standorte: 32 → 33 (+1 vorläufiger Prüfkandidat, 0 neue bestätigte verfügbare Standorte)
+Befunde: 245 → 247 (+2)
+Dokumentauswertungen: 180 → 182 (+2)
+Bauleitplanungseinträge: 38 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Tagesprüfungen: 45 → 46. 1 historischer Gemeindelink repariert, Vorfassung erhalten.
+
+Veröffentlichung und Versand
+Die Vorbereitung der Veröffentlichung wurde wegen 1 defekten Links und des noch nicht fertiggestellten Berichts abgebrochen; es ging dabei keine Änderung live und keine E-Mail wurde versandt. Der defekte Ingelfinger Gemeindepfad wurde mit erhaltener Vorfassung repariert. Die Veröffentlichung folgt erst nach erfolgreicher Nachprüfung.
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.

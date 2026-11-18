@@ -1,7 +1,7 @@
 {
-  "checked": 1668,
-  "ok": 1630,
-  "blocked": 38,
+  "checked": 1671,
+  "ok": 1642,
+  "blocked": 29,
   "broken": 0,
   "results": [
     {
@@ -24,18 +24,6 @@
       "url": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
       "status": 403,
       "finalUrl": "https://www.parker.com/content/dam/Parker-com/Literature/Sporlan/Sporlan-pdf-files/Sporlan-pdf-Miscellanous/Form-5-593-Data-Center-Cooling-Piping-Diagram.pdf",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 429,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -78,18 +66,6 @@
     },
     {
       "collection": "findings",
-      "index": 110,
-      "field": "sourceUrl",
-      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.wittlingen.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
-    },
-    {
-      "collection": "findings",
       "index": 85,
       "field": "sourceUrl",
       "title": "News-Screening: Netzanschluss, Strombedarf und Akzeptanz bleiben harte RZ-Filter",
@@ -99,30 +75,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 116,
-      "field": "sourceUrl",
-      "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
-      "url": "https://www.e-werk-mittelbaden.de/presse/bau-rechenzentrum-lahr",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
-    },
-    {
-      "collection": "findings",
-      "index": 116,
-      "field": "sourceUrl",
-      "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
-      "url": "https://www.e-werk-mittelbaden.de/presse/rechenzentrum-appenweier",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
     },
     {
       "collection": "findings",
@@ -174,18 +126,6 @@
     },
     {
       "collection": "findings",
-      "index": 233,
-      "field": "sourceUrl",
-      "title": "Schallstadt: historisches kaltes Nahwärmenetz, konkrete Rechenzentrums-Abwärmeaufnahme offen",
-      "url": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', ConnectionResetError(10054, 'Eine vorhandene Verbindung wurde vom Remotehost geschlossen', None, 10054, None))"
-    },
-    {
-      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -195,54 +135,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
-      "collection": "findings",
-      "index": 143,
-      "field": "sourceUrl",
-      "title": "Tagesmonitoring: neuer Netz-Vorfilter, aber keine konkrete RZ-Flaeche",
-      "url": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
-      "status": 429,
-      "finalUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 143,
-      "field": "sourceUrl",
-      "title": "Tagesmonitoring: neuer Netz-Vorfilter, aber keine konkrete RZ-Flaeche",
-      "url": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
-      "status": 429,
-      "finalUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 90,
-      "field": "sourceUrl",
-      "title": "Weitere 20 Rhein-Neckar-Gemeinden geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
-      "status": 429,
-      "finalUrl": "https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
-      "ok": false,
-      "blocked": true,
-      "error": ""
     },
     {
       "collection": "sites",
@@ -6429,9 +6321,9 @@
       "index": 76,
       "field": "sourceUrl",
       "title": "Cron #2: 20 weitere Gemeinden nach Abstatt geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.ingelfingen.de/de/startseite",
+      "url": "https://www.ingelfingen.de/",
       "status": 200,
-      "finalUrl": "https://www.ingelfingen.de/de/startseite",
+      "finalUrl": "https://www.ingelfingen.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -7248,6 +7140,18 @@
       "url": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
       "status": 200,
       "finalUrl": "https://www.ew-netze.de/neue-regeln-fuer-grosse-netzanschluesse-und-leistungserhoehungen",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 167,
+      "field": "sourceUrl",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 200,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -10101,6 +10005,18 @@
       "index": 110,
       "field": "sourceUrl",
       "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.wittlingen.de/",
+      "status": 200,
+      "finalUrl": "https://www.wittlingen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 110,
+      "field": "sourceUrl",
+      "title": "Loerrach-/Waldshut-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.wutoeschingen.de/",
       "status": 200,
       "finalUrl": "https://www.wutoeschingen.de/",
@@ -11196,6 +11112,30 @@
       "url": "https://www.e-werk-mittelbaden.de/magazin/pv-anlage-leitwerk-appenweier",
       "status": 200,
       "finalUrl": "https://www.e-werk-mittelbaden.de/magazin/pv-anlage-leitwerk-appenweier",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 116,
+      "field": "sourceUrl",
+      "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
+      "url": "https://www.e-werk-mittelbaden.de/presse/bau-rechenzentrum-lahr",
+      "status": 200,
+      "finalUrl": "https://www.e-werk-mittelbaden.de/presse/bau-rechenzentrum-lahr",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 116,
+      "field": "sourceUrl",
+      "title": "News-Screening: regionale Edge-Modelle bestaetigt, kein neuer Freiburger RZ-Standort",
+      "url": "https://www.e-werk-mittelbaden.de/presse/rechenzentrum-appenweier",
+      "status": 200,
+      "finalUrl": "https://www.e-werk-mittelbaden.de/presse/rechenzentrum-appenweier",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13026,6 +12966,18 @@
     },
     {
       "collection": "findings",
+      "index": 233,
+      "field": "sourceUrl",
+      "title": "Schallstadt: historisches kaltes Nahwärmenetz, konkrete Rechenzentrums-Abwärmeaufnahme offen",
+      "url": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
+      "status": 200,
+      "finalUrl": "https://www.kea-bw.de/kea-map/lightbox-1-1-3-1-3-2-1",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 127,
       "field": "sourceUrl",
       "title": "Schemmerhofen/Bodenseekreis/Altshausen: 19 Gemeinden geprüft, 1 technisch offen",
@@ -13950,6 +13902,18 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -14640,6 +14604,30 @@
       "url": "https://news.google.com/rss/search?q=%28%22Gewerbefl%C3%A4che%22%20OR%20Gewerbegebiet%20OR%20Umspannwerk%20OR%20Glasfaser%20OR%20Fernw%C3%A4rme%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A7d&hl=de&gl=DE&ceid=DE:de",
       "status": 200,
       "finalUrl": "https://news.google.com/rss/search?q=%28%22Gewerbefl%C3%A4che%22%20OR%20Gewerbegebiet%20OR%20Umspannwerk%20OR%20Glasfaser%20OR%20Fernw%C3%A4rme%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A7d&hl=de&gl=DE&ceid=DE:de",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 143,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: neuer Netz-Vorfilter, aber keine konkrete RZ-Flaeche",
+      "url": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+      "status": 200,
+      "finalUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20%22Data%20Center%22%29%20Baden-W%C3%BCrttemberg%20when%3A2d&hl=de&gl=DE&ceid=DE:de",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 143,
+      "field": "sourceUrl",
+      "title": "Tagesmonitoring: neuer Netz-Vorfilter, aber keine konkrete RZ-Flaeche",
+      "url": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
+      "status": 200,
+      "finalUrl": "https://news.google.com/rss/search?q=%28%22Rechenzentrum%22%20OR%20Datacenter%20OR%20Serverfarm%29%20%28Freiburg%20OR%20Denzlingen%20OR%20Emmendingen%29%20when%3A30d&hl=de&gl=DE&ceid=DE:de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16416,6 +16404,18 @@
       "url": "https://www.weisweil.de/freie-gewerbeflaechen/",
       "status": 200,
       "finalUrl": "https://www.weisweil.de/freie-gewerbeflaechen/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 90,
+      "field": "sourceUrl",
+      "title": "Weitere 20 Rhein-Neckar-Gemeinden geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
+      "status": 200,
+      "finalUrl": "https://news.google.com/rss/search?q=Edge+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18378,6 +18378,30 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 180,
+      "field": "sourceUrl",
+      "title": "Malterdingen Kleb 3. Änderung: Bekanntmachung vom 12.11.2026",
+      "url": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "status": 200,
+      "finalUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 181,
+      "field": "sourceUrl",
+      "title": "Malterdingen Kleb 3. Änderung: Schutzgüter und Artenschutz, Stand 03.11.2026",
+      "url": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "status": 200,
+      "finalUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 176,
       "field": "sourceUrl",
       "title": "Merdingen Emletweg rechts: Begründung Stand 24.06.2025, frühzeitige Beteiligung",
@@ -18755,7 +18779,7 @@
       "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
       "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf2/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19128,6 +19152,18 @@
       "url": "https://www.titisee-neustadt.de/wirtschaft-handel/gewerbeflaechen-und-immobilien",
       "status": 200,
       "finalUrl": "https://www.titisee-neustadt.de/wirtschaft-handel/gewerbeflaechen-und-immobilien",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "sites",
+      "index": 32,
+      "field": "sourceUrl",
+      "title": "Gottlieb-Daimler-Straße 11 – vorläufiger Miet-Prüfkandidat",
+      "url": "https://www.becker.eu/unsere-immobilienangebote/",
+      "status": 200,
+      "finalUrl": "https://www.becker.eu/unsere-immobilienangebote/",
       "ok": true,
       "blocked": false,
       "error": ""

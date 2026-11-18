@@ -939,6 +939,24 @@
         }
       ],
       "additionalSourceUrl": "https://herbolzheim-sitzungsdienst.komm.one/bi/to0050.asp?__ktonr=9092"
+    },
+    {
+      "id": "id-2026-11-18-denzlingen-kiesflaeche",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "name": "Gottlieb-Daimler-Straße 11 – vorläufiger Miet-Prüfkandidat",
+      "city": "Denzlingen",
+      "postalCode": "79211",
+      "address": "Gottlieb-Daimler-Straße 11 laut Anbieter",
+      "operator": "Kein Rechenzentrumsbetreiber belegt; öffentliches Mietangebot Paul Becker GmbH",
+      "status": "Vorläufiger Prüfkandidat; aktuelle Verfügbarkeit, Rechenzentrumsbaurecht und Verbrauchsanschluss offen",
+      "area": "2.101 m² laut Anbieter; keine bestätigte nutzbare Rechenzentrumsfläche",
+      "powerMw": "Unbekannt; keine zugesicherte freie Bezugsleistung",
+      "connectivity": "Keine zugesicherten physisch getrennten Carrierwege belegt",
+      "source": "Direkt abgerufene öffentliche Angebotsseite des Anbieters am 18.11.2026",
+      "sourceUrl": "https://www.becker.eu/unsere-immobilienangebote/",
+      "notes": "Anbieter bezeichnet das Objekt als Kiesfläche im Gewerbegebiet, Miete, ab sofort, Preis auf Anfrage. Das ist eine veröffentlichte Angebotsaussage, keine aktuelle Vermieterbestätigung, Reservierung oder bauliche Freigabe. Exposé 168658368 nicht vollständig abrufbar (401). Eigene Bewertung: allenfalls bedingter Prüfhinweis für modulare Anlagen; zulässige Nutzung, genehmigungsfähige Containeraufstellung, Eigentümerzustimmung, Dauer der Vermietung, Tragfähigkeit/Altlasten/Entwässerung, Wasser- und Hochwasserrisiken, Kühlungs-/Notstromschall, Brandschutz, Verbrauchsanschluss und Carrier erst klären. Keine Parzellenidentität mit der Halle Markgrafenstraße oder deren Unterlagen herstellen. Keine Kontaktaufnahme.",
+      "tags": "Vorläufig, Mietangebot, keine bestätigte freie RZ-Fläche, technische Prüfung offen"
     }
   ],
   "companies": [
@@ -4927,6 +4945,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/rpf.baden-wuerttemberg.de/caa6867a758f34bc.pdf",
       "tags": "Amtliches Original lokal archiviert; Genehmigung, Umsetzung und Anschluss getrennt"
+    },
+    {
+      "id": "id-2026-11-18-pdf-01",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "municipality": "Malterdingen",
+      "documentTitle": "Malterdingen Kleb 3. Änderung: Bekanntmachung vom 12.11.2026",
+      "documentType": "Amtliche Offenlagebekanntmachung",
+      "pages": "3",
+      "keyFacts": "Edeka-Erweiterung; Offenlage 13.11.–14.12.2026. Kein Satzungsbeschluss oder Inkrafttreten dieser Änderung nachgewiesen.",
+      "technicalFacts": "Keine Rechenzentrumsfläche oder Anschlussleistung belegt.",
+      "planningFacts": "3 Seiten ausgelesen; Seite 1 visuell geprüft. Einzelhandelsbezogenen Zweck von allgemeiner Gewerbeverfügbarkeit trennen.",
+      "sourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.malterdingen.de/6860720bff758a6a.pdf",
+      "tags": "Amtliches Original lokal gesichert; projektbezogene Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-18-pdf-02",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "municipality": "Malterdingen",
+      "documentTitle": "Malterdingen Kleb 3. Änderung: Schutzgüter und Artenschutz, Stand 03.11.2026",
+      "documentType": "Projektbezogene Schutzgut- und Artenschutzuntersuchung",
+      "pages": "12",
+      "keyFacts": "12 Dateiseiten, Offenlagefassung für Erweiterung des bestehenden Lebensmittelmarkts.",
+      "technicalFacts": "Kein standortübergreifender Umweltnachweis für ein Rechenzentrum.",
+      "planningFacts": "Textlich ausgelesen, Dateiseite 2 visuell geprüft. Ergebnis nur auf das untersuchte Vorhaben beziehen; keine unabhängige Fachprüfung.",
+      "sourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.malterdingen.de/4b6a9a3bb06d8162.pdf",
+      "tags": "Amtliches Original lokal gesichert; projektbezogene Prüfgrenzen"
     }
   ],
   "media": [
@@ -6477,7 +6527,7 @@
       "publishedDate": "2026-07-09",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW",
-      "sourceUrl": "https://www.beilstein.de/; https://www.ilsfeld.de/; https://www.untergruppenbach.de/startseite; https://www.massenbachhausen.de/startseite; https://www.schwaigern.de/; https://www.eberstadt.de/startseite; https://www.lehrensteinsfeld.de/; https://www.weinsberg.de/; https://www.badwimpfen.de/gaeste-bereich/startseite; https://www.gundelsheim.de/startseite; https://www.leingarten.de/startseite; https://www.neudenau.de/de/startseite; https://www.gemeinde-wuestenrot.de/de/startseite; https://www.kupferzell.de/startseite; https://www.neuenstein.de/startseite; https://www.waldenburg-hohenlohe.de/startseite; https://www.doerzbach.de/; https://www.krautheim.de/startseite; https://www.mulfingen.de/; https://www.ingelfingen.de/de/startseite",
+      "sourceUrl": "https://www.beilstein.de/; https://www.ilsfeld.de/; https://www.untergruppenbach.de/startseite; https://www.massenbachhausen.de/startseite; https://www.schwaigern.de/; https://www.eberstadt.de/startseite; https://www.lehrensteinsfeld.de/; https://www.weinsberg.de/; https://www.badwimpfen.de/gaeste-bereich/startseite; https://www.gundelsheim.de/startseite; https://www.leingarten.de/startseite; https://www.neudenau.de/de/startseite; https://www.gemeinde-wuestenrot.de/de/startseite; https://www.kupferzell.de/startseite; https://www.neuenstein.de/startseite; https://www.waldenburg-hohenlohe.de/startseite; https://www.doerzbach.de/; https://www.krautheim.de/startseite; https://www.mulfingen.de/; https://www.ingelfingen.de/",
       "title": "Cron #2: 20 weitere Gemeinden nach Abstatt geprueft: keine belastbaren RZ-Flaechenfunde",
       "summary": "Fortsetzung der Coverage nach Abstatt, Ellhofen als bereits bekannter RZ-Bestand uebersprungen: Geprueft wurden Beilstein, Ilsfeld, Untergruppenbach, Massenbachhausen, Schwaigern, Eberstadt, Lehrensteinsfeld, Weinsberg, Bad Wimpfen, Gundelsheim, Leingarten, Neudenau, Wuestenrot, Kupferzell, Neuenstein, Waldenburg, Doerzbach, Krautheim, Mulfingen, Ingelfingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Wimpfen, Ilsfeld, Ingelfingen, Kupferzell, Leingarten, Neuenstein, Schwaigern, Untergruppenbach, Weinsberg. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
@@ -6493,7 +6543,37 @@
         "Glasfaser",
         "kein RZ-Fund"
       ],
-      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+      "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft.",
+      "revisionHistory": [
+        {
+          "date": "2026-11-18",
+          "reason": "Defekten historischen Gemeindepfad (GET 404) durch erreichbare amtliche Startseite (GET 200) ersetzt; damalige sachliche Bewertung nicht neu bestätigt.",
+          "previousRecord": {
+            "id": "id-2026-07-09-cron2-heilbronn-hohenlohe-20-screening",
+            "date": "2026-07-09",
+            "publishedDate": "2026-07-09",
+            "topic": "Kommunalrecherche Baden-Wuerttemberg",
+            "publisher": "Kommunale Primaerquellen BW",
+            "sourceUrl": "https://www.beilstein.de/; https://www.ilsfeld.de/; https://www.untergruppenbach.de/startseite; https://www.massenbachhausen.de/startseite; https://www.schwaigern.de/; https://www.eberstadt.de/startseite; https://www.lehrensteinsfeld.de/; https://www.weinsberg.de/; https://www.badwimpfen.de/gaeste-bereich/startseite; https://www.gundelsheim.de/startseite; https://www.leingarten.de/startseite; https://www.neudenau.de/de/startseite; https://www.gemeinde-wuestenrot.de/de/startseite; https://www.kupferzell.de/startseite; https://www.neuenstein.de/startseite; https://www.waldenburg-hohenlohe.de/startseite; https://www.doerzbach.de/; https://www.krautheim.de/startseite; https://www.mulfingen.de/; https://www.ingelfingen.de/de/startseite",
+            "title": "Cron #2: 20 weitere Gemeinden nach Abstatt geprueft: keine belastbaren RZ-Flaechenfunde",
+            "summary": "Fortsetzung der Coverage nach Abstatt, Ellhofen als bereits bekannter RZ-Bestand uebersprungen: Geprueft wurden Beilstein, Ilsfeld, Untergruppenbach, Massenbachhausen, Schwaigern, Eberstadt, Lehrensteinsfeld, Weinsberg, Bad Wimpfen, Gundelsheim, Leingarten, Neudenau, Wuestenrot, Kupferzell, Neuenstein, Waldenburg, Doerzbach, Krautheim, Mulfingen, Ingelfingen ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Energiepfade. Kein belastbarer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+            "relevance": "Mittlere Vorfilter nur bei konkretem Flaechen-/Netzanlass: Bad Wimpfen, Ilsfeld, Ingelfingen, Kupferzell, Leingarten, Neuenstein, Schwaigern, Untergruppenbach, Weinsberg. Freiburg/Denzlingen/Emmendingen wurden parallel revalidiert; kein neuer konkreter Flaechen-/Carrier-Hinweis.",
+            "action": "Coverage weiter nach Hohenlohe fortsetzen; falsch vorbefuellte Altquellen wurden durch kommunale Primaerquellen ersetzt. Freiburg/Denzlingen/Emmendingen bei konkreten Flaechen-/Netz-/Carrier-Hinweisen sofort vorziehen.",
+            "status": "neu aufgenommen",
+            "tags": [
+              "Kommunalrecherche",
+              "Baden-Wuerttemberg",
+              "Heilbronn",
+              "Hohenlohekreis",
+              "Bebauungsplaene",
+              "Gewerbe",
+              "Glasfaser",
+              "kein RZ-Fund"
+            ],
+            "archiveNote": "Offizielle kommunale Quellen wurden fuer lokale Archivierung ueber sourceUrl hinterlegt; Prioritaetsquellen revalidiert: Denzlingen 110-kV-Netzverstaerkung, Denzlingen Wirtschaftsstandort, Freiburg Gewerbeflaechen/Wirtschaft."
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-07-10-cron2-hohenlohe-schwaebischhall-20-screening",
@@ -9824,6 +9904,31 @@
       "confidence": "Beide Original-PDFs ausgelesen; Beschlusstenor Dateiseite 9 und Bekanntmachung Seite 2 visuell geprüft. Keine Bestandskraft oder abschließende rechtliche Fristenbewertung behauptet.",
       "action": "Eigene Bewertung: Erheblicher Planstandsfortschritt im priorisierten Suchraum, aber kein neuer freier Standort und keine Anschlusszusage. Betreiber erwartet Baubeginn Ende 2027 und ungefähr 2 Jahre Bauzeit; Umsetzung nicht nachgewiesen. Öffentlich verlinkte Cloud-Planablage nur als Oberfläche lesbar; direkte Dateiauflistung mit Status 401 gescheitert, technische Anlagen nicht vollständig erschlossen.",
       "tags": "Denzlingen, 110 kV, Planfeststellung, keine freie Bezugsleistung"
+    },
+    {
+      "id": "id-2026-11-18-denzlingen-mietflaeche",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "title": "Denzlingen: 2.101 m² Kiesfläche als öffentliches Mietangebot, Eignung offen",
+      "topic": "Flächensuche / vorläufiger Kandidat",
+      "summary": "Paul Becker GmbH nennt auf der direkt abgerufenen Angebotsseite eine Kiesfläche in der Gottlieb-Daimler-Straße 11 mit 2.101 m², Miete, ab sofort, Preis auf Anfrage. Die heutige tatsächliche Verfügbarkeit ist nicht persönlich bestätigt. Das verlinkte Exposé war nicht vollständig abrufbar.",
+      "sourceUrl": "https://www.becker.eu/unsere-immobilienangebote/",
+      "confidence": "Direkt gelesene und lokal gesicherte Anbieterquelle; keine Eigentümer-, Bau- oder Netzbestätigung",
+      "action": "Eigene Bewertung: Vorläufigen Standort erfassen; vor technischer Vertiefung Nutzungsfreigabe und vermietbare Dauer prüfen. Keine Nähe zu Netzbestand als Anschlusszusage werten. Kein bestätigtes Rechenzentrumsbaurecht oder verfügbare Bezugsleistung.",
+      "tags": "Denzlingen, Kiesfläche, vorläufig, Miete"
+    },
+    {
+      "id": "id-2026-11-18-malterdingen-kleb",
+      "created": "2026-11-18",
+      "updated": "2026-11-18",
+      "title": "Malterdingen Kleb: 3. Änderung betrifft Edeka-Erweiterung",
+      "topic": "Bauleitplanung / sachliche Abgrenzung",
+      "summary": "Amtliche Bekanntmachung vom 12.11.2026: Aufstellungsbeschluss 13.10.2026, Offenlagebeschluss 03.11.2026, Veröffentlichung 13.11.–14.12.2026. Ziel ist die Erweiterung des bestehenden Lebensmittelmarktes um etwa 120 m² Verkaufsfläche sowie ergänzende Gastronomie. Dies ist keine Ausweisung frei verfügbarer Rechenzentrumsflächen.",
+      "sourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/BP_Kleb_3._And.-Bekanntmachungstext_Offenlage-261106.pdf",
+      "additionalSourceUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "confidence": "Bekanntmachung 3 Seiten und Schutzgut-/Artenschutzunterlage 12 Seiten ausgelesen; Bekanntmachung Seite 1 und Gutachten Dateiseite 2 visuell geprüft",
+      "action": "Keine neue freie Gewerbe- oder Rechenzentrumsparzelle daraus anlegen. Offenlageentwurf von Satzungsbeschluss/Inkrafttreten unterscheiden. Projektbezogene Umweltbewertung nicht auf andere Nutzungen übertragen.",
+      "tags": "Malterdingen, Einzelhandel, Entwurf, kein freier RZ-Standort"
     }
   ],
   "gridChecks": [
@@ -10293,7 +10398,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-17",
+    "lastRun": "2026-11-18",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10321,8 +10426,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-17",
-    "lastResearchSummary": "45 kommunale Teilprüfungen; 1 neuer Befund und 2 Dokumentauswertungen zur Denzlinger Netzgenehmigung, 1 veralteten Befund mit Vorfassung aktualisiert. Kein neuer freier Standort.",
+    "lastResearchRun": "2026-11-18",
+    "lastResearchSummary": "46 kommunale Teilprüfungen; 1 neuer vorläufiger Standortkandidat, 2 Befunde und 2 Dokumenteinträge ergänzt. Verfügbarkeit, Rechenzentrumsbaurecht und Stromanschluss unbestätigt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
