@@ -1,0 +1,63 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 19.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Laufbeginn: 19.11.2026, 07:33 Uhr Europe/Berlin.
+
+Ergebnis und Handlungsbedarf
+47 offene Gemeinden teilweise geprüft. 1 Befund zur modularen Anschlussplanung und 2 Originaldokumenteinträge ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Der am 18.11.2026 erfasste Denzlinger Mietflächenhinweis wird nicht nochmals als neu gezählt; die Anbieterquelle ist weiterhin erreichbar, tatsächliche Verfügbarkeit und Eignung bleiben unbestätigt. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Anmeldung, Reservierung oder Antragstellung vorgenommen.
+
+Netze BW: Gesamtbezug statt Modulanzahl
+Belegt: Die Betreiberpräsentation vom 02.11.2026 nennt auf Seite 12 für die dort beschriebene allgemeine Daseinsvorsorge eine vertragliche Gesamtbezugsleistung am Netzanschlusspunkt kleiner 950 kW, sofern kein Speicher mit Netzbezug geplant ist. Besondere Kategorien der essenziellen Daseinsvorsorge sind gesondert dargestellt. Die Folien 11/12 wurden im Zusammenhang geprüft. Es handelt sich um die Betreiberbeschreibung des Verfahrens, keine individuelle Anschlusszusage oder unabhängige Rechtsprüfung.
+Eigene Schlussfolgerung: Bei mehreren Containern oder Modulen am selben Anschlusspunkt ist der gemeinsame vertragliche Bezug zu betrachten. Die Modulanzahl allein begründet keine Einstufung unter 950 kW. Ein konkretes Batterie- oder Konzept für unterbrechungsfreie Stromversorgung muss der zuständige Netzbetreiber einordnen; keine pauschale Speicher-Ausnahme unterstellen.
+Die Verfahrensquelle gilt für Netze BW. Sie wird nicht ungeprüft auf das Netzgebiet der Stadtwerke Emmendingen beziehungsweise Denzlingen übertragen. Auch unterhalb der Grenze ist keine freie Leistung oder sofortige Versorgung garantiert. Das bekannte Punkteverfahren bleibt regional von vorhandenen Kapazitäten abhängig. Bestehenden Frist- und Schwellenbefund nicht nochmals als neues Verfahren gezählt.
+Betreiberseite: https://www.netze-bw.de/netzanschluss/vergabe
+
+Freiamt: historischer Gewerbeplan als Kontext
+3 Original-PDFs zu Hard IV/Eckle lokal gesichert: Satzung 2 Seiten, Lageplan 3 Seiten, schriftlicher Teil 18 Seiten. Sie sind bildbasiert und nicht im Volltext erschlossen. Die visuell gelesene Satzungsseite 1 nennt den Gemeinderatsbeschluss vom 02.10.2007. Das auf der Webseite angegebene Dateidatum 25.11.2020 ist kein neuer Planbeschluss. Keine heutige freie Parzelle, Rechenzentrumszulassung oder Verbrauchsleistung daraus nachgewiesen. Keine neue Fläche angelegt; heutiger vollständiger Rechtsstand und technische Grundstückseignung bleiben offen.
+Gemeindliche Planseite: https://www.freiamt.de/buerger/de/rathaus-service/ortsrecht/bebauungsplaene
+
+Neue Dokumenteinträge
+Netze BW: 8. Infoveranstaltung für Installateure, 02.11.2026
+https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf
+Freiamt Hard IV/Eckle: historische Satzungsunterlage mit Beschlussdatum 02.10.2007
+https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf
+Netze-BW-Präsentation: 51 Seiten textlich ausgelesen, Seite 12 visuell geprüft; nicht sämtliche Rechtsverweise unabhängig geprüft. Freiamter Satzungsunterlage: 2 bildbasierte Seiten, nur Seite 1 visuell gelesen. Prüfgrenzen in den Dokumentdatensätzen vermerkt.
+Zusätzlich aktuelle Gundelfinger Nachrichten vom 18.11.2026 (8 Seiten), der Malterdinger Umweltbericht Wiesental I (86 Seiten, Offenlagefassung 07.07.2026) und eine ältere Solarpark-Teningen-Offenlagebekanntmachung (2 Seiten) gesichert und ausgelesen. Neu im Archiv bedeutet nicht neu beschlossen oder veröffentlicht. Projektbezogene Umwelt- und Solarplanung nicht als verfügbare Rechenzentrumsfläche oder Anschlussleistung gewertet. Keine neuen Fotos oder separaten technischen Zeichnungen übernommen; keine Zeichnungen erfunden.
+
+Nachrichtensuche
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Keine neue gesicherte freie Fläche im priorisierten Suchraum aus Nachrichten belegt. Veranstaltungswerbung und Hochschul-Wartungsmeldungen sind keine Standortangebote. Bestehende Netz-, Abwärme-, Container- und Mietflächenbefunde nicht doppelt als neu erfasst. Keine unbestätigten Rechtsänderungen als geltendes Recht dargestellt.
+
+Kommunale Prüfung
+47 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet.
+Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix dokumentiert. Alle 47 bleiben für die vollständige systematische Aktenprüfung offen. Gemeinden mit neuem bestätigtem Rechenzentrumsfund oder frei verfügbarem Standort: 0. Freiamt liefert historischen Planungskontext; übrige Gemeinden ohne neuen gesicherten Standortfund oder weiter offen. Keine sachliche Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+
+Zugriffslücken und nächster Schritt
+Das amtlich verlinkte Freiamter Ratsportal https://freiamt.ratsinfomanagement.net/ lieferte Status 403. Ursache der serverseitigen Sperre nicht weiter feststellbar. Auswirkung: vollständige Sitzungsakten konnten heute nicht erschlossen werden; diese Teilprüfung bleibt offen. Nächster Schritt: gezielter erneuter Abruf über den bestehenden öffentlichen Zugang bei Folgeläufen. Keine Zugangssperre umgangen und keine Rechte erweitert. Weitere Abruffehler und inhaltlich unzureichende Oberflächen stehen in der lokalen Prüfmatrix; sie gelten nicht als sachliche Negativbefunde.
+
+Lokale Archivierung
+671 unterschiedliche Quellenadressen abgerufen, 637 erfolgreich lokal gesichert, 19 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 94 PDF-Dateifassungen mit unterschiedlichem Datei-Hash und insgesamt 1634 Seiten berücksichtigt, davon 8 gegenüber dem bisherigen Archiv neue Dateifassungen. Darunter eine in Text und Seitenrender identische Gechinger Ersatzdatei mit abweichenden Dateibytes; kein neuer sachlicher Analyseinhalt. Neue Dateifassungen und 2 neue Dokumenteinträge sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 14 Dokumente textlich unvollständig erschlossen. Keine vollständige optische Texterkennung behauptet. Archivierung mit dem vorhandenen Quellenarchiv-Programm; lokale Quellenarchive werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+1 historischer Gechinger Trinkwasser-Link lieferte GET 404. Die aktuell amtlich verlinkte Ersatzdatei wurde lokal gesichert: Volltext und Render aller 4 Seiten stimmen mit dem vorhandenen Archivbeleg überein, die Dateibytes unterscheiden sich. Adresse mit erhaltener Vorfassung ersetzt; keine neue Wasseranalyse oder aktuelle Kühlwasser-Eignung daraus abgeleitet. Die Berichtsfertigstellung wurde bis zur Reparatur angehalten; davor weder veröffentlicht noch versandt.
+184 erfasste Dokumentquellen geprüft: 184 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 2 neu erfasste Originalquellen zusätzlich im lokalen Quellenarchiv; Planstände und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1673 unterschiedliche öffentliche Links geprüft: 1646 erreichbar, 27 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. 1 nachgewiesen defekter historischer Gechinger PDF-Link durch die aktuell amtlich verlinkte Datei ersetzt. Volltext und alle Seitenrender identisch, Dateibytes abweichend; keine neue sachliche Analyse behauptet.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Befunde: 247 → 248 (+1)
+Dokumentauswertungen: 182 → 184 (+2)
+Standorte: 33 (+0); neue bestätigte verfügbare Standorte: 0
+Bauleitplanungseinträge: 38 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Tagesprüfungen: 46 → 47. 1 historischer PDF-Link repariert; Vorfassung erhalten.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse erhalten. 6 vorgesehene öffentliche Dateien werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.

@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-18",
-  "total": 182,
+  "checkedAt": "2026-11-19",
+  "total": 184,
   "localAvailable": 68,
-  "publicAvailable": 182,
+  "publicAvailable": 184,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2824,8 +2824,8 @@
       "ok": true,
       "blocked": false,
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf2/none/75_854/KUKA%20Industries_Rittal/",
-      "contentType": "image/jpeg",
+      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
+      "contentType": "application/pdf",
       "error": ""
     },
     {
@@ -3097,6 +3097,40 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.malterdingen.de/fileadmin/Dateien/Cross7/Startseite/Wohnen_%26_Leben/Bauen_%26_Werte/Aktuelle_Offenlagen/07-BP_Kleb_3._And.-Umweltbelange-Offenlage-261103.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Netzgebiet Netze BW",
+      "documentTitle": "Netze BW: 8. Infoveranstaltung für Installateure, 02.11.2026",
+      "documentType": "Betreiberpräsentation zum Vergabeverfahren",
+      "pages": "51",
+      "publicUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "currentSourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Freiamt",
+      "documentTitle": "Freiamt Hard IV/Eckle: historische Satzungsunterlage mit Beschlussdatum 02.10.2007",
+      "documentType": "Historische Bebauungsplan-Satzung",
+      "pages": "2",
+      "publicUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "currentSourceUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

@@ -1,7 +1,7 @@
 {
-  "checked": 1671,
-  "ok": 1642,
-  "blocked": 29,
+  "checked": 1673,
+  "ok": 1646,
+  "blocked": 27,
   "broken": 0,
   "results": [
     {
@@ -42,18 +42,6 @@
     },
     {
       "collection": "findings",
-      "index": 139,
-      "field": "sourceUrl",
-      "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
-      "url": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.1und1.net', port=443): Max retries exceeded with url: /unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
       "index": 129,
       "field": "sourceUrl",
       "title": "Hagnau/Ravensburg bis Baindt: 19 Gemeinden geprüft, 1 technisch offen",
@@ -72,18 +60,6 @@
       "url": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
       "status": 403,
       "finalUrl": "https://apnews.com/article/506e3d206871111f15c3c62fc5368be5",
-      "ok": false,
-      "blocked": true,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 84,
-      "field": "sourceUrl",
-      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
-      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
-      "status": 403,
-      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": false,
       "blocked": true,
       "error": ""
@@ -7749,6 +7725,18 @@
       "index": 139,
       "field": "sourceUrl",
       "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
+      "url": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
+      "status": 200,
+      "finalUrl": "https://www.1und1.net/unternehmen/presse/pressemitteilungen/glasfaser-staerkt-wirtschaftsstandort-freiburg",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 139,
+      "field": "sourceUrl",
+      "title": "Freiburg: belastbare Glasfaserbasis, aber noch kein Nachweis echter RZ-Redundanz",
       "url": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
       "status": 200,
       "finalUrl": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
@@ -11244,6 +11232,18 @@
       "url": "https://www.pr-newscenter.com/public/pm/read/7196422/KI-Rechenleistung_aus_regionaler_Energie",
       "status": 200,
       "finalUrl": "https://www.pr-newscenter.com/public/pm/read/7196422/KI-Rechenleistung_aus_regionaler_Energie",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 84,
+      "field": "sourceUrl",
+      "title": "Pfinztal bis Rastatt geprueft: keine belastbaren neuen RZ-Flaechenfunde",
+      "url": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
+      "status": 200,
+      "finalUrl": "https://apnews.com/article/power-electricity-ai-plants-data-centers-grid-506e3d206871111f15c3c62fc5368be5",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17015,7 +17015,7 @@
       "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
       "url": "https://www.gechingen.de/",
       "status": 200,
-      "finalUrl": "https://www.gechingen.de/",
+      "finalUrl": "https://www.gechingen.de/startseite",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -17025,9 +17025,9 @@
       "index": 94,
       "field": "sourceUrl",
       "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.gechingen.de/images/stories/gechingen/docu/trinkwasseruntersuchung.pdf",
+      "url": "https://www.gechingen.de/fileadmin/Hauptseite/Dateien/Reinwasseruntersuchung/202500833.pdf",
       "status": 200,
-      "finalUrl": "https://www.gechingen.de/images/stories/gechingen/docu/trinkwasseruntersuchung.pdf",
+      "finalUrl": "https://www.gechingen.de/fileadmin/Hauptseite/Dateien/Reinwasseruntersuchung/202500833.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18126,6 +18126,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 183,
+      "field": "sourceUrl",
+      "title": "Freiamt Hard IV/Eckle: historische Satzungsunterlage mit Beschlussdatum 02.10.2007",
+      "url": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "status": 200,
+      "finalUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 37,
       "field": "sourceUrl",
       "title": "Frohmatten II - Begründung Bebauungsplan",
@@ -18486,6 +18498,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 182,
+      "field": "sourceUrl",
+      "title": "Netze BW: 8. Infoveranstaltung für Installateure, 02.11.2026",
+      "url": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "status": 200,
+      "finalUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 81,
       "field": "sourceUrl",
       "title": "Netze BW: Pressemitteilung Vergabeverfahren, 13.08.2026",
@@ -18779,7 +18803,7 @@
       "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
       "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf2/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""

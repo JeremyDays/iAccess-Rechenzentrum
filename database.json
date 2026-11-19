@@ -4977,6 +4977,38 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.malterdingen.de/4b6a9a3bb06d8162.pdf",
       "tags": "Amtliches Original lokal gesichert; projektbezogene Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-19-pdf-01",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "municipality": "Netzgebiet Netze BW",
+      "documentTitle": "Netze BW: 8. Infoveranstaltung für Installateure, 02.11.2026",
+      "documentType": "Betreiberpräsentation zum Vergabeverfahren",
+      "pages": "51",
+      "keyFacts": "Seite 12: vertraglicher Gesamtbezug am Netzanschlusspunkt kleiner 950 kW und kein Speicher mit Netzbezug als dort genannte Kriterien.",
+      "technicalFacts": "Modulare Ausbauplanung am gemeinsamen Anschlusspunkt insgesamt bewerten; keine individuelle Bezugsleistungszusage.",
+      "planningFacts": "51 Seiten ausgelesen, Seite 12 visuell geprüft; keine unabhängige Prüfung aller Rechtsverweise oder technischer Konzepte.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/assets.cdn.netze-bw.de/8f0ddb465bd3161c.pdf",
+      "tags": "Original lokal gesichert; Geltungs- und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-19-pdf-02",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "municipality": "Freiamt",
+      "documentTitle": "Freiamt Hard IV/Eckle: historische Satzungsunterlage mit Beschlussdatum 02.10.2007",
+      "documentType": "Historische Bebauungsplan-Satzung",
+      "pages": "2",
+      "keyFacts": "Seite 1 nennt Gemeinderatsbeschluss 02.10.2007 zur Planneufassung Hard IV/Eckle. Uploaddatum der Webseite 25.11.2020 ist nicht Beschlussdatum.",
+      "technicalFacts": "Keine heute freie Parzelle, Rechenzentrumszulassung oder Anschlussleistung nachgewiesen.",
+      "planningFacts": "2 bildbasierte Seiten; Seite 1 visuell gelesen. Keine Volltexterschließung oder abschließende aktuelle Rechtsstandsprüfung.",
+      "sourceUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.freiamt.de/04cdd41de0426fff.pdf",
+      "tags": "Original lokal gesichert; Geltungs- und Prüfgrenzen benannt"
     }
   ],
   "media": [
@@ -6981,7 +7013,7 @@
       "publishedDate": "2026-07-18",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW",
-      "sourceUrl": "https://www.edingen-neckarhausen.de/startseite; https://www.eppelheim.de/; https://www.heddesheim.de/willkommen; https://www.hirschberg-bergstrasse.de/; https://www.ilvesheim.de/startseite; https://www.ketsch.de/startseite; https://www.ladenburg.de/willkommen; https://www.leimen.de/startseite; https://www.oftersheim.de/start; https://www.plankstadt.de/2235044; https://www.st-leon-rot.de/startseite; https://www.schriesheim.de/willkommen; https://www.schwetzingen.de/start; https://www.pforzheim.de/; https://www.altensteig.de/; https://www.simmersfeld.de/; https://www.althengstett.de/; https://www.gechingen.de/; https://www.gechingen.de/images/stories/gechingen/docu/trinkwasseruntersuchung.pdf; https://www.ostelsheim.de/; https://www.simmozheim.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Edge+Micro+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
+      "sourceUrl": "https://www.edingen-neckarhausen.de/startseite; https://www.eppelheim.de/; https://www.heddesheim.de/willkommen; https://www.hirschberg-bergstrasse.de/; https://www.ilvesheim.de/startseite; https://www.ketsch.de/startseite; https://www.ladenburg.de/willkommen; https://www.leimen.de/startseite; https://www.oftersheim.de/start; https://www.plankstadt.de/2235044; https://www.st-leon-rot.de/startseite; https://www.schriesheim.de/willkommen; https://www.schwetzingen.de/start; https://www.pforzheim.de/; https://www.altensteig.de/; https://www.simmersfeld.de/; https://www.althengstett.de/; https://www.gechingen.de/; https://www.gechingen.de/fileadmin/Hauptseite/Dateien/Reinwasseruntersuchung/202500833.pdf; https://www.ostelsheim.de/; https://www.simmozheim.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Edge+Micro+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
       "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
       "summary": "Nach dem Rhein-Neckar-Block des ersten Tageslaufs wurden Edingen-Neckarhausen, Eppelheim, Heddesheim, Hirschberg an der Bergstrasse, Ilvesheim, Ketsch, Ladenburg, Leimen, Oftersheim, Plankstadt, St. Leon-Rot, Schriesheim, Schwetzingen, Pforzheim, Altensteig, Simmersfeld, Althengstett, Gechingen, Ostelsheim, Simmozheim ueber offizielle kommunale Startseiten und entdeckte Planungs-/Infrastrukturpfade geprueft. Kein belastbarer neuer Standorttreffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Mittlere Vorfilter bleiben groessere bzw. infrastrukturell plausiblere Kommunen im Rhein-Neckar-Raum sowie Pforzheim. Ohne konkrete freie GE/GI-Flaeche, belastbare Netzzusage und zwei Carriertrassen entstand kein harter iAccess-Kandidat.",
@@ -6994,6 +7026,33 @@
         "Pforzheim",
         "Calw",
         "kein RZ-Fund"
+      ],
+      "revisionHistory": [
+        {
+          "date": "2026-11-19",
+          "reason": "Defekte Quelladresse GET 404 ersetzt. Neuer amtlicher Pfad mit identischem ausgelesenem Volltext und identischen Seitenrendern verglichen; Dateibytes unterscheiden sich. Historischen Prüfbericht nicht als neue Wasseranalyse behandelt.",
+          "previousRecord": {
+            "id": "id-2026-07-18-rheinneckar-calw-20-screening",
+            "date": "2026-07-18",
+            "publishedDate": "2026-07-18",
+            "topic": "Kommunalrecherche Baden-Wuerttemberg",
+            "publisher": "Kommunale Primaerquellen BW",
+            "sourceUrl": "https://www.edingen-neckarhausen.de/startseite; https://www.eppelheim.de/; https://www.heddesheim.de/willkommen; https://www.hirschberg-bergstrasse.de/; https://www.ilvesheim.de/startseite; https://www.ketsch.de/startseite; https://www.ladenburg.de/willkommen; https://www.leimen.de/startseite; https://www.oftersheim.de/start; https://www.plankstadt.de/2235044; https://www.st-leon-rot.de/startseite; https://www.schriesheim.de/willkommen; https://www.schwetzingen.de/start; https://www.pforzheim.de/; https://www.altensteig.de/; https://www.simmersfeld.de/; https://www.althengstett.de/; https://www.gechingen.de/; https://www.gechingen.de/images/stories/gechingen/docu/trinkwasseruntersuchung.pdf; https://www.ostelsheim.de/; https://www.simmozheim.de/; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-W%C3%BCrttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Edge+Micro+Data+Center+Deutschland&hl=de&gl=DE&ceid=DE:de",
+            "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+            "summary": "Nach dem Rhein-Neckar-Block des ersten Tageslaufs wurden Edingen-Neckarhausen, Eppelheim, Heddesheim, Hirschberg an der Bergstrasse, Ilvesheim, Ketsch, Ladenburg, Leimen, Oftersheim, Plankstadt, St. Leon-Rot, Schriesheim, Schwetzingen, Pforzheim, Altensteig, Simmersfeld, Althengstett, Gechingen, Ostelsheim, Simmozheim ueber offizielle kommunale Startseiten und entdeckte Planungs-/Infrastrukturpfade geprueft. Kein belastbarer neuer Standorttreffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+            "relevance": "Mittlere Vorfilter bleiben groessere bzw. infrastrukturell plausiblere Kommunen im Rhein-Neckar-Raum sowie Pforzheim. Ohne konkrete freie GE/GI-Flaeche, belastbare Netzzusage und zwei Carriertrassen entstand kein harter iAccess-Kandidat.",
+            "action": "Coverage nach Simmozheim im Landkreis Calw fortsetzen; Freiburg/Denzlingen/Emmendingen bei konkretem Netz-, Carrier- oder Flaechensignal sofort vorziehen.",
+            "status": "neu aufgenommen",
+            "tags": [
+              "Kommunalrecherche",
+              "Baden-Wuerttemberg",
+              "Rhein-Neckar",
+              "Pforzheim",
+              "Calw",
+              "kein RZ-Fund"
+            ]
+          }
+        }
       ]
     },
     {
@@ -9929,6 +9988,19 @@
       "confidence": "Bekanntmachung 3 Seiten und Schutzgut-/Artenschutzunterlage 12 Seiten ausgelesen; Bekanntmachung Seite 1 und Gutachten Dateiseite 2 visuell geprüft",
       "action": "Keine neue freie Gewerbe- oder Rechenzentrumsparzelle daraus anlegen. Offenlageentwurf von Satzungsbeschluss/Inkrafttreten unterscheiden. Projektbezogene Umweltbewertung nicht auf andere Nutzungen übertragen.",
       "tags": "Malterdingen, Einzelhandel, Entwurf, kein freier RZ-Standort"
+    },
+    {
+      "id": "id-2026-11-19-netze-bw-gesamtbezug",
+      "created": "2026-11-19",
+      "updated": "2026-11-19",
+      "title": "Netze BW: 950-kW-Grenze bezieht sich auf vertraglichen Gesamtbezug am Anschlusspunkt",
+      "topic": "Netzanschluss / modulare Ausbauplanung",
+      "summary": "Die Betreiberpräsentation vom 02.11.2026 nennt auf Seite 12 die vertragliche Gesamtbezugsleistung am Netzanschlusspunkt: kleiner 950 kW ohne Speicher mit Netzbezug für die dort beschriebene allgemeine Daseinsvorsorge. Das ist eine Betreiberbeschreibung des Verfahrens, keine individuelle Anschlusszusage oder unabhängige Rechtsprüfung.",
+      "sourceUrl": "https://assets.cdn.netze-bw.de/xytfb1vrn7of/3317azJvAxbCtxjGvqO05a/b003a3747bcca5a9cea28bcde4427689/zusammenfassung-infoveranstaltung-02112026.pdf",
+      "additionalSourceUrl": "https://www.netze-bw.de/netzanschluss/vergabe",
+      "confidence": "51-seitiges Betreiberoriginal textlich ausgelesen; Seite 12 visuell geprüft. Folien 11/12 als Zusammenhang berücksichtigt.",
+      "action": "Eigene Schlussfolgerung: Bei mehreren Modulen am gemeinsamen Anschluss die gesamte vertragliche Bezugsleistung betrachten. Modulanzahl allein begründet keine Einstufung unter 950 kW. Netzbeziehende Speicher sind gesondert zu berücksichtigen; Einordnung von reiner unterbrechungsfreier Stromversorgung oder Batteriekonzept vorab mit zuständigem Netzbetreiber klären. Keine pauschale Ausnahme für Rechenzentren, keine Kapazitätsgarantie. Gilt als Netze-BW-Quelle und wird nicht ungeprüft auf Stadtwerke Emmendingen/Denzlingen übertragen.",
+      "tags": "Gesamtbezugsleistung, Netze BW, modulare Planung, kein garantierter Anschluss"
     }
   ],
   "gridChecks": [
@@ -10398,7 +10470,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-18",
+    "lastRun": "2026-11-19",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10426,8 +10498,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-18",
-    "lastResearchSummary": "46 kommunale Teilprüfungen; 1 neuer vorläufiger Standortkandidat, 2 Befunde und 2 Dokumenteinträge ergänzt. Verfügbarkeit, Rechenzentrumsbaurecht und Stromanschluss unbestätigt.",
+    "lastResearchRun": "2026-11-19",
+    "lastResearchSummary": "47 kommunale Teilprüfungen; 1 neuer Befund zur Gesamtbezugsleistung bei Netze BW und 2 Originaldokumenteinträge ergänzt. Keine neue freie Fläche bestätigt.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
