@@ -1,0 +1,61 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Rechenzentrum-Recherche – Tagesbericht 20.11.2026
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Laufbeginn: 20.11.2026, 07:31 Uhr Europe/Berlin.
+
+Ergebnis und Handlungsbedarf
+48 offene Gemeinden teilweise geprüft. 1 vorläufiger Kauf-Prüfkandidat, 2 Befunde und 1 Dokumenteintrag ergänzt. Die bisherige Heitersheimer Planungsnotiz mit erhaltener Vorfassung präzisiert. Keine neue gesicherte freie Rechenzentrumsfläche oder Strombezugsleistung. Keine zwingende Entscheidung erforderlich. Keine Kontaktaufnahme, Besichtigung, Reservierung oder Antragstellung vorgenommen.
+
+Heitersheim: vorläufiger Kaufhinweis 1185
+Belegt als Anbieterangabe: Die direkt abgerufene Maklerseite nennt etwa 4.900 m² angebotene Fläche, 12.196 m² Grundstück, Kaufpreis auf Anfrage, Baujahr 1981 und frei ab sofort. Zugleich beschreibt sie ein als Lager genutztes Gebäude mit Büros und Wohnungen; eine Wohnung sei vermietet. Die genaue Straße, das Flurstück und ein Aktualisierungsdatum werden nicht veröffentlicht. Die Flächenarten sind nicht vollständig differenziert; keine nutzbare Rechenzentrumsfläche daraus berechnet.
+Eigene Bewertung: Als vorläufigen Bestands-Prüfkandidaten erfassen. Aus dem Kaufangebot folgt weder eine bestätigte räumungsfreie Gesamtfläche noch Rechenzentrumsbaurecht. Zuerst Grundstücksidentität, heutige Vermarktung, Miet-/Räumungsverhältnisse und Zustimmung zur beabsichtigten Nutzung klären. Anschließend Baurecht, Schall bei möglicher Wohnnachbarschaft oder Mischnutzung, Brandschutz, Substanz, Altlasten, Bodenlast, Kühlung, Strombezug und getrennte Carrierwege prüfen. Keine Entfernung zum Umspannwerk oder zugesicherte Leistung angenommen.
+Originalangebot: https://www.fwi-wirtschaftsimmobilien.de/gewerbeflaeche-in-heitersheim~id~12191.htm
+
+Staaden III: ältere Planquelle eingegrenzt
+Die bisherige Gemeindeabdeckung verwies knapp auf ein eingeschränktes Gewerbegebiet und 380-kV-Nähe. Die Originaldatei Stand 14.11.2017 enthält auf Dateiseite 6 jedoch allgemeine Wohngebiete. Die Begründung auf Dateiseite 45 beschreibt den angrenzenden Gewerbebetrieb und die Leitung als Immissionsumfeld. Daraus folgen weder freie Gewerbeparzellen noch nutzbare Anschlussleistung. Die Notiz wurde mit erhaltener Vorfassung präzisiert; das Maklerobjekt wird mangels Grundstücksadresse mit keinem dieser Planbereiche gleichgesetzt.
+Neuer Dokumenteintrag: Heitersheim Staaden III: Satzungs-/Festsetzungs- und Begründungsdatei, Stand 14.11.2017
+Original: https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf
+50 Seiten textlich ausgelesen; Dateiseiten 6 und 45 visuell geprüft. Historische Satzungsfassung, keine abschließende aktuelle Rechtsstandsprüfung. Der Titel nennt weitere Umwelt-, Schall- und Bodengutachten; deren vollständige Erschließung wird nicht allein aus dieser Datei behauptet.
+
+Weitere Planungs- und Nachrichtenquellen
+10 auf der Heitersheimer Flächennutzungsplanseite verlinkte Original-PDFs zur 12. Änderung für den Bereich Sutter in Ballrechten-Dottingen archiviert und ausgelesen, darunter Begründung, Umweltbericht, Auswirkungsanalyse und Abwasserkonzept. Die gemeinsame Verwaltungsebene bedeutet nicht, dass das Plangebiet in Heitersheim liegt. Keine freie Rechenzentrumsfläche daraus abgeleitet. Zwei öffentliche Heitersheimer Sitzungsseiten vom 10.11.2026 geprüft; nicht alle verknüpften Beschlussdateien vollständig erschlossen. Ein Bauantrag für Raiffeisenstraße 2 wurde nicht mit dem Maklerobjekt ohne Adresse gleichgesetzt.
+Zusätzlich unter anderem neue Amtsblattfassungen, der 146-seitige Umweltbericht Hinterschwemme Süd aus Ihringen, eine öffentliche Malterdinger Wärmeplanungsbekanntmachung sowie Freiamter Planunterlagen gesichert. Keine vollständige optische Texterkennung sämtlicher Bildunterlagen und keine unabhängige Fachprüfung behauptet.
+Heise einschließlich iX-Themen, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics sowie regionale, Betreiber- und Netzbetreiberquellen berücksichtigt. Kein neuer gesicherter regionaler Standort aus Nachrichten belegt. Die Meldung vom 19.11.2026 zur Abwärme für 1.100 Frankfurter Wohnungen wurde mit dem bereits erfassten Referenzprojekt abgeglichen und nicht als neues Projekt gezählt. Werbung, ältere Meldungen und Hochschul-Wartungshinweise sind keine verfügbaren regionalen Flächen.
+Keine neuen Fotos oder separaten technischen Zeichnungen übernommen; allgemeine Hallenbilder nicht als Rechenzentrumsbilder verwendet. Keine Zeichnungen erfunden.
+
+Kommunale Prüfung
+48 offene Gemeinden teilweise geprüft: Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim.
+Gemeindeseiten, Ratsinformation, Bebauungspläne/Flächennutzungsplanung, Amtsblatt sowie Gewerbe- und Energiethemen adressiert. Begriffe: Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme, Sondergebiet.
+Nicht jede Kategorie war in jeder Gemeinde vollständig inhaltlich erreichbar. Dynamische Oberflächen, Weiterleitungen, blockierte Abrufe und unvollständige Textauslese sind in der lokalen Prüfmatrix dokumentiert. Alle 48 bleiben für die vollständige systematische Aktenprüfung offen. Gemeinden mit neuem gesichertem Rechenzentrumsfund oder bestätigtem freien Standort: 0. Heitersheim liefert 1 vorläufigen Kaufhinweis. Die übrigen Gemeinden ohne neuen gesicherten Standortfund oder weiter offen; keine sachliche Negativbescheinigung und keine abgeschlossene technische Grundstücksprüfung.
+Der bereits erfasste Denzlinger Kiesflächenhinweis bleibt unbestätigt. Die Anbieterquelle wurde erneut gesichert; daraus keine neue persönliche Verfügbarkeitsbestätigung oder Doppelzählung abgeleitet.
+
+Zugriffslücken und nächster Schritt
+Das Freiamter Ratsportal https://freiamt.ratsinfomanagement.net/ lieferte erneut Status 403. Ursache der Sperre unbekannt. Auswirkung: vollständige Sitzungsakten dort nicht erschlossen. Nächster Schritt: gezielter erneuter Abruf über den bestehenden öffentlichen Zugang im Folgelauf. Andere dynamische Rats- und Planseiten sind nicht allein wegen eines erfolgreichen Seitenabrufs als vollständig geprüft gewertet. Keine Zugangssperre umgangen oder Rechte erweitert.
+
+Lokale Archivierung
+Die folgenden Zahlen beziehen sich auf das strukturierte Quellenprotokoll. Zusätzlich wurden 4 öffentlich ausgelieferte Archivfallbacks per Datei-Hash verifiziert und amtliche Ersatzwege geprüft; diese Reparaturschritte sind separat protokolliert.
+696 unterschiedliche Quellenadressen abgerufen, 663 erfolgreich lokal gesichert, 37 zusätzliche Archiv-Adressen gegenüber Tagesbeginn. 104 PDF-Dateifassungen mit unterschiedlichem Datei-Hash und insgesamt 2005 Seiten berücksichtigt, davon 18 gegenüber dem bisherigen Archiv neue Dateifassungen. Neu im Archiv bedeutet nicht neu veröffentlicht oder beschlossen. Neue Dateifassungen und 1 neuer Dokumenteintrag sind getrennte Zählungen. Vorhandene Extraktionen wiederverwendet. 12 Dokumente textlich unvollständig erschlossen. Archivierung mit dem vorhandenen Quellenarchiv-Programm; lokale Quellenarchive werden nicht veröffentlicht.
+
+PDF-Verfügbarkeit und Linkprüfung
+4 historische Schliengener Plan-PDFs waren mit GET 404 nicht mehr erreichbar. Die aktuellen amtlichen Fachwege lieferten nur Zugangshinweise statt frei erreichbarer Ersatzdateien. 4 vorhandene öffentliche Originalkopien werden unverändert als Archivfallback verlinkt; vollständige Datei-Hashes stimmen mit den bisherigen Archivbelegen überein. Historische Fassungen werden nicht als aktueller Planstand ausgegeben. Diese 4 Kopien zählen nicht als neue sachliche Dokumentauswertungen.
+185 erfasste Dokumentquellen geprüft: 185 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Dateikopien vorhanden; 1 neu erfasste Originalquelle zusätzlich im lokalen Quellenarchiv; Planstände und Prüfgrenzen im Bericht benannt. Die Erreichbarkeitsprüfung prüft Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1675 unterschiedliche öffentliche Links geprüft: 1642 erreichbar, 33 nicht prüfbar, 0 nachgewiesen defekt. Kein blockierter Link als erfolgreich ausgegeben. 4 nachgewiesen defekte historische Schliengener PDF-Adressen durch unveränderte Archivkopien ersetzt. Datei-Hash gegen vorhandene Originalbelege geprüft; keine aktuelle Planfassung daraus abgeleitet.
+
+Partner
+0 neue Partnerkandidaten, 0 vereinbarte Partnerschaften. Ein Maklerangebot begründet keine Infrastrukturpartnerschaft. Keine Kontaktaufnahme.
+
+Fragen und Uploads
+researchQuestions: 0; manualUploads: 0. Kein neuer manueller Upload im vorgesehenen Ordner gefunden. Keine verdächtige Frage, kein Freigabebedarf, kein Fragen-PDF erstellt. Nur normaler Tagesbericht.
+
+Veränderte Statistiken
+Standorte: 33 → 34 (+1 vorläufiger Prüfkandidat, 0 neue bestätigte verfügbare Standorte)
+Befunde: 248 → 250 (+2)
+Dokumentauswertungen: 184 → 185 (+1)
+Bauleitplanungseinträge: 38 (+0); Unternehmen/Partnerkandidaten: 24 (+0)
+Anforderungen: 15 (+0); technische Zeichnungen: 8 (+0); Fotos/Medien: 5 (+0); Netzprüfeinträge: 14 (+0)
+Tagesprüfungen: 47 → 48. 1 Gemeinde-Planungsnotiz präzisiert; 4 historische PDF-Verweise repariert, Vorfassungen erhalten.
+
+Veröffentlichung und Versand
+Veröffentlichten Datenbestand vor Änderungen abgeglichen; bisherige Ergebnisse erhalten. 10 vorgesehene öffentliche Dateien (6 Dateien für Datenbestand, Prüfungen und Bericht sowie 4 historische PDF-Archivfallbacks) werden vor Versand veröffentlicht und anhand der tatsächlich ausgelieferten Inhalte kontrolliert. Laufzeitordner, Anmeldedaten und lokale Quellenarchive bleiben ausgeschlossen. Versand ausschließlich aus hornick@iaccess.de an hornick@iaccess.de ohne Kopie oder Blindkopie. Erfolg wird anhand Gesendeter Elemente geprüft; daraus keine Zustellung oder Kenntnisnahme abgeleitet.

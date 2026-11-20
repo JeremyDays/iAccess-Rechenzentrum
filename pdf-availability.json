@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-19",
-  "total": 184,
+  "checkedAt": "2026-11-20",
+  "total": 185,
   "localAvailable": 68,
-  "publicAvailable": 184,
+  "publicAvailable": 185,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -3131,6 +3131,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.freiamt.de/fileadmin/Dateien/Webseite/Dateien/Bebauungspl%C3%A4ne/Hard_IV_Eckle__Gewerbegebiet/HardIVEckle-1Satzung.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Heitersheim",
+      "documentTitle": "Heitersheim Staaden III: Satzungs-/Festsetzungs- und Begründungsdatei, Stand 14.11.2017",
+      "documentType": "Historische Bauleitplanunterlage",
+      "pages": "50",
+      "publicUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
+      "currentSourceUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
       "contentType": "application/pdf",
       "error": ""
     }

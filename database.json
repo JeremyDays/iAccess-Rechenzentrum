@@ -957,6 +957,24 @@
       "sourceUrl": "https://www.becker.eu/unsere-immobilienangebote/",
       "notes": "Anbieter bezeichnet das Objekt als Kiesfläche im Gewerbegebiet, Miete, ab sofort, Preis auf Anfrage. Das ist eine veröffentlichte Angebotsaussage, keine aktuelle Vermieterbestätigung, Reservierung oder bauliche Freigabe. Exposé 168658368 nicht vollständig abrufbar (401). Eigene Bewertung: allenfalls bedingter Prüfhinweis für modulare Anlagen; zulässige Nutzung, genehmigungsfähige Containeraufstellung, Eigentümerzustimmung, Dauer der Vermietung, Tragfähigkeit/Altlasten/Entwässerung, Wasser- und Hochwasserrisiken, Kühlungs-/Notstromschall, Brandschutz, Verbrauchsanschluss und Carrier erst klären. Keine Parzellenidentität mit der Halle Markgrafenstraße oder deren Unterlagen herstellen. Keine Kontaktaufnahme.",
       "tags": "Vorläufig, Mietangebot, keine bestätigte freie RZ-Fläche, technische Prüfung offen"
+    },
+    {
+      "id": "id-2026-11-20-heitersheim-1185",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "name": "Heitersheim Maklerobjekt 1185 – vorläufiger Kauf-Prüfkandidat",
+      "city": "Heitersheim",
+      "postalCode": "79423",
+      "address": "Straße und Flurstück in der öffentlichen Anzeige nicht genannt; Grundstückszuordnung offen",
+      "operator": "Kein Rechenzentrumsbetreiber belegt; Maklerangebot Freiburg -S- Wirtschaftsimmobilien GmbH & Co. KG",
+      "status": "Vorläufiger Prüfkandidat; heutige Verfügbarkeit, genaue Lage, Nutzung und Verbrauchsanschluss offen",
+      "area": "Etwa 4.900 m² angebotene Fläche und 12.196 m² Grundstück laut Anbieter; Flächenarten und nutzbare Rechenzentrumsfläche nicht bestätigt",
+      "powerMw": "Unbekannt; keine freie zugesicherte Bezugsleistung",
+      "connectivity": "Keine zugesicherten getrennten Carrierwege belegt",
+      "source": "Direkt abgerufene Makler-Originalseite am 20.11.2026",
+      "sourceUrl": "https://www.fwi-wirtschaftsimmobilien.de/gewerbeflaeche-in-heitersheim~id~12191.htm",
+      "notes": "Anbieter nennt Kaufobjekt im Gebiet Tiergarten-Kreuzmatte, Baujahr 1981, Kaufpreis auf Anfrage und frei ab sofort. Zugleich wird die Lagerhallennutzung mit eingebauten Büros und Wohnungen beschrieben; eine Wohnung sei vermietet. Kaufangebot bedeutet daher keine bestätigte leerstehende Gesamtfläche. Veröffentlichungs- und Aktualisierungsdatum nicht ausgewiesen. Eigene Bewertung: bedingter Prüfhinweis; zuerst genaue Adresse/Flurstück, heutige Vermarktung, Miet-/Räumungsverhältnisse und Eigentümerzustimmung zur Nutzungsänderung klären. Danach Baurecht, Schall bei möglicher Wohnnachbarschaft/Mischnutzung, Brandschutz, Substanz/Altlasten/Bodenlast, Kühlung, Verbrauchsanschluss und Carrier prüfen. Staaden-III-Unterlagen nicht auf dieses unbekannte Grundstück übertragen. Keine Kontaktaufnahme oder Besichtigung.",
+      "tags": "Vorläufig, Kaufangebot, Adresse offen, vermietete Wohnung, Anschluss offen"
     }
   ],
   "companies": [
@@ -5009,6 +5027,22 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.freiamt.de/04cdd41de0426fff.pdf",
       "tags": "Original lokal gesichert; Geltungs- und Prüfgrenzen benannt"
+    },
+    {
+      "id": "id-2026-11-20-pdf-01",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "municipality": "Heitersheim",
+      "documentTitle": "Heitersheim Staaden III: Satzungs-/Festsetzungs- und Begründungsdatei, Stand 14.11.2017",
+      "documentType": "Historische Bauleitplanunterlage",
+      "pages": "50",
+      "keyFacts": "Dateiseite 6 allgemeine Wohngebiete; Dateiseite 45 angrenzendes eingeschränktes Gewerbegebiet als Immissionsumfeld.",
+      "technicalFacts": "380-kV-Leitung als Umgebungs-/Schallthema ist keine Anschlussbestätigung. Keine heutige freie Gewerbeparzelle oder Rechenzentrumszulässigkeit belegt.",
+      "planningFacts": "50 Seiten ausgelesen; Seiten 6/45 visuell geprüft. Historischer Stand 2017; keine aktuelle abschließende Wirksamkeitsprüfung. Titel nennt weitere Gutachten; deren vollständige Auswertung wird nicht allein aus dieser Datei behauptet.",
+      "sourceUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.heitersheim.de/ad4a73140e948eff.pdf",
+      "tags": "Original lokal gesichert; historische Wohnplanung; Prüfgrenzen"
     }
   ],
   "media": [
@@ -7426,7 +7460,7 @@
       "publishedDate": "2026-07-25",
       "topic": "Kommunalrecherche Baden-Wuerttemberg",
       "publisher": "Kommunale Primaerquellen BW",
-      "sourceUrl": "https://www.rheinfelden.de/; https://schwoerstadt.de/startseite; https://schwoerstadt.de/site/Schwoerstadt_Internet/get/documents_E594710840/schwoerstadt/Objekte/06%20Bekanntmachungen/2026/Bekanntmach%20West%20II.pdf; https://www.gemeinde-bad-bellingen.de/willkommen; https://www.schliengen.de/startseite; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-132988831/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%281%29%2026-04-23%20FNP%C3%84%20Cover%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-1210131189/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.1%29%2026-03-16%20FNP%C3%84%20Deckblatt%201%20%2826-02-10%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E58084431/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.2%29%2026-04-23%20FNP%C3%84%20Deckblatt%202%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-582061607/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%283%29%2026-04-23%20FNP%C3%84%20Begr%C3%BCndung%20%2826-04-10%29.pdf; https://www.aitern.de/pb/1497752.html; https://schoenau-im-schwarzwald.de/pb/-/463832/gemeindeverwaltungsverband-schoenau-im-schwarzwald/oe6008367; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E875279492/gvvschoenau/Inhalte/PDF/GVV/satzung_abwasserbeseitigung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E661242477/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E1927922063/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen%20-%20Erkl%C3%A4rung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E-1339525958/gvvschoenau/Inhalte/PDF/GVV/fnp_4%C3%A4nd_zus-erkl%C3%A4rung230712_1.pdf; https://www.froehnd.de/pb/463041.html; https://www.schoenau-im-schwarzwald.de/; https://www.schoenenberg.de/; https://www.gemeinde-tunau.de/pb/505248.html; https://www.wembach.de/pb/505281.htm; https://www.gemeinde-hasel.de/30756.html; https://www.hausen-im-wiesental.de/; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-535811735_Dattachment/3647830/FNP-%C3%84nd.%20Golfplatz%20%C3%96-Bekanmntmachung%20z.%20Voranh%C3%B6rung.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E1681946218_Dattachment/3647831/Hausen%20FNP%20Entwurf%20Teil%C3%A4nd.%20Golfplatz%20mit%20Anlagen.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-1404296001_Dattachment/2672965/Verkehrskonzept%20Hausen%20im%20Wiesental%20_%20Erl%C3%A4uterungsbericht_%20dwd%2006.07.2021.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E813461952_Dattachment/2672966/Verkehrskonzept_Pr%C3%A4sentation_06.07.2021.pdf; https://www.maulburg.de/willkommen; https://www.schopfheim.de/willkommen; https://www.binzen.de/startseite; https://www.eimeldingen.de/startseite; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Gesundheite___Soziales/Verkehrskonzept_Eimeldingen_GR%C3%B6_13April2021.pdf; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Verordnungen/Polizeiverordnung-1.pdf; https://www.fischingen.de/startseite; https://www.fischingen.de/fileadmin/Website/Gemeinde_Fischingen/Dateien/Leben___Wohnen/Bauen/BPL_Dorfstra%C3%9Fe_AmBaechle_sign_inkl_Gutachten.pdf; https://www.ruemmingen.de/startseite; https://www.schallbach.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.denzlingen.de/de/aktuelles/; https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+      "sourceUrl": "https://www.rheinfelden.de/; https://schwoerstadt.de/startseite; https://schwoerstadt.de/site/Schwoerstadt_Internet/get/documents_E594710840/schwoerstadt/Objekte/06%20Bekanntmachungen/2026/Bekanntmach%20West%20II.pdf; https://www.gemeinde-bad-bellingen.de/willkommen; https://www.schliengen.de/startseite; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/schliengen-sonnenstueck-iv-archiv-02.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/schliengen-sonnenstueck-iv-archiv-01.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/schliengen-sonnenstueck-iv-archiv-04.pdf; https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/schliengen-sonnenstueck-iv-archiv-03.pdf; https://www.aitern.de/pb/1497752.html; https://schoenau-im-schwarzwald.de/pb/-/463832/gemeindeverwaltungsverband-schoenau-im-schwarzwald/oe6008367; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E875279492/gvvschoenau/Inhalte/PDF/GVV/satzung_abwasserbeseitigung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E661242477/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E1927922063/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen%20-%20Erkl%C3%A4rung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E-1339525958/gvvschoenau/Inhalte/PDF/GVV/fnp_4%C3%A4nd_zus-erkl%C3%A4rung230712_1.pdf; https://www.froehnd.de/pb/463041.html; https://www.schoenau-im-schwarzwald.de/; https://www.schoenenberg.de/; https://www.gemeinde-tunau.de/pb/505248.html; https://www.wembach.de/pb/505281.htm; https://www.gemeinde-hasel.de/30756.html; https://www.hausen-im-wiesental.de/; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-535811735_Dattachment/3647830/FNP-%C3%84nd.%20Golfplatz%20%C3%96-Bekanmntmachung%20z.%20Voranh%C3%B6rung.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E1681946218_Dattachment/3647831/Hausen%20FNP%20Entwurf%20Teil%C3%A4nd.%20Golfplatz%20mit%20Anlagen.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-1404296001_Dattachment/2672965/Verkehrskonzept%20Hausen%20im%20Wiesental%20_%20Erl%C3%A4uterungsbericht_%20dwd%2006.07.2021.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E813461952_Dattachment/2672966/Verkehrskonzept_Pr%C3%A4sentation_06.07.2021.pdf; https://www.maulburg.de/willkommen; https://www.schopfheim.de/willkommen; https://www.binzen.de/startseite; https://www.eimeldingen.de/startseite; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Gesundheite___Soziales/Verkehrskonzept_Eimeldingen_GR%C3%B6_13April2021.pdf; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Verordnungen/Polizeiverordnung-1.pdf; https://www.fischingen.de/startseite; https://www.fischingen.de/fileadmin/Website/Gemeinde_Fischingen/Dateien/Leben___Wohnen/Bauen/BPL_Dorfstra%C3%9Fe_AmBaechle_sign_inkl_Gutachten.pdf; https://www.ruemmingen.de/startseite; https://www.schallbach.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.denzlingen.de/de/aktuelles/; https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
       "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
       "summary": "Geprueft wurden Rheinfelden (Baden), Schwoerstadt, Bad Bellingen, Schliengen, Aitern, Boellen, Froehnd, Schoenau im Schwarzwald, Schoenenberg, Tunau, Wembach, Hasel, Hausen im Wiesental, Maulburg, Schopfheim, Binzen, Eimeldingen, Fischingen, Ruemmingen, Schallbach ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
       "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Binzen, Eimeldingen, Maulburg, Rheinfelden (Baden), Schliengen, Schopfheim. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
@@ -7442,7 +7476,37 @@
         "Glasfaser",
         "kein RZ-Fund"
       ],
-      "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+      "archiveNote": "4 nicht mehr erreichbare Schliengener Planunterlagen als unveränderte öffentliche Archivkopien verlinkt. Historische Fassungen März/April 2026; keine Bestätigung des heutigen Planstands. Originaladressen und Vorfassung in revisionHistory erhalten.",
+      "revisionHistory": [
+        {
+          "date": "2026-11-20",
+          "reason": "4 nicht mehr erreichbare Originaldateien als unveränderte historische Archivkopien gesichert verlinkt. Aktuelle amtliche Fachseite liefert Zugangshinweis statt offener Dateien; keine neue Planfassung unterstellt.",
+          "previousRecord": {
+            "id": "id-2026-07-25-loerrach-20-screening",
+            "date": "2026-07-25",
+            "publishedDate": "2026-07-25",
+            "topic": "Kommunalrecherche Baden-Wuerttemberg",
+            "publisher": "Kommunale Primaerquellen BW",
+            "sourceUrl": "https://www.rheinfelden.de/; https://schwoerstadt.de/startseite; https://schwoerstadt.de/site/Schwoerstadt_Internet/get/documents_E594710840/schwoerstadt/Objekte/06%20Bekanntmachungen/2026/Bekanntmach%20West%20II.pdf; https://www.gemeinde-bad-bellingen.de/willkommen; https://www.schliengen.de/startseite; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-132988831/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%281%29%2026-04-23%20FNP%C3%84%20Cover%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-1210131189/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.1%29%2026-03-16%20FNP%C3%84%20Deckblatt%201%20%2826-02-10%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E58084431/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%282.2%29%2026-04-23%20FNP%C3%84%20Deckblatt%202%20%2826-04-13%29.pdf; https://www.schliengen.de/site/Schliengen-2024/get/documents_E-582061607/schliengen/Dateien/Bekanntmachung/Sonnenst%C3%BCck%20IV/FNP/%283%29%2026-04-23%20FNP%C3%84%20Begr%C3%BCndung%20%2826-04-10%29.pdf; https://www.aitern.de/pb/1497752.html; https://schoenau-im-schwarzwald.de/pb/-/463832/gemeindeverwaltungsverband-schoenau-im-schwarzwald/oe6008367; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E875279492/gvvschoenau/Inhalte/PDF/GVV/satzung_abwasserbeseitigung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E661242477/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E1927922063/gvvschoenau/Inhalte/PDF/GVV/Satzungen/Fl%C3%A4chennutzungsplan%20Fl%C3%A4chen%20f%C3%BCr%20Windenergieanlagen%20-%20Erkl%C3%A4rung.pdf; https://schoenau-im-schwarzwald.de/pb/site/gvvschoenau2015/get/documents_E-1339525958/gvvschoenau/Inhalte/PDF/GVV/fnp_4%C3%A4nd_zus-erkl%C3%A4rung230712_1.pdf; https://www.froehnd.de/pb/463041.html; https://www.schoenau-im-schwarzwald.de/; https://www.schoenenberg.de/; https://www.gemeinde-tunau.de/pb/505248.html; https://www.wembach.de/pb/505281.htm; https://www.gemeinde-hasel.de/30756.html; https://www.hausen-im-wiesental.de/; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-535811735_Dattachment/3647830/FNP-%C3%84nd.%20Golfplatz%20%C3%96-Bekanmntmachung%20z.%20Voranh%C3%B6rung.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E1681946218_Dattachment/3647831/Hausen%20FNP%20Entwurf%20Teil%C3%A4nd.%20Golfplatz%20mit%20Anlagen.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E-1404296001_Dattachment/2672965/Verkehrskonzept%20Hausen%20im%20Wiesental%20_%20Erl%C3%A4uterungsbericht_%20dwd%2006.07.2021.pdf; https://www.hausen-im-wiesental.de/pb/site/hausen-im-wiesental/get/params_E813461952_Dattachment/2672966/Verkehrskonzept_Pr%C3%A4sentation_06.07.2021.pdf; https://www.maulburg.de/willkommen; https://www.schopfheim.de/willkommen; https://www.binzen.de/startseite; https://www.eimeldingen.de/startseite; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Gesundheite___Soziales/Verkehrskonzept_Eimeldingen_GR%C3%B6_13April2021.pdf; https://www.eimeldingen.de/fileadmin/Website/Gemeinde_Eimeldingen/Dateien/Verordnungen/Polizeiverordnung-1.pdf; https://www.fischingen.de/startseite; https://www.fischingen.de/fileadmin/Website/Gemeinde_Fischingen/Dateien/Leben___Wohnen/Bauen/BPL_Dorfstra%C3%9Fe_AmBaechle_sign_inkl_Gutachten.pdf; https://www.ruemmingen.de/startseite; https://www.schallbach.de/startseite; https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/denzlingen; https://www.denzlingen.de/p/wirtschaftsstandort-denzlingen; https://www.emmendingen.de/bauen-wirtschaft/stadtplanung/flaechennutzungsplan; https://www.freiburg.de/pb/%2CLde/205243.html; https://www.denzlingen.de/de/aktuelles/; https://www.datacenter-insider.de/; https://www.cloudcomputing-insider.de/; https://www.tagesschau.de/wirtschaft/energie/ki-rechenzentren-abwaerme-100.html; https://news.google.com/rss/search?q=Rechenzentrum+Baden-Wuerttemberg&hl=de&gl=DE&ceid=DE:de; https://news.google.com/rss/search?q=Rechenzentrum+Freiburg+OR+Denzlingen+OR+Emmendingen&hl=de&gl=DE&ceid=DE:de; https://www.datacenter-insider.de/richtfest-in-lahr-ein-weiterer-standort-fuer-die-baden-cloud-a-8ad462b0ea5977cc9fedd71182e2b8d6/; https://www.datacenterdynamics.com/en/news/plans-announced-for-hyperscale-data-center-in-philippsburg-germany/; https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2026-06-17-100.html; https://www.golem.de/news/nur-noch-bilanziell-eu-kippt-ambitionierte-oekostromziele-fuer-rechenzentren-2607-210439.html; https://www.golem.de/news/energieeffizienzgesetz-bundesregierung-weicht-rechenzentrumseffizienz-weiter-auf-2606-210145.html; https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fhitzewelle-abschaltung-von-rechenzentren-nicht-ausgeschlossen-2606-210199.html; https://www.heise.de/select/ix/2026/4/2604212384521858866",
+            "title": "Loerrach-Block geprueft: keine neuen RZ-Flaechenfunde",
+            "summary": "Geprueft wurden Rheinfelden (Baden), Schwoerstadt, Bad Bellingen, Schliengen, Aitern, Boellen, Froehnd, Schoenau im Schwarzwald, Schoenenberg, Tunau, Wembach, Hasel, Hausen im Wiesental, Maulburg, Schopfheim, Binzen, Eimeldingen, Fischingen, Ruemmingen, Schallbach ueber offizielle kommunale Startseiten und automatisch entdeckte Bau-/Gewerbe-/Breitband-/Rats-/Amtsblatt-/Energiepfade. Es ergab sich kein belastbarer neuer Treffer zu Rechenzentrum, Datacenter/Data Center oder Serverfarm.",
+            "relevance": "Mittlere Vorfilter bleiben nur bei konkretem Flaechen-/Netzanlass: Binzen, Eimeldingen, Maulburg, Rheinfelden (Baden), Schliengen, Schopfheim. Der heutige Block zeigt einzelne Gewerbe-, Breitband- und Energieindikatoren, aber keinen harten iAccess-Kandidaten.",
+            "action": "Coverage im Landkreis Loerrach fortsetzen; Rheinfelden, Schopfheim, Maulburg, Binzen, Eimeldingen und Schliengen nur bei konkreten GE/GI-, Netz-, Waerme- oder Carrier-Signalen vertiefen.",
+            "status": "neu aufgenommen",
+            "tags": [
+              "Kommunalrecherche",
+              "Baden-Wuerttemberg",
+              "Loerrach",
+              "Hochrhein",
+              "Wiesental",
+              "Gewerbe",
+              "Glasfaser",
+              "kein RZ-Fund"
+            ],
+            "archiveNote": "Kommunale Quellen und gefundene planungs-/infrastrukturbezogene PDF-Hinweise wurden fuer lokale Archivierung und Linkpruefung in sourceUrl aufgenommen."
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-07-25-news-monitoring",
@@ -10001,6 +10065,30 @@
       "confidence": "51-seitiges Betreiberoriginal textlich ausgelesen; Seite 12 visuell geprüft. Folien 11/12 als Zusammenhang berücksichtigt.",
       "action": "Eigene Schlussfolgerung: Bei mehreren Modulen am gemeinsamen Anschluss die gesamte vertragliche Bezugsleistung betrachten. Modulanzahl allein begründet keine Einstufung unter 950 kW. Netzbeziehende Speicher sind gesondert zu berücksichtigen; Einordnung von reiner unterbrechungsfreier Stromversorgung oder Batteriekonzept vorab mit zuständigem Netzbetreiber klären. Keine pauschale Ausnahme für Rechenzentren, keine Kapazitätsgarantie. Gilt als Netze-BW-Quelle und wird nicht ungeprüft auf Stadtwerke Emmendingen/Denzlingen übertragen.",
       "tags": "Gesamtbezugsleistung, Netze BW, modulare Planung, kein garantierter Anschluss"
+    },
+    {
+      "id": "id-2026-11-20-heitersheim-1185",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "title": "Heitersheim: Kaufhinweis 1185 mit vermieteter Wohnung, Verfügbarkeit ungeklärt",
+      "topic": "Flächensuche / vorläufiger Bestandskandidat",
+      "summary": "Die Makler-Originalseite nennt etwa 4.900 m² Fläche, 12.196 m² Grundstück, Kaufpreis auf Anfrage und frei ab sofort. Zugleich beschreibt sie ein als Lager genutztes Gebäude mit Büros und Wohnungen sowie eine vermietete Wohnung. Straße, Flurstück und Aktualisierungsdatum fehlen öffentlich.",
+      "sourceUrl": "https://www.fwi-wirtschaftsimmobilien.de/gewerbeflaeche-in-heitersheim~id~12191.htm",
+      "confidence": "Direkte, lokal gesicherte Anbieterquelle; keine Eigentümer-, Mietstands-, Bau- oder Netzbestätigung",
+      "action": "Eigene Bewertung: Nur als vorläufigen Kandidaten führen. Aus der Kaufverfügbarkeit keine räumungsfreie oder genehmigte Alleinnutzung als Rechenzentrum ableiten. Vor technischer Vertiefung Grundstücksidentität, aktuelle Vermarktung und Nutzungs-/Mietverhältnisse klären. Keine Leistungs-, Termin- oder Kostenzusage.",
+      "tags": "Heitersheim, vorläufig, Mietverhältnisse offen, keine Standortfreigabe"
+    },
+    {
+      "id": "id-2026-11-20-heitersheim-staaden",
+      "created": "2026-11-20",
+      "updated": "2026-11-20",
+      "title": "Heitersheim Staaden III: Wohngebietsplanung statt freier Gewerbeparzelle",
+      "topic": "Bauleitplanung / Abgrenzung älterer Standortsignale",
+      "summary": "Die Originaldatei Stand 14.11.2017 enthält auf Dateiseite 6 allgemeine Wohngebiete. Die Begründung auf Dateiseite 45 beschreibt einen im Südwesten angrenzenden Betrieb in einem eingeschränkten Gewerbegebiet sowie die nördliche 380-kV-Leitung als Immissionsumfeld. Das ist kein Nachweis freier Gewerbeflächen oder nutzbarer Anschlussleistung.",
+      "sourceUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
+      "confidence": "50-seitige Originaldatei ausgelesen; Dateiseiten 6 und 45 visuell geprüft. Keine aktuelle abschließende Rechtsstandsprüfung.",
+      "action": "Frühere knappe GEe-/380-kV-Notiz in der Gemeindeabdeckung mit Vorfassung präzisieren. Den privaten Kaufhinweis 1185 mangels Grundstückszuordnung mit keinem dieser Planbereiche gleichsetzen. Titelverweise auf Gutachten nicht als vollständig in dieser Datei erschlossene Gutachten ausgeben.",
+      "tags": "Wohnplanung, historischer Stand, Grundstückszuordnung offen"
     }
   ],
   "gridChecks": [
@@ -10470,7 +10558,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-19",
+    "lastRun": "2026-11-20",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10498,8 +10586,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-19",
-    "lastResearchSummary": "47 kommunale Teilprüfungen; 1 neuer Befund zur Gesamtbezugsleistung bei Netze BW und 2 Originaldokumenteinträge ergänzt. Keine neue freie Fläche bestätigt.",
+    "lastResearchRun": "2026-11-20",
+    "lastResearchSummary": "48 kommunale Teilprüfungen; 1 vorläufiger Standortkandidat, 2 Befunde und 1 Dokumenteintrag ergänzt. Heitersheimer Planungsnotiz mit erhaltener Vorfassung präzisiert; keine bestätigte freie Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
