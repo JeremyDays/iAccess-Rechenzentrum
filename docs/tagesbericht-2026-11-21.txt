@@ -1,0 +1,53 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 21.11.2026
+Auslöser: 07:27:08 Uhr Europe/Berlin. Recherche nach 07:30 Uhr ausgeführt. Vorheriger Lauf vom 20.11.2026 abgeschlossen; heutiger Lauf zuvor nicht abgeschlossen. Keine weitere Zeitsteuerung angelegt.
+
+Ergebnis
+49 offene Gemeinden teilweise geprüft, 3 Befunde, 3 Dokumentauswertungen und 1 Konnektivitätsprüfung ergänzt. 0 neue gesicherte freie Rechenzentrumsflächen, 0 neue Standortdatensätze, 0 neue Partnerdatensätze. Die 34 vorhandenen Standortdatensätze sind keine Zählung bestätigter freier Standorte. Insbesondere Denzlingen Kiesfläche und Heitersheim Objekt 1185 bleiben vorläufige Prüfkandidaten.
+
+Gewerbepark Breisgau / Eschbach
+Belegt: Die offizielle Angebotsseite nennt wenige verbleibende Kaufgrundstücke ohne öffentlich konkretisierte Parzelle, Größe oder Strombezugsleistung. Die 4 gesicherten Mietexposés betreffen Büros. Objekt 2036: Hartheimer Straße 15, 91 m² Gesamtfläche, davon 71 m² Bürofläche, laut Exposé Bezug ab 01.01.2027. Weitere Angebote: 76,41 m² an Hartheimer Straße 12 sowie 192 m² und 113,07 m² an Freiburger Straße 16a. Diese Angebote belegen keine Rechenzentrumszulassung, geeignete Bodenlast oder Kühl-/Notstrommöglichkeiten. Keine Kontaktaufnahme.
+Belegt laut Zweckverband: Gebäudeglasfasernetz seit Dezember 2016; Stiegeler betreibt das verpachtete Netz. Vorbereitete Leerrohre sind kein fertiggestellter Hausanschluss. Allgemeine Angaben von 1.000 Mbit/s und mehr sind keine objektbezogene Leistungszusage. 2 unabhängige Trassen, Hauseinführungen, Entstörung und gesicherte Bandbreite bleiben offen.
+Eigene Bewertung: Suchgebiet weiterführen, Büros nicht als freie Rechenzentrumsflächen zählen. Zuerst konkrete Parzelle und Baurecht, anschließend Strom und getrennte Carrierwege klären.
+Quellen:
+https://www.gewerbepark-breisgau.de/flaechenangebote-mietangebote/
+https://www.gewerbepark-breisgau.de/infrastruktur-und-standortvorteile/breitbandversorgung/
+https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b
+
+Neue Nachrichten / Betriebsreferenz
+Breite Nachrichtenprüfung mit Heise/iX, Golem, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, regionaler Suche sowie Betreiber-/Netzquellen. Die erneute YEXIO-Branchenmeldung vom 20.11.2026 wurde zur Entwickler-Originalquelle zurückverfolgt. HOCHTIEF meldete bereits am 06.11.2026 die Betriebsaufnahme in Bad Lippspringe mit zunächst 2 MW. Die Quelle präzisiert weder nutzbare IT-Leistung noch freie Anschlussleistung. Abwärmeeinspeisung in ein geplantes Wärmenetz bleibt künftig vorgesehen. Entwicklererklärung, keine unabhängige technische Abnahme; kein neuer Standort in Baden-Württemberg. Dateiname des 2-seitigen Original-PDF enthält 20260611, Dokumentinhalt und Internetseite nennen 06.11.2026; maßgeblicher Quellenstand ausdrücklich so erfasst.
+https://www.hochtief.de/aktuelles-medien/pressemitteilungen/pressemitteilung/yexio-rechenzentrum-in-bad-lippspringe-nimmt-betrieb-auf
+
+Oberried
+Neue 20-seitige Sitzungsmappe für 01.12.2026, Vorlage 69/2026 auf Dateiseiten 18–19: Beschlussantrag für einen neuen Rathausserver. Laut Verwaltung rund 55.000 EUR inklusive Installation plus rund 6.000 EUR Lizenzen, zusammen rund 61.000 EUR; steuerliche Bezugsbasis offen. Mittelabfluss 2027 vorgesehen. Antrag vor der Sitzung, kein Vergabe- oder Beschlussnachweis. Kein Flächenangebot und kein Beleg eines ausgelagerten Rechenzentrums.
+https://www.oberried.de/de/gemeinderat/?download=608
+
+Geprüfte Gemeinden / Abdeckung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach.
+Alle 49 bleiben systematisch offen. Geprüft wurden erreichbare Gemeinde-, Rats-, Planungs-, Amtsblatt- und Wirtschaftsquellen sowie die Suchbegriffe Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet. Abrufe und Treffer je Gemeinde sind lokal in der Prüfmatrix dokumentiert. Fehlende Kategorien und beschränkte Ratsoberflächen werden dort ausdrücklich markiert. 49 Teilprüfungen bedeuten keine 49 vollständigen Aktenprüfungen.
+Gemeinden mit neu bestätigtem Rechenzentrumsflächenfund: 0.
+Ohne neuen gesicherten Fund / weiter offen: alle 49. Nicht gefunden bedeutet nicht widerlegt. Oberried enthält konkreten kommunalen Serverbedarf; Eschbach einen allgemeinen Flächen- und Glasfaserhinweis.
+
+Neue Quellen, lokale Sicherung und Original-PDFs
+717 unterschiedliche Adressen abgerufen, 685 archiviert, 43 erstmals im lokalen Archiv verzeichnet. 110 PDF-Dateifassungen mit unterschiedlichem Datei-Hash, zusammen 1875 Seiten; 20 bislang nicht im Archiv erfasste Datei-Hashes. Ein neuer Hash beweist keinen neuen sachlichen Inhalt oder neuen Veröffentlichungsstand. 13 Dateifassungen mit eingeschränktem Textauszug; keine vollständige Texterkennung behauptet.
+Vertieft gesichert: 4 Büroexposés, Entwickler-Pressemitteilung, Eschbacher Bote 12.11.2026, Gemeindeentwicklungskonzept vom 28.11.2024, Wasser-/Entwässerungsformulare und gemeindlicher Flächennutzungsplan. Die 1-seitige FNP-Datei ist gescannt und ohne Textauszug; kein aktueller parzellenscharfer Rechtsstand bestätigt. Die Geoportal-Anleitung ist kein Bebauungsplan. Weitere Originalpläne/Gutachten bleiben offen und werden nicht auf unbekannte Kaufparzellen übertragen.
+Neue Auswertungsdatensätze: Büroexposé 2036 (7 Seiten), HOCHTIEF-Mitteilung (2 Seiten), Oberried-Sitzungsmappe (20 Seiten). Andere gesicherte Unterlagen sind Archivbestand, keine zusätzlichen kuratierten Gutachten. Neue Umkircher/Aidlinger Amtsblätter sowie Forchheimer Sitzungseinladung aus Endinger Quelle gesichtet; Forchheimer Lagercontainer betrifft die Feuerwehr, kein Rechenzentrum.
+Visuell geprüft: Exposé 2036 Seite 1, HOCHTIEF Seite 1, Oberried Dateiseite 18. Das Bürogebäudefoto ist kein Rechenzentrumsbild; 0 neue Fotos, 0 neue Illustrationen und 0 technische Zeichnungen übernommen. Keine Zeichnung erfunden.
+
+PDF-Verfügbarkeit und Linkprüfung
+188 erfasste Dokumentquellen geprüft: 188 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Datenbank verknüpfte lokale Kopien vorhanden; 3 neu erfasste Originalquellen zusätzlich lokal archiviert. Die Prüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1682 unterschiedliche öffentliche Links geprüft: 1652 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links wurden nicht als erfolgreich ausgegeben. Die 4 gestern veröffentlichten historischen Schliengener Originalkopien bleiben erhalten; keine neue Planfassung daraus abgeleitet.
+
+Zugriffslücken / nächster Schritt
+Die öffentliche Tagesordnung des Zweckverbands vom 20.11.2026 ist lesbar. Wasser-/Abwassersatzungen, Gebühren und Notfallplan stehen auf der Tagesordnung; vollständige Anlagedokumente und Beschlüsse sind nicht erschlossen. Die Eschbacher Gemeinderatskalenderoberfläche ersetzt keine vollständige Protokollprüfung. Freiamter Ratsportal und weitere Ratszugänge bleiben eingeschränkt; Ursachen, soweit nicht ausgewiesen, unbekannt. Auswirkung: keine vollständige Akten-/Negativprüfung. Nächster Schritt: öffentliche Dokumentzugänge im Folgelauf erneut prüfen; keine Anmeldedaten oder zusätzlichen Rechte genutzt.
+
+Fragen, Uploads, Partner und Statistiken
+0 neue/freigegebene Fragen, 0 verdächtige Fragen, 0 manuelle Uploads in Datenbank und Uploadordner; 0 verarbeitet, kein Fragen-PDF erzeugt. 0 neue Partner aufgenommen. HOCHTIEF wird als Referenzquelle geführt, keine Partnerschaft oder Kontaktaufnahme behauptet.
+Datenbank: Quellen-/Befunddatensätze 250 -> 253; Dokumentauswertungen 185 -> 188; Konnektivitätsprüfungen 7 -> 8. Standorte 34, Unternehmen 24, Bebauungspläne 38, Fotos/Medien 5, technische Zeichnungen 8 unverändert. Gemeindliche Tagesabdeckung 48 -> 49. Keine Laufzeitordner, Zugangsdaten, Sicherungskopien oder lokalen Roharchive zur Veröffentlichung ausgewählt.
+
+Website:
+https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht:
+https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-21.txt

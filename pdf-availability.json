@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-20",
-  "total": 185,
+  "checkedAt": "2026-11-21",
+  "total": 188,
   "localAvailable": 68,
-  "publicAvailable": 185,
+  "publicAvailable": 188,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2349,7 +2349,7 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=607",
-      "contentType": "application/pdf",
+      "contentType": "text/html; charset=iso-8859-1",
       "error": ""
     },
     {
@@ -3148,6 +3148,57 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.heitersheim.de/resources/02%20Datenobjekte/Bauplatzvergabe/Staaden%20III/Anlage%201%20BPlan%20Staaden%20III.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Eschbach",
+      "documentTitle": "",
+      "documentType": "",
+      "pages": "7",
+      "publicUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+      "currentSourceUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Bad Lippspringe",
+      "documentTitle": "",
+      "documentType": "",
+      "pages": "2",
+      "publicUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+      "currentSourceUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "Oberried",
+      "documentTitle": "",
+      "documentType": "",
+      "pages": "20",
+      "publicUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
+      "currentSourceUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
       "contentType": "application/pdf",
       "error": ""
     }

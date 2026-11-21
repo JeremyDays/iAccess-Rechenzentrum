@@ -1,7 +1,7 @@
 {
-  "checked": 1675,
-  "ok": 1642,
-  "blocked": 33,
+  "checked": 1682,
+  "ok": 1652,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -27,30 +27,6 @@
       "ok": false,
       "blocked": true,
       "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 75,
-      "field": "sourceUrl",
-      "title": "20 weitere Heilbronner Gemeinden nach Ittlingen geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.loewenstein.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.loewenstein.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.loewenstein.de', port=443) at 0x1db9dadb830>, 'Connection to www.loewenstein.de timed out. (connect timeout=25)'))"
-    },
-    {
-      "collection": "findings",
-      "index": 78,
-      "field": "sourceUrl",
-      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
-      "url": "https://www.assamstadt.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.assamstadt.de', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.assamstadt.de', port=443) at 0x1db9db43170>, 'Connection to www.assamstadt.de timed out. (connect timeout=25)'))"
     },
     {
       "collection": "findings",
@@ -171,18 +147,6 @@
       "ok": false,
       "blocked": true,
       "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-    },
-    {
-      "collection": "findings",
-      "index": 94,
-      "field": "sourceUrl",
-      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
-      "url": "https://www.pforzheim.de/",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.pforzheim.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
     },
     {
       "collection": "sites",
@@ -1644,6 +1608,18 @@
       "url": "https://www.lauffen.de/",
       "status": 200,
       "finalUrl": "https://www.lauffen.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 75,
+      "field": "sourceUrl",
+      "title": "20 weitere Heilbronner Gemeinden nach Ittlingen geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.loewenstein.de/",
+      "status": 200,
+      "finalUrl": "https://www.loewenstein.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -5325,6 +5301,18 @@
       "index": 78,
       "field": "sourceUrl",
       "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
+      "url": "https://www.assamstadt.de/",
+      "status": 200,
+      "finalUrl": "https://www.assamstadt.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 78,
+      "field": "sourceUrl",
+      "title": "Cron #2 Zusatzlauf: 20 Gemeinden nach Ilshofen/Vellberg geprueft: keine belastbaren RZ-Flaechenfunde",
       "url": "https://www.blaufelden.de/startseite",
       "status": 200,
       "finalUrl": "https://www.blaufelden.de/startseite",
@@ -8280,6 +8268,42 @@
       "url": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
       "status": 200,
       "finalUrl": "https://www.landkreis-emmendingen.de/landkreis-politik/der-landkreis-seine-gemeinden",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 250,
+      "field": "sourceUrl",
+      "title": "Gewerbepark Breisgau: Flächenhinweis und Glasfaser, keine konkrete Rechenzentrumsparzelle",
+      "url": "https://gewerbepark-breisgau.ris-portal.de/web/guest/sitzungen?sitzungId=206853",
+      "status": 200,
+      "finalUrl": "https://gewerbepark-breisgau.ris-portal.de/web/guest/sitzungen?sitzungId=206853",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 250,
+      "field": "sourceUrl",
+      "title": "Gewerbepark Breisgau: Flächenhinweis und Glasfaser, keine konkrete Rechenzentrumsparzelle",
+      "url": "https://www.gewerbepark-breisgau.de/flaechenangebote-mietangebote/",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-breisgau.de/flaechenangebote-mietangebote/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 250,
+      "field": "sourceUrl",
+      "title": "Gewerbepark Breisgau: Flächenhinweis und Glasfaser, keine konkrete Rechenzentrumsparzelle",
+      "url": "https://www.gewerbepark-breisgau.de/infrastruktur-und-standortvorteile/breitbandversorgung/",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-breisgau.de/infrastruktur-und-standortvorteile/breitbandversorgung/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -16662,6 +16686,18 @@
     },
     {
       "collection": "findings",
+      "index": 251,
+      "field": "sourceUrl",
+      "title": "YEXIO Bad Lippspringe: Betriebsaufnahme laut Entwickler, Abwärmenutzung weiterhin geplant",
+      "url": "https://www.hochtief.de/aktuelles-medien/pressemitteilungen/pressemitteilung/yexio-rechenzentrum-in-bad-lippspringe-nimmt-betrieb-auf",
+      "status": 200,
+      "finalUrl": "https://www.hochtief.de/aktuelles-medien/pressemitteilungen/pressemitteilung/yexio-rechenzentrum-in-bad-lippspringe-nimmt-betrieb-auf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
@@ -17136,6 +17172,18 @@
       "url": "https://www.ostelsheim.de/",
       "status": 200,
       "finalUrl": "https://www.ostelsheim.de/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 94,
+      "field": "sourceUrl",
+      "title": "Zweiter Tageslauf: 20 weitere offene Gemeinden bis Simmozheim geprueft",
+      "url": "https://www.pforzheim.de/",
+      "status": 200,
+      "finalUrl": "https://www.pforzheim.de/",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18270,6 +18318,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 186,
+      "field": "sourceUrl",
+      "title": "HOCHTIEF YEXIO – Betriebsaufnahme 06.11.2026",
+      "url": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 184,
       "field": "sourceUrl",
       "title": "Heitersheim Staaden III: Satzungs-/Festsetzungs- und Begründungsdatei, Stand 14.11.2017",
@@ -18726,6 +18786,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 185,
+      "field": "sourceUrl",
+      "title": "Objekt 2036 – Büroangebot Hartheimer Straße 15",
+      "url": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+      "status": 200,
+      "finalUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 140,
       "field": "sourceUrl",
       "title": "Ortenau Klinikum Offenburg: Ergebnisbekanntmachung Rechenzentrum, übermittelt 17.04.2026",
@@ -18876,6 +18948,18 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/ZGE1MDg3NGVlMWZiZTg0MFdaVWJpTC9JTFl4Z0lHWGRDQjF5MGlNWmJwLzZFdVY3NEFxRWZRNXg1blR2OE9BeXVVeE5PMHJ5WWw3Yjh3dFd5VmlkNUlhV1c5aW5aVXVaREpqNHd5WXh0SWI3S0FTWjN2em9oRlAvdE94Zy94R2pLSUg2QkpMek9sTE11cmxsN3h2aEdJZGI0aHRycGZmd2FCc1plOXB3b243b2RNRHJhU1M2dGRvMk1UWT0",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/ZGE1MDg3NGVlMWZiZTg0MFdaVWJpTC9JTFl4Z0lHWGRDQjF5MGlNWmJwLzZFdVY3NEFxRWZRNXg1blR2OE9BeXVVeE5PMHJ5WWw3Yjh3dFd5VmlkNUlhV1c5aW5aVXVaREpqNHd5WXh0SWI3S0FTWjN2em9oRlAvdE94Zy94R2pLSUg2QkpMek9sTE11cmxsN3h2aEdJZGI0aHRycGZmd2FCc1plOXB3b243b2RNRHJhU1M2dGRvMk1UWT0",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 187,
+      "field": "sourceUrl",
+      "title": "Sitzungsmappe 01.12.2026 – Rathausserver, Vorlage 69/2026",
+      "url": "https://www.oberried.de/de/gemeinderat/?download=608",
+      "status": 200,
+      "finalUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
       "ok": true,
       "blocked": false,
       "error": ""
