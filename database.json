@@ -1436,16 +1436,36 @@
     {
       "id": "id-0.12007477250445375",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-11-22",
       "municipality": "Brieselang",
       "state": "Brandenburg",
       "planName": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "status": "Satzung/rechtskrÃ¤ftig",
+      "status": "Historischer Satzungsbeschluss laut Gemeindemeldung vom 29.02.2024; heutiger Rechtsstand nicht erneut bestätigt",
       "dataCenter": "Rechenzentrum GVZ Brieselang",
-      "documents": "Gemeindemeldung Satzungsbeschluss: https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html\nUnterlagenbeispiel: https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
-      "notes": "Satzungsbeschluss am 29.02.2024; Sondergebiet Rechenzentrum im GVZ Brieselang, zugleich Ã„nderung des rÃ¤umlichen Teil-FlÃ¤chennutzungsplans Bredow.",
+      "documents": "Amtliches Unterlagenbeispiel: Umweltbericht zum Bebauungsplan Nr. 117 Rechenzentrum, Entwurf 07.2023: https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+      "notes": "Historische Gemeindemeldung lokal archiviert; aktuelle Nachrichtenadresse nicht mehr erreichbar. Der weiterhin erreichbare 73-seitige Umweltbericht trägt ausdrücklich Entwurf und Stand 07.2023; er beweist keinen späteren Satzungsbeschluss oder heutige Rechtskraft. Frühere Angaben und Nachrichtenbeleg in revisionHistory erhalten. Kein neuer Standortfund.",
       "source": "Gemeinde Brieselang",
-      "tags": "Rechenzentrum, GVZ, Brandenburg, Satzung"
+      "tags": "Rechenzentrum, GVZ, Brandenburg, Satzung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-22",
+          "reason": "Defekte Nachrichtenadresse nicht durch einen angeblich aktuellen Rechtskraftbeleg ersetzt. Verbliebenen amtlichen Umweltbericht als Entwurf 07.2023 gekennzeichnet und Statusgrenze präzisiert.",
+          "previousRecord": {
+            "id": "id-0.12007477250445375",
+            "created": "2026-06-02",
+            "updated": "2026-06-02",
+            "municipality": "Brieselang",
+            "state": "Brandenburg",
+            "planName": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
+            "status": "Satzung/rechtskrÃ¤ftig",
+            "dataCenter": "Rechenzentrum GVZ Brieselang",
+            "documents": "Gemeindemeldung Satzungsbeschluss: https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html\nUnterlagenbeispiel: https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
+            "notes": "Satzungsbeschluss am 29.02.2024; Sondergebiet Rechenzentrum im GVZ Brieselang, zugleich Ã„nderung des rÃ¤umlichen Teil-FlÃ¤chennutzungsplans Bredow.",
+            "source": "Gemeinde Brieselang",
+            "tags": "Rechenzentrum, GVZ, Brandenburg, Satzung"
+          }
+        }
+      ]
     },
     {
       "id": "id-0.2767739625022422",
@@ -1492,16 +1512,36 @@
     {
       "id": "id-0.7401464839585311",
       "created": "2026-06-02",
-      "updated": "2026-06-02",
+      "updated": "2026-11-22",
       "municipality": "Bedburg",
       "state": "Nordrhein-Westfalen",
       "planName": "Erweiterung Gewerbegebiet BEB61 / Sondergebiet Rechenzentrum",
       "status": "Aufstellungsbeschluss",
       "dataCenter": "Microsoft / Hyperscaler Bedburg",
-      "documents": "Stadtmeldung: https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Erweiterung-fuer-das-Gewerbegebiet-BEB61-beschlossen.html",
-      "notes": "Stadtentwicklungsausschuss beschloss 2026 planungsrechtliche Voraussetzungen fÃ¼r Erweiterung BEB61; Zweckbestimmung Sondergebiet Rechenzentrum, Microsoft-Planung und weiterer Hyperscaler.",
+      "documents": "Amtliche Projektübersicht mit Meldung vom 05.03.2026 zur BEB61-Erweiterung: https://www.bedburg.de/Stadtentwicklung-Bauen-Wirtschaft-und-Ausschreibungen/Wirtschaftsfoerderung/Strukturwandel/Interkommunales-Gewerbegebiet-BEB61.htm",
+      "notes": "Stadtentwicklungsausschuss beschloss 2026 planungsrechtliche Voraussetzungen fÃ¼r Erweiterung BEB61; Zweckbestimmung Sondergebiet Rechenzentrum, Microsoft-Planung und weiterer Hyperscaler. Verweisprüfung 22.11.2026: ursprüngliche Einzelmeldung 404. Erreichbare amtliche Projektübersicht enthält weiterhin die Meldung vom 05.03.2026 und die Erweiterungsabsicht von 40 auf 75 ha. Keine fertige Erschließung oder freie Rechenzentrumsfläche daraus abgeleitet. Ursprüngliche Meldung lokal archiviert; Vorfassung erhalten.",
       "source": "Stadt Bedburg",
-      "tags": "Microsoft, Hyperscale, NRW, Sondergebiet"
+      "tags": "Microsoft, Hyperscale, NRW, Sondergebiet",
+      "revisionHistory": [
+        {
+          "date": "2026-11-22",
+          "reason": "Defekte Einzelmeldung durch erreichbare amtliche Projektübersicht mit datierter inhaltlicher Entsprechung ersetzt, nicht als identischer Volltext ausgegeben.",
+          "previousRecord": {
+            "id": "id-0.7401464839585311",
+            "created": "2026-06-02",
+            "updated": "2026-06-02",
+            "municipality": "Bedburg",
+            "state": "Nordrhein-Westfalen",
+            "planName": "Erweiterung Gewerbegebiet BEB61 / Sondergebiet Rechenzentrum",
+            "status": "Aufstellungsbeschluss",
+            "dataCenter": "Microsoft / Hyperscaler Bedburg",
+            "documents": "Stadtmeldung: https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Erweiterung-fuer-das-Gewerbegebiet-BEB61-beschlossen.html",
+            "notes": "Stadtentwicklungsausschuss beschloss 2026 planungsrechtliche Voraussetzungen fÃ¼r Erweiterung BEB61; Zweckbestimmung Sondergebiet Rechenzentrum, Microsoft-Planung und weiterer Hyperscaler.",
+            "source": "Stadt Bedburg",
+            "tags": "Microsoft, Hyperscale, NRW, Sondergebiet"
+          }
+        }
+      ]
     },
     {
       "id": "id-0.2022050555652508",
@@ -2029,6 +2069,21 @@
       "sourceUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
       "additionalSourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
       "notes": "Entwurfsstände und getrennte Verfahren. Keine gesicherte Strombezugsleistung, freie Parzelle oder allgemeine gewerbliche Umnutzung aus Leitungsnähe oder Gutachten ableiten."
+    },
+    {
+      "id": "id-2026-11-22-hartheim-kirchweg",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "state": "Baden-Württemberg",
+      "planName": "Am obern Kirchweg links",
+      "status": "Frühzeitige Beteiligung; gesicherte Vorentwürfe 23.06.2026, Umweltbericht 26.06.2026; heutiges Inkrafttreten nicht bestätigt",
+      "dataCenter": "Keine freie Parzelle, Rechenzentrumszulassung oder gesicherte Strombezugsleistung belegt.",
+      "documents": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1204031870_Dattachment/3488242/2_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20-%20Planzeichnung%20%2826-06-02%29.pdf",
+      "source": "Gemeinde Hartheim am Rhein, öffentliche Originalunterlagen",
+      "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E-1013726083_Dattachment/3488241/3_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20Bebauungsvorschriften%20Fr%C3%BChzeitige%20%2826-06-11%29.pdf",
+      "additionalSourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+      "notes": "Gesamtgeltungsbereich laut Umweltbericht rund 46.777 m²; darin 30.457 m² GE und 8.514 m² eingeschränktes GE. Verkehr und Grünflächen separat. Nicht als frei verfügbare Gewerbefläche zählen. Geotechnik-, Schall- und Oberflächenwasserkonzept sind im Satzungsentwurf mit offenen Datumsfeldern genannt; deren tatsächliche vollständige Endfassungen nicht bestätigt."
     }
   ],
   "pdfExtracts": [
@@ -5091,6 +5146,102 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.oberried.de/46bb063e931252a4.pdf",
       "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+    },
+    {
+      "id": "id-2026-11-22-pdf-01",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "Bebauungsplan Am obern Kirchweg links – Begründung",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "33",
+      "keyFacts": "14 Seiten, Vorentwurf zur frühzeitigen Beteiligung, 23.06.2026.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.emmendingen.de/b34f7c0c6bd7040a.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-22-pdf-02",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "Am obern Kirchweg links – Umweltbericht mit Anlagen",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "37",
+      "keyFacts": "37 Dateiseiten; Stand 26.06.2026. Rund 46.777 m² Gesamtgebiet; keine freie Grundstücksfläche belegt.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.hartheim.de/ee2c5994221342d2.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-22-pdf-03",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "Stiegeler Unser Netz 01/2025 – Glasfasernetz Hartheim",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "16",
+      "keyFacts": "16 Seiten; Anbieterbericht über Fertigstellung im Mai 2025 auf Seite 9. Kein objektbezogener Redundanznachweis.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/stiegeler.com/72ee2d6c4399070b.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-22-pdf-04",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "Kommunale Wärmeplanung Hartheim – Fachgutachten 2024",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "130",
+      "keyFacts": "130 Dateiseiten; Deckblatt 09.2024, Inhaltsfußzeilen 08.2024. Historischer Potenzialstand; keine aktuelle Wärmeabnahmezusage.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.hartheim.de/a917c66db1be99fc.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-22-pdf-05",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "GR-2026/82 – Gestattung Wärme-Transportleitungen",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "1",
+      "keyFacts": "1 Seite, Vorlage für 17.11.2026; Beschlussvorschlag, kein Ausführungsnachweis.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/606fb6f8e2d84f0e.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-22-pdf-06",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "municipality": "Hartheim am Rhein",
+      "title": "Gestattungsvertrag Wärmeleitungen – nicht unterschriebener Entwurf",
+      "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "pages": "6",
+      "keyFacts": "6 Seiten; Datums- und Unterschriftsfelder nicht ausgefüllt. Keine abgeschlossene Vereinbarung behauptet.",
+      "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+      "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+      "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/90ba4e95e9a1b6b7.pdf",
+      "tags": "Hartheim, Original, Prüfgrenzen"
     }
   ],
   "media": [
@@ -5256,6 +5407,19 @@
       "notes": "Originaler Betreiberplan visuell geprüft; Schriftfeld Bearbeitung 08.11.2023. Keine selbst erstellte Zeichnung. Projekt-/Genehmigungsdarstellung, kein Bauabschluss, keine freie Parzelle oder Anschlussleistung belegt.",
       "tags": "Original, Hoch³, Trasse, Projektplan",
       "source": "Netze BW / DB Energie; auf Betreiberseite verlinkte Originalunterlage"
+    },
+    {
+      "id": "id-2026-11-22-hartheim-waermeleitung",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "title": "Hartheim Feldkirch: Original-Übersichtsplan Wärme-Transportleitung, Anlage 1",
+      "category": "Wärmenetz / Originalplan",
+      "system": "Geplante Wärme-Transportleitung, Gestattungsplanung",
+      "url": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2967805",
+      "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/a10f781a693faece.pdf",
+      "source": "Badenova Wärmeplus; öffentliche Gemeinderatsunterlage 17.11.2026",
+      "notes": "Originalplan visuell geprüft, Datum 03.07.2026, Maßstab 1:4.000. Plan nennt ausdrücklich keine Leitungsauskunft. Kein Bau-/Betriebsnachweis, kein gesicherter Wärmeabnehmer für Rechenzentren, keine erfundene Zeichnung.",
+      "tags": "Original, Wärmeleitung, Feldkirch, Entwurfsstatus, keine Leitungsauskunft"
     }
   ],
   "findings": [
@@ -10173,6 +10337,54 @@
       "confidence": "Originalquelle direkt gelesen; Prüfgrenzen ausdrücklich benannt",
       "action": "Eigene Bewertung: kommunaler IT-Bedarf, keine ausgeschriebene freie Rechenzentrumsfläche. Beschluss und Umsetzung offen; ältere Servervorlagen dadurch nicht nachträglich als beschlossen darstellen.",
       "tags": "Originalquelle, Teilprüfung, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-11-22-hartheim-kirchweg",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "title": "Hartheim Am obern Kirchweg links: Gewerbevorentwurf, keine freie Rechenzentrumsfläche",
+      "topic": "Standort- und Infrastrukturprüfung",
+      "summary": "Die amtliche Bekanntmachung nennt Aufstellungs- und Billigungsbeschluss vom 23.06.2026 zur frühzeitigen Beteiligung. Planzeichnung, Begründung und Vorschriften tragen 23.06.2026; Umweltbericht 26.06.2026. Der Umweltbericht nennt rund 4,7 ha Gesamtgeltungsbereich, konkret rund 46.777 m², darin 30.457 m² Gewerbegebiet und 8.514 m² eingeschränktes Gewerbegebiet. Das sind Planungsflächen, keine verfügbaren Parzellen. Im eingeschränkten Gewerbegebiet sind laut Vorentwurf nur Betriebe zulässig, die das Wohnen nicht wesentlich stören. Satzungs-/Inkrafttretensfelder sind in den gesicherten Entwürfen nicht ausgefüllt. Der Dateiname des Umweltberichts nennt untern Kirchweg, der Dokumentinhalt obern Kirchweg; Titelunterschied erhalten, keine andere Flächenzuordnung geraten.",
+      "sourceUrl": "https://www.hartheim.de/pb/%2CLde%2C%28anker1454191%29/Gemeinde%2BHartheim%2Bam%2BRhein/aktuell/oeffentliche%2Bbekanntmachungen.html; https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf; https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+      "confidence": "Direkt gelesene Originalquellen; Entwurfs- und Altersgrenzen benannt",
+      "action": "Eigene Bewertung: Suchgebiet weiterführen; aktueller Rechtsstand, Parzelle, Verfügbarkeit, Schall, Grundwasser, Erschließung und Strombezug offen. Nicht als heute rechtskräftige Rechenzentrumszulassung oder als 4,7 ha freie Gewerbefläche bewerten.",
+      "tags": "Hartheim, Originalquelle, Teilprüfung, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-11-22-hartheim-glasfaser",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "title": "Hartheim: kommunaler Ausbau und privatwirtschaftliches Glasfasernetz unterscheiden",
+      "topic": "Standort- und Infrastrukturprüfung",
+      "summary": "Die Landkreis-Seite meldet keinen kommunalen Breitbandausbau. Stiegeler beschreibt auf der Projektseite ein aktives Netz in Hartheim/Feldkirch, enthält aber noch einen älteren erwarteten Fertigstellungstermin Anfang 2025 für Bremgarten. Das Anbieter-Magazin Unser Netz 01/2025 berichtet über die Fertigstellung in Hartheim, Feldkirch und Bremgarten anlässlich eines Grillfestes im Mai 2025. Kein kommunaler Ausbau bedeutet deshalb nicht automatisch kein Glasfasernetz. Die Anbietererklärung ist keine unabhängige objektbezogene Abnahme oder Zusage von 2 physisch getrennten Carrierwegen.",
+      "sourceUrl": "https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html; https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/; https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
+      "confidence": "Direkt gelesene Originalquellen; Entwurfs- und Altersgrenzen benannt",
+      "action": "Eigene Schlussfolgerung: Unterschiedliche Ausbauarten und Zeitstände erklären die scheinbare Abweichung. Aktuelle Adressverfügbarkeit, nutzbare Bandbreite, Entstörung und Trassendiversität für konkrete Parzellen gesondert bestätigen. Keine Kontaktaufnahme.",
+      "tags": "Hartheim, Originalquelle, Teilprüfung, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-11-22-hartheim-waermeplan",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "title": "Hartheim Wärmegutachten 2024: Abwärmepotenzial nicht mit Abnahmezusage verwechseln",
+      "topic": "Standort- und Infrastrukturprüfung",
+      "summary": "Das kommunale Fachgutachten trägt auf dem Deckblatt 09.2024, auf Inhaltsseiten Fußzeilen 08.2024. Dateiseite 56 beschreibt 2 Unternehmen mit Bereitschaft zur Abwärmebereitstellung, verlangt jedoch vertiefte Analysen; Dateiseite 67 setzt gewerbliche und Abwasser-Abwärme im damaligen technisch-wirtschaftlichen Potenzialraster nicht als nutzbar an. Allgemeine Erwähnungen von Rechenzentren sind keine konkrete Standort- oder Wärmeabnahmezusage. Der historische Stand ist nicht als aktuelle Bestätigung für 2026 ausgegeben.",
+      "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
+      "confidence": "Direkt gelesene Originalquellen; Entwurfs- und Altersgrenzen benannt",
+      "action": "Eigene Bewertung: Kein Beleg eines gesicherten Wärmeabnehmers für ein künftiges Rechenzentrum. Aktuelle Netzausbauplanung, Temperaturniveaus, Wärmemengen, Wirtschaftlichkeit und vertragliche Abnahme bleiben offen; aus der Altuntersuchung weder dauerhafte Unmöglichkeit noch heutige Nutzbarkeit ableiten.",
+      "tags": "Hartheim, Originalquelle, Teilprüfung, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-11-22-hartheim-waermeleitung",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "title": "Hartheim Wärmeleitungs-Gestattung: Vorlage und nicht unterschriebener Entwurf gesichert",
+      "topic": "Standort- und Infrastrukturprüfung",
+      "summary": "Die öffentliche Sitzungsvorlage GR-2026/82 für 17.11.2026 behandelt einen Gestattungsvertrag für Wärme-Transportleitungen auf öffentlichen Grundstücken der Gemarkung Feldkirch. Genannt werden zunächst bestehende Wärmenetze in Freiburg als Hauptabnehmer geplanter Geothermiewärme. Der 6-seitige Vertragsentwurf nennt Badenova Wärmeplus GmbH & Co. KG und enthält leere Unterschrifts-/Datumsfelder. Ein 1-seitiger Original-Übersichtsplan trägt 03.07.2026 und weist ausdrücklich darauf hin, keine Leitungsauskunft zu sein. Beschluss, Vertragsabschluss, Bau und Betrieb sowie die Aufnahme von Rechenzentrumsabwärme sind mit diesen Unterlagen nicht bestätigt.",
+      "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274; https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287; https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2967805",
+      "confidence": "Direkt gelesene Originalquellen; Entwurfs- und Altersgrenzen benannt",
+      "action": "Eigene Bewertung: Infrastrukturplanung beobachten, nicht als gesicherte Wärmesenke oder Grundstücksverfügbarkeit zählen. Trassen- und Gestattungsstand getrennt von technischen und vertraglichen Einspeisemöglichkeiten prüfen.",
+      "tags": "Hartheim, Originalquelle, Teilprüfung, keine Anschlusszusage"
     }
   ],
   "gridChecks": [
@@ -10550,6 +10762,21 @@
       "source": "https://www.gewerbepark-breisgau.de/infrastruktur-und-standortvorteile/breitbandversorgung/",
       "notes": "Seit Dezember 2016 in Betrieb laut undatierter Seite, abgerufen am 21.11.2026. Vorbereitete Leerrohre bis zur Grundstücksgrenze bedeuten keinen bereits ausgeführten Gebäudeglasfaseranschluss. Aktuelle Bandbreite, Redundanz, Entstörung und Leistungsvereinbarung gesondert bestätigen. Keine Kontaktaufnahme.",
       "tags": "Eschbach, Gewerbepark Breisgau, Stiegeler, Glasfaser, Trassen offen"
+    },
+    {
+      "id": "id-2026-11-22-connectivity-hartheim",
+      "created": "2026-11-22",
+      "updated": "2026-11-22",
+      "site": "Hartheim, Feldkirch, Bremgarten; konkrete Parzelle offen",
+      "carrier": "Stiegeler laut Anbieterangaben",
+      "serviceType": "Eigenwirtschaftliches Glasfasernetz; kommunalen Ausbau separat behandeln",
+      "bandwidth": "Objektkonkret unbekannt",
+      "routeDiversity": "Keine 2 unabhängigen Trassen oder Hauseinführungen belegt",
+      "status": "Aktives Netz laut Anbieter; keine Rechenzentrumsqualität zugesichert",
+      "contact": "https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/",
+      "source": "https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/; https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186; https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html",
+      "notes": "Anbieter-Magazin 01/2025 berichtet über Fertigstellung im Mai 2025; Internet-Projektseite enthält daneben ältere Prognose. Landkreis-Aussage betrifft kommunalen Ausbau. Aktuelle Parzellenversorgung, Bandbreite und Leistungsvereinbarung offen. Keine Kontaktaufnahme.",
+      "tags": "Hartheim, Glasfaser, Stiegeler, historischer Anbieterbericht, Redundanz offen"
     }
   ],
   "capacityMarkets": [
@@ -10657,7 +10884,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-21",
+    "lastRun": "2026-11-22",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10685,8 +10912,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-21",
-    "lastResearchSummary": "49 kommunale Teilprüfungen; 3 Befunde und 3 Dokumentauswertungen zu Gewerbepark Breisgau, YEXIO und Oberried ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-22",
+    "lastResearchSummary": "50 kommunale Teilprüfungen; 4 Befunde, 6 Dokumentauswertungen, 1 Gewerbeplan, 1 Konnektivitätsprüfung und 1 Originalzeichnung ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

@@ -1,6 +1,6 @@
 {
-  "checked": 1682,
-  "ok": 1652,
+  "checked": 1693,
+  "ok": 1663,
   "blocked": 30,
   "broken": 0,
   "results": [
@@ -138,15 +138,15 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "index": 117,
+      "field": "sourceUrl",
+      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://altheim-info.de/",
       "status": null,
       "finalUrl": "",
       "ok": false,
       "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "error": "HTTPSConnectionPool(host='altheim-info.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
     },
     {
       "collection": "sites",
@@ -792,6 +792,18 @@
       "url": "https://www.wbdg.org/FFC/SI/fpls_design_manual_2014.pdf",
       "status": 200,
       "finalUrl": "https://nibs-s3-wbdg3-production.s3.us-east-1.amazonaws.com:443/FFC/SI/fpls_design_manual_2014.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "drawings",
+      "index": 8,
+      "field": "url",
+      "title": "Hartheim Feldkirch: Original-Übersichtsplan Wärme-Transportleitung, Anlage 1",
+      "url": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2967805",
+      "status": 200,
+      "finalUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2967805",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -8850,6 +8862,42 @@
     },
     {
       "collection": "findings",
+      "index": 253,
+      "field": "sourceUrl",
+      "title": "Hartheim Am obern Kirchweg links: Gewerbevorentwurf, keine freie Rechenzentrumsfläche",
+      "url": "https://www.hartheim.de/pb/%2CLde%2C%28anker1454191%29/Gemeinde%2BHartheim%2Bam%2BRhein/aktuell/oeffentliche%2Bbekanntmachungen.html",
+      "status": 200,
+      "finalUrl": "https://www.hartheim.de/pb/%2CLde%2C%28anker1454191%29/Gemeinde%2BHartheim%2Bam%2BRhein/aktuell/oeffentliche%2Bbekanntmachungen.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 254,
+      "field": "sourceUrl",
+      "title": "Hartheim: kommunaler Ausbau und privatwirtschaftliches Glasfasernetz unterscheiden",
+      "url": "https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/",
+      "status": 200,
+      "finalUrl": "https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 254,
+      "field": "sourceUrl",
+      "title": "Hartheim: kommunaler Ausbau und privatwirtschaftliches Glasfasernetz unterscheiden",
+      "url": "https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html",
+      "status": 200,
+      "finalUrl": "https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 45,
       "field": "source",
       "title": "Haslach verknuepft Bauleitplanung, Businessinfo und Stadtwerke auf offiziellem Kommunalpfad",
@@ -13950,6 +13998,18 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -16713,18 +16773,6 @@
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://altheim-info.de/",
-      "status": 200,
-      "finalUrl": "https://altheim-info.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 117,
-      "field": "sourceUrl",
-      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
       "url": "https://hausen-am-tann.de/",
       "status": 200,
       "finalUrl": "https://hausen-am-tann.de/",
@@ -17706,6 +17754,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 188,
+      "field": "sourceUrl",
+      "title": "Bebauungsplan Am obern Kirchweg links – Begründung",
+      "url": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf",
+      "status": 200,
+      "finalUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 55,
       "field": "sourceUrl",
       "title": "Bebauungsplan Begründung",
@@ -18246,6 +18306,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 192,
+      "field": "sourceUrl",
+      "title": "GR-2026/82 – Gestattung Wärme-Transportleitungen",
+      "url": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274",
+      "status": 200,
+      "finalUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 172,
       "field": "sourceUrl",
       "title": "GVV Kaiserstuhl-Tuniberg: Bekanntmachung Genehmigung 8. FNP-Änderung vom 31.07.2026",
@@ -18288,6 +18360,18 @@
       "url": "https://www.ahrensfelde.de/downloads/datei/MDljMGI4ZDNjODdkZjdlZUtzRnIvRENZRW56MmVyTjZLUVdPTWdLdmtmRXlVM2ZQZFBGY3NZelhzdVdSaGVkSzVjRVFyVmltVENLSmN6ei9WZG16ZjMyYUs4d2RCaEthWHB6QUl5WnFzbWZsdm9yd0VtdjRkdlZZTGxGY0YwSUxaczJIMUEydVRmcU9LWEQ5R1N3Qk9RcHA5S3NDaEo0WjcyT1NJUT09",
       "status": 200,
       "finalUrl": "https://www.ahrensfelde.de/downloads/datei/MDljMGI4ZDNjODdkZjdlZUtzRnIvRENZRW56MmVyTjZLUVdPTWdLdmtmRXlVM2ZQZFBGY3NZelhzdVdSaGVkSzVjRVFyVmltVENLSmN6ei9WZG16ZjMyYUs4d2RCaEthWHB6QUl5WnFzbWZsdm9yd0VtdjRkdlZZTGxGY0YwSUxaczJIMUEydVRmcU9LWEQ5R1N3Qk9RcHA5S3NDaEo0WjcyT1NJUT09",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 193,
+      "field": "sourceUrl",
+      "title": "Gestattungsvertrag Wärmeleitungen – nicht unterschriebener Entwurf",
+      "url": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287",
+      "status": 200,
+      "finalUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18456,6 +18540,18 @@
       "url": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-01-original.pdf",
       "status": 200,
       "finalUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/2026-10-17-01-original.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 191,
+      "field": "sourceUrl",
+      "title": "Kommunale Wärmeplanung Hartheim – Fachgutachten 2024",
+      "url": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -18990,6 +19086,18 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 190,
+      "field": "sourceUrl",
+      "title": "Stiegeler Unser Netz 01/2025 – Glasfasernetz Hartheim",
+      "url": "https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
+      "status": 200,
+      "finalUrl": "https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 142,
       "field": "sourceUrl",
       "title": "SustainDC: vorläufiger Richtlinientext, am 09.11.2026 abgerufen",
@@ -19434,6 +19542,42 @@
     },
     {
       "collection": "zoningPlans",
+      "index": 38,
+      "field": "sourceUrl",
+      "title": "Am obern Kirchweg links",
+      "url": "https://www.hartheim.de/pb/site/Hartheim/get/params_E-1013726083_Dattachment/3488241/3_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20Bebauungsvorschriften%20Fr%C3%BChzeitige%20%2826-06-11%29.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E-1013726083_Dattachment/3488241/3_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20Bebauungsvorschriften%20Fr%C3%BChzeitige%20%2826-06-11%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 38,
+      "field": "additionalSourceUrl",
+      "title": "Am obern Kirchweg links",
+      "url": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
+      "index": 38,
+      "field": "documents",
+      "title": "Am obern Kirchweg links",
+      "url": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1204031870_Dattachment/3488242/2_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20-%20Planzeichnung%20%2826-06-02%29.pdf",
+      "status": 200,
+      "finalUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1204031870_Dattachment/3488242/2_26-06-23%20BPL%20Am%20obern%20Kirchweg%20links%20-%20Planzeichnung%20%2826-06-02%29.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "zoningPlans",
       "index": 4,
       "field": "documents",
       "title": "Bebauungsplan \"Aschaffenburger StraÃŸe 50 - 58\"",
@@ -19845,18 +19989,6 @@
       "index": 2,
       "field": "documents",
       "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
-      "url": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "status": 200,
-      "finalUrl": "https://www.gemeindebrieselang.de/Kontakt-1.htm/Aktuelles/Rechenzentrum-Gemeindevertretung-fasst-einstimmigen-B-Plan-Satzungsbeschluss.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "zoningPlans",
-      "index": 2,
-      "field": "documents",
-      "title": "Bebauungsplan Nr. 117 \"Rechenzentrum\"",
       "url": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
       "status": 200,
       "finalUrl": "https://www.gemeindebrieselang.de/city_info/display/dokument/show.cfm?id=421319&region_id=342",
@@ -19965,9 +20097,9 @@
       "index": 6,
       "field": "documents",
       "title": "Erweiterung Gewerbegebiet BEB61 / Sondergebiet Rechenzentrum",
-      "url": "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Erweiterung-fuer-das-Gewerbegebiet-BEB61-beschlossen.html",
+      "url": "https://www.bedburg.de/Stadtentwicklung-Bauen-Wirtschaft-und-Ausschreibungen/Wirtschaftsfoerderung/Strukturwandel/Interkommunales-Gewerbegebiet-BEB61.htm",
       "status": 200,
-      "finalUrl": "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Erweiterung-fuer-das-Gewerbegebiet-BEB61-beschlossen.html",
+      "finalUrl": "https://www.bedburg.de/Stadtentwicklung-Bauen-Wirtschaft-und-Ausschreibungen/Wirtschaftsfoerderung/Strukturwandel/Interkommunales-Gewerbegebiet-BEB61.htm",
       "ok": true,
       "blocked": false,
       "error": ""

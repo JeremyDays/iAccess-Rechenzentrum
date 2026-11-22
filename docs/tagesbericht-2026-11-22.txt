@@ -1,0 +1,56 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 22.11.2026
+Auslöser 07:32:30 Uhr Europe/Berlin. Vorheriger Lauf abgeschlossen; heutiger Lauf zuvor nicht begonnen, keine gemeinsame Sperre in den geprüften Laufverzeichnissen vorhanden. 1 fälligen Lauf ausgeführt, keine weitere Zeitsteuerung angelegt.
+
+Ergebnis
+50 offene Gemeinden teilweise geprüft. Neu: 4 Befunde, 6 Dokumentauswertungen, 1 Gewerbeplan, 1 Konnektivitätsprüfung und 1 originale technische Zeichnung. 0 neue bestätigte freie Rechenzentrumsflächen, 0 neue Standortdatensätze und 0 neue Partnerdatensätze. Die 34 vorhandenen Standortdatensätze bleiben eine Sammlung unterschiedlicher Prüfstände; keine 34 bestätigten freien Flächen. Denzlingen Kiesfläche und Heitersheim Objekt 1185 nicht erneut als neu gezählt.
+
+Hartheim: Gewerbeplan Am obern Kirchweg links
+Belegt: Amtliche Bekanntmachung nennt Aufstellungs-/Billigungsbeschluss 23.06.2026 und frühzeitige Beteiligung. Die gesicherten Satzungs-, Planzeichnungs-, Vorschriften- und Begründungsdateien sind Vorentwürfe; Satzungs-/Inkrafttretensfelder sind nicht ausgefüllt. Der Umweltbericht mit 37 Dateiseiten trägt 26.06.2026, andere Planunterlagen 23.06.2026. Der Umweltbericht nennt rund 4,7 ha Gesamtgeltungsbereich beziehungsweise 46.777 m², darin 30.457 m² Gewerbegebiet und 8.514 m² eingeschränktes Gewerbegebiet. Verkehrs- und Grünflächen sind im Gesamtgebiet enthalten. Diese Werte sind weder verfügbare Grundstücksflächen noch ein bestätigtes Rechenzentrumspotenzial.
+Im eingeschränkten Gewerbegebiet verlangt der Vorschriftenentwurf Betriebe, die das Wohnen nicht wesentlich stören. Konkretes Grundstück, heutige Vermarktung, aktueller Rechtsstand, Schall, Baugrund, Grundwasser, Erschließung und Strombezug bleiben offen. Die im Satzungsentwurf genannten Schall-, Geotechnik- und Oberflächenwasserunterlagen tragen offene Datumsfelder; keine vollständig vorliegenden Endgutachten behauptet.
+Dateiname des Umweltberichts nennt untern Kirchweg, Dokumentinhalt obern Kirchweg. Unterschied dokumentiert; keine andere Flächenidentität daraus geraten. FNP-Endstand nicht bestätigt. Eigene Bewertung: Suchgebiet weiterführen, keine rechtskräftige Rechenzentrumszulassung oder sofort verfügbare Fläche annehmen.
+https://www.hartheim.de/pb/%2CLde%2C%28anker1454191%29/Gemeinde%2BHartheim%2Bam%2BRhein/aktuell/oeffentliche%2Bbekanntmachungen.html
+
+Hartheim: Glasfaser und Quellenabgleich
+Die Landkreis-Seite meldet keinen kommunalen Breitbandausbau. Stiegeler beschreibt ein aktives Netz in Hartheim/Feldkirch, nennt daneben aber noch die ältere Prognose Anfang 2025 für Bremgarten. Das Anbieter-Magazin Unser Netz 01/2025 berichtet auf Seite 9 über Fertigstellung in Hartheim, Feldkirch und Bremgarten und ein Grillfest im Mai 2025. Eigene Schlussfolgerung: Die Aussagen betreffen unterschiedliche Ausbauarten und Zeitstände. Kein kommunaler Ausbau ist kein Nachweis fehlender Glasfaser.
+Anbieterbericht, keine unabhängige objektbezogene Abnahme. Aktuelle Parzellenversorgung, Bandbreite, Entstörung und 2 unabhängige Carrierwege bleiben ungeklärt. Keine Kontaktaufnahme.
+https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html
+https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/
+https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186
+
+Hartheim: Wärmeplanung und aktuelle Wärmeleitungsunterlagen
+Das 130-seitige kommunale Fachgutachten trägt auf dem Deckblatt 09.2024, auf Inhaltsseiten Fußzeilen 08.2024. Dateiseite 56 nennt 2 Unternehmen mit Bereitschaft zur Abwärmebereitstellung, verlangt aber vertiefte Analysen. Dateiseite 67 führt gewerbliche und Abwasser-Abwärme im damaligen technisch-wirtschaftlichen Potenzialraster nicht als nutzbar. Das ist weder eine aktuelle Abnahmezusage noch eine Aussage über die technische Machbarkeit eines künftigen Rechenzentrums. Allgemeine Rechenzentrumserwähnungen nicht als konkreten Standortfund zählen.
+Die Tagesordnung vom 17.11.2026 enthält die Wärmeleitungs-Vorlage GR-2026/82. 18 öffentlich verlinkte Originaldateien dieser Gemeinderatssitzung wurden über die tatsächlichen Download-Schaltflächen gesichert. Darunter: 1-seitige Vorlage, 6-seitiger Gestattungsvertragsentwurf und 1-seitiger originaler Übersichtsplan. Die Vorlage beschreibt geplante Geothermiewärme mit zunächst bestehenden Freiburger Wärmenetzen als Hauptabnehmern. Der Vertragsentwurf ist nicht unterschrieben; Datumsfelder leer. Der Plan trägt 03.07.2026, Maßstab 1:4.000, und ausdrücklich den Hinweis, keine Leitungsauskunft zu sein.
+Eigene Bewertung: Planung und Entwurf, kein bestätigter Vertragsabschluss, Bau oder Betrieb. Keine gesicherte Abnahme von Rechenzentrumsabwärme ableiten. Aktuelle technische Einspeisung, Temperatur, Leistung, Wirtschaftlichkeit und Verträge gesondert klären. Andere Sitzungen und Anlagen weiterhin nicht vollständig geprüft.
+https://www.hartheim.de/pb/Gemeinde+Hartheim+am+Rhein/Gemeinde+_+Buergerservice/kommunale+waermeplanung.html
+https://hartheim.ris-portal.de/web/guest/sitzungen?sitzungId=208321
+
+Nachrichten
+Breite Prüfung von Heise/iX, Golem, DataCenter-Insider, CloudComputing-Insider und DatacenterDynamics sowie regionaler Presse-, Betreiber-, Stadtwerke- und Netzquellen. Branchenmeldungen und wiederholte Projektberichte nicht als unabhängige neue Standortnachweise gezählt. Heute kein zusätzlicher gesicherter freier Rechenzentrumsstandort aus der Nachrichtenprüfung übernommen. Alte YEXIO-, Denzlinger Netz- und Netze-BW-Allokationsbefunde bleiben mit ihren jeweiligen Prüfgrenzen erhalten.
+
+Geprüfte Gemeinden und offene Abdeckung
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim.
+Gemeinden mit neu bestätigtem Rechenzentrumsflächenfund: 0. Ohne neuen gesicherten Fund / weiter offen: alle 50. Nicht gefunden bedeutet nicht widerlegt. 50 Teilprüfungen bedeuten keine 50 vollständigen Aktenprüfungen. Erreichbare Gemeinde-, Rats-, Planungs-/FNP-, Amtsblatt- und Wirtschaftsquellen mit Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Quellen, Begriffe und fehlende Kategorien stehen in der lokalen Prüfmatrix. Die Prioritätsgemeinden um Freiburg/Denzlingen/Emmendingen wurden erneut einbezogen.
+
+Neue Quellen, lokale Sicherung und PDF-Auswertung
+742 unterschiedliche Adressen geprüft, 710 archiviert, 47 erstmals im lokalen Archiv verzeichnet. 122 PDF-Dateifassungen mit unterschiedlichem Datei-Hash, zusammen 2077 Seiten; 27 bisher nicht archivierte Datei-Hashes. Neue Hashes sind nicht automatisch neue sachliche Inhalte; Ratsdateien können etwa Abruf-Wasserzeichen enthalten. Gleicher Vertrag an 2 öffentlichen Downloadadressen nur als 1 kuratierte Dokumentauswertung gezählt.
+6 neue Dokumentauswertungen: Gewerbeplan-Begründung 14 Seiten, Umweltbericht 37 Dateiseiten, Stiegeler-Magazin 16 Seiten, Wärmegutachten 130 Dateiseiten, Wärmeleitungs-Vorlage 1 Seite, nicht unterschriebener Gestattungsvertragsentwurf 6 Seiten. Zusätzlich archiviert: Satzungsentwurf 3 Seiten, Planzeichnung 1 Seite, Vorschriften 14 Seiten, Hartheimer Amtsblatt 19.11.2026 mit 12 Seiten und weitere Ratsunterlagen. Das neue Eschbacher Gewerbeplan-PDF ist 1 gescannte Seite ohne Textauszug; nicht als vollständig gelesener aktueller Rechtsstand ausgegeben.
+13 PDF-Dateifassungen mit eingeschränktem Textauszug. 0 vollständige Texterkennungen behauptet. Visuell geprüft: Umweltbericht Seite 5, Planzeichnung Seite 1, Wärmegutachten Dateiseite 56, Stiegeler Seite 9 sowie Wärmeleitungsplan, Vorlage und Unterschriftsseite des Vertragsentwurfs. 1 Original-Wärmeleitungszeichnung aufgenommen, keine Zeichnung erfunden. 0 neue Fotos oder Illustrationen: das Anbieterfoto zeigt Personen beim Glasfaserausbau, kein Rechenzentrum.
+
+PDF-Verfügbarkeit und Linkprüfung
+2 alte Gemeindeverweise repariert. Bedburg: erreichbare amtliche Projektübersicht mit Meldung vom 05.03.2026 ersetzt die defekte Einzelmeldung; historische Originalfassung und Vorzustand erhalten. Brieselang: defekte Nachricht entfernt, erreichbarer Umweltbericht ausdrücklich als Entwurf 07.2023 bezeichnet. Er ist kein Rechtskraftbeleg; bisher pauschaler Status entsprechend qualifiziert, historische Gemeindemeldung und Vorfassung erhalten. Kein neuer Standort oder heutiger Rechtsstand daraus behauptet. Gesonderte Reparaturabrufe sind im Linkreparaturprotokoll enthalten und nicht in den genannten Recherchekennzahlen gezählt.
+194 erfasste Dokumentquellen geprüft: 194 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Datenbank verknüpfte lokale Kopien vorhanden; 6 neu erfasste Originalquellen zusätzlich lokal archiviert. Die Prüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1693 unterschiedliche öffentliche Links geprüft: 1663 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links wurden nicht als erfolgreich ausgegeben. Die 4 am 20.11.2026 veröffentlichten historischen Schliengener Originalkopien bleiben erhalten; keine neue Planfassung daraus abgeleitet.
+
+Fragen, Uploads, Partner und Statistikänderungen
+0 neue oder freigegebene Fragen, 0 verdächtige Fragen, 0 manuelle Uploads in Datenbank und Uploadordner; 0 verarbeitet. Kein Fragen-PDF erforderlich. 0 neue Partner aufgenommen und keine geschäftliche Kontaktaufnahme, Reservierung oder Antragstellung.
+Befunde 253 -> 257; Dokumentauswertungen 188 -> 194; Gewerbe-/Bebauungspläne 38 -> 39; Konnektivitätsprüfungen 8 -> 9; Originalzeichnungen 8 -> 9. Standorte 34, Unternehmen 24 und Medien 5 unverändert. Gemeindliche Tagesabdeckung 49 -> 50.
+
+Zugriffslücken und nächster Schritt
+Mehrere Ratszugänge, darunter Freiamt, bleiben eingeschränkt; Ursache nicht abschließend bekannt. Auswirkung: keine vollständige Beschluss-/Aktenprüfung. Hartheimer Anlagen vom 17.11.2026 sind jetzt gesichert; die bloße Vorlage beweist weiterhin keinen Beschluss. Aktuelle Parzelle und Planrechtsstand sowie objektkonkreter Strom-/Carrieranschluss bleiben offen. Nächster Schritt: zugängliche aktuelle Beschluss- und Planstände im Folgelauf prüfen, offene öffentliche Zugänge erneut versuchen. Keine Zugangsdaten oder Rechte erweitert.
+Nur Website-Daten, Prüfdateien und dieser Bericht zur Veröffentlichung ausgewählt. Laufzeitordner, Zugangsdaten, lokale Sicherungen und Roharchive bleiben lokal.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-22.txt
