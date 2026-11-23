@@ -1,0 +1,35 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 23.11.2026
+Auslöser 07:26:44 Uhr Europe/Berlin; Recherche nach 07:30 Uhr ausgeführt. Vorlauf vom 22.11.2026 abgeschlossen, heutiger Lauf zuvor nicht ausgeführt und kein passender laufender Rechercheprozess oder gemeinsame Sperre in den geprüften Laufverzeichnissen gefunden. Keine zusätzliche Zeitsteuerung eingerichtet.
+
+Ergebnis und neue Quellen
+50 offene Gemeinden teilweise erneut geprüft. Kein neuer gesicherter freier Rechenzentrumsstandort und keine neue zugesicherte Strombezugsleistung belegt. 0 neue kuratierte Befunde, 0 neue Standortdatensätze, 0 neue Dokumentauswertungen, 0 neue Partner, 0 Fotos, 0 Illustrationen und 0 technische Zeichnungen. Bestehende Befunde nicht als neue Ergebnisse wiederholt.
+Breite Nachrichtenprüfung über Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse- sowie Betreiber-/Stadtwerke-/Netzquellen. Aktuelle Suche und lokale Abrufe getrennt betrachtet. Golems Monatsübersicht lieferte im direkten Abruf eine Zustimmungsoberfläche; dies ist keine vollständige Artikelsichtung. Auch Suchtreffer allein gelten nicht als sachlicher Nachweis.
+Die amtliche Denzlinger Mitteilung vom 05.11.2026 und der YEXIO-Bericht vom 20.11.2026 betreffen bereits erfasste Vorgänge. Keine zusätzliche Anschlusszusage und keine bereits realisierte Abwärmenutzung daraus abgeleitet. Die Denzlinger Leitungsgenehmigung ist kein Nachweis freier Verbrauchsanschlussleistung.
+https://rpf.baden-wuerttemberg.de/service/presse/medienmitteilungen/artikel/regierungspraesidium-genehmigt-erneuerung-von-hochspannungsleitung-in-denzlingen-kreis-emmendingen/
+https://www.datacenterdynamics.com/en/news/hochtiefs-yexio-launches-edge-data-center-in-paderborn-germany/
+
+Lokal archivierte Quellen und PDF-Auswertung
+714 unterschiedliche Adressen versucht, 681 archiviert, 4 erstmals im lokalen Quellenarchiv verzeichnet. Erstmals archivierte Adressen bedeuten nicht automatisch neue Sachinhalte. 97 PDF-Dateifassungen mit unterschiedlichen Datei-Hashes, zusammen 1825 Dateiseiten; 0 erstmals archivierte PDF-Hashes. Unveränderte PDF-Textauszüge aus dem Vorlauf wiederverwendet und nicht als neue Gutachten gezählt. 13 Dateifassungen mit eingeschränktem Textauszug; keine vollständige Texterkennung behauptet. 0 neue kuratierte PDFs/Gutachten. Keine technischen Zeichnungen erzeugt oder Bilder ohne fachliche und visuelle Prüfung übernommen.
+
+Geprüfte Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim.
+Gemeinden mit neu gesichertem Rechenzentrumsflächenfund: 0. Gemeinden ohne neuen gesicherten Fund / weiterhin offen: alle 50. Nicht gefunden bedeutet nicht widerlegt. Alle bleiben systematisch offen; 50 Teilprüfungen sind keine 50 vollständigen Aktenprüfungen.
+Erreichbare Gemeinde-, Rats-, Planungs-/FNP-, Amtsblatt- und Wirtschaftsquellen mit den Begriffen Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Die lokale Prüfmatrix dokumentiert Quellen, Treffer und fehlende Kategorien. Prioritätsgemeinden um Freiburg/Denzlingen/Emmendingen erneut einbezogen. Vollständige Aktenstände, konkrete freie Parzellen, Baurecht und objektbezogene Anschlüsse bleiben gesondert zu klären.
+
+PDF-Verfügbarkeit und Linkprüfung
+194 erfasste Dokumentquellen geprüft: 194 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 68 unmittelbar in der Website-Datenbank verknüpfte lokale Kopien vorhanden. Die Erreichbarkeitsprüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1693 unterschiedliche öffentliche Links geprüft: 1656 erreichbar, 37 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links nicht als erfolgreich ausgegeben. Vorherige Quellenkorrekturen und historische Fassungen erhalten.
+
+Fragen, Uploads, Partner und Statistikänderungen
+0 neue oder freigegebene Fragen, 0 verdächtige Fragen. Datenbank und Ordner pdfs/manual-uploads/ geprüft: 0 neue manuelle Uploads, 0 verarbeitet. Kein Fragen-PDF erforderlich. Keine neuen Partnerdatensätze und keine Kontaktaufnahme, Reservierung oder Antragstellung.
+Kuratierter Datenbestand unverändert: 257 Befunde, 194 Dokumentauswertungen, 34 Standortdatensätze, 24 Unternehmen, 39 Bebauungs-/Gewerbepläne, 9 Konnektivitätsprüfungen, 5 Medien und 9 technische Originalzeichnungen. Die Standortzahl ist keine Zahl bestätigter freier Flächen. Gemeindliche Tagesabdeckung 50, weiterhin teilweise. Tagesdatum, Quellenarchiv, Prüfmatrix und Verfügbarkeits-/Linkprüfung fortgeschrieben.
+
+Offene Zugänge und nächster Schritt
+Mehrere Ratszugänge bleiben eingeschränkt, darunter Freiamt; genaue Ursache nicht abschließend bekannt. Auswirkung: keine vollständige Beschluss-/Aktenprüfung. Erreichbare Oberfläche und vollständige Dokumenteinsicht nicht gleichgesetzt. Nächster Schritt: öffentliche Akten-/Planungsstände und Zugänge im Folgelauf weiterprüfen; bei konkreten neuen Grundstücken Strom, Carrier, Nutzung, Schall, Kühlung und Wärmeabnahme getrennt bewerten. Keine zusätzlichen Rechte oder Anmeldedaten genutzt.
+Nur Website-Daten, Prüfdateien und dieser Tagesbericht zur Veröffentlichung ausgewählt. Keine Laufzeitordner, Zugangsdaten, lokalen Sicherungen oder Roharchive veröffentlicht.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-23.txt

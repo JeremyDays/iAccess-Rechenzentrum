@@ -1,7 +1,7 @@
 {
   "checked": 1693,
-  "ok": 1663,
-  "blocked": 30,
+  "ok": 1656,
+  "blocked": 37,
   "broken": 0,
   "results": [
     {
@@ -138,6 +138,78 @@
     },
     {
       "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
+      "index": 115,
+      "field": "sourceUrl",
+      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
+      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.starzach.de', port=443): Read timed out. (read timeout=25)"
+    },
+    {
+      "collection": "findings",
       "index": 117,
       "field": "sourceUrl",
       "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
@@ -147,6 +219,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='altheim-info.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 117,
+      "field": "sourceUrl",
+      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
+      "url": "https://www.strassberg.de/",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.strassberg.de', port=443): Read timed out. (read timeout=25)"
     },
     {
       "collection": "sites",
@@ -13998,18 +14082,6 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -15870,66 +15942,6 @@
     },
     {
       "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2019_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2020_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2021_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 115,
-      "field": "sourceUrl",
-      "title": "Tübingen-/Zollernalb-Block: 19 Gemeinden geprüft, Jungingen technisch offen",
-      "url": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "status": 200,
-      "finalUrl": "https://www.starzach.de/images/ortsrecht/__ffentliche_Bekanntmachtung_Feststellung_des_Jahresabschlusses_2022_des_Abwasserzweckverbandes_B__rstingen.pdf",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 19,
       "field": "source",
       "title": "Ulm: SWU-Rechenzentrum im Science Park",
@@ -16992,18 +17004,6 @@
       "url": "https://www.stadt-schoemberg.de/startseite/",
       "status": 200,
       "finalUrl": "https://www.stadt-schoemberg.de/startseite/",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 117,
-      "field": "sourceUrl",
-      "title": "Zollernalb-/Alb-Donau-Block: 20 Gemeinden geprüft, 0 technisch offen",
-      "url": "https://www.strassberg.de/",
-      "status": 200,
-      "finalUrl": "https://www.strassberg.de/",
       "ok": true,
       "blocked": false,
       "error": ""

@@ -10884,7 +10884,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-22",
+    "lastRun": "2026-11-23",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10912,8 +10912,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-22",
-    "lastResearchSummary": "50 kommunale Teilprüfungen; 4 Befunde, 6 Dokumentauswertungen, 1 Gewerbeplan, 1 Konnektivitätsprüfung und 1 Originalzeichnung ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-23",
+    "lastResearchSummary": "50 kommunale Teilprüfungen fortgeführt; keine neue gesicherte freie Rechenzentrumsfläche aus den heute ausgewerteten Quellen.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."
