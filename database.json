@@ -2058,17 +2058,38 @@
     {
       "id": "id-2026-11-12-breisach-hochstetten",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-24",
       "municipality": "Breisach am Rhein",
       "state": "Baden-Württemberg",
       "planName": "Solarpark Hochstetten Deponie",
-      "status": "Bebauungsplan Offenlage Stand 22.09.2026, verlängerte Frist bis 23.11.2026; FNP-Änderung mit eigener angekündigter Frist 16.11.–15.12.2026",
+      "status": "FNP-Änderung: erneute Offenlage angekündigt 30.11.2026–18.01.2027; vorherige FNP-Frist ersetzt. Getrennte B-Plan-Frist bislang bis 23.11.2026, keine neue Verlängerung dafür belegt.",
       "dataCenter": "Keine freie Rechenzentrumsfläche oder spezifische Rechenzentrumszulassung belegt. Nutzungszweck Solarpark und zugehöriger Speicher.",
       "documents": "https://www.breisach.de/dokumente/offenlage/02-bebauungsplan-planzeichnung.pdf",
       "source": "Stadt Breisach am Rhein, öffentliche Planungsunterlagen",
       "sourceUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
-      "additionalSourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
-      "notes": "Entwurfsstände und getrennte Verfahren. Keine gesicherte Strombezugsleistung, freie Parzelle oder allgemeine gewerbliche Umnutzung aus Leitungsnähe oder Gutachten ableiten."
+      "additionalSourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-23-erneute-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+      "notes": "Neue amtliche FNP-Bekanntmachung datiert und signiert 18.11.2026, Dateiname mit 23.11.2026, abgerufen 24.11.2026. Wiederholung wegen laut Bekanntmachung nicht ordnungsgemäßer vorheriger Veröffentlichung. Bereits abgegebene Stellungnahmen bleiben laut Bekanntmachung Teil des Verfahrens. Neue Frist gilt für FNP, nicht automatisch für Bebauungsplan. Zweck weiterhin Solarpark mit Batteriespeichern; keine freie Rechenzentrumsfläche, gesicherte Verbrauchsanschlussleistung oder allgemeine Gewerbenutzung belegt.",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Neue amtliche FNP-Bekanntmachung ersetzt den zuvor erfassten FNP-Veröffentlichungszeitraum; getrenntes B-Plan-Verfahren nicht gleichgesetzt.",
+          "previousRecord": {
+            "id": "id-2026-11-12-breisach-hochstetten",
+            "created": "2026-11-12",
+            "updated": "2026-11-12",
+            "municipality": "Breisach am Rhein",
+            "state": "Baden-Württemberg",
+            "planName": "Solarpark Hochstetten Deponie",
+            "status": "Bebauungsplan Offenlage Stand 22.09.2026, verlängerte Frist bis 23.11.2026; FNP-Änderung mit eigener angekündigter Frist 16.11.–15.12.2026",
+            "dataCenter": "Keine freie Rechenzentrumsfläche oder spezifische Rechenzentrumszulassung belegt. Nutzungszweck Solarpark und zugehöriger Speicher.",
+            "documents": "https://www.breisach.de/dokumente/offenlage/02-bebauungsplan-planzeichnung.pdf",
+            "source": "Stadt Breisach am Rhein, öffentliche Planungsunterlagen",
+            "sourceUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
+            "additionalSourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+            "notes": "Entwurfsstände und getrennte Verfahren. Keine gesicherte Strombezugsleistung, freie Parzelle oder allgemeine gewerbliche Umnutzung aus Leitungsnähe oder Gutachten ableiten."
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-hartheim-kirchweg",
@@ -4574,18 +4595,40 @@
     {
       "id": "id-2026-11-12-pdf-03",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-24",
       "municipality": "Breisach am Rhein",
-      "documentTitle": "Breisach: Bekanntmachung 26. FNP-Änderung Solarpark Hochstetten Deponie vom 03.11.2026",
+      "documentTitle": "Historisch: Breisach FNP-Bekanntmachung vom 03.11.2026 – ersetzter Veröffentlichungszeitraum",
       "documentType": "FNP-Bekanntmachung",
       "pages": "4",
-      "keyFacts": "Angekündigte Offenlage 16.11.–15.12.2026; ungefähr 7,3 ha Änderungsbereich.",
+      "keyFacts": "Historischer angekündigter Zeitraum 16.11.–15.12.2026; durch erneute Bekanntmachung mit Frist 30.11.2026–18.01.2027 ersetzt. Unveränderte Originalkopie, kein aktueller Fristnachweis.",
       "technicalFacts": "Solarpark und zugehöriger Speicher, keine freie Rechenzentrumsfläche.",
-      "planningFacts": "Eigene FNP-Frist von der Bebauungsplanfrist bis 23.11.2026 unterscheiden; kein heutiger Satzungsvollzug.",
-      "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
-      "localFile": "",
+      "planningFacts": "Alte amtliche Bekanntmachung als unveränderte Originalfassung erhalten. Neue FNP-Frist gilt getrennt vom B-Plan-Verfahren. Kein Nachweis freier Rechenzentrumsfläche.",
+      "sourceUrl": "https://jeremydays.github.io/iAccess-Rechenzentrum/pdfs/breisach-26-fnp-bekanntmachung-2026-11-03-archiv.pdf",
+      "localFile": "pdfs/breisach-26-fnp-bekanntmachung-2026-11-03-archiv.pdf",
       "localArchiveFile": "assets/source-archive/www.breisach.de/feaa6137853da2bd.pdf",
-      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+      "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Originaladresse 404; unmodifizierte, per Datei-Hash geprüfte amtliche Archivfassung veröffentlicht und ausdrücklich als historisch bezeichnet.",
+          "previousRecord": {
+            "id": "id-2026-11-12-pdf-03",
+            "created": "2026-11-12",
+            "updated": "2026-11-12",
+            "municipality": "Breisach am Rhein",
+            "documentTitle": "Breisach: Bekanntmachung 26. FNP-Änderung Solarpark Hochstetten Deponie vom 03.11.2026",
+            "documentType": "FNP-Bekanntmachung",
+            "pages": "4",
+            "keyFacts": "Angekündigte Offenlage 16.11.–15.12.2026; ungefähr 7,3 ha Änderungsbereich.",
+            "technicalFacts": "Solarpark und zugehöriger Speicher, keine freie Rechenzentrumsfläche.",
+            "planningFacts": "Eigene FNP-Frist von der Bebauungsplanfrist bis 23.11.2026 unterscheiden; kein heutiger Satzungsvollzug.",
+            "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.breisach.de/feaa6137853da2bd.pdf",
+            "tags": "Original lokal gesichert; Stand und Verbindlichkeit getrennt"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-12-pdf-04",
@@ -5113,7 +5156,31 @@
       "sourceUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.gewerbepark-breisgau.de/ef7f0d6b6720397d.pdf",
-      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis",
+      "documentTitle": "Objekt 2036 – Büroangebot Hartheimer Straße 15",
+      "documentType": "Originaldokument / Quellenprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-21-pdf-01",
+            "created": "2026-11-21",
+            "updated": "2026-11-21",
+            "municipality": "Eschbach",
+            "title": "Objekt 2036 – Büroangebot Hartheimer Straße 15",
+            "type": "Originaldokument / Quellenprüfung",
+            "pages": "7",
+            "keyFacts": "91 m² Gesamtfläche, davon 71 m² Bürofläche; Bezug ab 01.01.2027 laut Exposé.",
+            "technicalFacts": "Büro mit nachgerüsteter Klimaanlage; keine technische Rechenzentrumseignung belegt.",
+            "planningFacts": "Keine bestätigte freie Rechenzentrumsfläche oder zugesicherte Bezugsleistung.",
+            "sourceUrl": "https://www.gewerbepark-breisgau.de/?jet_download=da0ff1ec7ad1df3eba59237dd112d1bdac62388b",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.gewerbepark-breisgau.de/ef7f0d6b6720397d.pdf",
+            "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-21-pdf-02",
@@ -5129,7 +5196,31 @@
       "sourceUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.hochtief.de/27c5fe497543b4bc.pdf",
-      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis",
+      "documentTitle": "HOCHTIEF YEXIO – Betriebsaufnahme 06.11.2026",
+      "documentType": "Originaldokument / Quellenprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-21-pdf-02",
+            "created": "2026-11-21",
+            "updated": "2026-11-21",
+            "municipality": "Bad Lippspringe",
+            "title": "HOCHTIEF YEXIO – Betriebsaufnahme 06.11.2026",
+            "type": "Originaldokument / Quellenprüfung",
+            "pages": "2",
+            "keyFacts": "Entwickler meldet Betriebsaufnahme und zunächst 2 MW; elektrische Bezugsgröße und freie Kapazität nicht präzisiert.",
+            "technicalFacts": "Abwärmeeinspeisung in geplantes Wärmenetz erst künftig vorgesehen.",
+            "planningFacts": "Keine bestätigte freie Rechenzentrumsfläche oder zugesicherte Bezugsleistung.",
+            "sourceUrl": "https://www.hochtief.de/fileadmin/aktuelles_medien/press-releases/20260611_Pressemitteilung_HOCHTIEF_YEXIO-Rechenzentrum_in_Bad_Lippspringe_nimmt_Betrieb_auf.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.hochtief.de/27c5fe497543b4bc.pdf",
+            "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-21-pdf-03",
@@ -5145,7 +5236,31 @@
       "sourceUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.oberried.de/46bb063e931252a4.pdf",
-      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+      "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis",
+      "documentTitle": "Sitzungsmappe 01.12.2026 – Rathausserver, Vorlage 69/2026",
+      "documentType": "Originaldokument / Quellenprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-21-pdf-03",
+            "created": "2026-11-21",
+            "updated": "2026-11-21",
+            "municipality": "Oberried",
+            "title": "Sitzungsmappe 01.12.2026 – Rathausserver, Vorlage 69/2026",
+            "type": "Originaldokument / Quellenprüfung",
+            "pages": "20",
+            "keyFacts": "20 Seiten; Servervorlage auf Dateiseiten 18–19; Antrag vor der Sitzung, kein Beschlussnachweis.",
+            "technicalFacts": "Rund 61.000 EUR laut Vorlage inklusive Installation und Lizenzen; steuerliche Bezugsbasis offen. Kein Flächenangebot.",
+            "planningFacts": "Keine bestätigte freie Rechenzentrumsfläche oder zugesicherte Bezugsleistung.",
+            "sourceUrl": "https://www.oberried.de/de/gemeinderat/?download=608",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.oberried.de/46bb063e931252a4.pdf",
+            "tags": "Originalquelle, Prüfgrenzen, kein Standortnachweis"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-01",
@@ -5161,7 +5276,31 @@
       "sourceUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.emmendingen.de/b34f7c0c6bd7040a.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "Bebauungsplan Am obern Kirchweg links – Begründung",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-01",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "Bebauungsplan Am obern Kirchweg links – Begründung",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "33",
+            "keyFacts": "14 Seiten, Vorentwurf zur frühzeitigen Beteiligung, 23.06.2026.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://www.emmendingen.de/fileadmin/Dateien/Dateien/Bauen/Fl%C3%A4chennutzungsplan/Im_Verfahren/Hochburg_Bildung_und_Dom%C3%A4ne/3_-_FNP-%C3%84nderung__Begr%C3%BCndung_mit_integriertem_Umweltbericht.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.emmendingen.de/b34f7c0c6bd7040a.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-02",
@@ -5177,7 +5316,31 @@
       "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.hartheim.de/ee2c5994221342d2.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "Am obern Kirchweg links – Umweltbericht mit Anlagen",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-02",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "Am obern Kirchweg links – Umweltbericht mit Anlagen",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "37",
+            "keyFacts": "37 Dateiseiten; Stand 26.06.2026. Rund 46.777 m² Gesamtgebiet; keine freie Grundstücksfläche belegt.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E1063483260_Dattachment/3488240/5_26-06-23%20BPL%20Am%20untern%20Kirchweg%20links%20Umweltbericht%20mit%20Anlagen%20Fr%C3%BChzeitige.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.hartheim.de/ee2c5994221342d2.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-03",
@@ -5193,7 +5356,31 @@
       "sourceUrl": "https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/stiegeler.com/72ee2d6c4399070b.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "Stiegeler Unser Netz 01/2025 – Glasfasernetz Hartheim",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-03",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "Stiegeler Unser Netz 01/2025 – Glasfasernetz Hartheim",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "16",
+            "keyFacts": "16 Seiten; Anbieterbericht über Fertigstellung im Mai 2025 auf Seite 9. Kein objektbezogener Redundanznachweis.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/stiegeler.com/72ee2d6c4399070b.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-04",
@@ -5209,7 +5396,31 @@
       "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.hartheim.de/a917c66db1be99fc.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "Kommunale Wärmeplanung Hartheim – Fachgutachten 2024",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-04",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "Kommunale Wärmeplanung Hartheim – Fachgutachten 2024",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "130",
+            "keyFacts": "130 Dateiseiten; Deckblatt 09.2024, Inhaltsfußzeilen 08.2024. Historischer Potenzialstand; keine aktuelle Wärmeabnahmezusage.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://www.hartheim.de/pb/site/Hartheim/get/params_E977541453_Dattachment/3312161/Fachgutachten_KWP_Hartheim%20finale%20Version.pdf",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/www.hartheim.de/a917c66db1be99fc.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-05",
@@ -5225,7 +5436,31 @@
       "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/606fb6f8e2d84f0e.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "GR-2026/82 – Gestattung Wärme-Transportleitungen",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-05",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "GR-2026/82 – Gestattung Wärme-Transportleitungen",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "1",
+            "keyFacts": "1 Seite, Vorlage für 17.11.2026; Beschlussvorschlag, kein Ausführungsnachweis.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970274",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/606fb6f8e2d84f0e.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-22-pdf-06",
@@ -5241,7 +5476,67 @@
       "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287",
       "localFile": "",
       "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/90ba4e95e9a1b6b7.pdf",
-      "tags": "Hartheim, Original, Prüfgrenzen"
+      "tags": "Hartheim, Original, Prüfgrenzen",
+      "documentTitle": "Gestattungsvertrag Wärmeleitungen – nicht unterschriebener Entwurf",
+      "documentType": "Originalquelle / Planungs- und Infrastrukturprüfung",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Vorhandenen Dokumenttitel und Dokumenttyp den von der Website verwendeten Feldern zugeordnet; sachlicher Inhalt unverändert.",
+          "previousRecord": {
+            "id": "id-2026-11-22-pdf-06",
+            "created": "2026-11-22",
+            "updated": "2026-11-22",
+            "municipality": "Hartheim am Rhein",
+            "title": "Gestattungsvertrag Wärmeleitungen – nicht unterschriebener Entwurf",
+            "type": "Originalquelle / Planungs- und Infrastrukturprüfung",
+            "pages": "6",
+            "keyFacts": "6 Seiten; Datums- und Unterschriftsfelder nicht ausgefüllt. Keine abgeschlossene Vereinbarung behauptet.",
+            "technicalFacts": "Objektkonkrete Rechenzentrumseignung und Anschlussbedingungen offen.",
+            "planningFacts": "Plan, Entwurf, Beschluss und nachgewiesene Ausführung getrennt behandelt.",
+            "sourceUrl": "https://hartheim.ris-portal.de:443/sitzungen?p_p_id=RisSitzung&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&_RisSitzung_sitzungId=208321&_RisSitzung_resource=singleDocument&_RisSitzung_schriftgutId=2970287",
+            "localFile": "",
+            "localArchiveFile": "assets/source-archive/hartheim.ris-portal.de-443/90ba4e95e9a1b6b7.pdf",
+            "tags": "Hartheim, Original, Prüfgrenzen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "id-2026-11-24-pdf-01",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "municipality": "Breisach am Rhein",
+      "title": "26. FNP-Änderung Solarpark Hochstetten Deponie – erneute Veröffentlichung",
+      "type": "Amtliche Originalquelle / Planungsprüfung",
+      "pages": "4",
+      "keyFacts": "4 Seiten. Dokument 18.11.2026, Dateiname 23.11.2026. Erneute Frist 30.11.2026–18.01.2027; getrennt vom Bebauungsplan.",
+      "technicalFacts": "Keine gesicherte Verbrauchsanschlussleistung oder Rechenzentrumseignung belegt.",
+      "planningFacts": "Historische und neue Plan-/Verfahrensstände getrennt; kein aktueller Grundstücksverfügbarkeitsnachweis.",
+      "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-23-erneute-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.breisach.de/19f67ec67ed4d1e6.pdf",
+      "tags": "Originalquelle, FNP, Prüfgrenzen",
+      "documentTitle": "26. FNP-Änderung Solarpark Hochstetten Deponie – erneute Veröffentlichung",
+      "documentType": "Amtliche Originalquelle / Planungsprüfung"
+    },
+    {
+      "id": "id-2026-11-24-pdf-02",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "municipality": "Staufen im Breisgau",
+      "title": "FNP Staufen–Münstertal – Begründung, Feststellungsbeschluss 27.03.2025",
+      "type": "Amtliche Originalquelle / Planungsprüfung",
+      "pages": "118",
+      "keyFacts": "118 Dateiseiten. Gewerbeflächenabgrenzung auf Dateiseite 97 / gedruckt 95 visuell geprüft. 1,47 ha Entwicklung in Grunern; keine heutige freie Rechenzentrumsparzelle bestätigt.",
+      "technicalFacts": "Keine gesicherte Verbrauchsanschlussleistung oder Rechenzentrumseignung belegt.",
+      "planningFacts": "Historische und neue Plan-/Verfahrensstände getrennt; kein aktueller Grundstücksverfügbarkeitsnachweis.",
+      "sourceUrl": "https://www.staufen.de/site/Staufen-2020/get/params_E-1716019691_Dattachment/1547357/4_Begr%C3%BCndung_Fortschreibung%20Fl%C3%A4chennutzungsplan_GVV_Staufen_M%C3%BCnstertal.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.staufen.de/1ed60d2054aaba52.pdf",
+      "tags": "Originalquelle, FNP, Prüfgrenzen",
+      "documentTitle": "FNP Staufen–Münstertal – Begründung, Feststellungsbeschluss 27.03.2025",
+      "documentType": "Amtliche Originalquelle / Planungsprüfung"
     }
   ],
   "media": [
@@ -10128,15 +10423,34 @@
     {
       "id": "id-2026-11-12-breisach-hochstetten",
       "created": "2026-11-12",
-      "updated": "2026-11-12",
+      "updated": "2026-11-24",
       "title": "Breisach Hochstetten Deponie: Solarpark und Speicherplanung, keine freie Rechenzentrumsfläche",
       "topic": "Kommunale Energieplanung / Flächenabgrenzung",
-      "summary": "Neue Bekanntmachung zur 26. punktuellen FNP-Änderung: Offenlage angekündigt vom 16.11. bis 15.12.2026; Änderungsbereich ungefähr 7,3 ha. Die parallel verlinkte Bebauungsplan-Offenlage läuft laut Gemeindeseite vom 19.10. bis verlängert 23.11.2026. Bauvorschriften Stand 22.09.2026 betreffen SO1 Modulfläche, SO2 Wartung und SO3 Batteriespeicher. Kein Nachweis einer allgemeinen Gewerbe- oder Rechenzentrumsnutzung.",
-      "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+      "summary": "Die neue amtliche Bekanntmachung zur 26. punktuellen FNP-Änderung legt als erneute Veröffentlichung den Zeitraum 30.11.2026 bis einschließlich 18.01.2027 fest. Begründung laut Quelle: vorherige Bekanntmachung nicht ordnungsgemäß erfolgt. Bereits eingereichte Stellungnahmen bleiben Teil des Verfahrens und müssen laut Bekanntmachung nicht nochmals eingereicht werden. Dokument datiert/signiert 18.11.2026, Dateiname mit 23.11.2026. Die alte FNP-Frist 16.11.–15.12.2026 wird damit im Datensatz historisiert. Nicht auf die getrennte B-Plan-Frist bis 23.11.2026 übertragen. Planung bleibt Solarpark und Batteriespeicher, keine freie Rechenzentrumsfläche.",
+      "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-23-erneute-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
       "additionalSourceUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
       "confidence": "Amtliche Bekanntmachung 4 Seiten und 12 verlinkte Originalunterlagen vollständig textlich ausgelesen; Bauvorschriften Seite 1, Planzeichnung und ausgewählte Gutachtentitel visuell geprüft",
-      "action": "Eigene Bewertung: Energieplanung als Kontext dokumentieren. Nähe zu 380-kV-Leitungen nicht als Anschlussmöglichkeit ausgeben. Das Brandschutzkonzept ist ausdrücklich ein Entwurf zur Bauleitplanung mit offenen Angaben, kein abschließender prüffähiger Nachweis. Rekultivierungsgutachten nicht als Tragfähigkeitsnachweis für Rechenzentrumsgebäude verwenden. FNP- und Bebauungsplanfristen getrennt halten.",
-      "tags": "Solarpark, Batteriespeicher, Planentwurf, keine Rechenzentrumsfläche"
+      "action": "Eigene Bewertung: Verfahrensstand getrennt fortschreiben; kein Rechenzentrumsstandort, keine Einspruchseinreichung oder individuelle Rechtsberatung. Originalfrist und Vorfassung erhalten.",
+      "tags": "Solarpark, Batteriespeicher, Planentwurf, keine Rechenzentrumsfläche",
+      "revisionHistory": [
+        {
+          "date": "2026-11-24",
+          "reason": "Neue amtliche FNP-Bekanntmachung ersetzt den zuvor erfassten FNP-Veröffentlichungszeitraum; getrenntes B-Plan-Verfahren nicht gleichgesetzt.",
+          "previousRecord": {
+            "id": "id-2026-11-12-breisach-hochstetten",
+            "created": "2026-11-12",
+            "updated": "2026-11-12",
+            "title": "Breisach Hochstetten Deponie: Solarpark und Speicherplanung, keine freie Rechenzentrumsfläche",
+            "topic": "Kommunale Energieplanung / Flächenabgrenzung",
+            "summary": "Neue Bekanntmachung zur 26. punktuellen FNP-Änderung: Offenlage angekündigt vom 16.11. bis 15.12.2026; Änderungsbereich ungefähr 7,3 ha. Die parallel verlinkte Bebauungsplan-Offenlage läuft laut Gemeindeseite vom 19.10. bis verlängert 23.11.2026. Bauvorschriften Stand 22.09.2026 betreffen SO1 Modulfläche, SO2 Wartung und SO3 Batteriespeicher. Kein Nachweis einer allgemeinen Gewerbe- oder Rechenzentrumsnutzung.",
+            "sourceUrl": "https://www.breisach.de/dokumente/bekanntmachungen/2026-11-11-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf",
+            "additionalSourceUrl": "https://www.breisach.de/dokumente/offenlage/03-bebauungsvorschriften.pdf",
+            "confidence": "Amtliche Bekanntmachung 4 Seiten und 12 verlinkte Originalunterlagen vollständig textlich ausgelesen; Bauvorschriften Seite 1, Planzeichnung und ausgewählte Gutachtentitel visuell geprüft",
+            "action": "Eigene Bewertung: Energieplanung als Kontext dokumentieren. Nähe zu 380-kV-Leitungen nicht als Anschlussmöglichkeit ausgeben. Das Brandschutzkonzept ist ausdrücklich ein Entwurf zur Bauleitplanung mit offenen Angaben, kein abschließender prüffähiger Nachweis. Rekultivierungsgutachten nicht als Tragfähigkeitsnachweis für Rechenzentrumsgebäude verwenden. FNP- und Bebauungsplanfristen getrennt halten.",
+            "tags": "Solarpark, Batteriespeicher, Planentwurf, keine Rechenzentrumsfläche"
+          }
+        }
+      ]
     },
     {
       "id": "id-2026-11-13-kuenz-container",
@@ -10385,6 +10699,18 @@
       "confidence": "Direkt gelesene Originalquellen; Entwurfs- und Altersgrenzen benannt",
       "action": "Eigene Bewertung: Infrastrukturplanung beobachten, nicht als gesicherte Wärmesenke oder Grundstücksverfügbarkeit zählen. Trassen- und Gestattungsstand getrennt von technischen und vertraglichen Einspeisemöglichkeiten prüfen.",
       "tags": "Hartheim, Originalquelle, Teilprüfung, keine Anschlusszusage"
+    },
+    {
+      "id": "id-2026-11-24-staufen-flaechenabgrenzung",
+      "created": "2026-11-24",
+      "updated": "2026-11-24",
+      "title": "Staufen Gaisgraben: bestehendes Gewerbegebiet, keine öffentlich konkretisierte freie Fläche",
+      "topic": "Kommunale Standortsuche / Flächen- und Infrastrukturabgrenzung",
+      "summary": "Die Stadt beschreibt Gaisgraben mit rund 18 ha als bestehendes gemischtes Gewerbegebiet; keine 18 ha freies Angebot. Die Grundstücksseite Gaisgraben III enthält beim Abruf lediglich Hier entsteht eine neue Seite. Die FNP-Begründung Stand Feststellungsbeschluss 27.03.2025 nennt auf Dateiseite 97 (gedruckt 95) 1,47 ha Gewerbeflächenentwicklung im Ortsteil Grunern und keine Erweiterungsmöglichkeiten im Kernort über Gaisgraben III hinaus. Dies ist ein Planungsstand von 2025, kein Nachweis heutiger Parzellenverfügbarkeit. Die städtische Breitbandseite unterscheidet Kupferstrecken ab Glasfaser-Verteilpunkten von Gebäudeglasfaser und nennt für Gaisgraben mehrere Straßen mit Gebäudeglasfaser; keine objektkonkreten unabhängigen Carrierwege oder Strombezugsleistung belegt.",
+      "sourceUrl": "https://www.staufen.de/wirtschaft/gewerbegebiet; https://www.staufen.de/wirtschaft/gewerbegebiet/gewerbegrundstuecke+gaisgraben+iii; https://www.staufen.de/site/Staufen-2020/get/params_E-1716019691_Dattachment/1547357/4_Begr%C3%BCndung_Fortschreibung%20Fl%C3%A4chennutzungsplan_GVV_Staufen_M%C3%BCnstertal.pdf; https://www.staufen.de/301478",
+      "confidence": "Amtliche Originalseiten und FNP-Begründung direkt gelesen; ausgewählte Originalseite visuell geprüft",
+      "action": "Eigene Bewertung: Bestandsfläche, planungsrechtliche Entwicklungsfläche und verfügbare Parzelle getrennt halten. Grunerner Entwicklungsfläche bleibt Planungsansatz; Verfügbarkeit, genauer Lage-/B-Plan-Stand, Verbrauchsanschluss, Redundanz, Baugrund, Lärm und Kühlung offen. Keine Kontaktaufnahme.",
+      "tags": "Staufen, Gaisgraben, Grunern, FNP 2025, Verfügbarkeit offen"
     }
   ],
   "gridChecks": [
@@ -10884,7 +11210,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-23",
+    "lastRun": "2026-11-24",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -10912,8 +11238,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-23",
-    "lastResearchSummary": "50 kommunale Teilprüfungen fortgeführt; keine neue gesicherte freie Rechenzentrumsfläche aus den heute ausgewerteten Quellen.",
+    "lastResearchRun": "2026-11-24",
+    "lastResearchSummary": "51 kommunale Teilprüfungen; 1 Befund und 2 Dokumentauswertungen ergänzt, 2 bestehende Breisacher Datensätze mit erhaltener Vorfassung aktualisiert. Keine neue gesicherte freie Rechenzentrumsfläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

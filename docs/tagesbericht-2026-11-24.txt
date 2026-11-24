@@ -1,0 +1,55 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 24.11.2026
+Auslöser 07:31:08 Uhr Europe/Berlin. Vorlauf vom 23.11.2026 abgeschlossen; heutiger Lauf zuvor nicht ausgeführt, keine gemeinsame Sperre in den geprüften Laufverzeichnissen gefunden. 1 fälligen Lauf ausgeführt; keine zusätzliche Zeitsteuerung eingerichtet.
+
+Ergebnis und Statistikänderungen
+51 offene Gemeinden teilweise geprüft. 1 neuer Befund zur Staufener Flächenabgrenzung, 2 neue Dokumentauswertungen; 2 Breisacher Verfahrensdatensätze mit vollständiger Vorfassung aktualisiert; 1 historischer Dokumentverweis repariert. 0 neue gesicherte freie Rechenzentrumsflächen, 0 neue Standortdatensätze und 0 neue Partner. Keine Kontaktaufnahme oder Antragstellung.
+Befunde 257 -> 258; Dokumentauswertungen 194 -> 196; gemeindliche Tagesabdeckung 50 -> 51. Darstellung von 9 bereits vorhandenen Dokumenttiteln korrigiert; sachliche Inhalte und Dokumentzahlen dadurch unverändert.
+Standortdatensätze 34, Unternehmen 24, Bebauungs-/Gewerbepläne 39, Konnektivitätsprüfungen 9, Medien 5 und technische Originalzeichnungen 9 unverändert. Die Standortzahl ist keine Zahl bestätigter freier Flächen.
+
+Breisach: neue FNP-Veröffentlichungsfrist
+Belegt: Die neu abgerufene amtliche Bekanntmachung zur 26. punktuellen Flächennutzungsplanänderung Solarpark Hochstetten Deponie nennt als erneuten Veröffentlichungszeitraum 30.11.2026 bis einschließlich 18.01.2027. Die vorherige Bekanntmachung sei nicht ordnungsgemäß erfolgt. Bereits eingereichte Stellungnahmen bleiben laut Quelle Teil des Verfahrens und müssen nicht erneut eingereicht werden; weitere Stellungnahmen sind innerhalb des geänderten Zeitraums möglich.
+Dokument datiert und signiert 18.11.2026; der Dateiname enthält 23.11.2026, Abruf am 24.11.2026. Dateiseite 2 mit neuer Frist visuell geprüft. Der zuvor gespeicherte FNP-Zeitraum 16.11.–15.12.2026 bleibt in der Vorfassung erhalten. Die neue FNP-Frist wird nicht auf das getrennte Bebauungsplanverfahren übertragen. Dessen bisher dokumentierte Frist reichte bis 23.11.2026; eine weitere Verlängerung dieses getrennten Verfahrens wurde heute nicht belegt.
+Zweck der rund 7,3 ha großen Fläche bleibt Solarpark mit Batteriespeichern. Kein Nachweis einer freien Rechenzentrumsfläche, allgemeiner Gewerbenutzung oder zugesicherter Verbrauchsanschlussleistung. Eigene Bewertung: Verfahrensstände getrennt fortschreiben; keine individuelle Rechtsberatung oder Einreichung von Stellungnahmen.
+https://www.breisach.de/dokumente/bekanntmachungen/2026-11-23-erneute-offenlage-26-fnp-aenderung-solarpark-hochstetten-deponie.pdf
+
+Staufen: Gewerbegebiet, Entwicklungsfläche und verfügbares Grundstück trennen
+Belegt: Die Stadt beschreibt Gaisgraben mit rund 18 ha als bestehendes gemischtes Gewerbegebiet. Das ist kein Angebot von 18 ha freien Flächen. Die Seite Gewerbegrundstücke Gaisgraben III enthält beim heutigen Abruf nur den Platzhalter Hier entsteht eine neue Seite.
+Die amtliche FNP-Begründung mit Stand Feststellungsbeschluss 27.03.2025 nennt auf Dateiseite 97, gedruckt 95, 1,47 ha Gewerbeflächenentwicklung im Ortsteil Grunern. Für den Kernort beschreibt sie keine Erweiterungsmöglichkeiten über Gaisgraben III hinaus. Diese Originalseite wurde visuell geprüft. Angaben aus dem Planungsstand 2025 sind kein heutiger Parzellen-, Eigentums- oder Vermarktungsnachweis. Handgeschriebene Verfahrensdaten nicht aus unsicherem Textauszug ergänzt.
+Die städtische Breitbandseite unterscheidet Glasfaser bis zum Verteilpunkt mit anschließender Kupferleitung von Gebäudeglasfaser. Für Gaisgraben nennt sie unter anderem Gewerbestraße, Großmattenstraße, Im Gaisgraben, Innere Neumatten und Janke-und-Kunkel-Straße mit Gebäudeglasfaser. Daraus keine objektbezogene Bandbreite, garantierte Entstörung, 2 unabhängigen Carrierwege oder zugesicherte Strombezugsleistung abgeleitet.
+Eigene Bewertung: Staufen weiter als Suchgebiet führen, Grunerner Entwicklungsfläche als historischen Planungsansatz behandeln. Heute freie Parzelle, genauer Rechtsstand, Eigentümerzustimmung, Strom, Carrier, Baugrund, Schall, Kühlung und Wärmeabnahme bleiben offen.
+https://www.staufen.de/wirtschaft/gewerbegebiet
+https://www.staufen.de/wirtschaft/gewerbegebiet/gewerbegrundstuecke+gaisgraben+iii
+https://www.staufen.de/301478
+https://www.staufen.de/site/Staufen-2020/get/params_E-1716019691_Dattachment/1547357/4_Begr%C3%BCndung_Fortschreibung%20Fl%C3%A4chennutzungsplan_GVV_Staufen_M%C3%BCnstertal.pdf
+
+Nachrichten
+Breite Recherche über Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse sowie Betreiber-/Stadtwerke-/Netzquellen. Volltext, erreichbare Oberfläche und Suchtreffer unterschieden. Wiederholte Meldungen über bestehende Projekte und Anlagen nicht als neue unabhängige Standortnachweise gezählt. Aus dem Nachrichtenlauf heute keine zusätzliche gesicherte freie Rechenzentrumsfläche übernommen.
+
+Geprüfte Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim, Staufen.
+Gemeinden mit neu gesichertem Rechenzentrumsflächenfund: 0. Ohne neuen gesicherten Fund / weiter offen: alle 51. Nicht gefunden bedeutet nicht widerlegt. Alle bleiben systematisch offen; 51 Teilprüfungen sind keine 51 vollständigen Aktenprüfungen.
+Erreichbare Gemeinde-, Rats-, Planungs-/FNP-, Amtsblatt- und Wirtschaftsquellen mit Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Quellen, Treffer, fehlende Kategorien und Inhaltsgrenzen stehen in der lokalen Prüfmatrix. Prioritätsgemeinden um Freiburg/Denzlingen/Emmendingen erneut einbezogen.
+
+Neue Quellen, lokale Sicherung und PDF-Gutachten
+741 unterschiedliche Adressen versucht, 708 archiviert, 29 erstmals im lokalen Archiv verzeichnet. 113 PDF-Dateifassungen mit unterschiedlichen Datei-Hashes, zusammen 2950 Dateiseiten; 17 erstmals archivierte PDF-Hashes. Neue Adressen oder Datei-Hashes bedeuten nicht automatisch neue sachliche Inhalte.
+2 neue kuratierte Dokumentauswertungen: Breisacher neue Bekanntmachung 4 Seiten; Staufen–Münstertal FNP-Begründung 118 Dateiseiten. Originale lokal mit scripts/archive-sources.py gesichert. Andere neu gesicherte Staufener Planunterlagen bleiben zusätzliche Archivquellen und werden nicht als vollständig geprüfte neue Gutachten gezählt.
+Die unter Textteil Bebauungsplan Gaisgraben III angebotene Sammlung umfasst 339 Dateiseiten; 111 Seiten enthalten weniger als 40 auslesbare Zeichen. Keine vollständige Texterkennung oder Gesamtprüfung aller darin enthaltenen Plan-/Gutachtenstände behauptet. Das Staufener Rathausblatt KW 47/2026 umfasst 20 Seiten ohne verwertbaren Textauszug; keine vollständige inhaltliche Auswertung behauptet. Insgesamt 21 PDF-Dateifassungen mit eingeschränkter Textauslesung im Tageslauf. Keine neuen Fotos, Illustrationen oder technischen Zeichnungen übernommen und keine Zeichnung erfunden.
+
+PDF-Verfügbarkeit und Linkprüfung
+1 nachgewiesen defekte Adresse der alten Breisacher FNP-Bekanntmachung durch eine unveränderte historische Originalkopie ersetzt. Datei-Hash gegen den vorher archivierten amtlichen Beleg geprüft; alte Bekanntmachung datiert/signiert 03.11.2026 und alter Veröffentlichungszeitraum ausdrücklich als ersetzt bezeichnet. Kein neuer Dokumentauswertungsdatensatz und keine neue Bekanntmachung dadurch gezählt. Historische Vorfassung und Originaladresse erhalten.
+196 erfasste Dokumentquellen geprüft: 196 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 69 unmittelbar in der Website-Datenbank verknüpfte lokale Kopien vorhanden. Die Erreichbarkeitsprüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1698 unterschiedliche öffentliche Links geprüft: 1656 erreichbar, 42 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links nicht als erfolgreich ausgegeben. Vorherige Quellenkorrekturen und historische Fassungen erhalten.
+
+Fragen, Uploads und Partner
+0 neue/freigegebene Fragen, 0 verdächtige Fragen. Datenbank und Ordner pdfs/manual-uploads/ geprüft: 0 neue manuelle Uploads, 0 verarbeitet. Kein Fragen-PDF erforderlich. 0 neue Partnerdatensätze; keine Partnerschaft, Eigentümerfreigabe, Reservierung oder Kontaktaufnahme behauptet.
+
+Zugriffslücken und nächster Schritt
+Der Staufener Ratsverweis führt zum richtigen Portal, dieses antwortete beim direkten Abruf mit Fehler 403. Ursache nicht geklärt; vollständige Ratsaktenprüfung offen. Andere Ratszugänge, darunter Freiamt, bleiben ebenfalls eingeschränkt. Zugriffssperre, Platzhalter und unvollständige Texterkennung sind keine sachliche Negativbewertung.
+Nächster Schritt: öffentliche Beschluss-/Planstände und verfügbare Originalunterlagen fortlaufend prüfen, insbesondere die getrennten Breisacher Verfahren und konkrete Staufener Parzellen. Gescanntes Material nur mit nachgewiesener Auswertung als gelesen behandeln. Keine Zugangsdaten oder Rechte erweitert.
+Nur Website-Daten, Prüfdateien, dieser Bericht und 1 kuratierte historische amtliche PDF-Originalkopie zur Veröffentlichung ausgewählt. Keine Laufzeitordner, Zugangsdaten, lokalen Sicherungen oder Roharchive veröffentlicht.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-24.txt
