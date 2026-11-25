@@ -5537,6 +5537,22 @@
       "tags": "Originalquelle, FNP, Prüfgrenzen",
       "documentTitle": "FNP Staufen–Münstertal – Begründung, Feststellungsbeschluss 27.03.2025",
       "documentType": "Amtliche Originalquelle / Planungsprüfung"
+    },
+    {
+      "id": "id-2026-11-25-pdf-01",
+      "created": "2026-11-25",
+      "updated": "2026-11-25",
+      "municipality": "",
+      "documentTitle": "Datasheet for Supermicro NVIDIA Vera Rubin NVL72",
+      "documentType": "Herstellerdatenblatt / Technische Auslegung",
+      "pages": "2",
+      "keyFacts": "Copyright 2026; kein konkretes Ausgabedatum. Seite 2: Rack SRS-VR-NVL72; 4 Netzteileinschübe mit je 110 kW. Kein bestätigter Wert von 220 kW Rack-Verbrauch im Dokument.",
+      "technicalFacts": "Direkte Flüssigkühlung. Bis zu 5 MW Kühlleistung einer Reihen-Kühlmittelverteilung für mehrere Racks; kein Kühlleistungsbedarf eines einzelnen Racks. Netzteil-Nennwerte nicht mit tatsächlichem Dauerverbrauch gleichsetzen.",
+      "planningFacts": "Keine standortbezogene Verfügbarkeit, Baurechts- oder Netzanschlusszusage. Projektspezifische Fachplanung erforderlich.",
+      "sourceUrl": "https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.supermicro.com/40839db3619ab095.pdf",
+      "tags": "Originalquelle, Herstellerdatenblatt, Strom, Kühlung"
     }
   ],
   "media": [
@@ -10711,6 +10727,18 @@
       "confidence": "Amtliche Originalseiten und FNP-Begründung direkt gelesen; ausgewählte Originalseite visuell geprüft",
       "action": "Eigene Bewertung: Bestandsfläche, planungsrechtliche Entwicklungsfläche und verfügbare Parzelle getrennt halten. Grunerner Entwicklungsfläche bleibt Planungsansatz; Verfügbarkeit, genauer Lage-/B-Plan-Stand, Verbrauchsanschluss, Redundanz, Baugrund, Lärm und Kühlung offen. Keine Kontaktaufnahme.",
       "tags": "Staufen, Gaisgraben, Grunern, FNP 2025, Verfügbarkeit offen"
+    },
+    {
+      "id": "id-2026-11-25-rubin-leistungsabgrenzung",
+      "created": "2026-11-25",
+      "updated": "2026-11-25",
+      "title": "Supermicro Vera Rubin NVL72: Netzteileinschübe und Flüssigkühlung, keine bestätigte Rack-Verbrauchsleistung",
+      "topic": "Technische Standortanforderungen / Strom und Kühlung",
+      "summary": "Belegt durch das 2-seitige Herstellerdatenblatt, Copyright 2026, ohne konkreten Ausgabestand: Rack SRS-VR-NVL72 mit 72 Rubin-GPUs und 36 Vera-CPUs; 4 Netzteileinschübe mit je 110 kW und direkte Flüssigkühlung. Das Datenblatt nennt bis zu 5 MW Kühlleistung einer Reihen-Kühlmittelverteilung für mehrere Racks. Die im Fachbeitrag vom 24.11.2026 genannten rund 220 kW Rack-Leistungsaufnahme werden durch dieses Datenblatt nicht bestätigt. Netzteil-Nennwerte, tatsächlicher Verbrauch und Infrastruktur-Kühlleistung sind unterschiedliche Größen.",
+      "sourceUrl": "https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf",
+      "confidence": "Original-Herstellerdatenblatt vollständig textlich ausgelesen; 2 Dateiseiten. Herstellerangaben, keine unabhängige Messung.",
+      "action": "Eigene Bewertung: Bei einem konkreten Hochleistungs-Rechenrack verbindliche elektrische Anschlusswerte, Lastprofil, Redundanz, Kühlkreise, Restwärme und Traglast durch Hersteller und Fachplanung bestätigen lassen. Aus 4 × 110 kW weder 440 kW Dauerverbrauch noch eine allgemeine Mindestanforderung für kleine Rechenzentren ableiten. Kein Standort- oder Netzanschlussnachweis.",
+      "tags": "Herstellerquelle, Vera Rubin, Leistungsabgrenzung, Flüssigkühlung, Prüfgrenzen"
     }
   ],
   "gridChecks": [
@@ -11210,7 +11238,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-24",
+    "lastRun": "2026-11-25",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -11238,8 +11266,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-24",
-    "lastResearchSummary": "51 kommunale Teilprüfungen; 1 Befund und 2 Dokumentauswertungen ergänzt, 2 bestehende Breisacher Datensätze mit erhaltener Vorfassung aktualisiert. Keine neue gesicherte freie Rechenzentrumsfläche.",
+    "lastResearchRun": "2026-11-25",
+    "lastResearchSummary": "51 kommunale Teilprüfungen; 1 technischer Herstellerbefund und 1 Datenblattauswertung ergänzt. Keine neue gesicherte freie Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

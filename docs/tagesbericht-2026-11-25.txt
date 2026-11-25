@@ -1,0 +1,35 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 25.11.2026
+Auslöser 07:32:01 Uhr Europe/Berlin; Recherche nach dem Auslöser ausgeführt. Vorlauf vom 24.11.2026 abgeschlossen, heutiger Lauf zuvor nicht ausgeführt und kein passender laufender Rechercheprozess oder gemeinsame Sperre in den geprüften Laufverzeichnissen gefunden. Keine zusätzliche Zeitsteuerung eingerichtet.
+
+Ergebnis und neue Quellen
+51 offene Gemeinden teilweise erneut geprüft. Kein neuer gesicherter freier Rechenzentrumsstandort und keine neue zugesicherte Strombezugsleistung belegt. 1 neuer kuratierter Befund, 0 neue Standortdatensätze, 1 neue Dokumentauswertung, 0 neue Partner, 0 Fotos, 0 Illustrationen und 0 technische Zeichnungen. Bestehende Befunde nicht als neue Ergebnisse wiederholt.
+Breite Nachrichtenprüfung über Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem, regionale Presse- sowie Betreiber-/Stadtwerke-/Netzquellen. Aktuelle Suche und lokale Abrufe getrennt betrachtet. Golems Monatsübersicht lieferte im direkten Abruf eine Zustimmungsoberfläche; dies ist keine vollständige Artikelsichtung. Auch Suchtreffer allein gelten nicht als sachlicher Nachweis.
+Der Fachbeitrag vom 24.11.2026 zu Vera Rubin NVL72 wurde gelesen und archiviert. Die darin genannte Rack-Leistungsaufnahme von bis zu 220 kW ist heute nicht durch eine passende Hersteller-Auslegungsunterlage bestätigt worden. Sie wurde daher nicht als gesicherter Anforderungswert in die Datenbank übernommen und nicht auf alle kleinen Rechenzentren übertragen. Herstellerbestätigung des Verbrauchswerts bleibt offen. Das vollständig ausgelesene 2-seitige Supermicro-Datenblatt nennt 4 Netzteileinschübe mit je 110 kW und direkte Flüssigkühlung; dies ist keine Bestätigung für 440 kW Dauerverbrauch. Bis zu 5 MW beziehen sich auf die Kühlmittelverteilung für mehrere Racks. 1 technischer Befund und 1 Dokumentauswertung ergänzt.
+https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf
+https://www.datacenter-insider.de/was-vera-rubin-nvl72-von-rechenzentren-verlangt-a-bb8a50e6c3975b5d2072b9cee0ce5112/
+
+Lokal archivierte Quellen und PDF-Auswertung
+722 unterschiedliche Adressen versucht, 674 archiviert, 11 erstmals im lokalen Quellenarchiv verzeichnet. Erstmals archivierte Adressen bedeuten nicht automatisch neue Sachinhalte. 96 PDF-Dateifassungen mit unterschiedlichen Datei-Hashes, zusammen 1619 Dateiseiten; 3 erstmals archivierte PDF-Hashes. Unveränderte PDF-Textauszüge aus dem Vorlauf wiederverwendet und nicht als neue Gutachten gezählt. 15 Dateifassungen mit eingeschränktem Textauszug; keine vollständige Texterkennung behauptet. 1 neues kuratiertes Herstellerdatenblatt (2 Seiten); keine neuen Gutachten. Neu archiviert sind 2 Staufener Dateifassungen mit insgesamt 56 Seiten ohne extrahierbaren Text. Nur das Deckblatt des 55-seitigen Textteils visuell geprüft: Lebensmittelmarkt und Gewerbe, Stand 25.07.2012, Fassung Satzung. Vollständige Texterkennung und Aktenprüfung offen; daraus keine heutige freie Fläche abgeleitet. Keine technischen Zeichnungen erzeugt oder Bilder ohne fachliche und visuelle Prüfung übernommen.
+
+Geprüfte Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim, Staufen.
+Gemeinden mit neu gesichertem Rechenzentrumsflächenfund: 0. Gemeinden ohne neuen gesicherten Fund / weiterhin offen: alle 51. Nicht gefunden bedeutet nicht widerlegt. Alle bleiben systematisch offen; 51 Teilprüfungen sind keine 51 vollständigen Aktenprüfungen.
+Erreichbare Gemeinde-, Rats-, Planungs-/FNP-, Amtsblatt- und Wirtschaftsquellen mit den Begriffen Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Die lokale Prüfmatrix dokumentiert Quellen, Treffer und fehlende Kategorien. Prioritätsgemeinden um Freiburg/Denzlingen/Emmendingen erneut einbezogen. Vollständige Aktenstände, konkrete freie Parzellen, Baurecht und objektbezogene Anschlüsse bleiben gesondert zu klären.
+
+PDF-Verfügbarkeit und Linkprüfung
+197 erfasste Dokumentquellen geprüft: 197 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 69 unmittelbar in der Website-Datenbank verknüpfte lokale Kopien vorhanden. Die Erreichbarkeitsprüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1699 unterschiedliche öffentliche Links geprüft: 1670 erreichbar, 29 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links nicht als erfolgreich ausgegeben. Vorherige Quellenkorrekturen und historische Fassungen erhalten.
+
+Fragen, Uploads, Partner und Statistikänderungen
+0 neue oder freigegebene Fragen, 0 verdächtige Fragen. Datenbank und Ordner pdfs/manual-uploads/ geprüft: 0 neue manuelle Uploads, 0 verarbeitet. Kein Fragen-PDF erforderlich. Keine neuen Partnerdatensätze und keine Kontaktaufnahme, Reservierung oder Antragstellung.
+Kuratierter Datenbestand: 259 Befunde (+1), 197 Dokumentauswertungen (+1), 34 Standortdatensätze, 24 Unternehmen, 39 Bebauungs-/Gewerbepläne, 9 Konnektivitätsprüfungen, 5 Medien und 9 technische Originalzeichnungen. Die Standortzahl ist keine Zahl bestätigter freier Flächen. Gemeindliche Tagesabdeckung 51, weiterhin teilweise. Tagesdatum, Quellenarchiv, Prüfmatrix und Verfügbarkeits-/Linkprüfung fortgeschrieben.
+
+Offene Zugänge und nächster Schritt
+Mehrere Ratszugänge bleiben eingeschränkt, darunter Freiamt; genaue Ursache nicht abschließend bekannt. Auswirkung: keine vollständige Beschluss-/Aktenprüfung. Erreichbare Oberfläche und vollständige Dokumenteinsicht nicht gleichgesetzt. Nächster Schritt: öffentliche Akten-/Planungsstände und Zugänge im Folgelauf weiterprüfen; bei konkreten neuen Grundstücken Strom, Carrier, Nutzung, Schall, Kühlung und Wärmeabnahme getrennt bewerten. Keine zusätzlichen Rechte oder Anmeldedaten genutzt.
+Nur Website-Daten, Prüfdateien und dieser Tagesbericht zur Veröffentlichung ausgewählt. Keine Laufzeitordner, Zugangsdaten, lokalen Sicherungen oder Roharchive veröffentlicht.
+
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-25.txt

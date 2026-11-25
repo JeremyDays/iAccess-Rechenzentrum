@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-24",
-  "total": 196,
+  "checkedAt": "2026-11-25",
+  "total": 197,
   "localAvailable": 69,
-  "publicAvailable": 196,
+  "publicAvailable": 197,
   "publicBlocked": 0,
   "publicUnavailable": 0,
   "items": [
@@ -2824,7 +2824,7 @@
       "ok": true,
       "blocked": false,
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "contentType": "application/pdf",
       "error": ""
     },
@@ -3335,6 +3335,23 @@
       "blocked": false,
       "status": 200,
       "finalUrl": "https://www.staufen.de/site/Staufen-2020/get/params_E-1716019691_Dattachment/1547357/4_Begr%C3%BCndung_Fortschreibung%20Fl%C3%A4chennutzungsplan_GVV_Staufen_M%C3%BCnstertal.pdf",
+      "contentType": "application/pdf",
+      "error": ""
+    },
+    {
+      "municipality": "",
+      "documentTitle": "Datasheet for Supermicro NVIDIA Vera Rubin NVL72",
+      "documentType": "Herstellerdatenblatt / Technische Auslegung",
+      "pages": "2",
+      "publicUrl": "https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf",
+      "currentSourceUrl": "https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf",
+      "localFile": "",
+      "localExists": false,
+      "localBytes": 0,
+      "ok": true,
+      "blocked": false,
+      "status": 200,
+      "finalUrl": "https://www.supermicro.com/datasheet/datasheet_Supermicro_NVIDIA_Vera_Rubin_NVL72.pdf",
       "contentType": "application/pdf",
       "error": ""
     }
