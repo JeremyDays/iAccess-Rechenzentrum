@@ -1,0 +1,43 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 26.11.2026
+Auslöser 07:26:23 Uhr Europe/Berlin. Vorlauf vom 25.11.2026 abgeschlossen; heutiger Lauf zuvor nicht ausgeführt, keine gemeinsame Sperre in den geprüften Laufverzeichnissen gefunden. Recherche erst nach 07:30 Uhr gestartet. Keine zusätzliche Zeitsteuerung eingerichtet.
+
+Ergebnis und neue Quellen
+51 offene Gemeinden teilweise geprüft. 2 neue Infrastruktur-Befunde, 1 neue Netzprüfung, 1 neue Konnektivitätsprüfung und 4 amtliche Dokumentauswertungen ergänzt. Keine neue gesicherte freie Rechenzentrumsfläche oder zugesicherte Strombezugsleistung. 0 neue Standortdatensätze, Partner, Fotos, Illustrationen und technische Rechenzentrumszeichnungen.
+Badenova meldet am 20.11.2026 neue Umspannwerksplanungen für Freiburg und Zarten unter Vorbehalt des Grundstückserwerbs. Die amtliche Vorlage G-26/215 vom 27.10.2026 konkretisiert Hochdorf und Freiburg-Süd. Vorgesehene Anhörung in Hochdorf: 30.11.2026; Gemeinderat: 08.12.2026. Die Tagesordnung und öffentliche Ratsakte bestätigen die geplante Beratung, keinen bereits erfolgten Verkaufsbeschluss. Die vorformulierte Anhörungszeile der Vorlage mit künftigem Datum ist kein Nachweis einer erfolgten Anhörung.
+Hochdorf: neues Umspannwerk im westlichen Gewerbe- und Industriegebiet, Zufahrt Weißerlenstraße, geplante Inbetriebnahme 2031. Freiburg-Süd: bisher landwirtschaftlich genutzte Flächen am Kreuzungsbereich Matsuyamaallee/Besançonallee, geplante Inbetriebnahme 2032. Verfahren sind laut Vorlage erst in Vorbereitung. Diese für Netzbetrieb vorgesehenen Grundstücke sind keine freien Rechenzentrumsangebote. Zarten ist nur durch die Betreiberankündigung belegt; kein eigener konkreter Bau- oder Leistungsnachweis ausgewertet.
+Quellenwiderspruch: Die 8 Zeilen der Finanzanlage ergeben nach eigener Rechnung 25.028 m². Gedruckt sind 30.355 m²; Differenz 5.327 m² ungeklärt. Seite 2 visuell gegengeprüft. Teilflächen noch zu vermessen. Der allgemeine Bedarf bis 2030 und die projektspezifischen späteren Inbetriebnahmetermine bleiben erklärungsbedürftig; keine Termin- oder Anschlussgarantie abgeleitet.
+Quelle und Dokumente: https://ris.freiburg.de/meeting?id=2026-OR_HD-253
+Amtliche Tagesordnung: https://www.freiburg.de/pb/790684.html
+Betreiber: https://www.badenova.de/ueber-uns/unser-unternehmen/pressemitteilungen/mehr-strom-fuer-morgen-badenova-netze-plant-neue-umspannwerke-in-der-region
+
+Gundelfingen: Die amtliche Ausgabe vom 25.11.2026 nennt auf Seite 1 einen geplanten Abschluss eines Großteils der Glasfaserbaumaßnahmen bis Ende des kommenden Jahres, bezogen auf das Ausgabedatum also Ende 2027. Die tatsächliche Inbetriebnahme hängt anschließend von den jeweiligen Betreibern ab. Bauabschluss ist kein Nachweis eines bereits aktiven Dienstes, einer konkreten Objektbandbreite oder von 2 unabhängigen Trassen.
+https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf
+
+Nachrichtenprüfung
+Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem sowie regionale Presse-, Betreiber- und Netzquellen breit gesucht und direkt erreichbare Seiten archiviert. Suchtreffer und Seiteninhalte getrennt beurteilt; keine Vollständigkeit aller Artikel behauptet. Wiederholte Denzlinger Leitungsmeldungen und bereits erfasste Herstellerbelege nicht als neue Befunde gezählt. Suchtreffer zu Freiburg in der Schweiz nicht als Flächen im deutschen Freiburg behandelt. Zustimmungsoberflächen und ältere Suchindexstände liefern keine vollständige aktuelle Artikelsichtung.
+
+Lokal archivierte Quellen, PDFs und Gutachten
+742 unterschiedliche Adressen versucht, 710 lokal archiviert, 17 erstmals im Quellenarchiv verzeichnet. Neue Adressen oder Datei-Hashes sind nicht automatisch neue Sachinhalte. 102 PDF-Dateifassungen mit unterschiedlichen Hashes und 1790 Dateiseiten; 7 erstmals archivierte PDF-Hashes. Unveränderte Textauszüge wiederverwendet. 16 Dateifassungen mit Auslesegrenzen; keine vollständige Texterkennung behauptet.
+4 neue kuratierte Originaldokumente: G-26/215 (4 Seiten), Anlage 1 Finanzielle Auswirkungen (2 Seiten), Anlage 2 Lagepläne (4 Seiten) sowie Gundelfinger Nachrichten Nr. 2797 vom 25.11.2026 (8 Seiten). Finanzanlage Seite 2, Lagepläne Seiten 3/4 und Gundelfinger Nachrichten Seite 1 visuell geprüft. Die Originalpläne sind ausdrücklich keine Leitungsauskunft. Nur Originalquellen verlinkt; keine Planzeichnung erzeugt oder als technische Rechenzentrumszeichnung ausgegeben. Keine neuen eigenständigen Gutachten. Aktuelle Amtsblätter und historische Vorfassungen lokal geprüft, ohne neue Grundstückseignung daraus abzuleiten. Die Ihringer Veröffentlichung zum Breisacher Solarpark betrifft den bereits erfassten Vorgang; kein zusätzlicher Standort oder doppelter Befund.
+
+Geprüfte Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim, Staufen.
+Gemeinden mit neu gesichertem Rechenzentrumsflächenfund: 0. Gemeinden ohne neuen gesicherten Fund / weiter offen: alle 51. Teilprüfungen sind keine vollständigen Aktenprüfungen. Nicht gefunden bedeutet nicht widerlegt.
+Gemeindeseite, Ratszugang, Bebauungspläne/Flächennutzungsplan, Amtsblatt und Wirtschaftsquellen anhand Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Fehlende oder eingeschränkte Kategorien in der lokalen Prüfmatrix dokumentiert. Erreichbarkeit einer Oberfläche allein ist keine Akteneinsicht. In Freiburg konnte die vorgesehene öffentliche Ratsabfrage ohne Anmeldung genutzt und TOP 3 gezielt erschlossen werden; keine Rechte erweitert und keine Ratsdaten verändert.
+
+PDF-Verfügbarkeit und Linkprüfung
+201 erfasste Dokumentquellen geprüft: 201 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 69 unmittelbar in der Website-Datenbank verknüpfte lokale Kopien vorhanden. Die Erreichbarkeitsprüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1705 unterschiedliche öffentliche Links geprüft: 1675 erreichbar, 30 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links nicht als erfolgreich ausgegeben. Vorherige Quellenkorrekturen und historische Fassungen erhalten.
+
+Fragen, Uploads, Partner und Statistikänderungen
+0 neue oder freigegebene Fragen, 0 verdächtige Fragen. Datenbank und Ordner pdfs/manual-uploads/ geprüft: 0 neue manuelle Uploads, 0 verarbeitet. Kein Fragen-PDF erforderlich. Keine Kontaktaufnahme, Reservierung, Bewerbung oder Antragstellung.
+Kuratierter Bestand: 261 Befunde (+2), 201 Dokumentauswertungen (+4), 15 Netzprüfungen (+1), 34 Standortdatensätze, 24 Unternehmen, 39 Bebauungs-/Gewerbepläne, 10 Konnektivitätsprüfungen (+1), 5 Medien und 9 technische Originalzeichnungen. Standortzahl ist keine Zahl bestätigter freier Flächen. Tagesabdeckung 51, systematische Aktenprüfung weiterhin offen. Ältere Ergebnisse vollständig erhalten.
+
+Offene Zugänge und nächster Schritt
+Mehrere Ratszugänge bleiben eingeschränkt, darunter Freiamt und Staufen; genaue Ursachen nicht abschließend bekannt. Auswirkungen und fehlende Kategorien dokumentiert, keine vollständige Aktenprüfung behauptet. Nach den angekündigten Sitzungen tatsächliche Beschlüsse, Grundstückserwerb, Genehmigungsstand und spätere Umsetzung prüfen. Widersprüchliche Flächensumme vor einer flächenbezogenen Bewertung klären. Konkrete freie Bezugsleistung, unabhängige Carrierwege, Nutzung, Schall, Baugrund, Kühlung und Wärmeabnahme bleiben objektbezogen offen.
+Nur Website-Daten, Prüfdateien und Tagesbericht veröffentlicht. Keine Laufzeitordner, Anmeldedaten, lokalen Sicherungen oder Roharchive zur Veröffentlichung ausgewählt.
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-26.txt

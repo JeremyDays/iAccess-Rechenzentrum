@@ -5553,6 +5553,70 @@
       "localFile": "",
       "localArchiveFile": "assets/source-archive/www.supermicro.com/40839db3619ab095.pdf",
       "tags": "Originalquelle, Herstellerdatenblatt, Strom, Kühlung"
+    },
+    {
+      "id": "id-2026-11-26-pdf-01",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "municipality": "Freiburg im Breisgau",
+      "documentTitle": "Freiburg G-26/215 – Grundstücksverkäufe für Umspannwerke, Beschlussvorlage 27.10.2026",
+      "documentType": "Amtliche Originalquelle / Netz- und Grundstücksplanung",
+      "pages": "4",
+      "keyFacts": "4 Seiten; Beschlussvorschlag, kein Verkaufsbeschluss. Seite 3: Hochdorf 2031, Freiburg-Süd 2032 als voraussichtliche Inbetriebnahme. Genehmigungsverfahren erst in Vorbereitung.",
+      "technicalFacts": "Keine konkrete freie Bezugsleistung, keine Kundenanschlusszusage. Umspannwerksplanung von Rechenzentrumsstandort und tatsächlicher Versorgung trennen.",
+      "planningFacts": "Vorgesehene Anhörung 30.11.2026, Gemeinderat 08.12.2026. Grundstücke für Netzbetrieb vorgesehen, keine freien Rechenzentrumsangebote.",
+      "sourceUrl": "https://ris.freiburg.de/api.php?document_type_id=4&document_relation_id=5942810100215&submission_id=5942810100215&id=69&json=1&platform=ris&system=ris",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/ris.freiburg.de/b2260f55191a89f6.pdf",
+      "tags": "Originalquelle, Freiburg, G-26/215, Umspannwerke, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-26-pdf-02",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "municipality": "Freiburg im Breisgau",
+      "documentTitle": "Freiburg G-26/215 Anlage 1 – Finanzielle Auswirkungen und widersprüchliche Flächensumme",
+      "documentType": "Amtliche Originalquelle / Netz- und Grundstücksplanung",
+      "pages": "2",
+      "keyFacts": "2 Seiten; Seite 2 visuell geprüft. 8 Flächenzeilen: 25.028 m² eigene Nachrechnung, ausgewiesen 30.355 m²; Differenz 5.327 m² ungeklärt. Kaufpreissumme 4.761.337,50 EUR ist ein Vorschlagswert, Teilflächen noch zu vermessen.",
+      "technicalFacts": "Keine konkrete freie Bezugsleistung, keine Kundenanschlusszusage. Umspannwerksplanung von Rechenzentrumsstandort und tatsächlicher Versorgung trennen.",
+      "planningFacts": "Vorgesehene Anhörung 30.11.2026, Gemeinderat 08.12.2026. Grundstücke für Netzbetrieb vorgesehen, keine freien Rechenzentrumsangebote.",
+      "sourceUrl": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-0.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-0.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/ris.freiburg.de/322cb307ae8dd82d.pdf",
+      "tags": "Originalquelle, Freiburg, G-26/215, Umspannwerke, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-26-pdf-03",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "municipality": "Freiburg im Breisgau",
+      "documentTitle": "Freiburg G-26/215 Anlage 2 – Original-Lagepläne der vorgesehenen Umspannwerksflächen",
+      "documentType": "Amtliche Originalquelle / Netz- und Grundstücksplanung",
+      "pages": "4",
+      "keyFacts": "4 Seiten; Original-Lagepläne Seiten 3/4 visuell geprüft: Freiburg-Süd Stand 28.10.2026, Maßstab 1:1.000; Hochdorf Stand 22.10.2026, Maßstab 1:800. Beide ausdrücklich keine Leitungsauskunft. Keine technischen Rechenzentrumszeichnungen.",
+      "technicalFacts": "Keine konkrete freie Bezugsleistung, keine Kundenanschlusszusage. Umspannwerksplanung von Rechenzentrumsstandort und tatsächlicher Versorgung trennen.",
+      "planningFacts": "Vorgesehene Anhörung 30.11.2026, Gemeinderat 08.12.2026. Grundstücke für Netzbetrieb vorgesehen, keine freien Rechenzentrumsangebote.",
+      "sourceUrl": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-1.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-1.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/ris.freiburg.de/734acbd2d8487081.pdf",
+      "tags": "Originalquelle, Freiburg, G-26/215, Umspannwerke, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-26-pdf-04",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "municipality": "Gundelfingen",
+      "documentTitle": "Gundelfinger Nachrichten Nr. 2797 vom 25.11.2026 – Glasfaserausbau und offene Inbetriebnahme",
+      "documentType": "Amtliches Mitteilungsblatt / Konnektivitätsprüfung",
+      "pages": "8",
+      "keyFacts": "Seite 1 visuell geprüft: Großteil der Baumaßnahmen bis Ende des kommenden Jahres vorgesehen, bezogen auf Ausgabedatum Ende 2027. Tatsächliche Inbetriebnahme anschließend von Betreibern abhängig.",
+      "technicalFacts": "Keine konkrete Objektbandbreite, aktive Carrieranbindung oder 2 unabhängige Trassen belegt.",
+      "planningFacts": "Kommunale Ausbauaussage von Dienstaktivierung trennen; kein aktueller Verfügbarkeitsnachweis einer Rechenzentrumsparzelle.",
+      "sourceUrl": "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf",
+      "localFile": "",
+      "localArchiveFile": "assets/source-archive/www.gundelfingen.de/c77ce542701d5feb.pdf",
+      "tags": "Originalquelle, Gundelfingen, Glasfaser, Ausbauplanung, Prüfgrenzen"
     }
   ],
   "media": [
@@ -10739,6 +10803,30 @@
       "confidence": "Original-Herstellerdatenblatt vollständig textlich ausgelesen; 2 Dateiseiten. Herstellerangaben, keine unabhängige Messung.",
       "action": "Eigene Bewertung: Bei einem konkreten Hochleistungs-Rechenrack verbindliche elektrische Anschlusswerte, Lastprofil, Redundanz, Kühlkreise, Restwärme und Traglast durch Hersteller und Fachplanung bestätigen lassen. Aus 4 × 110 kW weder 440 kW Dauerverbrauch noch eine allgemeine Mindestanforderung für kleine Rechenzentren ableiten. Kein Standort- oder Netzanschlussnachweis.",
       "tags": "Herstellerquelle, Vera Rubin, Leistungsabgrenzung, Flüssigkühlung, Prüfgrenzen"
+    },
+    {
+      "id": "id-2026-11-26-freiburg-umspannwerke",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "title": "Freiburg: geplante Umspannwerke Hochdorf 2031 und Freiburg-Süd 2032; Grundstücksentscheidung noch offen",
+      "topic": "Regionale Netzplanung / Flächenerwerb und Terminrisiken",
+      "summary": "Belegt: Die öffentliche Vorlage G-26/215 vom 27.10.2026 schlägt Grundstücksverkäufe an Badenova Netze für Umspannwerke vor. Hochdorfer Anhörung am 30.11.2026 und Gemeinderatsentscheidung am 08.12.2026 angekündigt; kein bereits vollzogener Verkauf nachgewiesen. Hochdorf: städtische Flurstücke 1927/55 und 2551/3 sowie privates 2551/4, Zufahrt Weißerlenstraße; geplante Inbetriebnahme 2031. Freiburg-Süd: städtische Teilflächen 28622/28626 und 28624 sowie privates 28623, bisher Landwirtschaft; geplante Inbetriebnahme 2032. Vorbereitete Verfahren und spätere Termine sind keine Genehmigung oder freie Bezugsleistung. Anlage 1 ist widersprüchlich: 8 Flächenzeilen ergeben rechnerisch 25.028 m², die ausgewiesene Gesamtsumme lautet 30.355 m². Beide Werte unverändert dokumentiert, Differenz 5.327 m² ungeklärt.",
+      "sourceUrl": "https://ris.freiburg.de/api.php?document_type_id=4&document_relation_id=5942810100215&submission_id=5942810100215&id=69&json=1&platform=ris&system=ris; https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-0.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-0.pdf%7C&id=69&json=1&platform=ris&system=ris; https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-1.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-1.pdf%7C&id=69&json=1&platform=ris&system=ris; https://ris.freiburg.de/meeting?id=2026-OR_HD-253; https://www.badenova.de/ueber-uns/unser-unternehmen/pressemitteilungen/mehr-strom-fuer-morgen-badenova-netze-plant-neue-umspannwerke-in-der-region",
+      "confidence": "Öffentliche Originalvorlage und beide Anlagen vollständig textlich ausgelesen; Finanzanlage Seite 2 und Lagepläne Seiten 3/4 visuell geprüft. Planung, keine zugesicherte Umsetzung.",
+      "action": "Eigene Bewertung: Hochdorf/Haid langfristig weiterbeobachten; diese Umspannwerksflächen nicht als freie Rechenzentrumsangebote führen. Nach den angekündigten Sitzungen den tatsächlichen Beschluss und danach Grundstückserwerb, Verfahren, Baufortschritt und konkrete Verbrauchsanschlussleistung prüfen. Bedarfsaussage bis 2030 und spätere Projekttermine bleiben erklärungsbedürftig. Die vorformulierte Anhörungszeile mit künftigem Datum ist kein Nachweis einer bereits erfolgten Anhörung. Keine Anfrage, Reservierung oder Bewerbung ausgeführt.",
+      "tags": "Freiburg, Hochdorf, Freiburg-Süd, Badenova Netze, Umspannwerk, Vorlage, Termin offen, Quellenwiderspruch"
+    },
+    {
+      "id": "id-2026-11-26-gundelfingen-glasfaser",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "title": "Gundelfingen: Glasfaserbau überwiegend bis Ende 2027 geplant; Inbetriebnahme separat offen",
+      "topic": "Kommunale Konnektivität / Ausbau und tatsächliche Verfügbarkeit",
+      "summary": "Belegt: Gundelfinger Nachrichten Nr. 2797 vom 25.11.2026, Seite 1. Der Bürgermeister berichtet, ein Großteil der Glasfaserbaumaßnahmen solle bis Ende des kommenden Jahres abgeschlossen sein; Zeitbezug aus dem Ausgabedatum: Ende 2027. Die anschließende tatsächliche Inbetriebnahme hängt laut Mitteilung von den jeweiligen Betreibern ab. Keine konkrete Rechenzentrumsparzelle, aktuelle Dienstverfügbarkeit, Bandbreite oder 2 unabhängige Trassen belegt.",
+      "sourceUrl": "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf",
+      "confidence": "Amtliche Originalausgabe heruntergeladen und textlich ausgelesen; Seite 1 mit Datum und Glasfaserabschnitt visuell geprüft. Kommunale Planung, keine Betreiberzusage am Objekt.",
+      "action": "Eigene Bewertung: Bauabschluss und Diensteaktivierung getrennt verfolgen. Für konkrete Objekte Anbieter, aktive Anschaltung, symmetrische Bandbreite, Leistungsvereinbarung, Leitungswege und getrennte Hauseinführungen gesondert bestätigen. Ausbauaussage nicht als heutige Rechenzentrumskonnektivität behandeln. Keine Kontaktaufnahme.",
+      "tags": "Gundelfingen, Glasfaser, Ausbauplanung, 2027, Inbetriebnahme offen"
     }
   ],
   "gridChecks": [
@@ -10994,6 +11082,20 @@
       "nextAction": "Baufeldfreigabe, Eigentümerverfügbarkeit, örtliche Betreiberzuständigkeit und konkrete Anschlussleistung getrennt bestätigen. Kein Antrag und keine Reservierung ausgeführt.",
       "source": "https://rpf.baden-wuerttemberg.de/fileadmin/RP-Internet/Freiburg/Abteilung_2/Referat_24/Stromleitung-Weier-Eichstetten/Stromleitung-Weier-Eichstetten-PFB.pdf",
       "tags": "Originalbeschluss, Trassenbündelung, keine Netzreservierung"
+    },
+    {
+      "id": "id-2026-11-26-freiburg-netzplanung",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "site": "Umspannwerksplanung Hochdorf / Freiburg-Süd; keine angebotene Rechenzentrumsfläche",
+      "municipality": "Freiburg im Breisgau",
+      "targetPowerMw": "Keine konkrete freie Bezugsleistung bestätigt",
+      "gridOperator": "Badenova Netze GmbH, Vorhabenträger laut Originalvorlage; konkrete Anschlusszuständigkeit am Kundenobjekt offen",
+      "voltageLevel": "Umspannwerksprojekt; konkrete Kundenanschlussspannung offen",
+      "capacityStatus": "Vorlage G-26/215 vom 27.10.2026; Grundstücksverkauf noch Beschlussvorschlag. Inbetriebnahme geplant: Hochdorf 2031, Freiburg-Süd 2032. Keine Anschlusszusage.",
+      "nextAction": "Tatsächliche Beschlüsse nach 30.11. und 08.12.2026 sowie weitere Erwerbs-, Genehmigungs- und Baufortschritte prüfen; konkrete Anschlussauskunft objektbezogen erforderlich. Keine Reservierung oder Antragstellung.",
+      "source": "https://ris.freiburg.de/api.php?document_type_id=4&document_relation_id=5942810100215&submission_id=5942810100215&id=69&json=1&platform=ris&system=ris",
+      "tags": "Originalvorlage, keine Netzreservierung, langfristiger Ausbau, Flächennutzung Umspannwerk"
     }
   ],
   "connectivityChecks": [
@@ -11131,6 +11233,21 @@
       "source": "https://stiegeler.com/netzausbau/glasfaser-fuer-hartheim-am-rhein-6/; https://stiegeler.com/wp-content/uploads/Unser-Netz_01_2025_DIGITAL/epaper/document.pdf?t=1756808568186; https://www.breisgau-hochschwarzwald.de/Start/Wirtschaft%2B_%2BMobilitaet/hartheim%2Bam%2Brhein.html",
       "notes": "Anbieter-Magazin 01/2025 berichtet über Fertigstellung im Mai 2025; Internet-Projektseite enthält daneben ältere Prognose. Landkreis-Aussage betrifft kommunalen Ausbau. Aktuelle Parzellenversorgung, Bandbreite und Leistungsvereinbarung offen. Keine Kontaktaufnahme.",
       "tags": "Hartheim, Glasfaser, Stiegeler, historischer Anbieterbericht, Redundanz offen"
+    },
+    {
+      "id": "id-2026-11-26-connectivity-gundelfingen",
+      "created": "2026-11-26",
+      "updated": "2026-11-26",
+      "site": "Gundelfingen; konkrete Rechenzentrumsparzelle offen",
+      "carrier": "Jeweilige Betreiber in der kommunalen Mitteilung nicht namentlich konkretisiert",
+      "serviceType": "Glasfaserausbau; Baumaßnahmen und Diensteaktivierung getrennt",
+      "bandwidth": "Objektkonkret unbekannt",
+      "routeDiversity": "Keine 2 unabhängigen Trassen oder Hauseinführungen belegt",
+      "status": "Großteil der Baumaßnahmen bis Ende 2027 vorgesehen; tatsächliche Inbetriebnahme anschließend betreiberabhängig",
+      "contact": "",
+      "source": "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf",
+      "notes": "Amtliche Ausgabe 25.11.2026, Seite 1. Zeitbezug Ende des kommenden Jahres auf 2027 bezogen. Keine aktuelle Anschluss- oder Leistungszusage. Keine Kontaktaufnahme.",
+      "tags": "Gundelfingen, Glasfaser, Bauabschluss, Diensteaktivierung offen"
     }
   ],
   "capacityMarkets": [
@@ -11238,7 +11355,7 @@
     "endpoint": "",
     "formspreeEndpoint": "",
     "autoDaily": true,
-    "lastRun": "2026-11-25",
+    "lastRun": "2026-11-26",
     "lastResearchSummary": "21 Gemeinden im Einstiegsscreening; kommunale Verfügbarkeit eingeschränkt, Rheinbrücke revalidiert, EU-Ratingvorschlag ergänzt; Detailprüfungen offen.",
     "sourceQueries": [
       "Rechenzentrum Baden-WÃ¼rttemberg Bebauungsplan",
@@ -11266,8 +11383,8 @@
     ]
   },
   "metadata": {
-    "lastResearchRun": "2026-11-25",
-    "lastResearchSummary": "51 kommunale Teilprüfungen; 1 technischer Herstellerbefund und 1 Datenblattauswertung ergänzt. Keine neue gesicherte freie Fläche.",
+    "lastResearchRun": "2026-11-26",
+    "lastResearchSummary": "51 kommunale Teilprüfungen; 2 neue Infrastruktur-Befunde, 1 Netzprüfung, 1 Konnektivitätsprüfung und 4 Dokumentauswertungen ergänzt. Keine neue gesicherte freie Fläche.",
     "lastAutomationRun": "2026-07-07",
     "lastAutomationSummary": "News und 20 BW-Kommunen im Ludwigsburg-/Rems-Murr-Korridor geprueft; keine neuen RZ-Flaechenfunde, aber neue Technik-/Regulierungsbenchmarks.",
     "researchDisclosure": "Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend."

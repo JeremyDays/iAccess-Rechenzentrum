@@ -1,7 +1,7 @@
 {
-  "checked": 1699,
-  "ok": 1670,
-  "blocked": 29,
+  "checked": 1705,
+  "ok": 1675,
+  "blocked": 30,
   "broken": 0,
   "results": [
     {
@@ -30,6 +30,18 @@
     },
     {
       "collection": "findings",
+      "index": 97,
+      "field": "sourceUrl",
+      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.muehlacker.de/stadt/index.php",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.muehlacker.de', port=443): Max retries exceeded with url: /stadt/index.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.muehlacker.de', port=443) at 0x21a6a1b8800>, 'Connection to www.muehlacker.de timed out. (connect timeout=25)'))"
+    },
+    {
+      "collection": "findings",
       "index": 235,
       "field": "additionalSourceUrl",
       "title": "Frankfurt Friedrich-Ebert-Siedlung: geplante Abwärmekaskade mit Redundanz, Referenz außerhalb Baden-Württembergs",
@@ -51,18 +63,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau-bodensee.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 34,
-      "field": "source",
-      "title": "Hohberg und Schutterwald verdichten den GRO-Gewerbekorridor",
-      "url": "https://www.hohberg.de/de/startseite",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.hohberg.de', port=443): Max retries exceeded with url: /de/startseite (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.hohberg.de'. (_ssl.c:1010)\")))"
     },
     {
       "collection": "findings",
@@ -135,6 +135,18 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -7389,18 +7401,6 @@
       "index": 97,
       "field": "sourceUrl",
       "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.muehlacker.de/stadt/index.php",
-      "status": 200,
-      "finalUrl": "https://www.muehlacker.de/stadt/index.php",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 97,
-      "field": "sourceUrl",
-      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.neuenbuerg.de/startseite",
       "status": 200,
       "finalUrl": "https://www.neuenbuerg.de/startseite",
@@ -7776,6 +7776,30 @@
       "url": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
       "status": 200,
       "finalUrl": "https://www.oxg.de/fileadmin/user_upload/Ausbaugebiet/Freiburg/202407_Pressemitteilung_Baustart_Freiburg.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 259,
+      "field": "sourceUrl",
+      "title": "Freiburg: geplante Umspannwerke Hochdorf 2031 und Freiburg-Süd 2032; Grundstücksentscheidung noch offen",
+      "url": "https://ris.freiburg.de/meeting?id=2026-OR_HD-253",
+      "status": 200,
+      "finalUrl": "https://ris.freiburg.de/meeting?id=2026-OR_HD-253",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 259,
+      "field": "sourceUrl",
+      "title": "Freiburg: geplante Umspannwerke Hochdorf 2031 und Freiburg-Süd 2032; Grundstücksentscheidung noch offen",
+      "url": "https://www.badenova.de/ueber-uns/unser-unternehmen/pressemitteilungen/mehr-strom-fuer-morgen-badenova-netze-plant-neue-umspannwerke-in-der-region",
+      "status": 200,
+      "finalUrl": "https://www.badenova.de/ueber-uns/unser-unternehmen/pressemitteilungen/mehr-strom-fuer-morgen-badenova-netze-plant-neue-umspannwerke-in-der-region",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -9012,6 +9036,18 @@
       "url": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten",
       "status": 200,
       "finalUrl": "https://www.netze-bw.de/unsernetz/netzausbau/hochspannung/weier-eichstetten",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 34,
+      "field": "source",
+      "title": "Hohberg und Schutterwald verdichten den GRO-Gewerbekorridor",
+      "url": "https://www.hohberg.de/de/startseite",
+      "status": 200,
+      "finalUrl": "https://hohberg.de",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -13986,18 +14022,6 @@
     },
     {
       "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": 200,
-      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 135,
       "field": "sourceUrl",
       "title": "Sigmaringen-Abschlussblock: 14 Gemeinden geprueft",
@@ -18306,6 +18330,42 @@
     },
     {
       "collection": "pdfExtracts",
+      "index": 198,
+      "field": "sourceUrl",
+      "title": "Freiburg G-26/215 Anlage 1 – Finanzielle Auswirkungen und widersprüchliche Flächensumme",
+      "url": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-0.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-0.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "status": 200,
+      "finalUrl": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-0.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-0.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 199,
+      "field": "sourceUrl",
+      "title": "Freiburg G-26/215 Anlage 2 – Original-Lagepläne der vorgesehenen Umspannwerksflächen",
+      "url": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-1.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-1.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "status": 200,
+      "finalUrl": "https://ris.freiburg.de/api.php?document_type_id=13&document_relation_id=5942810100215%7C20261120110447-1.pdf%7C&submission_attachment_id=5942810100215%7C20261120110447-1.pdf%7C&id=69&json=1&platform=ris&system=ris",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 197,
+      "field": "sourceUrl",
+      "title": "Freiburg G-26/215 – Grundstücksverkäufe für Umspannwerke, Beschlussvorlage 27.10.2026",
+      "url": "https://ris.freiburg.de/api.php?document_type_id=4&document_relation_id=5942810100215&submission_id=5942810100215&id=69&json=1&platform=ris&system=ris",
+      "status": 200,
+      "finalUrl": "https://ris.freiburg.de/api.php?document_type_id=4&document_relation_id=5942810100215&submission_id=5942810100215&id=69&json=1&platform=ris&system=ris",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
       "index": 37,
       "field": "sourceUrl",
       "title": "Frohmatten II - Begründung Bebauungsplan",
@@ -18456,6 +18516,18 @@
       "url": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
       "status": 200,
       "finalUrl": "https://www.gemeindegrafenau.de/fileadmin/Dateien/Website_2021/Dateien/Leben_Wohnen/Planen_Bauen/Flaechennutzungsplan/Bekanntmachungstext_Fl%C3%A4chennutzungsplan_Grafenau_Gewerbe_%C3%BCberarbeitet.pdf",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "pdfExtracts",
+      "index": 200,
+      "field": "sourceUrl",
+      "title": "Gundelfinger Nachrichten Nr. 2797 vom 25.11.2026 – Glasfaserausbau und offene Inbetriebnahme",
+      "url": "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf",
+      "status": 200,
+      "finalUrl": "https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf",
       "ok": true,
       "blocked": false,
       "error": ""
