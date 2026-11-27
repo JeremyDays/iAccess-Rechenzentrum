@@ -30,15 +30,15 @@
     },
     {
       "collection": "findings",
-      "index": 97,
+      "index": 167,
       "field": "sourceUrl",
-      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.muehlacker.de/stadt/index.php",
-      "status": null,
-      "finalUrl": "",
+      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
+      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
+      "status": 429,
+      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
       "ok": false,
       "blocked": true,
-      "error": "HTTPSConnectionPool(host='www.muehlacker.de', port=443): Max retries exceeded with url: /stadt/index.php (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.muehlacker.de', port=443) at 0x21a6a1b8800>, 'Connection to www.muehlacker.de timed out. (connect timeout=25)'))"
+      "error": ""
     },
     {
       "collection": "findings",
@@ -105,6 +105,18 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.buehlertal.de/de/vorseite",
+      "status": null,
+      "finalUrl": "",
+      "ok": false,
+      "blocked": true,
+      "error": "HTTPSConnectionPool(host='www.buehlertal.de', port=443): Max retries exceeded with url: /de/vorseite (Caused by NewConnectionError(\"HTTPSConnection(host='www.buehlertal.de', port=443): Failed to establish a new connection: [WinError 10061] Es konnte keine Verbindung hergestellt werden, da der Zielcomputer die Verbindung verweigerte\"))"
+    },
+    {
+      "collection": "findings",
+      "index": 86,
+      "field": "sourceUrl",
+      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
       "status": 403,
       "finalUrl": "https://www.hardheim.de/seite/de/odenwald/02/WB/Herzlich_willkommen.html",
@@ -135,18 +147,6 @@
       "ok": false,
       "blocked": true,
       "error": "HTTPSConnectionPool(host='www.hagnau.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1010)')))"
-    },
-    {
-      "collection": "findings",
-      "index": 30,
-      "field": "source",
-      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
-      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
-      "status": null,
-      "finalUrl": "",
-      "ok": false,
-      "blocked": true,
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "collection": "sites",
@@ -7170,18 +7170,6 @@
     },
     {
       "collection": "findings",
-      "index": 167,
-      "field": "sourceUrl",
-      "title": "EU-Effizienzrating vorgeschlagen: Prüfphase vor Inkrafttreten",
-      "url": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "status": 200,
-      "finalUrl": "https://commission.europa.eu/news-and-media/news/making-data-centres-energy-efficient-thanks-new-eu-rating-system-2026-09-21_en",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
       "index": 69,
       "field": "sourceUrl",
       "title": "EU-Entwurf zu RZ-Oekostrom: strengere zeit- und zonengleiche Anrechnung offenbar abgeschwaecht",
@@ -7392,6 +7380,18 @@
       "url": "https://www.maulbronn.de/de/startseite",
       "status": 200,
       "finalUrl": "https://www.maulbronn.de/de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 97,
+      "field": "sourceUrl",
+      "title": "Enzkreis-Block geprueft: keine neuen RZ-Flaechenfunde",
+      "url": "https://www.muehlacker.de/stadt/index.php",
+      "status": 200,
+      "finalUrl": "https://www.muehlacker.de/stadt/index.php",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -11673,18 +11673,6 @@
       "index": 86,
       "field": "sourceUrl",
       "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
-      "url": "https://www.buehlertal.de/de/vorseite",
-      "status": 200,
-      "finalUrl": "https://www.buehlertal.de",
-      "ok": true,
-      "blocked": false,
-      "error": ""
-    },
-    {
-      "collection": "findings",
-      "index": 86,
-      "field": "sourceUrl",
-      "title": "Rastatt-/Neckar-Odenwald-Korridor geprueft: keine neuen RZ-Flaechenfunde",
       "url": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
       "status": 200,
       "finalUrl": "https://www.businessinsider.com/data-center-developers-anxious-after-hochuls-construction-pause-2026-7",
@@ -14016,6 +14004,18 @@
       "url": "https://www.voehrenbach.de/startseite",
       "status": 200,
       "finalUrl": "https://www.voehrenbach.de/startseite",
+      "ok": true,
+      "blocked": false,
+      "error": ""
+    },
+    {
+      "collection": "findings",
+      "index": 30,
+      "field": "source",
+      "title": "Siemens Energy: Akzeptanz- und Energiepfad werden zum Genehmigungsrisiko",
+      "url": "https://www.welt.de/article6a2bb25a6bb5c7fe2e1c2e7d",
+      "status": 200,
+      "finalUrl": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article6a2bb25a6bb5c7fe2e1c2e7d/siemens-energy-chef-warnt-vor-rueckstand-bei-rechenzentren.html",
       "ok": true,
       "blocked": false,
       "error": ""
@@ -19127,7 +19127,7 @@
       "title": "Rittal: KUKA Industries, Raumwunder trifft Sparfuchs, Magazin 01/2022",
       "url": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
       "status": 200,
-      "finalUrl": "https://www.rittal.com/imf/none/75_854/KUKA%20Industries_Rittal/",
+      "finalUrl": "https://www.rittal.com/imf3/none/75_854/KUKA%20Industries_Rittal/",
       "ok": true,
       "blocked": false,
       "error": ""
