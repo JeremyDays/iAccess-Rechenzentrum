@@ -1,0 +1,40 @@
+Mit KI-Unterstützung erstellt; Prüfung und Freigabe durch Stephan Hornick ausstehend.
+Automatische Recherche und Versand durch Codex.
+
+Tagesbericht Rechenzentrum-Recherche | 28.11.2026
+Auslöser 07:27:24 Uhr Europe/Berlin. Vorlauf vom 27.11.2026 abgeschlossen, heutiger Lauf zuvor nicht ausgeführt und keine gemeinsame Sperre in den geprüften Laufverzeichnissen gefunden. Fälligen Lauf erst nach 07:30 Uhr ausgeführt; keine zusätzliche Zeitsteuerung eingerichtet.
+
+Ergebnis und neue Quellen
+51 offene Gemeinden teilweise erneut geprüft. Keine neue gesicherte freie Rechenzentrumsfläche, keine neue zugesicherte Strombezugsleistung und kein neuer kuratierter Sachbefund. 0 neue Standortdatensätze, 0 neue Dokumentauswertungen, 0 neue Partner, Fotos, Illustrationen und technische Zeichnungen. Bestehende Ergebnisse nicht als neu gezählt.
+Die 3 Freiburger Originaldokumente G-26/215 einschließlich Finanz- und Lageplananlage sowie das Gundelfinger Amtsblatt vom 25.11.2026 wurden direkt neu abgerufen. Alle 4 Dateien sind anhand des vollständigen Datei-Hashes unverändert. Die öffentliche Hochdorfer Ratsakte enthält für den gezielt geprüften Tagesordnungspunkt keinen neuen Beschlussbeleg. Anhörung am 30.11.2026 und Gemeinderat am 08.12.2026 weiterhin angekündigt; keine bereits durchgeführte Anhörung oder Verkaufsentscheidung erfunden. Die dokumentierte Flächensummendifferenz bleibt offen und wird nicht erneut als neuer Befund gezählt.
+https://ris.freiburg.de/meeting?id=2026-OR_HD-253
+https://www.gundelfingen.de/fileadmin/Dateien/Gundelfinger_Nachrichten/2026/GN-Seiten_2797.pdf
+
+Nachrichtenprüfung
+Heise/iX, DataCenter-Insider, CloudComputing-Insider, DatacenterDynamics, Golem sowie regionale Presse-, Betreiber-/Stadtwerke- und Netzquellen breit gesucht und direkt erreichbare Seiten archiviert. Suchtreffer, Zustimmungsoberflächen und vollständige Artikel unterschieden. Kein Anspruch auf vollständige aktuelle Sichtung sämtlicher Artikel oder Bezahlinhalte.
+Die Fachmeldung vom 27.11.2026 zur AI Factory von NTT Data betrifft Hardwaretests in München; kein Flächenangebot in Baden-Württemberg und keine konkrete Anschlusszusage für die gesuchten Standorte daraus abgeleitet. Regionale Wiederholungen zur Freiburger Umspannwerksplanung gehen auf dieselbe Badenova-Mitteilung zurück und sind keine unabhängigen zusätzlichen Bestätigungen. Die eigenen Originalvorlagen wurden getrennt revalidiert. Eine im direkten Abruf inhaltsarme Betreiber-Presseübersicht ist keine vollständige Sichtung aller aktuellen Meldungen.
+https://www.datacenter-insider.de/ntt-data-testet-ki-hardware-unter-realen-datacenter-bedingungen-a-9fa129d355228b76305789c74506141c/
+https://www.badenova.de/ueber-uns/unser-unternehmen/pressemitteilungen
+https://breisgau.live/breisgaunews/freiburg-neue-umspannwerke-fuer-die-stromversorgung-geplant/
+
+Lokales Quellenarchiv und PDF-Auswertung
+745 unterschiedliche Adressen versucht, 714 lokal archiviert, 10 erstmals im Quellenarchiv verzeichnet. Neue Adressen und geänderte Datei-Hashes sind nicht automatisch neue Sachinhalte. 102 PDF-Dateifassungen mit unterschiedlichen Datei-Hashes, zusammen 1893 Dateiseiten; 5 erstmals archivierte PDF-Hashes. Unveränderte Originaldateien und Textauszüge wiederverwendet, nicht als neue Gutachten gezählt. 15 Dateifassungen mit Auslesegrenzen; keine vollständige Texterkennung behauptet. 0 neue kuratierte Rechenzentrums-PDFs/Gutachten. Neu lokal gesichert und textlich gesichtet: aktuelle Amtsblätter aus Umkirch, Aidlingen und Endingen sowie der 84-seitige Umweltbericht Windenergiegebiet Hundsrücken, Stand 26.08.2026. Seine Dokumentseite 2 wurde zur Stand- und Themenprüfung visuell kontrolliert. Es handelt sich um eine windgebietsbezogene Flächennutzungsplanung, keinen Nachweis einer freien Rechenzentrumsfläche oder gesicherten Verbrauchsanschlussleistung. Nicht als neues Rechenzentrumsgutachten gezählt. Eine themenfremde individuelle Zustellungsbekanntmachung aus der automatischen Vorauswahl wurde aus Bewertung und Veröffentlichung ausgeschlossen. Die Vorauswahl wurde entsprechend enger gefasst; keine Individualdaten in den Tagesbericht oder die Datenbank übernommen. Keine Bilder ohne fachliche und visuelle Prüfung übernommen. Keine technischen Zeichnungen erzeugt.
+
+Geprüfte Gemeinden
+Denzlingen, Freiburg, Emmendingen, Vörstetten, Gundelfingen, Waldkirch, March, Umkirch, Bötzingen, Gottenheim, Teningen, Sexau, Reute, Glottertal, Kirchzarten, Breisach, Bad Krozingen, Lahr, Appenweier, Offenburg, Kehl, Aidlingen, Grafenau, Ehningen, Deckenpfronn, Merzhausen, Neuenburg, Titisee-Neustadt, Vogtsburg, Buchenbach, Oberried, Herbolzheim, Bahlingen, Riegel, Kenzingen, Endingen, Rheinhausen, Weisweil, Wyhl, Forchheim, Sasbach am Kaiserstuhl, Schallstadt, Eichstetten, Ihringen, Merdingen, Malterdingen, Freiamt, Heitersheim, Eschbach, Hartheim, Staufen.
+Gemeinden mit neu gesichertem Rechenzentrumsflächenfund: 0. Gemeinden ohne neuen gesicherten Fund / weiterhin offen: alle 51. Alle bleiben systematisch offen; 51 Teilprüfungen sind keine 51 vollständigen Aktenprüfungen. Nicht gefunden bedeutet nicht widerlegt.
+Gemeindeseite, öffentlicher Ratszugang, Bebauungspläne/Flächennutzungsplan, Amtsblatt und Wirtschaftsquellen mit Rechenzentrum, Datacenter, Data Center, Server, IT, Umspannwerk, Glasfaser, Gewerbegebiet, Energie, Abwärme und Sondergebiet abgeglichen. Fehlende oder eingeschränkte Kategorien in der lokalen Prüfmatrix dokumentiert. Erreichbare Oberfläche nicht mit vollständiger Aktenprüfung gleichgesetzt. Konkrete Parzellenverfügbarkeit, Baurecht, Netz- und Carrieranschluss sowie technische Eignung bleiben gesondert zu prüfen.
+
+PDF-Verfügbarkeit und Linkprüfung
+201 erfasste Dokumentquellen geprüft: 201 erreichbar, 0 wegen Zugriff oder Transport nicht prüfbar, 0 nicht erreichbar ohne erkannten vorübergehenden Grund. 69 unmittelbar in der Website-Datenbank verknüpfte lokale Kopien vorhanden. Die Erreichbarkeitsprüfung bewertet Adressen, nicht die vollständige sachliche Richtigkeit oder den Dateityp jeder Quelle.
+1705 unterschiedliche öffentliche Links geprüft: 1673 erreichbar, 32 nicht prüfbar, 0 nachgewiesen defekt. Blockierte Links nicht als erfolgreich ausgegeben. Vorherige Quellenkorrekturen und historische Fassungen erhalten.
+
+Fragen, Uploads, Partner und Statistikänderungen
+0 neue oder freigegebene Fragen, 0 verdächtige Fragen. Datenbank und Ordner pdfs/manual-uploads/ geprüft: 0 neue manuelle Uploads, 0 verarbeitet. Kein Fragen-PDF erforderlich. Keine Kontaktaufnahme, Reservierung, Bewerbung oder Antragstellung.
+Kuratierter Bestand unverändert: 261 Befunde, 201 Dokumentauswertungen, 15 Netzprüfungen, 10 Konnektivitätsprüfungen, 34 Standortdatensätze, 24 Unternehmen, 39 Bebauungs-/Gewerbepläne, 5 Medien und 9 technische Originalzeichnungen. Die Standortzahl ist keine Zahl bestätigter freier Flächen. Gemeindliche Tagesabdeckung 51, weiterhin teilweise. Tagesdatum, Archiv, Prüfmatrix und Verfügbarkeitsprüfungen fortgeschrieben.
+
+Offene Zugänge und nächster Schritt
+Mehrere Ratszugänge bleiben eingeschränkt, darunter Freiamt und Staufen; genaue Ursachen nicht abschließend bekannt. Keine Zugriffsrechte erweitert oder Zugangsdaten verwendet. Auswirkungen und fehlende Quellenkategorien dokumentiert. Öffentliche Akten- und Planungsstände im Folgelauf weiterprüfen, tatsächliche Ergebnisse der angekündigten Freiburger Beratungen erst danach bewerten. Bestehende Flächen-, Termin- und Anschlusslücken nicht durch Annahmen geschlossen.
+Nur Website-Daten, Prüfdateien und Tagesbericht zur Veröffentlichung ausgewählt. Keine Laufzeitordner, Anmeldedaten, lokalen Sicherungen oder Roharchive veröffentlicht.
+Website: https://jeremydays.github.io/iAccess-Rechenzentrum/
+Tagesbericht: https://jeremydays.github.io/iAccess-Rechenzentrum/docs/tagesbericht-2026-11-28.txt
